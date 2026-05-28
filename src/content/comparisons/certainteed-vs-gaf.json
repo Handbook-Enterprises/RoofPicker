@@ -1,0 +1,212 @@
+{
+  "slug": "certainteed-vs-gaf",
+  "url_path": "/compare/certainteed-vs-gaf/",
+  "h1": "CertainTeed Landmark vs GAF Timberline HDZ: Side-by-Side Comparison (2026)",
+  "target_keyword": "certainteed vs gaf",
+  "volume_per_month": 480,
+  "kd": 7,
+  "subject_a_id": "certainteed-landmark",
+  "subject_b_id": "gaf-timberline-hdz",
+  "subject_a_display": "CertainTeed Landmark",
+  "subject_b_display": "GAF Timberline HDZ",
+  "lead_summary": "CertainTeed Landmark is the heavier of the two and carries the longest algae warranty in its base spec. GAF Timberline HDZ is lighter, easier to install with the wide StrikeZone nailing area, and offers WindProven unlimited wind coverage with a full GAF system. On material cost, Landmark runs about $3 to $5 more per square; on installed cost, that often grows to $100 to $200 per square depending on contractor labor.",
+  "quick_stats": [
+    {
+      "value": "230 lbs",
+      "label": "Landmark per square"
+    },
+    {
+      "value": "240 lbs",
+      "label": "HDZ per square"
+    },
+    {
+      "value": "130 mph",
+      "label": "Wind rating (both)"
+    }
+  ],
+  "choose_a": [
+    "You want the heaviest architectural shingle in its class for that thicker, more substantial look on the roof.",
+    "You prefer transparent, well-documented warranty terms (StreakFighter and the standard 10-year defect coverage).",
+    "Your contractor is a CertainTeed SELECT ShingleMaster for the extended workmanship coverage.",
+    "You want the widest color variety in a refined two-palette system (Heritage colors and Designer collections).",
+    "You buy through ABC Supply or other CertainTeed-loyal distributors."
+  ],
+  "choose_b": [
+    "You want WindProven unlimited wind coverage when installed as a full GAF system (no maximum wind speed cap).",
+    "You want StainGuard Plus, with copper-infused granules and a 25-year algae warranty (longer than Landmark's StreakFighter baseline).",
+    "Your contractor is GAF Master Elite for the Golden Pledge lifetime workmanship warranty.",
+    "You want the StrikeZone nailing area for faster, more forgiving installs.",
+    "Home Depot is closer than a CertainTeed distributor and you are sourcing materials locally."
+  ],
+  "comparison_table": [
+    {
+      "category": "Material cost / square",
+      "a_value": "$135-145",
+      "a_ctx": "Slightly higher than HDZ at retail",
+      "b_value": "$132-140",
+      "b_ctx": "Home Depot retail",
+      "winner_note": "Within $3-5 per square at retail"
+    },
+    {
+      "category": "Weight per square",
+      "a_value": "230 lbs",
+      "a_ctx": "Dual-layer laminate construction",
+      "b_value": "240 lbs",
+      "b_ctx": "LayerLock laminated build",
+      "winner_note": "HDZ heavier by 10 lbs/sq"
+    },
+    {
+      "category": "Wind rating",
+      "a_value": "110 mph (base) / 130 mph upgrade",
+      "a_ctx": "Needs CertainTeed starter and ridge for upgrade",
+      "b_value": "130 mph",
+      "b_ctx": "WindProven unlimited with full GAF system",
+      "winner_note": "HDZ stronger base + unlimited warranty option"
+    },
+    {
+      "category": "Hail / impact",
+      "a_value": "Class 3",
+      "a_ctx": "UL 2218",
+      "b_value": "Class 3",
+      "b_ctx": "UL 2218",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Fire rating",
+      "a_value": "Class A",
+      "a_ctx": "ASTM E108",
+      "b_value": "Class A",
+      "b_ctx": "ASTM E108",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Material warranty",
+      "a_value": "Lifetime limited",
+      "a_ctx": "Pro-rated after year 10",
+      "b_value": "Lifetime limited",
+      "b_ctx": "Pro-rated after year 10, extends with Master Elite",
+      "winner_note": "Both lifetime; HDZ extends to non-prorated 50yr with Master Elite install"
+    },
+    {
+      "category": "Algae warranty",
+      "a_value": "10 yrs StreakFighter",
+      "a_ctx": "Upgrades to 15 yrs with Heritage colors",
+      "b_value": "25 yrs StainGuard Plus",
+      "b_ctx": "Copper-infused granules",
+      "winner_note": "HDZ wins; 2.5x the algae coverage"
+    },
+    {
+      "category": "Color count",
+      "a_value": "24",
+      "a_ctx": "Heritage + Designer collections",
+      "b_value": "33",
+      "b_ctx": "HD + Bold Definition + regional",
+      "winner_note": "HDZ wider palette"
+    }
+  ],
+  "color_overlap": [
+    {
+      "color_family": "Black / Onyx",
+      "a_color": "Moire Black",
+      "a_hex": "#25282E",
+      "b_color": "Charcoal",
+      "b_hex": "#34373F"
+    },
+    {
+      "color_family": "Weathered Wood",
+      "a_color": "Weathered Wood",
+      "a_hex": "#7A6F58",
+      "b_color": "Weathered Wood",
+      "b_hex": "#7A6850"
+    },
+    {
+      "color_family": "Driftwood",
+      "a_color": "Driftwood",
+      "a_hex": "#7C6B53",
+      "b_color": "Barkwood",
+      "b_hex": "#5F4E3A"
+    },
+    {
+      "color_family": "Gray",
+      "a_color": "Cobblestone Gray",
+      "a_hex": "#5D5E6A",
+      "b_color": "Pewter Gray",
+      "b_hex": "#7A7B82"
+    }
+  ],
+  "cost_delta": {
+    "per_square_material_difference_usd": 4,
+    "per_square_material_difference_pct": 3,
+    "typical_30_square_project_material_difference_usd": 120,
+    "installed_30_square_low_a_usd": 13500,
+    "installed_30_square_high_a_usd": 22500,
+    "installed_30_square_low_b_usd": 10500,
+    "installed_30_square_high_b_usd": 16500,
+    "notes": "Material cost is within $3 to $5 per square. Installed delta widens when CertainTeed's heavier weight increases labor time and required underlayment specs. On a 30-square home, expect the installed difference to be $100 to $200 per square ($3,000 to $6,000 total) in markets where CertainTeed labor runs a premium.",
+    "sources": [
+      "https://www.billraganroofing.com/blog/certainteed-landmark-vs-gaf-timberline-hdz",
+      "https://countyroofingsystems.com/blog/certainteed-landmark-vs-gaf-timberline-hdz/",
+      "https://roofquotes.com/blog/iko-dynasty-shingles-vs-gaf"
+    ]
+  },
+  "reddit_quotes_note": "Use the Reddit quotes already captured by the main scraper in output/comparisons/certainteed-vs-gaf.json. The Reddit JSON API is reachable from the scraper but blocked from Claude's WebFetch.",
+  "youtube_search_query": "CertainTeed Landmark vs GAF Timberline HDZ comparison roofer 2025",
+  "youtube_video_url": "https://www.youtube.com/watch?v=3kxcrBPwvYA",
+  "youtube_video_note": "Established roofing contractor channel with a focused head-to-head comparison published Oct 2025; both brands named in title.",
+  "faq_items": [
+    {
+      "q": "Which is more durable, CertainTeed Landmark or GAF Timberline HDZ?",
+      "a": "Landmark is heavier (230 lbs/sq vs 240 lbs/sq for HDZ) but HDZ's LayerLock laminate is the more aggressive bonding mechanism. In practice, both routinely last 25 to 35 years when installed correctly with proper ventilation."
+    },
+    {
+      "q": "Which has the longer warranty?",
+      "a": "Both have lifetime-limited material warranties. HDZ's algae coverage is significantly longer (25 years vs 10 years for Landmark's base StreakFighter). For workmanship, both rely on the contractor's certification level (CertainTeed SELECT ShingleMaster vs GAF Master Elite)."
+    },
+    {
+      "q": "Which is better for Florida wind?",
+      "a": "GAF Timberline HDZ. The WindProven Limited Wind Warranty has no maximum wind speed cap when installed with four required GAF accessories. Florida installers in hurricane zones tend to slightly prefer HDZ for this reason."
+    },
+    {
+      "q": "Is one heavier than the other?",
+      "a": "HDZ at 240 lbs/sq is slightly heavier than Landmark at 230 lbs/sq. The difference is hard to see by eye but does affect installation labor and underlayment spec on lower-pitched roofs."
+    },
+    {
+      "q": "Which has more colors?",
+      "a": "GAF Timberline HDZ has 33 colors across HD and Bold Definition collections versus Landmark's 24. CertainTeed organizes its colors into a tighter two-palette system (Heritage and Designer) which is easier to navigate but offers fewer choices."
+    },
+    {
+      "q": "How does the install difficulty compare?",
+      "a": "HDZ is generally faster to install thanks to the wide StrikeZone nailing area. Crews report ~30 percent faster installs on HDZ. Landmark's heavier construction takes slightly longer to set."
+    }
+  ],
+  "data_sources": [
+    "https://www.billraganroofing.com/blog/certainteed-landmark-vs-gaf-timberline-hdz",
+    "https://countyroofingsystems.com/blog/certainteed-landmark-vs-gaf-timberline-hdz/",
+    "https://www.gorillaroofing.com/resources/roofing-material-costs-national-pricing-missouri-illinois-insights/",
+    "output/subjects/certainteed-landmark.json",
+    "output/subjects/gaf-timberline-hdz.json"
+  ],
+  "scraped_at": "2026-05-15T11:00:00+00:00",
+  "youtube_video_id": "3kxcrBPwvYA",
+  "youtube_video_title": "GAF vs CertainTeed Shingles: The TRUTH About Which Roof Lasts Longer!",
+  "youtube_video_channel": "My Boys Contracting",
+  "youtube_video_confidence": "high",
+  "youtube_video_publish_year": 2025,
+  "youtube_video_alternates": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=6OpLoDIXa3g",
+      "video_id": "6OpLoDIXa3g",
+      "title": "GAF vs CERTAINTEED: An Honest Comparison",
+      "channel": "Roofing contractor channel",
+      "rank": 2
+    },
+    {
+      "video_url": "https://www.youtube.com/watch?v=tjOSMXlFstM",
+      "video_id": "tjOSMXlFstM",
+      "title": "GAF or CertainTeed: Which one should I choose?",
+      "channel": "Roofing pros John and Etjon",
+      "rank": 3
+    }
+  ],
+  "youtube_video_updated_at": "2026-05-22T01:26:53+00:00"
+}

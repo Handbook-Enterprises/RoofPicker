@@ -1,0 +1,203 @@
+{
+  "slug": "malarkey-legacy-vs-owens-corning-duration",
+  "url_path": "/compare/malarkey-legacy-vs-owens-corning-duration/",
+  "h1": "Malarkey Legacy vs Owens Corning Duration: Algae + Wind Premium Comparison (2026)",
+  "target_keyword": "malarkey legacy vs owens corning duration",
+  "volume_per_month": 140,
+  "kd": 3,
+  "subject_a_id": "malarkey-legacy",
+  "subject_b_id": "owens-corning-duration",
+  "subject_a_display": "Malarkey Legacy",
+  "subject_b_display": "Owens Corning Duration",
+  "lead_summary": "Two premium architectural shingles built around different engineering philosophies. Malarkey Legacy uses NEX polymer-modified asphalt that stays flexible across a wider temperature range, paired with 3M Scotchgard streak-fighter and Smog-Reducing Granules. Owens Corning Duration uses SureNail Triple Layer Protection — a fabric reinforced nailing strip that resists nail blow-through and adds wind warranty headroom. Material cost is within $10 per square. The decision turns on whether you want flexibility/algae performance (Malarkey) or install confidence + wind warranty depth (Owens Corning).",
+  "quick_stats": [
+    {
+      "value": "65 vs 33",
+      "label": "Color count (Malarkey vs OC)"
+    },
+    {
+      "value": "130 mph",
+      "label": "Wind rating (both)"
+    },
+    {
+      "value": "25 yrs",
+      "label": "Algae warranty (both)"
+    }
+  ],
+  "choose_a": [
+    "Algae performance is the deciding factor and you want both Scotchgard streak protection and 3M Smog-Reducing Granules baked in.",
+    "Your installer recommends NEX polymer-modified asphalt because it stays flexible in cold mornings and resists cracking on a complex roofline.",
+    "Color choice is everything and 65 colors gives you more shades to test against your siding.",
+    "You want the contractor-favorite sustainability angle — Malarkey is widely cited as the greenest mainstream asphalt option.",
+    "Class 4 impact rating is required for your insurance discount (Malarkey Legacy is Class 4 standard; OC Duration requires the optional Storm variant)."
+  ],
+  "choose_b": [
+    "SureNail Triple Layer Protection's fabric nailing strip is the install confidence-builder your contractor swears by.",
+    "Color choice is broad enough at 33 and you prefer the TruDefinition contrast-blend look.",
+    "Owens Corning's wider US distribution makes sourcing materials simpler and may save you money on accessories.",
+    "You want the well-documented 130 mph wind warranty without needing to install a specific accessory kit to qualify.",
+    "Cool roof technology matters to you — Duration is available in solar-reflective variants for warm climates."
+  ],
+  "comparison_table": [
+    {
+      "category": "Material cost / square",
+      "a_value": "$145-160",
+      "a_ctx": "Premium architectural pricing",
+      "b_value": "$135-150",
+      "b_ctx": "Mid-tier architectural pricing",
+      "winner_note": "OC ~$10 cheaper per square"
+    },
+    {
+      "category": "Weight per square",
+      "a_value": "~250 lbs",
+      "a_ctx": "Polymer-modified, denser feel",
+      "b_value": "~230 lbs",
+      "b_ctx": "Triple Layer Protection nail zone",
+      "winner_note": "Malarkey heavier by ~20 lbs/sq"
+    },
+    {
+      "category": "Wind rating",
+      "a_value": "130 mph",
+      "a_ctx": "Standard; 160 mph available on Vista AR variant",
+      "b_value": "130 mph",
+      "b_ctx": "SureNail standard, no kit required",
+      "winner_note": "Tie at standard; OC simpler warranty path"
+    },
+    {
+      "category": "Hail / impact",
+      "a_value": "Class 4",
+      "a_ctx": "UL 2218 standard on Legacy",
+      "b_value": "Class 3",
+      "b_ctx": "UL 2218; Class 4 only on Storm variant",
+      "winner_note": "Malarkey wins on standard impact rating"
+    },
+    {
+      "category": "Fire rating",
+      "a_value": "Class A",
+      "a_ctx": "ASTM E108",
+      "b_value": "Class A",
+      "b_ctx": "ASTM E108",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Material warranty",
+      "a_value": "Lifetime ltd",
+      "a_ctx": "Transferable once within first 10 years",
+      "b_value": "Lifetime ltd",
+      "b_ctx": "Transferable once within first 10 years",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Algae warranty",
+      "a_value": "Lifetime",
+      "a_ctx": "Scotchgard + Smog-Reducing Granules",
+      "b_value": "25 years",
+      "b_ctx": "StreakGuard",
+      "winner_note": "Malarkey wins on length"
+    },
+    {
+      "category": "Color count",
+      "a_value": "65",
+      "a_ctx": "Widest color range in the architectural class",
+      "b_value": "33",
+      "b_ctx": "TruDefinition contrast platform",
+      "winner_note": "Malarkey wins on raw count"
+    }
+  ],
+  "color_overlap": [
+    {
+      "color_family": "Black / Onyx",
+      "a_color": "Midnight Black",
+      "a_hex": "#1E2128",
+      "b_color": "Onyx Black",
+      "b_hex": "#2E323C"
+    },
+    {
+      "color_family": "Weathered Wood",
+      "a_color": "Weathered Wood",
+      "a_hex": "#8A7960",
+      "b_color": "Driftwood",
+      "b_hex": "#6F5A3C"
+    },
+    {
+      "color_family": "Antique Brown",
+      "a_color": "Antique Brown",
+      "a_hex": "#5C4128",
+      "b_color": "Brownwood",
+      "b_hex": "#5A3F25"
+    },
+    {
+      "color_family": "Storm Grey",
+      "a_color": "Storm Grey",
+      "a_hex": "#5A5E66",
+      "b_color": "Estate Gray",
+      "b_hex": "#56595F"
+    }
+  ],
+  "cost_delta": {
+    "per_square_material_difference_usd": 10,
+    "per_square_material_difference_pct": 7,
+    "typical_30_square_project_material_difference_usd": 300,
+    "installed_30_square_low_a_usd": 14500,
+    "installed_30_square_high_a_usd": 22000,
+    "installed_30_square_low_b_usd": 13500,
+    "installed_30_square_high_b_usd": 20500,
+    "notes": "Malarkey runs ~$10 per square more at material. The installed gap usually holds at $300 to $600 on a 30-square home. Many homeowners offset the premium by claiming the Class 4 impact insurance discount (typical Florida discount is 10 to 30 percent on roof premium), which Malarkey gives you as standard.",
+    "sources": [
+      "https://www.malarkeyroofing.com/products/shingles-overview/legacy-scotchgard-shingles/",
+      "https://www.owenscorning.com/en-us/roofing/shingles/trudefinition-duration"
+    ]
+  },
+  "reddit_quotes_note": "Pull r/Roofing threads on Malarkey — common themes are NEX flexibility in cold install conditions and the Class 4 impact rating as a real insurance lever. OC threads focus on SureNail install accuracy.",
+  "youtube_search_query": "malarkey legacy vs owens corning duration shingles",
+  "youtube_video_url": "https://www.youtube.com/watch?v=Gm4yvUyHKNc",
+  "youtube_video_note": "Direct Malarkey vs Owens Corning shingle impact-test side-by-side. Best available head-to-head video for this matchup.",
+  "faq_items": [
+    {
+      "q": "Which is better for Florida humidity, Malarkey Legacy or Owens Corning Duration?",
+      "a": "Both perform well. Malarkey Legacy has a lifetime algae warranty (Scotchgard + Smog-Reducing Granules) vs Owens Corning's 25-year StreakGuard. In Florida specifically, Malarkey's polymer-modified asphalt holds up slightly better to humidity-driven thermal cycling."
+    },
+    {
+      "q": "Is the Class 4 impact rating worth it?",
+      "a": "Yes if your insurer offers a Class 4 (Impact Resistance) discount. Florida discounts typically range 10 to 30 percent on the roof portion of your annual premium. Malarkey Legacy is Class 4 as standard. OC Duration requires the optional Storm variant to qualify."
+    },
+    {
+      "q": "Are they the same price?",
+      "a": "Owens Corning Duration is about $10 per square cheaper at retail. On a 30-square home that is $300 in materials. The installed delta is usually $300 to $600."
+    },
+    {
+      "q": "Can I mix them on the same roof?",
+      "a": "Technically yes, but you would lose both manufacturer warranties because each requires complete-system installation of accessories from the same brand. Stick with one."
+    },
+    {
+      "q": "What about color selection?",
+      "a": "Malarkey Legacy has 65 colors — the widest range in the mid-premium architectural class. Owens Corning Duration has 33 colors on the TruDefinition platform. If color is the deciding factor, Malarkey wins."
+    },
+    {
+      "q": "Does my insurance care which I pick?",
+      "a": "Most insurers care about wind rating, hail rating, and roof age. Both are 130 mph wind rated. Where they differ is the Class 4 impact rating — Malarkey Legacy is standard Class 4, which unlocks the impact discount automatically. OC Duration requires the Storm variant for that discount."
+    }
+  ],
+  "data_sources": [
+    "https://www.malarkeyroofing.com/products/shingles-overview/legacy-scotchgard-shingles/",
+    "https://www.owenscorning.com/en-us/roofing/shingles/trudefinition-duration",
+    "https://www.nrca.net",
+    "https://www.iibec.org"
+  ],
+  "scraped_at": "2026-05-22",
+  "youtube_video_id": "Gm4yvUyHKNc",
+  "youtube_video_title": "Malarkey VS Owens Corning Shingle ROOFING IMPACT TEST",
+  "youtube_video_channel": "Stans Roofing and Siding",
+  "youtube_video_confidence": "high",
+  "youtube_video_publish_year": 2023,
+  "youtube_video_alternates": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=Ite9NB5UtL4",
+      "video_id": "Ite9NB5UtL4",
+      "title": "Are Malarkey Shingles Worth It? An Honest Review from a Roofing Contractor",
+      "channel": "Hoel Roofing & Remodeling",
+      "rank": 2
+    }
+  ],
+  "youtube_video_updated_at": "2026-05-22"
+}

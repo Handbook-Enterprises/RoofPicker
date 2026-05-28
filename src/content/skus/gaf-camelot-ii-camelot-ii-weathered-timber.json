@@ -1,0 +1,528 @@
+{
+  "slug": "gaf-camelot-ii-camelot-ii-weathered-timber",
+  "url_path": "/shingles/gaf/camelot-ii/camelot-ii-weathered-timber/",
+  "h1": "GAF Camelot II Camelot Ii Weathered Timber Shingles",
+  "meta_title": "GAF Camelot II Camelot Ii Weathered Timber Shingles · Color, Specs, Price (2026)",
+  "meta_description": "GAF Camelot II in Camelot Ii Weathered Timber: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "brown",
+  "roof_archetype": "brown",
+  "best_for_styles": [
+    "craftsman",
+    "tudor",
+    "mediterranean",
+    "traditional",
+    "victorian"
+  ],
+  "hail_rating_class": 4,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Designer / Luxury",
+    "brand_display": "GAF",
+    "brand_slug": "gaf",
+    "brand_url": "/shingles/gaf/",
+    "line_display": "Camelot II",
+    "line_slug": "gaf-camelot-ii",
+    "line_url": "/shingles/gaf/camelot-ii/",
+    "color_display": "Camelot Ii Weathered Timber",
+    "color_slug": "camelot-ii-weathered-timber",
+    "h1_html": "GAF Camelot II <em>Camelot Ii Weathered Timber</em> Shingles",
+    "tagline": "A rich asphalt color that reads as one continuous plane in any light.",
+    "hex": "#6b6453",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-weathered-timber\\gaf-camelot-ii-camelot-ii-weathered-timber-1.avif",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-weathered-timber/gaf-camelot-ii-camelot-ii-weathered-timber-1.avif",
+    "hero_image_alt": "Home with GAF Camelot II Camelot Ii Weathered Timber roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$191"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "GAF",
+        "url": "/shingles/gaf/"
+      },
+      {
+        "label": "Camelot II",
+        "url": "/shingles/gaf/camelot-ii/"
+      },
+      {
+        "label": "Camelot Ii Weathered Timber",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "camelot-ii",
+      "color": "camelot-ii-weathered-timber"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Traditional architectural-shingle brown. Camelot Ii Weathered Timber is a workhorse color on craftsman, traditional, and Tudor-style homes where the roof is meant to grow out of the landscape rather than contrast against it. The granule blend uses warm tobacco and weathered-wood accents to keep the surface visually alive.",
+      "Look closely and you can pick out three or four granule shades inside the blend. The eye stops registering them at conversational distance, but the layered texture is why warm-brown asphalt roofs photograph as 'rich' rather than 'flat'.",
+      "Difficult to use poorly on a craftsman, traditional, or Tudor home. Harder to specify on a stark modern build where the warmth of the roof can fight the rest of the palette."
+    ],
+    "swatch_meta": {
+      "hex": "#6b6453",
+      "family": "Brown",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#6b6453",
+      "#534c3e",
+      "#807968"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      },
+      {
+        "label": "Wikipedia: Brown (color)",
+        "url": "https://en.wikipedia.org/wiki/Brown"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Designer / Luxury",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "WindProven with required GAF accessory installation. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 4",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "305 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StainGuard Plus",
+        "ctx": "25-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "GAF",
+        "ctx": "Parsippany, NJ · made in the USA"
+      },
+      {
+        "cat": "Pieces / square",
+        "val": "56",
+        "ctx": "Coverage: 100 sq ft per square"
+      },
+      {
+        "cat": "Exposure",
+        "val": "7.5\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Advanced Algae Protection Sell Sheet - RESGN439",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/advanced-algae-protection-sell-sheet-resgn439.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "Camelot II Installation Instructions",
+        "url": "https://www.gaf.com/en-us/document-library/documents/installation-instructions-&-guides/installation-instructions-camelot-ii.pdf",
+        "type": "install_instructions"
+      },
+      {
+        "label": "Camelot II Shingles Data Sheet - RESGN467CII",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/camelot-ii-shingles-resgn467cii-(3-22)-_data-sheet.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Camelot II Shingles Data Sheet SPANISH - RESGN467CIIS",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/camelot-ii-shingles-resgn467ciis-spanish-(4-22)-_data-sheet.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Designer Shingles SDS - 1002",
+        "url": "https://www.gaf.com/en-us/document-library/documents/safety-data-sheets/shingles---designer-sds-1002.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "GAF Designer Shingles Collection Brochure - RESGN712",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/brochure__gaf_designer_shingles_collection_resgn712.pdf",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Camelot II Camelot Ii Weathered Timber. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-weathered-timber\\gaf-camelot-ii-camelot-ii-weathered-timber-1.avif",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-weathered-timber/gaf-camelot-ii-camelot-ii-weathered-timber-1.avif",
+        "image_filename": "gaf-camelot-ii-camelot-ii-weathered-timber-1.avif",
+        "alt": "Florida home with Camelot II Camelot Ii Weathered Timber roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-weathered-timber\\gaf-camelot-ii-camelot-ii-weathered-timber-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-weathered-timber/gaf-camelot-ii-camelot-ii-weathered-timber-2.jpg",
+        "image_filename": "gaf-camelot-ii-camelot-ii-weathered-timber-2.jpg",
+        "alt": "Florida home with Camelot II Camelot Ii Weathered Timber roof",
+        "tag": "AI-rendered example (right-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-camelot-ii-camelot-ii-weathered-timber-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-weathered-timber\\gaf-camelot-ii-camelot-ii-weathered-timber-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-weathered-timber/gaf-camelot-ii-camelot-ii-weathered-timber-3.jpg",
+        "image_filename": "gaf-camelot-ii-camelot-ii-weathered-timber-3.jpg",
+        "alt": "Florida home with Camelot II Camelot Ii Weathered Timber roof",
+        "tag": "AI-rendered example (left-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-camelot-ii-camelot-ii-weathered-timber-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-weathered-timber\\gaf-camelot-ii-camelot-ii-weathered-timber-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-weathered-timber/gaf-camelot-ii-camelot-ii-weathered-timber-4.jpg",
+        "image_filename": "gaf-camelot-ii-camelot-ii-weathered-timber-4.jpg",
+        "alt": "Florida home with Camelot II Camelot Ii Weathered Timber roof",
+        "tag": "AI-rendered example (aerial view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-camelot-ii-camelot-ii-weathered-timber-1.avif"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/gaf-camelot-ii-camelot-ii-weathered-timber/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Camelot Ii Weathered Timber <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": "/white-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Monochromatic",
+        "house_color_slug": "brown",
+        "url": "/brown-house-with-brown-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>brown</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Driftwood",
+        "color_hex": "#6d635a",
+        "redmean_distance": 11.8,
+        "url": "/shingles/certainteed/landmark/driftwood/"
+      },
+      {
+        "brand_display": "TAMKO",
+        "brand_slug": "tamko",
+        "line_display": "Heritage",
+        "line_slug": "tamko-heritage",
+        "color_display": "Weathered Wood",
+        "color_hex": "#6f635a",
+        "redmean_distance": 13,
+        "url": "/shingles/tamko/heritage/weathered-wood/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Belmont",
+        "line_slug": "certainteed-belmont",
+        "color_display": "Weathered Wood",
+        "color_hex": "#71655a",
+        "redmean_distance": 14.7,
+        "url": "/shingles/certainteed/belmont/weathered-wood/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Sentinel Slate",
+        "color_hex": "#6a5f5a",
+        "redmean_distance": 15.1,
+        "url": "/shingles/iko/dynasty/sentinel-slate/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "WEATHERED WOOD",
+        "color_hex": "#6e645d",
+        "redmean_distance": 16.7,
+        "url": "/shingles/atlas/pinnacle-pristine/weathered-wood/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$191–$219",
+        "low_usd": 191,
+        "high_usd": 219,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$5,730–$6,570",
+        "low_usd": 5730,
+        "high_usd": 6570,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$17k–$28k",
+        "low_usd": 17190,
+        "high_usd": 28908,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/GAF-Camelot-II-25-sq-ft-Weathered-Timber-Laminated-Architectural-Roof-Shingles/999958279",
+        "anchor_color": "",
+        "page_title": "GAF Camelot II Class 4 Weathered Timber Algae Resistant Architectural Roof Shingles ( 25-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 25,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-camelot-ii\\lowes.com__d64dccd5.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/GAF-Camelot-II-Charcoal-Designer-Laminated-Architectural-Shingles-25-sq-ft-per-Bundle-14-pieces-0692180/206598878",
+        "anchor_color": "Charcoal",
+        "page_title": "GAF Camelot II Charcoal Designer Laminated Architectural Shingles (25 sq. ft. per Bundle) (14-pieces) 0692180 - The Home Depot",
+        "price_per_bundle_usd": 51.25,
+        "coverage_sq_ft_per_bundle": 25,
+        "bundles_per_square": 4,
+        "price_per_square_usd": 205,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-camelot-ii\\homedepot.com__2fe7833a.html",
+        "scraped_ok": true,
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Camelot Ii Weathered Timber</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Camelot II Camelot Ii Weathered Timber in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Camelot Ii Weathered Timber",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-weathered-timber\\gaf-camelot-ii-camelot-ii-weathered-timber-1.avif",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-weathered-timber/gaf-camelot-ii-camelot-ii-weathered-timber-1.avif",
+    "badge_text": "Pre-loaded: Camelot Ii Weathered Timber",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "camelot-ii",
+      "color": "camelot-ii-weathered-timber"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Camelot Ii Weathered Timber, really?",
+      "a": "A warm, anchored brown with visible reddish or amber granule accents. In direct Florida sun it reads as a clear sienna or coffee; in shade it softens to a near-black. The blend is layered enough that the surface looks alive rather than flat."
+    },
+    {
+      "q": "Does Camelot Ii Weathered Timber pair with red brick?",
+      "a": "Yes, and that is the canonical pairing. Brown asphalt and red brick share a warm tonal family, so they read as one coordinated elevation rather than competing colors. The trick is keeping the trim color clean and bright (warm white, soft cream) so the eye has somewhere to rest."
+    },
+    {
+      "q": "Does Camelot Ii Weathered Timber fade over time?",
+      "a": "Minimally. GAF's ceramic granule coating holds warm tones for 25 plus years in Florida UV. Browns tend to drift slightly cooler over the first 5 years (a barely visible shift) and then stabilize. The full warranty covers premature fading. Source: GAF product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will Camelot Ii Weathered Timber make my house run hotter?",
+      "a": "Slightly. Dark warm tones absorb similar solar heat to dark grays, adding roughly 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light gray. Proper ventilation and a radiant barrier under the decking keep monthly cooling-cost impact under 20 dollars in most homes."
+    },
+    {
+      "q": "How does Camelot Ii Weathered Timber compare to other browns in the asphalt category?",
+      "a": "The 'brown' SKUs across major brands sit within a fairly tight tonal window. Most are mid-to-dark brown with warm undertones; differences are mostly in granule blend size and shadow-line depth. Use the Compare tab to see direct hex deltas against similar SKUs."
+    },
+    {
+      "q": "Is brown a 'dated' roof choice?",
+      "a": "On a contemporary white-stucco build, possibly. On a craftsman, traditional, Tudor, or Mediterranean elevation it is the most architecturally correct choice and reads as deliberate rather than dated. Picking by house style matters more than by trend."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Camelot Ii Weathered Timber</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "camelot-ii",
+      "color": "camelot-ii-weathered-timber"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Wikipedia: Brown (color)",
+      "url": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "label": "GAF product page",
+      "url": "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/camelot-ii"
+    },
+    {
+      "label": "Wikipedia: GAF",
+      "url": "https://en.wikipedia.org/wiki/GAF_Materials_Corporation"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "brown"
+}

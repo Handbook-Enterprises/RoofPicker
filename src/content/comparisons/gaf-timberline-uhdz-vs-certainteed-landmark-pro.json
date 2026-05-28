@@ -1,0 +1,203 @@
+{
+  "slug": "gaf-timberline-uhdz-vs-certainteed-landmark-pro",
+  "url_path": "/compare/gaf-timberline-uhdz-vs-certainteed-landmark-pro/",
+  "h1": "GAF Timberline UHDZ vs CertainTeed Landmark Pro: Upgrade-Tier Shingle Comparison (2026)",
+  "target_keyword": "gaf timberline uhdz vs landmark pro",
+  "volume_per_month": 260,
+  "kd": 3,
+  "subject_a_id": "gaf-timberline-uhdz",
+  "subject_b_id": "certainteed-landmark-pro",
+  "subject_a_display": "GAF Timberline UHDZ",
+  "subject_b_display": "CertainTeed Landmark Pro",
+  "lead_summary": "The premium upgrade tier of the two most-installed shingle lines in the country. GAF Timberline UHDZ adds the UltraMat fiberglass core to qualify for UL 2218 Class 4 impact rating and the 30-year StainGuard Plus PRO algae warranty. CertainTeed Landmark Pro is the heavier Pro tier of the Landmark family, with the Max Def color palette and a longer wind-warranty upgrade path (up to 160 mph). Pricing is within $10 per square at retail. The choice comes down to whether you weight Class 4 impact (UHDZ) or the higher wind-warranty ceiling and broader color palette (Landmark Pro).",
+  "quick_stats": [
+    {
+      "value": "Class 4",
+      "label": "Impact (UHDZ standard)"
+    },
+    {
+      "value": "160 mph",
+      "label": "Wind (Landmark Pro upgrade)"
+    },
+    {
+      "value": "49 vs 6",
+      "label": "Color count (LMP vs UHDZ)"
+    }
+  ],
+  "choose_a": [
+    "Class 4 impact rating as standard is the insurance lever you need (typical 10-30 percent discount).",
+    "Your contractor is GAF Master Elite and you want the System Plus or Golden Pledge enhanced warranty.",
+    "The Dual Shadow Line on UHDZ gives you the deepest dimensional look in the GAF lineup.",
+    "WindProven Limited Wind Warranty (no maximum wind speed when installed with full GAF system) matters more than a 160 mph ceiling.",
+    "Your supplier is Home Depot stocked and you want fast availability."
+  ],
+  "choose_b": [
+    "Color choice is the deciding factor and you want the Max Def palette (49 colors vs UHDZ's 6).",
+    "Your contractor is CertainTeed SELECT ShingleMaster for the extended workmanship coverage.",
+    "Wind warranty depth matters — Landmark Pro's 160 mph upgrade is the highest ceiling in the asphalt category.",
+    "You prefer the slightly heavier Pro laminate feel (270 lbs vs Landmark's 230 lbs).",
+    "30-year algae warranty as standard (vs UHDZ's 30-year StainGuard Plus PRO at parity) is comparable; pick Landmark Pro if your supplier price favors it."
+  ],
+  "comparison_table": [
+    {
+      "category": "Material cost / square",
+      "a_value": "$175-195",
+      "a_ctx": "Premium upgrade tier",
+      "b_value": "$165-185",
+      "b_ctx": "Premium upgrade tier",
+      "winner_note": "Landmark Pro ~$10 cheaper at retail"
+    },
+    {
+      "category": "Weight per square",
+      "a_value": "~280 lbs",
+      "a_ctx": "UltraMat reinforced core",
+      "b_value": "~270 lbs",
+      "b_ctx": "Thicker asphalt coating, denser laminate",
+      "winner_note": "UHDZ heavier by ~10 lbs/sq"
+    },
+    {
+      "category": "Wind rating",
+      "a_value": "130 mph",
+      "a_ctx": "WindProven Limited Wind Warranty has no maximum wind speed with full GAF system",
+      "b_value": "110 / 160 upgrade",
+      "b_ctx": "160 mph upgrade is the highest wind ceiling in asphalt",
+      "winner_note": "Landmark Pro has the higher wind-warranty ceiling; UHDZ has the no-cap WindProven story"
+    },
+    {
+      "category": "Hail / impact",
+      "a_value": "Class 4",
+      "a_ctx": "UltraMat — standard on every UHDZ",
+      "b_value": "Class 3",
+      "b_ctx": "UL 2218",
+      "winner_note": "UHDZ wins on impact rating"
+    },
+    {
+      "category": "Fire rating",
+      "a_value": "Class A",
+      "a_ctx": "ASTM E108",
+      "b_value": "Class A",
+      "b_ctx": "ASTM E108",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Material warranty",
+      "a_value": "Lifetime ltd",
+      "a_ctx": "Transferable once within first 10 years",
+      "b_value": "Lifetime ltd",
+      "b_ctx": "Transferable; 10-year SureStart non-prorated",
+      "winner_note": "Tie on length; CertainTeed has stronger SureStart period"
+    },
+    {
+      "category": "Algae warranty",
+      "a_value": "30 years",
+      "a_ctx": "StainGuard Plus PRO",
+      "b_value": "30 years",
+      "b_ctx": "StreakFighter granules",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Color count",
+      "a_value": "6",
+      "a_ctx": "UltraMat color palette",
+      "b_value": "49",
+      "b_ctx": "Max Def palette",
+      "winner_note": "Landmark Pro wins on raw count"
+    }
+  ],
+  "color_overlap": [
+    {
+      "color_family": "Black / Charcoal",
+      "a_color": "Charcoal",
+      "a_hex": "#34373F",
+      "b_color": "Max Def Charcoal Black",
+      "b_hex": "#33373F"
+    },
+    {
+      "color_family": "Weathered Wood",
+      "a_color": "Shakewood",
+      "a_hex": "#7E6B57",
+      "b_color": "Max Def Weathered Wood",
+      "b_hex": "#7C6850"
+    },
+    {
+      "color_family": "Barkwood",
+      "a_color": "Barkwood",
+      "a_hex": "#604937",
+      "b_color": "Max Def Burnt Sienna",
+      "b_hex": "#6E4A3B"
+    },
+    {
+      "color_family": "Pewter",
+      "a_color": "Pewter Gray",
+      "a_hex": "#7A7D86",
+      "b_color": "Max Def Cobblestone Gray",
+      "b_hex": "#6B6E76"
+    }
+  ],
+  "cost_delta": {
+    "per_square_material_difference_usd": 10,
+    "per_square_material_difference_pct": 5,
+    "typical_30_square_project_material_difference_usd": 300,
+    "installed_30_square_low_a_usd": 17500,
+    "installed_30_square_high_a_usd": 26000,
+    "installed_30_square_low_b_usd": 16500,
+    "installed_30_square_high_b_usd": 24500,
+    "notes": "Material cost is essentially the same. The Class 4 impact rating on UHDZ may offset the small premium via insurance discount (10 to 30 percent off the roof portion of premium in Florida). Landmark Pro's 49-color Max Def palette is the main aesthetic differentiator.",
+    "sources": [
+      "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-uhdz-with-ultramat",
+      "https://www.certainteed.com/products/residential-roofing-products/landmark-pro"
+    ]
+  },
+  "reddit_quotes_note": "Pull r/Roofing UHDZ vs Landmark Pro threads — common themes are UHDZ's Class 4 standard as a meaningful insurance lever and Landmark Pro's Max Def palette as the design-driven choice.",
+  "youtube_search_query": "gaf timberline uhdz vs certainteed landmark pro",
+  "youtube_video_url": "https://www.youtube.com/watch?v=bcpV7x17asc",
+  "youtube_video_note": "GAF official video featuring Frank Trevigno of Dior Construction (Master Elite) reviewing UHDZ. Landmark Pro contractor review included as alternate.",
+  "faq_items": [
+    {
+      "q": "Which lasts longer, GAF Timberline UHDZ or CertainTeed Landmark Pro?",
+      "a": "Both routinely last 30 to 40 years when installed correctly. Both carry Lifetime Limited warranties and 30-year algae coverage. The UltraMat core in UHDZ gives it the impact-rating edge in hail-prone areas; Landmark Pro's heavier laminate gives it a slight edge in wind-warranty ceiling (160 mph upgrade)."
+    },
+    {
+      "q": "Is the Class 4 impact rating worth the premium?",
+      "a": "If your Florida insurer offers a Class 4 discount (typical 10 to 30 percent off the roof portion of your premium), yes. Over a 30-year roof life that compounds to thousands of dollars. UHDZ is Class 4 as standard; Landmark Pro is Class 3 (Class 4 only on the Landmark IR variant)."
+    },
+    {
+      "q": "Are they the same price?",
+      "a": "Within about $10 per square at retail. On a 30-square home that is $300 in materials. The installed gap is similar — typically within $500 to $1,000 either way."
+    },
+    {
+      "q": "Which has more color options?",
+      "a": "CertainTeed Landmark Pro has 49 colors on the Max Def palette. GAF Timberline UHDZ has 6 colors on the UltraMat palette. If color choice matters most, Landmark Pro wins by a wide margin."
+    },
+    {
+      "q": "What is the difference between HDZ and UHDZ?",
+      "a": "UHDZ adds the UltraMat fiberglass core (which unlocks Class 4 impact rating), the Dual Shadow Line for deeper dimensional look, and StainGuard Plus PRO (30-year algae warranty vs HDZ's 25-year). Pricing runs about $30 to $40 more per square."
+    },
+    {
+      "q": "Which is better in a hurricane zone?",
+      "a": "Landmark Pro has the higher wind warranty ceiling (160 mph upgrade vs UHDZ's 130 mph standard). UHDZ has the WindProven Limited Wind Warranty with no maximum wind speed when installed with the full GAF system — that is more useful as a warranty document than as a real-world wind rating. Either way, both are well above Florida code minimum."
+    }
+  ],
+  "data_sources": [
+    "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-uhdz-with-ultramat",
+    "https://www.certainteed.com/products/residential-roofing-products/landmark-pro",
+    "https://www.nrca.net",
+    "https://www.iibec.org"
+  ],
+  "scraped_at": "2026-05-22",
+  "youtube_video_id": "bcpV7x17asc",
+  "youtube_video_title": "GAF Timberline UHDZ® Shingles Review with Dior Construction | GAF Roofing",
+  "youtube_video_channel": "GAF Roofing",
+  "youtube_video_confidence": "high",
+  "youtube_video_publish_year": 2024,
+  "youtube_video_alternates": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=fKF9mIbsCIA",
+      "video_id": "fKF9mIbsCIA",
+      "title": "Certainteed Landmark Pro | Should you put this shingle on your home?",
+      "channel": "Certitude Roofing Siding Windows",
+      "rank": 2
+    }
+  ],
+  "youtube_video_updated_at": "2026-05-22"
+}

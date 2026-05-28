@@ -1,0 +1,1181 @@
+{
+  "slug": "weathered-wood",
+  "url_path": "/houses-with-weathered-wood-roofs/",
+  "h1": "Houses With Weathered Wood Roofs: 85 Examples 2026",
+  "meta_title": "Houses With Weathered Wood Roofs: 85 Examples + Recommended Shingles (2026)",
+  "meta_description": "Real houses with weathered wood roofs: AI-rendered examples across 5 architectural sub-styles, the top siding colors and home styles that pair with weathered wood, a curated list of the best weathered wood-roof shingles from every major brand, and a free visualizer that lets you swap your roof color in 4 seconds.",
+  "strategy": 6,
+  "roof_archetype_slug": "weathered-wood",
+  "roof_archetype_display": "Weathered Wood",
+  "roof_archetype_hex": "#8A7960",
+  "hub_hero": {
+    "kicker": "Color hub · Weathered Wood roofs",
+    "h1_html": "Houses With <em>Weathered Wood Roofs</em>: <span class='count'>85</span> Examples <span class='year'>2026</span>",
+    "h1_text": "Houses With Weathered Wood Roofs: 85 Examples 2026",
+    "intro": "Weathered Wood is the multi-tone category -- the look that mimics aged cedar shake using premium architectural asphalt. The granule blend layers tobacco, dark brown, and storm-gray accents so the roof never reads as one flat color. Best on Cape Cod, Adirondack, craftsman, traditional, and coastal-cottage architecture. Historic-district homeowners and design-review boards default to it because the layered blend ages more gracefully than any single-color shingle -- year-15 and year-1 photos read nearly identical. From street distance the asphalt is indistinguishable from real cedar shake at roughly one-fifth the installed cost and a longer warranty window.",
+    "stats": [
+      {
+        "num": 85,
+        "label": "Real examples"
+      },
+      {
+        "num": 5,
+        "label": "Sub-styles"
+      },
+      {
+        "num": 37,
+        "label": "Shingle SKUs"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Roof Colors",
+        "url": "/roof-colors/"
+      },
+      {
+        "label": "Houses With Weathered Wood Roofs",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\beige-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/beige-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
+        "alt": "Beige house with Weathered Wood roof using Pinnacle Pristine WEATHERED WOOD",
+        "tag": "Beige × Weathered Wood",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+        "source_page_url": "/beige-house-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
+        "alt": "Cream house with Weathered Wood roof using Pinnacle Pristine WEATHERED WOOD",
+        "tag": "Cream × Weathered Wood",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+        "source_page_url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\gray-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/gray-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
+        "alt": "Gray house with Weathered Wood roof using Pinnacle Pristine WEATHERED WOOD",
+        "tag": "Gray × Weathered Wood",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+        "source_page_url": "/gray-house-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-weathered-wood-roof\\certainteed-landmark-weathered-wood.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-weathered-wood-roof/certainteed-landmark-weathered-wood.jpg",
+        "alt": "Light Gray house with Weathered Wood roof using Landmark Weathered Wood",
+        "tag": "Light Gray × Weathered Wood",
+        "sku_url": "/shingles/certainteed/landmark/weathered-wood/",
+        "source_page_url": "/light-gray-house-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake.jpg",
+        "alt": "White house with Weathered Wood roof using Pinnacle Pristine MAJESTIC SHAKE",
+        "tag": "White × Weathered Wood",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/majestic-shake/",
+        "source_page_url": "/white-house-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\dark-gray-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/dark-gray-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
+        "alt": "Dark Gray house with Weathered Wood roof using Pinnacle Pristine WEATHERED WOOD",
+        "tag": "Dark Gray × Weathered Wood",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+        "source_page_url": "/dark-gray-house-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+        "tag": "Cape Cod",
+        "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+        "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+        "tag": "Colonial",
+        "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+        "source_page_url": "/colonial-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake-front.jpg",
+        "alt": "Craftsman home with Weathered Wood roof -- Atlas Pinnacle Pristine MAJESTIC SHAKE (front)",
+        "tag": "Craftsman",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/majestic-shake/",
+        "source_page_url": "/craftsman-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood-front.jpg",
+        "alt": "Modern Farmhouse home with Weathered Wood roof -- Atlas Pinnacle Pristine WEATHERED WOOD (front)",
+        "tag": "Modern Farmhouse",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+        "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-weathered-wood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-weathered-wood-front.jpg",
+        "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Weathered Wood (front)",
+        "tag": "Ranch",
+        "sku_url": "/shingles/certainteed/landmark/weathered-wood/",
+        "source_page_url": "/ranch-with-weathered-wood-roof/"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "alt": "Victorian home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+        "tag": "Victorian",
+        "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+        "source_page_url": "/victorian-with-weathered-wood-roof/"
+      }
+    ],
+    "roof_anchor_hex": "#8A7960"
+  },
+  "combos": {
+    "kicker": "Color combinations · what works",
+    "title_html": "Weathered Wood <em>pairs</em> with.",
+    "note": "The siding colors and architectural styles that work best under a weathered wood roof. Pulled from the combination pages on this site.",
+    "roof_pill": {
+      "name": "Weathered Wood",
+      "hex": "#8A7960"
+    },
+    "siding_chips": [
+      {
+        "color_slug": "beige",
+        "color_display": "Beige",
+        "color_hex": "#D6BF96",
+        "combo_page_url": "/beige-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_slug": "cream",
+        "color_display": "Cream",
+        "color_hex": "#E8DCC4",
+        "combo_page_url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_slug": "dark-gray",
+        "color_display": "Dark Gray",
+        "color_hex": "#5A584F",
+        "combo_page_url": "/dark-gray-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_slug": "gray",
+        "color_display": "Gray",
+        "color_hex": "#A8A6A0",
+        "combo_page_url": "/gray-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_slug": "light-gray",
+        "color_display": "Light Gray",
+        "color_hex": "#D9D6CE",
+        "combo_page_url": "/light-gray-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_slug": "tan",
+        "color_display": "Tan",
+        "color_hex": "#C5A57A",
+        "combo_page_url": "/tan-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_slug": "white",
+        "color_display": "White",
+        "color_hex": "#F4ECD8",
+        "combo_page_url": "/white-house-with-weathered-wood-roof/"
+      }
+    ],
+    "style_tags": [
+      {
+        "style_slug": "cape-cod",
+        "style_display": "Cape Cod",
+        "combo_page_url": "/cape-cod-with-weathered-wood-roof/"
+      },
+      {
+        "style_slug": "colonial",
+        "style_display": "Colonial",
+        "combo_page_url": "/colonial-with-weathered-wood-roof/"
+      },
+      {
+        "style_slug": "craftsman",
+        "style_display": "Craftsman",
+        "combo_page_url": "/craftsman-with-weathered-wood-roof/"
+      },
+      {
+        "style_slug": "modern-farmhouse",
+        "style_display": "Modern Farmhouse",
+        "combo_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+      },
+      {
+        "style_slug": "ranch",
+        "style_display": "Ranch",
+        "combo_page_url": "/ranch-with-weathered-wood-roof/"
+      },
+      {
+        "style_slug": "victorian",
+        "style_display": "Victorian",
+        "combo_page_url": "/victorian-with-weathered-wood-roof/"
+      }
+    ]
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Filter the visualizer to <em>weathered wood roofs only</em>.",
+    "body": "Open the visualizer with every weathered wood-roof SKU pre-filtered. Upload a photo of your house and cycle through every shingle in this color family in one tap each.",
+    "cta_label": "Open visualizer with weathered wood filter",
+    "filter_badge": {
+      "swatch_hex": "#8A7960",
+      "label": "Filter: Weathered Wood roofs only"
+    },
+    "visualizer_payload": {
+      "context": "hub",
+      "color_filter": "weathered-wood-roof"
+    }
+  },
+  "long_gallery": {
+    "title_html": "Houses with <em>Weathered Wood</em> roofs, by style.",
+    "groups": [
+      {
+        "title_html": "Modern <em>farmhouse</em>.",
+        "title_text": "Modern farmhouse",
+        "count": 18,
+        "see_all_url": "/modern-farmhouse-with-weathered-wood-roof/",
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood-front.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Atlas Pinnacle Pristine WEATHERED WOOD (front)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\certainteed-landmark-resawn-shake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-resawn-shake-front.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- CertainTeed Landmark Resawn Shake (front)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/certainteed/landmark/resawn-shake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\malarkey-legacy-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/malarkey-legacy-weathered-wood-front.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Malarkey Legacy Weathered Wood (front)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/malarkey/legacy/weathered-wood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\tamko-heritage-antique-slate-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/tamko-heritage-antique-slate-front.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- TAMKO Heritage Antique Slate (front)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/tamko/heritage/antique-slate/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-resawn-shake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-pro-max-def-resawn-shake-front.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Resawn Shake (front)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-resawn-shake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood-right-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Atlas Pinnacle Pristine WEATHERED WOOD (right-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\certainteed-landmark-resawn-shake-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-resawn-shake-right-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- CertainTeed Landmark Resawn Shake (right-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/certainteed/landmark/resawn-shake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- IKO Dynasty Driftshake (right-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\malarkey-legacy-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/malarkey-legacy-weathered-wood-right-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Malarkey Legacy Weathered Wood (right-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/malarkey/legacy/weathered-wood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/owens-corning-oakridge-driftwood-right-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (right-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\tamko-heritage-antique-slate-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/tamko-heritage-antique-slate-right-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- TAMKO Heritage Antique Slate (right-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/tamko/heritage/antique-slate/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-resawn-shake-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-pro-max-def-resawn-shake-right-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Resawn Shake (right-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-resawn-shake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood-left-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Atlas Pinnacle Pristine WEATHERED WOOD (left-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\certainteed-landmark-resawn-shake-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-resawn-shake-left-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- CertainTeed Landmark Resawn Shake (left-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/certainteed/landmark/resawn-shake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\iko-dynasty-driftshake-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/iko-dynasty-driftshake-left-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- IKO Dynasty Driftshake (left-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\malarkey-legacy-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/malarkey-legacy-weathered-wood-left-34.jpg",
+            "alt": "Modern Farmhouse home with Weathered Wood roof -- Malarkey Legacy Weathered Wood (left-34)",
+            "tag": "Modern Farmhouse",
+            "sku_url": "/shingles/malarkey/legacy/weathered-wood/",
+            "source_page_url": "/modern-farmhouse-with-weathered-wood-roof/"
+          }
+        ]
+      },
+      {
+        "title_html": "Ranch &amp; <em>single-story</em>.",
+        "title_text": "Ranch & single-story",
+        "count": 18,
+        "see_all_url": "/ranch-with-weathered-wood-roof/",
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-weathered-wood-front.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Weathered Wood (front)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark/weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\malarkey-vista-natural-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/malarkey-vista-natural-wood-front.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- Malarkey Vista Natural Wood (front)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/malarkey/vista/natural-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-shenandoah-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-shenandoah-front.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Shenandoah (front)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-shenandoah/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-northgate-climateflex-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-driftwood-front.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Northgate Climateflex Max Def Driftwood (front)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/northgate-climateflex/max-def-driftwood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-weathered-wood-front.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Weathered Wood (front)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-northgate-climateflex-max-def-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-weathered-wood-front.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Northgate Climateflex Max Def Weathered Wood (front)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/northgate-climateflex/max-def-weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-weathered-wood-right-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Weathered Wood (right-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark/weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\malarkey-vista-natural-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/malarkey-vista-natural-wood-right-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- Malarkey Vista Natural Wood (right-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/malarkey/vista/natural-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-shenandoah-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-shenandoah-right-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Shenandoah (right-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-shenandoah/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-northgate-climateflex-max-def-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-driftwood-right-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Northgate Climateflex Max Def Driftwood (right-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/northgate-climateflex/max-def-driftwood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-weathered-wood-right-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Weathered Wood (right-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-northgate-climateflex-max-def-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-weathered-wood-right-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Northgate Climateflex Max Def Weathered Wood (right-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/northgate-climateflex/max-def-weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\malarkey-vista-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/malarkey-vista-weathered-wood-right-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- Malarkey Vista Weathered Wood (right-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-weathered-wood-left-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Weathered Wood (left-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark/weathered-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\malarkey-vista-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/malarkey-vista-natural-wood-left-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- Malarkey Vista Natural Wood (left-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/malarkey/vista/natural-wood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-shenandoah-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-shenandoah-left-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Shenandoah (left-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-shenandoah/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-northgate-climateflex-max-def-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-driftwood-left-34.jpg",
+            "alt": "Ranch home with Weathered Wood roof -- CertainTeed Northgate Climateflex Max Def Driftwood (left-34)",
+            "tag": "Ranch",
+            "sku_url": "/shingles/certainteed/northgate-climateflex/max-def-driftwood/",
+            "source_page_url": "/ranch-with-weathered-wood-roof/"
+          }
+        ]
+      },
+      {
+        "title_html": "Craftsman &amp; <em>traditional</em>.",
+        "title_text": "Craftsman & traditional",
+        "count": 18,
+        "see_all_url": "/craftsman-with-weathered-wood-roof/",
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake-front.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Atlas Pinnacle Pristine MAJESTIC SHAKE (front)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/majestic-shake/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\certainteed-landmark-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-driftwood-front.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- CertainTeed Landmark Driftwood (front)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/certainteed/landmark/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\iko-cambridge-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/iko-cambridge-driftwood-front.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- IKO Cambridge Driftwood (front)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/iko/cambridge/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\owens-corning-duration-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/owens-corning-duration-driftwood-front.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Owens Corning Duration Driftwood (front)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/owens-corning/duration/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\tamko-heritage-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/tamko-heritage-weathered-wood-front.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- TAMKO Heritage Weathered Wood (front)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/tamko/heritage/weathered-wood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake-right-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Atlas Pinnacle Pristine MAJESTIC SHAKE (right-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/majestic-shake/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\certainteed-landmark-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-driftwood-right-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- CertainTeed Landmark Driftwood (right-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/certainteed/landmark/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\iko-cambridge-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/iko-cambridge-driftwood-right-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- IKO Cambridge Driftwood (right-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/iko/cambridge/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\malarkey-legacy-natural-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/malarkey-legacy-natural-wood-right-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Malarkey Legacy Natural Wood (right-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\owens-corning-duration-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/owens-corning-duration-driftwood-right-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Owens Corning Duration Driftwood (right-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/owens-corning/duration/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\tamko-heritage-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/tamko-heritage-weathered-wood-right-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- TAMKO Heritage Weathered Wood (right-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/tamko/heritage/weathered-wood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (right-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake-left-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Atlas Pinnacle Pristine MAJESTIC SHAKE (left-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/majestic-shake/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\certainteed-landmark-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-driftwood-left-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- CertainTeed Landmark Driftwood (left-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/certainteed/landmark/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\iko-cambridge-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/iko-cambridge-driftwood-left-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- IKO Cambridge Driftwood (left-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/iko/cambridge/driftwood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "alt": "Craftsman home with Weathered Wood roof -- Malarkey Legacy Natural Wood (left-34)",
+            "tag": "Craftsman",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/craftsman-with-weathered-wood-roof/"
+          }
+        ]
+      },
+      {
+        "title_html": "Coastal &amp; <em>cape cod</em>.",
+        "title_text": "Coastal & Cape Cod",
+        "count": 15,
+        "see_all_url": "/cape-cod-with-weathered-wood-roof/",
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (right-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- IKO Dynasty Driftshake (right-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Legacy Natural Wood (right-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/owens-corning-oakridge-driftwood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (right-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-vista-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-vista-weathered-wood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Vista Weathered Wood (right-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (left-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- IKO Dynasty Driftshake (left-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Legacy Natural Wood (left-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/owens-corning-oakridge-driftwood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (left-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-vista-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-vista-weathered-wood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Vista Weathered Wood (left-34)",
+            "tag": "Cape Cod",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/cape-cod-with-weathered-wood-roof/"
+          }
+        ]
+      },
+      {
+        "title_html": "Colonial, <em>Tudor &amp; Mediterranean</em>.",
+        "title_text": "Colonial, Tudor, Mediterranean",
+        "count": 18,
+        "see_all_url": "/colonial-with-weathered-wood-roof/",
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (right-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- IKO Dynasty Driftshake (right-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-right-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Malarkey Legacy Natural Wood (right-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-right-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (right-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-vista-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-right-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Malarkey Vista Weathered Wood (right-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (left-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-left-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- IKO Dynasty Driftshake (left-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Malarkey Legacy Natural Wood (left-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-left-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (left-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-vista-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-left-34.jpg",
+            "alt": "Colonial home with Weathered Wood roof -- Malarkey Vista Weathered Wood (left-34)",
+            "tag": "Colonial",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+            "source_page_url": "/colonial-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+            "tag": "Victorian",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "source_page_url": "/victorian-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+            "tag": "Victorian",
+            "sku_url": "/shingles/iko/dynasty/driftshake/",
+            "source_page_url": "/victorian-with-weathered-wood-roof/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+            "tag": "Victorian",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+            "source_page_url": "/victorian-with-weathered-wood-roof/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 87
+  },
+  "materials": {
+    "kicker": "Material variations · how weathered wood is built",
+    "title_html": "Two ways to get a <em>weathered wood roof</em>.",
+    "cards": [
+      {
+        "kicker": "Asphalt · Architectural",
+        "h3_html": "Asphalt <em>architectural</em>.",
+        "body": "The everyday workhorse. Dimensional shadow line, 25-30 year warranty, 110-130 mph wind rating. Installed in 7 out of 10 American homes. $14k to $22k for a full Florida re-roof.",
+        "arrow_link_text": "See asphalt SKUs",
+        "url": "/shingles/asphalt-architectural/",
+        "card_bg_hex": "#8A7960"
+      },
+      {
+        "kicker": "Metal · Standing Seam",
+        "h3_html": "Metal <em>standing seam</em>.",
+        "body": "The modern farmhouse signature. Vertical seam lines, 50-year warranty, reflects heat. About 2x the cost of asphalt but lasts twice as long. The sharpest expression of \"weathered wood roof\".",
+        "arrow_link_text": "See metal SKUs",
+        "url": "/shingles/metal-standing-seam/",
+        "card_bg_hex": "#3A3A3A"
+      }
+    ]
+  },
+  "crosslinks": {
+    "kicker": "Related · keep exploring",
+    "title_html": "More <em>weathered wood-roof</em> resources.",
+    "columns": [
+      {
+        "title": "Other roof colors",
+        "items": [
+          {
+            "label": "Houses with Black Roofs",
+            "url": "/houses-with-black-roofs/",
+            "swatch_hex": "#1E2128"
+          },
+          {
+            "label": "Houses with Charcoal Roofs",
+            "url": "/houses-with-charcoal-roofs/",
+            "swatch_hex": "#3F434B"
+          },
+          {
+            "label": "Houses with Brown Roofs",
+            "url": "/houses-with-brown-roofs/",
+            "swatch_hex": "#5C4128"
+          }
+        ]
+      },
+      {
+        "title": "Top weathered wood-roof SKUs",
+        "items": [
+          {
+            "label": "Atlas Pinnacle Pristine MAJESTIC SHAKE",
+            "url": "/shingles/atlas/pinnacle-pristine/majestic-shake/",
+            "color_hex": "#7d6753"
+          },
+          {
+            "label": "CertainTeed Belmont Shenandoah",
+            "url": "/shingles/certainteed/belmont/shenandoah/",
+            "color_hex": "#665139"
+          },
+          {
+            "label": "CertainTeed Grand Manor Weathered Wood",
+            "url": "/shingles/certainteed/grand-manor/weathered-wood/",
+            "color_hex": "#807972"
+          },
+          {
+            "label": "CertainTeed Landmark Driftwood",
+            "url": "/shingles/certainteed/landmark/driftwood/",
+            "color_hex": "#6d635a"
+          },
+          {
+            "label": "CertainTeed Landmark Pro Max Def Driftwood",
+            "url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+            "color_hex": "#5b554d"
+          },
+          {
+            "label": "CertainTeed Northgate Climateflex Max Def Driftwood",
+            "url": "/shingles/certainteed/northgate-climateflex/max-def-driftwood/",
+            "color_hex": "#5b554d"
+          }
+        ]
+      },
+      {
+        "title": "Pair weathered wood with a house color",
+        "items": [
+          {
+            "label": "White House With Weathered Wood Roof",
+            "url": "/white-house-with-weathered-wood-roof/",
+            "house_color_hex": "#F4ECD8",
+            "roof_color_hex": "#8A7960"
+          },
+          {
+            "label": "Cream House With Weathered Wood Roof",
+            "url": "/cream-house-with-weathered-wood-roof/",
+            "house_color_hex": "#E8DCC4",
+            "roof_color_hex": "#8A7960"
+          },
+          {
+            "label": "Light Gray House With Weathered Wood Roof",
+            "url": "/light-gray-house-with-weathered-wood-roof/",
+            "house_color_hex": "#D9D6CE",
+            "roof_color_hex": "#8A7960"
+          },
+          {
+            "label": "Beige House With Weathered Wood Roof",
+            "url": "/beige-house-with-weathered-wood-roof/",
+            "house_color_hex": "#D6BF96",
+            "roof_color_hex": "#8A7960"
+          },
+          {
+            "label": "Dark Gray House With Weathered Wood Roof",
+            "url": "/dark-gray-house-with-weathered-wood-roof/",
+            "house_color_hex": "#5A584F",
+            "roof_color_hex": "#8A7960"
+          },
+          {
+            "label": "Gray House With Weathered Wood Roof",
+            "url": "/gray-house-with-weathered-wood-roof/",
+            "house_color_hex": "#A8A6A0",
+            "roof_color_hex": "#8A7960"
+          }
+        ]
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Does weathered-wood asphalt actually look like real cedar shake?",
+      "a": "From street distance, yes. Up close the difference is obvious -- asphalt is flat, cedar is dimensional. But at curb distance most observers cannot tell the two apart, and the asphalt option costs roughly one-fifth as much installed and carries a 30 to 50 year warranty versus 20 to 30 for cedar."
+    },
+    {
+      "q": "Will weathered-wood fade like brown shingles do?",
+      "a": "Less visibly. Brown shingles drift slightly cooler and slightly desaturated over 10 to 15 years. Weathered-wood blends already contain several shades, so any individual-shade drift is masked by the other granules in the blend. The visual age curve is gentler. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Is weathered-wood appropriate for a modern home?",
+      "a": "Less than for traditional architecture. Weathered-wood reads as 'aged' and 'natural' by design, which can fight the clean lines of a contemporary build. On modern farmhouse it can work; on stark contemporary it usually reads as out of place. Charcoal or black serves modern architecture better."
+    },
+    {
+      "q": "Will weathered-wood show algae streaks in Florida?",
+      "a": "Less visibly than gray or charcoal. The multi-tone blend hides the dark vertical streaks that Gloeocapsa magma algae causes on solid-gray shingles. All recommended SKUs include copper- or zinc-infused granules that inhibit algae growth in the first place."
+    },
+    {
+      "q": "What is the most popular weathered-wood shingle?",
+      "a": "By install volume: GAF Timberline HDZ Weathered Wood. By luxury: IKO Royal Estate Shadow Slate and Malarkey Legacy Weathered Wood. By Cape Cod / coastal traditional: CertainTeed Landmark Weathered Wood."
+    },
+    {
+      "q": "Should I pick weathered-wood or brown?",
+      "a": "Weathered-wood if you want the cedar-shake aesthetic and a more visually complex roof plane. Brown if you want a clean single-tone warm anchor. Weathered-wood ages more gracefully but brown reads as more architecturally decisive."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>your house</em> with a weathered wood roof.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "hub",
+      "color_filter": "weathered-wood-roof"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:45:45+00:00",
+  "rolled_up_from": {
+    "s3_skus": 37,
+    "s4_pages": 7,
+    "s5_pages": 6
+  },
+  "prose_method": "archetype-templated"
+}

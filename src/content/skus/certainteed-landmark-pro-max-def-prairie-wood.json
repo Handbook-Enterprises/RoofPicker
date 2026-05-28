@@ -1,0 +1,554 @@
+{
+  "slug": "certainteed-landmark-pro-max-def-prairie-wood",
+  "url_path": "/shingles/certainteed/landmark-pro/max-def-prairie-wood/",
+  "h1": "CertainTeed Landmark Pro Max Def Prairie Wood Shingles",
+  "meta_title": "CertainTeed Landmark Pro Max Def Prairie Wood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "CertainTeed Landmark Pro in Max Def Prairie Wood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "brown",
+  "roof_archetype": "brown",
+  "best_for_styles": [
+    "craftsman",
+    "tudor",
+    "mediterranean",
+    "traditional",
+    "victorian"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "CertainTeed",
+    "brand_slug": "certainteed",
+    "brand_url": "/shingles/certainteed/",
+    "line_display": "Landmark Pro",
+    "line_slug": "certainteed-landmark-pro",
+    "line_url": "/shingles/certainteed/landmark-pro/",
+    "color_display": "Max Def Prairie Wood",
+    "color_slug": "max-def-prairie-wood",
+    "h1_html": "CertainTeed Landmark Pro <em>Max Def Prairie Wood</em> Shingles",
+    "tagline": "Earth-tone shingle that anchors traditional and craftsman elevations.",
+    "hex": "#75594a",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+    "hero_image_alt": "Home with CertainTeed Landmark Pro Max Def Prairie Wood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$138"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "CertainTeed",
+        "url": "/shingles/certainteed/"
+      },
+      {
+        "label": "Landmark Pro",
+        "url": "/shingles/certainteed/landmark-pro/"
+      },
+      {
+        "label": "Max Def Prairie Wood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "landmark-pro",
+      "color": "max-def-prairie-wood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Max Def Prairie Wood reads as a warm sienna in midday sun and a deep coffee at dusk. It is one of the more tonally responsive SKUs in the line and rewards homeowners who care about how a roof shifts color across the day.",
+      "The granule blend layers tobacco, amber, and dark walnut granules in a tight rotation. Up close you can see the layering; from the street it reads as one warm color with subtle texture.",
+      "Pairs cleanly with brick red, cream, warm white, sage, and natural-wood siding. Slightly less flexible than the gray family on cool or modern color palettes, but unbeatable on traditional elevations."
+    ],
+    "swatch_meta": {
+      "hex": "#75594a",
+      "family": "Brown",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#75594a",
+      "#584841",
+      "#8a6a55"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-swatch.jpg",
+      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-swatch.jpg",
+      "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "landmarkpro-mdprwo-swatch.jpeg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      },
+      {
+        "label": "Wikipedia: Brown (color)",
+        "url": "https://en.wikipedia.org/wiki/Brown"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "130 mph with SureStart Plus upgrade. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "270 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakFighter",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "CertainTeed",
+        "ctx": "Malvern, PA · made in the USA"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Historical Roofing Warranties - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/0k71w1oizd/pdf/Historical-Asphalt-Roofing-Warranties-1988-2025.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 International Limited Warranty - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/1nmszdhkin/pdf/asphalt-international-warranty-00-02-5544-XP-EN-2601.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 Asphalt Shingles Limited Warranty - Residential",
+        "url": "https://certainteed.widen.net/content/cu4q0koymx/pdf/asphalt-low-slope-shingle-warranty-00-02-5540-NA-EN-2602.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 | Wind Warranty Sell Sheet",
+        "url": "https://certainteed.widen.net/content/nwzj0hed8h/pdf/wind-warranty-sellsheet-00-04-5812-NA-EN-2603.pdf?u=otft5c",
+        "type": "warranty"
+      },
+      {
+        "label": "Brochure - Third Party Classification",
+        "url": "https://certainteed.widen.net/content/evxm8pieio/pdf/roofing-ulclassified-brochure-00-00-17-US-EN--2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      },
+      {
+        "label": "Sell Sheet - Landmark PRO - Red Oak",
+        "url": "https://certainteed.widen.net/content/lsg6lobg1i/pdf/landmarkpro-redoak-sellsheet-00-04-1405-NA-EN-2207.pdf?u=nwk4fd",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Landmark Pro Max Def Prairie Wood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+        "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+        "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Aerial photo of residential home with medium brown multi-tone shingles consistent with Max Def Prairie Wood; small contractor logo in corner is minor.",
+        "origin_filename": "04__dennisonexteriorsolutions-com.webp"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-2.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-2.webp",
+        "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-2.webp",
+        "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Same residential home as 04 with brown multi-tone Prairie Wood-style shingles; minor contractor watermark.",
+        "origin_filename": "06__dennisonexteriorsolutions-com.webp"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-3.jpg",
+        "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-3.jpg",
+        "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
+        "tag": "AI-rendered example (right-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "certainteed-landmark-pro-max-def-prairie-wood-1.webp"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-4.jpg",
+        "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-4.jpg",
+        "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
+        "tag": "AI-rendered example (left-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "certainteed-landmark-pro-max-def-prairie-wood-1.webp"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/certainteed-landmark-pro-max-def-prairie-wood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Max Def Prairie Wood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": "/white-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Monochromatic",
+        "house_color_slug": "brown",
+        "url": "/brown-house-with-brown-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>brown</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Legacy",
+        "line_slug": "malarkey-legacy",
+        "color_display": "Antique Brown",
+        "color_hex": "#735743",
+        "redmean_distance": 12.3,
+        "url": "/shingles/malarkey/legacy/antique-brown/"
+      },
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Vista",
+        "line_slug": "malarkey-vista",
+        "color_display": "Antique Brown",
+        "color_hex": "#735743",
+        "redmean_distance": 12.3,
+        "url": "/shingles/malarkey/vista/antique-brown/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration",
+        "line_slug": "owens-corning-duration",
+        "color_display": "Desert Rose",
+        "color_hex": "#7d5b48",
+        "redmean_distance": 13.6,
+        "url": "/shingles/owens-corning/duration/desert-rose/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Shadow Brown",
+        "color_hex": "#6e5d4c",
+        "redmean_distance": 13.9,
+        "url": "/shingles/iko/dynasty/shadow-brown/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "BURNT HICKORY",
+        "color_hex": "#7a5d44",
+        "redmean_distance": 14.7,
+        "url": "/shingles/atlas/pinnacle-pristine/burnt-hickory/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$138–$159",
+        "low_usd": 138,
+        "high_usd": 159,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$4,140–$4,770",
+        "low_usd": 4140,
+        "high_usd": 4770,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$12k–$20k",
+        "low_usd": 12420,
+        "high_usd": 20988,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/CertainTeed-Landmark-PRO-Max-Def-Weathered-Wood-Algae-Resistant-Architectural-Roof-Shingles-33-3-sq-ft-per-Bundle/5018245345",
+        "anchor_color": "Weathered Wood",
+        "page_title": "CertainTeed Landmark PRO Max Def Weathered Wood Algae Resistant Architectural Roof Shingles ( 33.3-sq ft per Bundle ) at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\lowes.com__a4a6c68a.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "ringsend.com",
+        "url": "https://www.ringsend.com/certainteed-landmark-pro-ar-roof-shingles-bundle",
+        "anchor_color": "Charcoal",
+        "page_title": "CertainTeed Landmark Pro AR Roof Shingle, Charcoal Black, Bundle",
+        "price_per_bundle_usd": 49.5,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 148.65,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\ringsend.com__ecb6ff85.html",
+        "scraped_ok": true,
+        "error": null,
+        "coverage_source": "line_default"
+      },
+      {
+        "retailer": "dealerschoicedistribution.com",
+        "url": "https://www.dealerschoicedistribution.com/product/CertainTeed-Roofing-Landmark-PRO-Shingles/C-450128/800116",
+        "anchor_color": "",
+        "page_title": "CertainTeed Roofing 13.25 in x 38.75 in Landmark® PRO Shingles Max Def Evergreen",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\dealerschoicedistribution.com__7c4423fe.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "qxo.com",
+        "url": "https://www.qxo.com/product/CertainTeed-Roofing-Landmark-PRO-Shingles/C-450128/450132",
+        "anchor_color": "",
+        "page_title": "CertainTeed Roofing 13.25 in x 38.75 in Landmark® PRO Shingles Max Def Cobblestone Grey",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\qxo.com__b0ca6f89.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Max Def Prairie Wood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Landmark Pro Max Def Prairie Wood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Max Def Prairie Wood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+    "badge_text": "Pre-loaded: Max Def Prairie Wood",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "landmark-pro",
+      "color": "max-def-prairie-wood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Max Def Prairie Wood, really?",
+      "a": "A warm, anchored brown with visible reddish or amber granule accents. In direct Florida sun it reads as a clear sienna or coffee; in shade it softens to a near-black. The blend is layered enough that the surface looks alive rather than flat."
+    },
+    {
+      "q": "Does Max Def Prairie Wood pair with red brick?",
+      "a": "Yes, and that is the canonical pairing. Brown asphalt and red brick share a warm tonal family, so they read as one coordinated elevation rather than competing colors. The trick is keeping the trim color clean and bright (warm white, soft cream) so the eye has somewhere to rest."
+    },
+    {
+      "q": "Does Max Def Prairie Wood fade over time?",
+      "a": "Minimally. CertainTeed's ceramic granule coating holds warm tones for 25 plus years in Florida UV. Browns tend to drift slightly cooler over the first 5 years (a barely visible shift) and then stabilize. The full warranty covers premature fading. Source: CertainTeed product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will Max Def Prairie Wood make my house run hotter?",
+      "a": "Slightly. Dark warm tones absorb similar solar heat to dark grays, adding roughly 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light gray. Proper ventilation and a radiant barrier under the decking keep monthly cooling-cost impact under 20 dollars in most homes."
+    },
+    {
+      "q": "How does Max Def Prairie Wood compare to other browns in the asphalt category?",
+      "a": "The 'brown' SKUs across major brands sit within a fairly tight tonal window. Most are mid-to-dark brown with warm undertones; differences are mostly in granule blend size and shadow-line depth. Use the Compare tab to see direct hex deltas against similar SKUs."
+    },
+    {
+      "q": "Is brown a 'dated' roof choice?",
+      "a": "On a contemporary white-stucco build, possibly. On a craftsman, traditional, Tudor, or Mediterranean elevation it is the most architecturally correct choice and reads as deliberate rather than dated. Picking by house style matters more than by trend."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Max Def Prairie Wood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "landmark-pro",
+      "color": "max-def-prairie-wood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Wikipedia: Brown (color)",
+      "url": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "label": "CertainTeed product page",
+      "url": "https://www.certainteed.com/products/residential-roofing-products/landmark-pro"
+    },
+    {
+      "label": "Wikipedia: CertainTeed",
+      "url": "https://en.wikipedia.org/wiki/CertainTeed"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "brown"
+}

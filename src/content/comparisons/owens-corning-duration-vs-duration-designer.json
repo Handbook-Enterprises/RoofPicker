@@ -1,0 +1,221 @@
+{
+  "slug": "owens-corning-duration-vs-duration-designer",
+  "url_path": "/compare/owens-corning-duration-vs-duration-designer/",
+  "h1": "Owens Corning Duration vs Duration Designer: Side-by-Side Comparison (2026)",
+  "target_keyword": null,
+  "volume_per_month": 10,
+  "kd": 3,
+  "subject_a_id": "owens-corning-duration",
+  "subject_b_id": "owens-corning-duration-designer",
+  "subject_a_display": "Owens Corning Duration",
+  "subject_b_display": "Owens Corning Duration Designer",
+  "lead_summary": "Duration Designer is the aesthetic upgrade tier of the Duration platform. Same SureNail nailing strip, same 130 mph wind rating, same StreakGuard algae coverage, same lifetime limited warranty. The differences are color depth (larger granules, more pronounced shadow lines, richer Max Def palette) and price (15 to 20 percent higher). Duration Designer's color palette is smaller (8 distinctive colors) but the visual impact per color is significantly stronger.",
+  "quick_stats": [
+    {
+      "value": "15-20%",
+      "label": "Designer costs more"
+    },
+    {
+      "value": "8 vs 18",
+      "label": "Designer fewer colors"
+    },
+    {
+      "value": "Same warranty",
+      "label": "Performance identical"
+    }
+  ],
+  "choose_a": [
+    "Budget is the primary constraint and the Designer upgrade does not fit your roof budget.",
+    "You want more color choice (18 standard Duration colors vs 8 Designer colors).",
+    "You prefer the traditional dimensional shadow look of Duration over Designer's more pronounced contrast.",
+    "Your home is in a moderate-cost market where the Designer premium feels disproportionate.",
+    "You like the existing color names (Amber, Brownwood, Chateau Green, Desert Tan, Estate Gray)."
+  ],
+  "choose_b": [
+    "Curb appeal is a top priority and the visual depth of Designer's larger granules is worth the premium.",
+    "Your home style benefits from the unique Designer colors (Aged Copper, Pacific Wave, Bourbon, Merlot, Sand Dune).",
+    "You want the slightly thicker shingle construction Designer offers.",
+    "You are staying in the home long-term and a premium look is worth the 15 to 20 percent price uplift.",
+    "Your contractor highlights Designer as their preferred Owens Corning product."
+  ],
+  "comparison_table": [
+    {
+      "category": "Material cost / square",
+      "a_value": "$140-150",
+      "a_ctx": "Lowe's retail",
+      "b_value": "$165-185",
+      "b_ctx": "Premium architectural pricing",
+      "winner_note": "Designer 15-20 percent more per square"
+    },
+    {
+      "category": "Weight per square",
+      "a_value": "230 lbs",
+      "a_ctx": "Dual-layer laminate",
+      "b_value": "250 lbs",
+      "b_ctx": "Thicker construction for dimensional shadow",
+      "winner_note": "Designer ~20 lbs/sq heavier"
+    },
+    {
+      "category": "Wind rating",
+      "a_value": "130 mph",
+      "a_ctx": "SureNail triple-layer nailing strip",
+      "b_value": "130 mph",
+      "b_ctx": "Same SureNail technology",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Hail / impact",
+      "a_value": "Class 3",
+      "a_ctx": "UL 2218; FLEX upgrades to Class 4",
+      "b_value": "Class 3",
+      "b_ctx": "UL 2218; FLEX upgrades to Class 4",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Fire rating",
+      "a_value": "Class A",
+      "a_ctx": "ASTM E108",
+      "b_value": "Class A",
+      "b_ctx": "ASTM E108",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Material warranty",
+      "a_value": "Lifetime limited",
+      "a_ctx": "Pro-rated after year 10",
+      "b_value": "Lifetime limited",
+      "b_ctx": "Pro-rated after year 10",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Algae warranty",
+      "a_value": "10 yrs StreakGuard",
+      "a_ctx": "Standard StreakGuard treatment",
+      "b_value": "10 yrs StreakGuard",
+      "b_ctx": "Same algae treatment",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Color count",
+      "a_value": "18",
+      "a_ctx": "TruDefinition Duration palette",
+      "b_value": "8",
+      "b_ctx": "Designer Series — distinctive premium palette",
+      "winner_note": "Duration wider; Designer richer per color"
+    },
+    {
+      "category": "Visual depth",
+      "a_value": "Standard dimensional shadow",
+      "a_ctx": "TruDefinition contrast",
+      "b_value": "Larger granules, deeper shadow",
+      "b_ctx": "Max Def color blending",
+      "winner_note": "Designer more dramatic curb appeal"
+    }
+  ],
+  "color_overlap": [
+    {
+      "color_family": "Black / Charcoal",
+      "a_color": "Onyx Black",
+      "a_hex": "#2E323C",
+      "b_color": "Black Sable",
+      "b_hex": "#1F2229"
+    },
+    {
+      "color_family": "Brown",
+      "a_color": "Brownwood",
+      "a_hex": "#5B4636",
+      "b_color": "Bourbon",
+      "b_hex": "#6F3F26"
+    },
+    {
+      "color_family": "Green",
+      "a_color": "Chateau Green",
+      "a_hex": "#3F4E3D",
+      "b_color": "Evergreen Mist",
+      "b_hex": "#4F6B58"
+    },
+    {
+      "color_family": "Gray",
+      "a_color": "Estate Gray",
+      "a_hex": "#646973",
+      "b_color": "Gray Tweed",
+      "b_hex": "#7A7F88"
+    }
+  ],
+  "cost_delta": {
+    "per_square_material_difference_usd": 30,
+    "per_square_material_difference_pct": 18,
+    "typical_30_square_project_material_difference_usd": 900,
+    "installed_30_square_low_a_usd": 14000,
+    "installed_30_square_high_a_usd": 22000,
+    "installed_30_square_low_b_usd": 15500,
+    "installed_30_square_high_b_usd": 24500,
+    "notes": "Designer typically costs 15 to 20 percent more than standard Duration. On a 30-square home that is roughly $1,500 to $2,500 in additional total cost (materials plus labor for the heavier shingle). Performance is identical; the upgrade is purely aesthetic.",
+    "sources": [
+      "https://countyroofingsystems.com/blog/owens-corning-duration-designer/",
+      "https://classicroofreplacement.com/comparing-the-types-of-owens-corning-roof-shingles/",
+      "https://www.owenscorning.com/en-us/roofing/shingles/trudefinition-duration-designer"
+    ]
+  },
+  "reddit_quotes_note": "Limited Reddit discussion compares these two specifically because they are sibling products. Use general Owens Corning Duration discussion as the Reddit quote source.",
+  "youtube_search_query": "Owens Corning TruDefinition Duration Designer vs Duration comparison",
+  "youtube_video_url": "https://www.youtube.com/watch?v=mFNdtbbJRfY",
+  "youtube_video_note": "Most relevant Designer-line review; explains how Designer differs from standard Duration in style and durability framing.",
+  "faq_items": [
+    {
+      "q": "Is Duration Designer worth the upgrade over standard Duration?",
+      "a": "If curb appeal is a top priority and one of the 8 Designer colors fits your home's style, yes. The visual depth from larger granules and the Max Def color blending is genuinely different and worth the 15 to 20 percent upcharge. If you want a basic well-performing shingle in a common color, standard Duration is the better value."
+    },
+    {
+      "q": "Do they have the same warranty?",
+      "a": "Yes. Both are lifetime limited material warranty, both use SureNail, both have the same 130 mph wind rating, both have 10-year StreakGuard algae coverage. Performance specs are identical. The upgrade is purely aesthetic."
+    },
+    {
+      "q": "Which has more colors?",
+      "a": "Standard Duration has 18 colors. Duration Designer has 8 colors. The Designer palette is intentionally smaller because each color is a premium positioning (Aged Copper, Pacific Wave, Bourbon, Merlot, Sand Dune, Evergreen Mist, Black Sable, Gray Tweed)."
+    },
+    {
+      "q": "How much heavier is Designer?",
+      "a": "About 20 pounds per square heavier (250 lbs vs 230 lbs). The extra weight comes from thicker construction designed to produce more pronounced dimensional shadow lines. On a 30-square home, that is ~600 pounds of additional material."
+    },
+    {
+      "q": "Can I mix Duration colors with Designer colors on the same roof?",
+      "a": "Technically yes if you only need one product per visible section, but the look would be inconsistent — Designer's granule size and shadow depth are noticeably different from standard Duration. Pick one and stay with it across the whole roof."
+    },
+    {
+      "q": "Does Designer offer impact resistance?",
+      "a": "Class 3 base, same as standard Duration. For Class 4 impact resistance with Owens Corning, you would need Duration FLEX, which is the impact-rated variant and is a separate product from Duration Designer."
+    }
+  ],
+  "data_sources": [
+    "https://countyroofingsystems.com/blog/owens-corning-duration-designer/",
+    "https://classicroofreplacement.com/comparing-the-types-of-owens-corning-roof-shingles/",
+    "https://leverageroofing.com/blog/oakridge-vs-duration/",
+    "https://www.owenscorning.com/en-us/roofing/shingles/trudefinition-duration-designer",
+    "output/subjects/owens-corning-duration.json",
+    "output/subjects/owens-corning-duration-designer.json"
+  ],
+  "scraped_at": "2026-05-15T12:00:00+00:00",
+  "youtube_video_id": "mFNdtbbJRfY",
+  "youtube_video_title": "Owens Corning Duration Designer Shingles: Style Meets Superior Durability",
+  "youtube_video_channel": "Roofing contractor channel (unconfirmed)",
+  "youtube_video_confidence": "medium",
+  "youtube_video_publish_year": 2024,
+  "youtube_video_alternates": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=SM0q5aJecpY",
+      "video_id": "SM0q5aJecpY",
+      "title": "Owens Corning, Oakridge/Duration/Designer, Shingle Colors",
+      "channel": "Roofing contractor channel (unconfirmed)",
+      "rank": 2
+    },
+    {
+      "video_url": "https://www.youtube.com/watch?v=KiiBjuWKDI8",
+      "video_id": "KiiBjuWKDI8",
+      "title": "Owens Corning Roofing TruDefinition Duration Designer Shingles",
+      "channel": "Owens Corning (likely manufacturer)",
+      "rank": 3
+    }
+  ],
+  "youtube_video_updated_at": "2026-05-22T01:26:53+00:00"
+}

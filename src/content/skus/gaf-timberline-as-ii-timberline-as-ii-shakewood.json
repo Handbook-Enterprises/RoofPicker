@@ -1,0 +1,534 @@
+{
+  "slug": "gaf-timberline-as-ii-timberline-as-ii-shakewood",
+  "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-shakewood/",
+  "h1": "GAF Timberline AS II Timberline As Ii Shakewood Shingles",
+  "meta_title": "GAF Timberline AS II Timberline As Ii Shakewood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "GAF Timberline AS II in Timberline As Ii Shakewood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "brown",
+  "roof_archetype": "weathered-wood",
+  "best_for_styles": [
+    "cape-cod",
+    "craftsman",
+    "victorian",
+    "colonial",
+    "traditional"
+  ],
+  "hail_rating_class": 4,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "GAF",
+    "brand_slug": "gaf",
+    "brand_url": "/shingles/gaf/",
+    "line_display": "Timberline AS II",
+    "line_slug": "gaf-timberline-as-ii",
+    "line_url": "/shingles/gaf/timberline-as-ii/",
+    "color_display": "Timberline As Ii Shakewood",
+    "color_slug": "timberline-as-ii-shakewood",
+    "h1_html": "GAF Timberline AS II <em>Timberline As Ii Shakewood</em> Shingles",
+    "tagline": "A warm, earthy roof that grounds the house against landscape.",
+    "hex": "#887056",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-as-ii-timberline-as-ii-shakewood\\gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-as-ii-timberline-as-ii-shakewood/gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif",
+    "hero_image_alt": "Home with GAF Timberline AS II Timberline As Ii Shakewood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$209"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "GAF",
+        "url": "/shingles/gaf/"
+      },
+      {
+        "label": "Timberline AS II",
+        "url": "/shingles/gaf/timberline-as-ii/"
+      },
+      {
+        "label": "Timberline As Ii Shakewood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-as-ii",
+      "color": "timberline-as-ii-shakewood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Timberline As Ii Shakewood is the warm anchor of the Timberline AS II catalog. It reads as a clear deep brown in direct sun and softens into a near-black on overcast days. The granule blend leans warm, with reddish or amber accents that give the surface a sense of depth most gray shingles cannot match.",
+      "Look closely and you can pick out three or four granule shades inside the blend. The eye stops registering them at conversational distance, but the layered texture is why warm-brown asphalt roofs photograph as 'rich' rather than 'flat'.",
+      "Works well with red brick, warm-wood accents, stone, and earth-tone paint. Tends to disagree with very cool siding colors (icy white, light blue, charcoal) where the warm undertone reads as out of place."
+    ],
+    "swatch_meta": {
+      "hex": "#887056",
+      "family": "Brown",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#887056",
+      "#715a47",
+      "#9d8566"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      },
+      {
+        "label": "Wikipedia: Brown (color)",
+        "url": "https://en.wikipedia.org/wiki/Brown"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "WindProven with required GAF accessory installation. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 4",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "240 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StainGuard Plus",
+        "ctx": "25-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "GAF",
+        "ctx": "Parsippany, NJ · made in the USA"
+      },
+      {
+        "cat": "Pieces / square",
+        "val": "64",
+        "ctx": "Coverage: 100 sq ft per square"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Advanced Algae Protection Sell Sheet - RESGN439",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/advanced-algae-protection-sell-sheet-resgn439.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "ArmorShield SBS Modified IR Shingles Sell Sheet - RESIR101",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/armorshield-sbs-modified-ir-shingles-sell-sheet-resir101.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "ArmorShield Series Brochure - RESIR100",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/armorshield-series-brochure-resir100.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "DuraGrip WindProven Technology Sell Sheet - RESGN751",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/duragrip-windproven-technology-sell-sheet-resgn751.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Laminated Shingles SDS - 2093",
+        "url": "https://www.gaf.com/en-us/document-library/documents/safety-data-sheets/laminated-shingles-sds-2093.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "LayerLock Technology Sell Sheet - RESTZ114",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/layerlock-technology-sell-sheet-restz114.pdf",
+        "type": "tds"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Timberline AS II Timberline As Ii Shakewood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-as-ii-timberline-as-ii-shakewood\\gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-as-ii-timberline-as-ii-shakewood/gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif",
+        "image_filename": "gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif",
+        "alt": "Florida home with Timberline AS II Timberline As Ii Shakewood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-as-ii-timberline-as-ii-shakewood\\gaf-timberline-as-ii-timberline-as-ii-shakewood-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-as-ii-timberline-as-ii-shakewood/gaf-timberline-as-ii-timberline-as-ii-shakewood-2.jpg",
+        "image_filename": "gaf-timberline-as-ii-timberline-as-ii-shakewood-2.jpg",
+        "alt": "Florida home with Timberline AS II Timberline As Ii Shakewood roof",
+        "tag": "AI-rendered example (dusk view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-as-ii-timberline-as-ii-shakewood\\gaf-timberline-as-ii-timberline-as-ii-shakewood-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-as-ii-timberline-as-ii-shakewood/gaf-timberline-as-ii-timberline-as-ii-shakewood-3.jpg",
+        "image_filename": "gaf-timberline-as-ii-timberline-as-ii-shakewood-3.jpg",
+        "alt": "Florida home with Timberline AS II Timberline As Ii Shakewood roof",
+        "tag": "AI-rendered example (morning view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-as-ii-timberline-as-ii-shakewood\\gaf-timberline-as-ii-timberline-as-ii-shakewood-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-as-ii-timberline-as-ii-shakewood/gaf-timberline-as-ii-timberline-as-ii-shakewood-4.jpg",
+        "image_filename": "gaf-timberline-as-ii-timberline-as-ii-shakewood-4.jpg",
+        "alt": "Florida home with Timberline AS II Timberline As Ii Shakewood roof",
+        "tag": "AI-rendered example (front view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/gaf-timberline-as-ii-timberline-as-ii-shakewood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Timberline As Ii Shakewood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": "/white-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Monochromatic",
+        "house_color_slug": "brown",
+        "url": "/brown-house-with-weathered-wood-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>brown</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Woodcrest",
+        "line_slug": "owens-corning-woodcrest",
+        "color_display": "Sand Castle",
+        "color_hex": "#886b52",
+        "redmean_distance": 11.8,
+        "url": "/shingles/owens-corning/woodcrest/sand-castle/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Cambridge",
+        "line_slug": "iko-cambridge",
+        "color_display": "Earthtone Cedar",
+        "color_hex": "#8a755a",
+        "redmean_distance": 12.2,
+        "url": "/shingles/iko/cambridge/earthtone-cedar/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Resawn Shake",
+        "color_hex": "#8e6e51",
+        "redmean_distance": 13,
+        "url": "/shingles/certainteed/landmark-pro/max-def-resawn-shake/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Resawn Shake",
+        "color_hex": "#8e6e51",
+        "redmean_distance": 13,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-resawn-shake/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Presidential Shake",
+        "line_slug": "certainteed-presidential-shake",
+        "color_display": "Weathered Wood",
+        "color_hex": "#7d6e5a",
+        "redmean_distance": 19,
+        "url": "/shingles/certainteed/presidential-shake/weathered-wood/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$209–$241",
+        "low_usd": 209,
+        "high_usd": 241,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$6,270–$7,230",
+        "low_usd": 6270,
+        "high_usd": 7230,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$18k–$31k",
+        "low_usd": 18810,
+        "high_usd": 31812,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/GAF-Timberline-Armorshield-II-33-33-sq-ft-Charcoal-Laminated-Architectural-Roof-Shingles/50419134",
+        "anchor_color": "Charcoal",
+        "page_title": "GAF Timberline Armorshield II Class 4 Charcoal Algae Resistant Architectural Roof Shingles ( 33.33-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 33.33,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-timberline-as-ii\\lowes.com__d8b89339.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "Lowe's / Home Depot retail; RoofingCalc.com",
+        "url": "https://www.roofingcalc.com/how-much-does-it-cost-to-install-gaf-shingles/",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 65,
+        "high_per_bundle_usd": 85,
+        "low_per_square_usd": 195,
+        "high_per_square_usd": 255,
+        "price_per_bundle_usd": 75,
+        "coverage_sq_ft_per_bundle": 33.33,
+        "bundles_per_square": 3,
+        "price_per_square_usd": 225,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "Class 4 impact-resistant; retail listings cluster around $74/bundle.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Timberline As Ii Shakewood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Timberline AS II Timberline As Ii Shakewood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Timberline As Ii Shakewood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-as-ii-timberline-as-ii-shakewood\\gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-as-ii-timberline-as-ii-shakewood/gaf-timberline-as-ii-timberline-as-ii-shakewood-1.avif",
+    "badge_text": "Pre-loaded: Timberline As Ii Shakewood",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-as-ii",
+      "color": "timberline-as-ii-shakewood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Timberline As Ii Shakewood, really?",
+      "a": "A warm, anchored brown with visible reddish or amber granule accents. In direct Florida sun it reads as a clear sienna or coffee; in shade it softens to a near-black. The blend is layered enough that the surface looks alive rather than flat."
+    },
+    {
+      "q": "Does Timberline As Ii Shakewood pair with red brick?",
+      "a": "Yes, and that is the canonical pairing. Brown asphalt and red brick share a warm tonal family, so they read as one coordinated elevation rather than competing colors. The trick is keeping the trim color clean and bright (warm white, soft cream) so the eye has somewhere to rest."
+    },
+    {
+      "q": "Does Timberline As Ii Shakewood fade over time?",
+      "a": "Minimally. GAF's ceramic granule coating holds warm tones for 25 plus years in Florida UV. Browns tend to drift slightly cooler over the first 5 years (a barely visible shift) and then stabilize. The full warranty covers premature fading. Source: GAF product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will Timberline As Ii Shakewood make my house run hotter?",
+      "a": "Slightly. Dark warm tones absorb similar solar heat to dark grays, adding roughly 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light gray. Proper ventilation and a radiant barrier under the decking keep monthly cooling-cost impact under 20 dollars in most homes."
+    },
+    {
+      "q": "How does Timberline As Ii Shakewood compare to other browns in the asphalt category?",
+      "a": "The 'brown' SKUs across major brands sit within a fairly tight tonal window. Most are mid-to-dark brown with warm undertones; differences are mostly in granule blend size and shadow-line depth. Use the Compare tab to see direct hex deltas against similar SKUs."
+    },
+    {
+      "q": "Is brown a 'dated' roof choice?",
+      "a": "On a contemporary white-stucco build, possibly. On a craftsman, traditional, Tudor, or Mediterranean elevation it is the most architecturally correct choice and reads as deliberate rather than dated. Picking by house style matters more than by trend."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Timberline As Ii Shakewood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-as-ii",
+      "color": "timberline-as-ii-shakewood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Wikipedia: Brown (color)",
+      "url": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "label": "GAF product page",
+      "url": "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-as-ii"
+    },
+    {
+      "label": "Wikipedia: GAF",
+      "url": "https://en.wikipedia.org/wiki/GAF_Materials_Corporation"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "brown"
+}

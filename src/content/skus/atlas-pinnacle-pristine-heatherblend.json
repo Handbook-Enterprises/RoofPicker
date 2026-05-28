@@ -1,0 +1,508 @@
+{
+  "slug": "atlas-pinnacle-pristine-heatherblend",
+  "url_path": "/shingles/atlas/pinnacle-pristine/heatherblend/",
+  "h1": "Atlas Pinnacle Pristine HEATHERBLEND Shingles",
+  "meta_title": "Atlas Pinnacle Pristine HEATHERBLEND Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Atlas Pinnacle Pristine in HEATHERBLEND: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "brown",
+  "roof_archetype": "brown",
+  "best_for_styles": [
+    "modern-farmhouse"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Atlas",
+    "brand_slug": "atlas",
+    "brand_url": "/shingles/atlas/",
+    "line_display": "Pinnacle Pristine",
+    "line_slug": "atlas-pinnacle-pristine",
+    "line_url": "/shingles/atlas/pinnacle-pristine/",
+    "color_display": "HEATHERBLEND",
+    "color_slug": "heatherblend",
+    "h1_html": "Atlas Pinnacle Pristine <em>HEATHERBLEND</em> Shingles",
+    "tagline": "A rich asphalt color that reads as one continuous plane in any light.",
+    "hex": "#7c6553",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-heatherblend\\atlas-pinnacle-pristine-heatherblend-1.png",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-heatherblend/atlas-pinnacle-pristine-heatherblend-1.png",
+    "hero_image_alt": "Home with Atlas Pinnacle Pristine HEATHERBLEND roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$123"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Atlas",
+        "url": "/shingles/atlas/"
+      },
+      {
+        "label": "Pinnacle Pristine",
+        "url": "/shingles/atlas/pinnacle-pristine/"
+      },
+      {
+        "label": "HEATHERBLEND",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "heatherblend"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Traditional architectural-shingle brown. HEATHERBLEND is a workhorse color on craftsman, traditional, and Tudor-style homes where the roof is meant to grow out of the landscape rather than contrast against it. The granule blend uses warm tobacco and weathered-wood accents to keep the surface visually alive.",
+      "The shingle profile carries a deep shadow line that emphasizes the warm tones in late-afternoon light. At dusk the entire roof becomes one quiet warm plane that ties the house into the landscape.",
+      "Pairs cleanly with brick red, cream, warm white, sage, and natural-wood siding. Slightly less flexible than the gray family on cool or modern color palettes, but unbeatable on traditional elevations."
+    ],
+    "swatch_meta": {
+      "hex": "#7c6553",
+      "family": "Brown",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#7c6553",
+      "#6c5543",
+      "#8c7563"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      },
+      {
+        "label": "Wikipedia: Brown (color)",
+        "url": "https://en.wikipedia.org/wiki/Brown"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "HP42 reinforced nailing zone, Sweet Spot nailing area. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "250 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "Scotchgard Protector",
+        "ctx": "Lifetime-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Atlas",
+        "ctx": "Atlanta, GA · made in the USA"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Pinnacle Pristine HEATHERBLEND. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-heatherblend\\atlas-pinnacle-pristine-heatherblend-1.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-heatherblend/atlas-pinnacle-pristine-heatherblend-1.png",
+        "image_filename": "atlas-pinnacle-pristine-heatherblend-1.png",
+        "alt": "Florida home with Pinnacle Pristine HEATHERBLEND roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-heatherblend\\atlas-pinnacle-pristine-heatherblend-2.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-heatherblend/atlas-pinnacle-pristine-heatherblend-2.png",
+        "image_filename": "atlas-pinnacle-pristine-heatherblend-2.png",
+        "alt": "Florida home with Pinnacle Pristine HEATHERBLEND roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-brown-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-brown-roof",
+        "angle": "front",
+        "origin_filename": "pinnacle-pristine-heatherblend-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-heatherblend\\atlas-pinnacle-pristine-heatherblend-3.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-heatherblend/atlas-pinnacle-pristine-heatherblend-3.png",
+        "image_filename": "atlas-pinnacle-pristine-heatherblend-3.png",
+        "alt": "Florida home with Pinnacle Pristine HEATHERBLEND roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-brown-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-brown-roof",
+        "angle": "right-34",
+        "origin_filename": "pinnacle-pristine-heatherblend-right-34.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-heatherblend\\atlas-pinnacle-pristine-heatherblend-4.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-heatherblend/atlas-pinnacle-pristine-heatherblend-4.png",
+        "image_filename": "atlas-pinnacle-pristine-heatherblend-4.png",
+        "alt": "Florida home with Pinnacle Pristine HEATHERBLEND roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-brown-roof, left-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-brown-roof",
+        "angle": "left-34",
+        "origin_filename": "pinnacle-pristine-heatherblend-left-34.jpg"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/atlas-pinnacle-pristine-heatherblend/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "HEATHERBLEND <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": "/white-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Monochromatic",
+        "house_color_slug": "brown",
+        "url": "/brown-house-with-brown-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>brown</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Slateline",
+        "line_slug": "gaf-slateline",
+        "color_display": "Slateline Weathered Slate",
+        "color_hex": "#7c6852",
+        "redmean_distance": 6.2,
+        "url": "/shingles/gaf/slateline/slateline-weathered-slate/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Oakridge",
+        "line_slug": "owens-corning-oakridge",
+        "color_display": "Desert Tan",
+        "color_hex": "#866451",
+        "redmean_distance": 16.3,
+        "url": "/shingles/owens-corning/oakridge/desert-tan/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Grand Manor",
+        "line_slug": "certainteed-grand-manor",
+        "color_display": "Brownstone",
+        "color_hex": "#785e4f",
+        "redmean_distance": 16.6,
+        "url": "/shingles/certainteed/grand-manor/brownstone/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Camelot Ii",
+        "line_slug": "gaf-camelot-ii",
+        "color_display": "Camelot Ii Barkwood",
+        "color_hex": "#7b6448",
+        "redmean_distance": 17.6,
+        "url": "/shingles/gaf/camelot-ii/camelot-ii-barkwood/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Heather Blend",
+        "color_hex": "#76604c",
+        "redmean_distance": 17.7,
+        "url": "/shingles/certainteed/landmark/heather-blend/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$123–$141",
+        "low_usd": 123,
+        "high_usd": 141,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,690–$4,230",
+        "low_usd": 3690,
+        "high_usd": 4230,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$11k–$18k",
+        "low_usd": 11070,
+        "high_usd": 18612,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/ATLAS-Pinnacle-Scotchgard-HP42-Asphalt-Architectural-Shingles-Pristine-Black-Shadow-618F002-3-BD-SQ-618F002/311703732",
+        "anchor_color": "",
+        "page_title": "ATLAS Pinnacle Scotchgard HP42 Asphalt Architectural Shingles-Pristine Black Shadow 618F002 (3 BD/SQ) 618F002 - The Home Depot",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\atlas-pinnacle-pristine\\homedepot.com__321295f7.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "menards.com",
+        "url": "https://www.menards.com/main/building-materials/roofing/roofing-shingles/atlas-pinnacle-reg-pristine-architectural-roofing-shingles-32-8-sq-ft/1516712/p-1536647321035-c-5814.htm",
+        "anchor_color": "Weathered Wood",
+        "page_title": "Atlas Pinnacle® Pristine Weathered Wood Architectural Roofing Shingles (32.8 sq. ft.) at Menards®",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\atlas-pinnacle-pristine\\menards.com__043a912e.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "Home Depot retail / RoofCalc.org",
+        "url": "https://www.homedepot.com/p/ATLAS-Pinnacle-Scotchgard-HP42-Asphalt-Architectural-Shingles-Pristine-Black-Shadow-618F002-3-BD-SQ-618F002/311703732",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 38,
+        "high_per_bundle_usd": 50,
+        "low_per_square_usd": 114.11,
+        "high_per_square_usd": 150.15,
+        "price_per_bundle_usd": 44,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 132.13,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "HD Black Shadow $46.47/bundle ($41.82 bulk); RoofCalc ~$38/bundle avg; sold at HD and Menards.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>HEATHERBLEND</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Atlas Pinnacle Pristine HEATHERBLEND in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with HEATHERBLEND",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-heatherblend\\atlas-pinnacle-pristine-heatherblend-1.png",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-heatherblend/atlas-pinnacle-pristine-heatherblend-1.png",
+    "badge_text": "Pre-loaded: HEATHERBLEND",
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "heatherblend"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is HEATHERBLEND, really?",
+      "a": "A warm, anchored brown with visible reddish or amber granule accents. In direct Florida sun it reads as a clear sienna or coffee; in shade it softens to a near-black. The blend is layered enough that the surface looks alive rather than flat."
+    },
+    {
+      "q": "Does HEATHERBLEND pair with red brick?",
+      "a": "Yes, and that is the canonical pairing. Brown asphalt and red brick share a warm tonal family, so they read as one coordinated elevation rather than competing colors. The trick is keeping the trim color clean and bright (warm white, soft cream) so the eye has somewhere to rest."
+    },
+    {
+      "q": "Does HEATHERBLEND fade over time?",
+      "a": "Minimally. Atlas's ceramic granule coating holds warm tones for 25 plus years in Florida UV. Browns tend to drift slightly cooler over the first 5 years (a barely visible shift) and then stabilize. The full warranty covers premature fading. Source: Atlas product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will HEATHERBLEND make my house run hotter?",
+      "a": "Slightly. Dark warm tones absorb similar solar heat to dark grays, adding roughly 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light gray. Proper ventilation and a radiant barrier under the decking keep monthly cooling-cost impact under 20 dollars in most homes."
+    },
+    {
+      "q": "How does HEATHERBLEND compare to other browns in the asphalt category?",
+      "a": "The 'brown' SKUs across major brands sit within a fairly tight tonal window. Most are mid-to-dark brown with warm undertones; differences are mostly in granule blend size and shadow-line depth. Use the Compare tab to see direct hex deltas against similar SKUs."
+    },
+    {
+      "q": "Is brown a 'dated' roof choice?",
+      "a": "On a contemporary white-stucco build, possibly. On a craftsman, traditional, Tudor, or Mediterranean elevation it is the most architecturally correct choice and reads as deliberate rather than dated. Picking by house style matters more than by trend."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>HEATHERBLEND</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "heatherblend"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Wikipedia: Brown (color)",
+      "url": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "label": "Atlas product page",
+      "url": "https://www.atlasroofing.com/products/roof-shingles/pinnacle-pristine-shingles"
+    },
+    {
+      "label": "Wikipedia: Atlas",
+      "url": "https://en.wikipedia.org/wiki/Atlas_Roofing_Corporation"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "brown"
+}

@@ -1,0 +1,520 @@
+{
+  "slug": "gaf-timberline-hdz-weathered-wood",
+  "url_path": "/shingles/gaf/timberline-hdz/weathered-wood/",
+  "h1": "GAF Timberline HDZ Weathered Wood Shingles",
+  "meta_title": "GAF Timberline HDZ Weathered Wood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "GAF Timberline HDZ in Weathered Wood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "weathered-wood",
+  "best_for_styles": [
+    "cape-cod",
+    "craftsman",
+    "victorian",
+    "colonial",
+    "traditional"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "GAF",
+    "brand_slug": "gaf",
+    "brand_url": "/shingles/gaf/",
+    "line_display": "Timberline HDZ",
+    "line_slug": "gaf-timberline-hdz",
+    "line_url": "/shingles/gaf/timberline-hdz/",
+    "color_display": "Weathered Wood",
+    "color_slug": "weathered-wood",
+    "h1_html": "GAF Timberline HDZ <em>Weathered Wood</em> Shingles",
+    "tagline": "A timeless asphalt color that recedes visually and lets the siding lead.",
+    "hex": "#6b6555",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-weathered-wood\\gaf-timberline-hdz-weathered-wood-1.jpg",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-weathered-wood/gaf-timberline-hdz-weathered-wood-1.jpg",
+    "hero_image_alt": "Home with GAF Timberline HDZ Weathered Wood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "Up to 150"
+      },
+      {
+        "label": "Warranty",
+        "val": "30 yrs"
+      },
+      {
+        "label": "Per square",
+        "val": "$137"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "GAF",
+        "url": "/shingles/gaf/"
+      },
+      {
+        "label": "Timberline HDZ",
+        "url": "/shingles/gaf/timberline-hdz/"
+      },
+      {
+        "label": "Weathered Wood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-hdz",
+      "color": "weathered-wood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Designers reach for Weathered Wood when they want a roof that disappears into 'looks correct' rather than competing for attention. It is balanced, slightly cool, and difficult to pair badly. On a Florida house with bright sun and white stucco, it is one of the safest specifications you can write.",
+      "The shingle profile carries a deep shadow line that emphasizes the gray tone in midday light. At dusk the whole roof becomes one quiet plane that frames the rest of the house instead of competing with it.",
+      "Difficult to pair badly. The one place it disagrees: bright primary-yellow houses, where the cool undertone fights the warm siding."
+    ],
+    "swatch_meta": {
+      "hex": "#6b6555",
+      "family": "Gray",
+      "undertone": "Warm slate",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#6b6555",
+      "#534f44",
+      "#807a68"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "30 years",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "Up to 150 mph",
+        "ctx": "WindProven Limited Wind Warranty has no maximum wind-speed cap when installed with four qualifying GAF accessories. ASTM D3161 Class F."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "240 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StainGuard Plus",
+        "ctx": "25-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "GAF",
+        "ctx": "Parsippany, NJ · made in the USA"
+      },
+      {
+        "cat": "Pieces / square",
+        "val": "64",
+        "ctx": "Coverage: 100 sq ft per square"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Advanced Algae Protection Sell Sheet - RESGN439",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/advanced-algae-protection-sell-sheet-resgn439.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "DuraGrip WindProven Technology Sell Sheet - RESGN751",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/duragrip-windproven-technology-sell-sheet-resgn751.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "EcoDark Granules Sell Sheet - RESGN486",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/ecodark-granules-sell-sheet-resgn486.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Laminated Shingles SDS - 2093",
+        "url": "https://www.gaf.com/en-us/document-library/documents/safety-data-sheets/laminated-shingles-sds-2093.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "LayerLock Technology Sell Sheet - RESTZ114",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/layerlock-technology-sell-sheet-restz114.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Timberline Collection Brochure - RESTL100-CL4",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/gaf-timberline-collection-brochure-restl100-cl4.pdf",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Timberline HDZ Weathered Wood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-weathered-wood\\gaf-timberline-hdz-weathered-wood-1.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-weathered-wood/gaf-timberline-hdz-weathered-wood-1.jpg",
+        "image_filename": "gaf-timberline-hdz-weathered-wood-1.jpg",
+        "alt": "Florida home with Timberline HDZ Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-weathered-wood\\gaf-timberline-hdz-weathered-wood-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-weathered-wood/gaf-timberline-hdz-weathered-wood-2.jpg",
+        "image_filename": "gaf-timberline-hdz-weathered-wood-2.jpg",
+        "alt": "Florida home with Timberline HDZ Weathered Wood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-weathered-wood\\gaf-timberline-hdz-weathered-wood-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-weathered-wood/gaf-timberline-hdz-weathered-wood-3.jpg",
+        "image_filename": "gaf-timberline-hdz-weathered-wood-3.jpg",
+        "alt": "Florida home with Timberline HDZ Weathered Wood roof",
+        "tag": "AI-rendered example (street view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-hdz-weathered-wood-1.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-weathered-wood\\gaf-timberline-hdz-weathered-wood-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-weathered-wood/gaf-timberline-hdz-weathered-wood-4.jpg",
+        "image_filename": "gaf-timberline-hdz-weathered-wood-4.jpg",
+        "alt": "Florida home with Timberline HDZ Weathered Wood roof",
+        "tag": "AI-rendered example (dusk view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-hdz-weathered-wood-1.jpg"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/gaf-timberline-hdz-weathered-wood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Weathered Wood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-weathered-wood-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Driftwood",
+        "color_hex": "#6d635a",
+        "redmean_distance": 9.5,
+        "url": "/shingles/certainteed/landmark/driftwood/"
+      },
+      {
+        "brand_display": "TAMKO",
+        "brand_slug": "tamko",
+        "line_display": "Heritage",
+        "line_slug": "tamko-heritage",
+        "color_display": "Weathered Wood",
+        "color_hex": "#6f635a",
+        "redmean_distance": 10.9,
+        "url": "/shingles/tamko/heritage/weathered-wood/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Belmont",
+        "line_slug": "certainteed-belmont",
+        "color_display": "Weathered Wood",
+        "color_hex": "#71655a",
+        "redmean_distance": 12.3,
+        "url": "/shingles/certainteed/belmont/weathered-wood/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "WEATHERED WOOD",
+        "color_hex": "#6e645d",
+        "redmean_distance": 13.8,
+        "url": "/shingles/atlas/pinnacle-pristine/weathered-wood/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Sentinel Slate",
+        "color_hex": "#6a5f5a",
+        "redmean_distance": 14.5,
+        "url": "/shingles/iko/dynasty/sentinel-slate/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$137–$157",
+        "low_usd": 137,
+        "high_usd": 157,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$4,110–$4,710",
+        "low_usd": 4110,
+        "high_usd": 4710,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$12k–$20k",
+        "low_usd": 12330,
+        "high_usd": 20724,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/GAF-Timberline-HDZ-Charcoal-Algae-Resistant-Architectural-Roof-Shingles-33-33-sq-ft-per-Bundle/1001327246",
+        "anchor_color": "Charcoal",
+        "page_title": "GAF Timberline HDZ Charcoal Algae Resistant Architectural Roof Shingles ( 33.33-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 49,
+        "coverage_sq_ft_per_bundle": 33.33,
+        "bundles_per_square": 3,
+        "price_per_square_usd": 147,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-timberline-hdz\\lowes.com__d41e97ce.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Charcoal-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489180/309755006",
+        "anchor_color": "Charcoal",
+        "page_title": "GAF Timberline HDZ Charcoal Algae Resistant Laminated High Definition Shingles (33.33 sq. ft. per Bundle) 0489180 - The Home Depot",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 33.33,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-timberline-hdz\\homedepot.com__08094e4f.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Weathered Wood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Timberline HDZ Weathered Wood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Weathered Wood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-weathered-wood\\gaf-timberline-hdz-weathered-wood-1.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-weathered-wood/gaf-timberline-hdz-weathered-wood-1.jpg",
+    "badge_text": "Pre-loaded: Weathered Wood",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-hdz",
+      "color": "weathered-wood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Weathered Wood, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Weathered Wood fade over time?",
+      "a": "Minimally. GAF's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: GAF product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Weathered Wood look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Weathered Wood make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across GAF, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. GAF's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Weathered Wood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-hdz",
+      "color": "weathered-wood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "GAF product page",
+      "url": "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz"
+    },
+    {
+      "label": "Wikipedia: GAF",
+      "url": "https://en.wikipedia.org/wiki/GAF_Materials_Corporation"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

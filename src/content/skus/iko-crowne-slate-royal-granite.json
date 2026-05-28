@@ -1,0 +1,505 @@
+{
+  "slug": "iko-crowne-slate-royal-granite",
+  "url_path": "/shingles/iko/crowne-slate/royal-granite/",
+  "h1": "IKO Crowne Slate Royal Granite Shingles",
+  "meta_title": "IKO Crowne Slate Royal Granite Shingles · Color, Specs, Price (2026)",
+  "meta_description": "IKO Crowne Slate in Royal Granite: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "red",
+  "roof_archetype": null,
+  "best_for_styles": [
+    "mediterranean",
+    "spanish-revival",
+    "tuscan",
+    "tudor"
+  ],
+  "hail_rating_class": null,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Luxury / Slate-look",
+    "brand_display": "IKO",
+    "brand_slug": "iko",
+    "brand_url": "/shingles/iko/",
+    "line_display": "Crowne Slate",
+    "line_slug": "iko-crowne-slate",
+    "line_url": "/shingles/iko/crowne-slate/",
+    "color_display": "Royal Granite",
+    "color_slug": "royal-granite",
+    "h1_html": "IKO Crowne Slate <em>Royal Granite</em> Shingles",
+    "tagline": "A confident reddish-brown that nods to traditional tile without the cost.",
+    "hex": "#4d3a36",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-crowne-slate-royal-granite\\iko-crowne-slate-royal-granite-1.webp",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-crowne-slate-royal-granite/iko-crowne-slate-royal-granite-1.webp",
+    "hero_image_alt": "Home with IKO Crowne Slate Royal Granite roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$280"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "IKO",
+        "url": "/shingles/iko/"
+      },
+      {
+        "label": "Crowne Slate",
+        "url": "/shingles/iko/crowne-slate/"
+      },
+      {
+        "label": "Royal Granite",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "crowne-slate",
+      "color": "royal-granite"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Royal Granite is the warm-end specialty color in the Crowne Slate catalog. It reads as a deep russet in direct sun, softening to a warm brown in shade. The granule blend leans red, with iron-oxide accents that approximate the look of a Mediterranean clay tile without the weight or the cost.",
+      "The shingle profile holds enough shadow line that the red tone deepens at sunset rather than washing out. Florida's bright midday light flatters this color especially well.",
+      "Pairs naturally with cream and warm-white stucco, terra-cotta accents, and natural-wood doors and shutters. Less flexible than the gray family but unbeatable on the right architectural style."
+    ],
+    "swatch_meta": {
+      "hex": "#4d3a36",
+      "family": "Red / Russet",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#4d3a36",
+      "#5d3d36",
+      "#3a3431"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Spanish architecture",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Colonial_Revival_architecture"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Luxury / Slate-look",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "Slate-profile luxury laminate with ArmourZone. ASTM D3161 Class F."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Not rated",
+        "ctx": "UL 2218 impact rating not claimed on the manufacturer warranty card."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "325 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "AR (Algae Resistant)",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "IKO",
+        "ctx": "Brampton, Ontario · made in the Canada"
+      },
+      {
+        "cat": "Exposure",
+        "val": "10 inches (254 mm)",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "IKO CRWN SLTE SHGL BROC EN",
+        "url": "https://mediaresourcecenter.iko.com/m/ba6c202adc376b93/original/IKO_CRWN_SLTE_SHGL_BROC_EN.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO CRWN SHGL SLTE SELLS CONTR US EN",
+        "url": "https://mediaresourcecenter.iko.com/m/96d6d68dd5ca5479/original/IKO_CRWN_SHGL_SLTE_SELLS_CONTR_US_EN.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO CRWN SLTE SHGL BROC HMWR CA EN",
+        "url": "https://mediaresourcecenter.iko.com/m/9141c29a99e54504/original/IKO_CRWN_SLTE_SHGL_BROC_HMWR_CA_EN.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO CRWN SLTE SHGL SELLS CONTR CA EN",
+        "url": "https://mediaresourcecenter.iko.com/m/2d200d57f2f7c314/original/IKO_CRWN_SLTE_SHGL_SELLS_CONTR_CA_EN.pdf",
+        "type": "doc"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Crowne Slate Royal Granite. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-crowne-slate-royal-granite\\iko-crowne-slate-royal-granite-1.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-crowne-slate-royal-granite/iko-crowne-slate-royal-granite-1.webp",
+        "image_filename": "iko-crowne-slate-royal-granite-1.webp",
+        "alt": "Florida home with Crowne Slate Royal Granite roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-crowne-slate-royal-granite\\iko-crowne-slate-royal-granite-2.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-crowne-slate-royal-granite/iko-crowne-slate-royal-granite-2.webp",
+        "image_filename": "iko-crowne-slate-royal-granite-2.webp",
+        "alt": "Florida home with Crowne Slate Royal Granite roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-crowne-slate-royal-granite\\iko-crowne-slate-royal-granite-3.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-crowne-slate-royal-granite/iko-crowne-slate-royal-granite-3.webp",
+        "image_filename": "iko-crowne-slate-royal-granite-3.webp",
+        "alt": "Florida home with Crowne Slate Royal Granite roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-crowne-slate-royal-granite\\iko-crowne-slate-royal-granite-4.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-crowne-slate-royal-granite/iko-crowne-slate-royal-granite-4.webp",
+        "image_filename": "iko-crowne-slate-royal-granite-4.webp",
+        "alt": "Florida home with Crowne Slate Royal Granite roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-crowne-slate-royal-granite\\iko-crowne-slate-royal-granite-5.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-crowne-slate-royal-granite/iko-crowne-slate-royal-granite-5.webp",
+        "image_filename": "iko-crowne-slate-royal-granite-5.webp",
+        "alt": "Florida home with Crowne Slate Royal Granite roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      }
+    ],
+    "tiles_total": 5,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/iko-crowne-slate-royal-granite/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Royal Granite <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream Stucco",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic Mediterranean",
+        "house_color_slug": "cream",
+        "url": null
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": null
+      },
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp contrast",
+        "house_color_slug": "white",
+        "url": null
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brown",
+        "url": null
+      },
+      {
+        "color_name": "Olive Green",
+        "color_hex": "#7C7A4B",
+        "kicker": "Mediterranean accent",
+        "house_color_slug": "sage-green",
+        "url": null
+      }
+    ],
+    "note": "We do not yet have full-render combination pages for this color family."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>red / russet</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Espresso",
+        "color_hex": "#4a3d36",
+        "redmean_distance": 7.5,
+        "url": "/shingles/certainteed/landmark-pro/max-def-espresso/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Espresso",
+        "color_hex": "#4a3d36",
+        "redmean_distance": 7.5,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-espresso/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Woodcrest",
+        "line_slug": "owens-corning-woodcrest",
+        "color_display": "Mesquite",
+        "color_hex": "#49413c",
+        "redmean_distance": 18.2,
+        "url": "/shingles/owens-corning/woodcrest/mesquite/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Shenandoah",
+        "color_hex": "#54382d",
+        "redmean_distance": 18.6,
+        "url": "/shingles/certainteed/landmark-pro/max-def-shenandoah/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Grand Sequoia",
+        "line_slug": "gaf-grand-sequoia",
+        "color_display": "Grand Sequoia Autumn Brown",
+        "color_hex": "#4a3a2a",
+        "redmean_distance": 20.2,
+        "url": "/shingles/gaf/grand-sequoia/grand-sequoia-autumn-brown/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$280–$322",
+        "low_usd": 280,
+        "high_usd": 322,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$8,400–$9,660",
+        "low_usd": 8400,
+        "high_usd": 9660,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$25k–$42k",
+        "low_usd": 25200,
+        "high_usd": 42504,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/IKO-IKO-Crowne-Slate-Premium-Asphalt-Designer-Roof-Shingles-Regal-Stone-4450080/324039519",
+        "anchor_color": "",
+        "page_title": "IKO IKO Crowne Slate Premium Asphalt Designer Roof Shingles Regal Stone 4450080 - The Home Depot",
+        "price_per_bundle_usd": 75.14,
+        "coverage_sq_ft_per_bundle": 25,
+        "bundles_per_square": 4,
+        "price_per_square_usd": 300.56,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\iko-crowne-slate\\homedepot.com__d47add5f.html",
+        "scraped_ok": true,
+        "error": null,
+        "coverage_source": "line_default"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Royal Granite</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Crowne Slate Royal Granite in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Royal Granite",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-crowne-slate-royal-granite\\iko-crowne-slate-royal-granite-1.webp",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-crowne-slate-royal-granite/iko-crowne-slate-royal-granite-1.webp",
+    "badge_text": "Pre-loaded: Royal Granite",
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "crowne-slate",
+      "color": "royal-granite"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Royal Granite, really?",
+      "a": "A warm, confident red with visible iron-oxide and brick-toned granule accents. In direct Florida sun it reads as a clear russet; in shade it deepens toward warm brown. Far more committed to red than the typical 'warm brown' SKU in the asphalt category."
+    },
+    {
+      "q": "Does Royal Granite look natural on a non-Mediterranean home?",
+      "a": "Sometimes, depending on the rest of the palette. The color was specified historically to approximate Spanish and Mediterranean tile roofs, and it reads most naturally on those styles. On a traditional craftsman or Tudor it can work with the right warm-tone siding. On a contemporary all-white build it almost always reads as out of period."
+    },
+    {
+      "q": "Does Royal Granite fade over time?",
+      "a": "Some. Red asphalt shingles use iron-oxide pigments in the granule blend, and reds drift cooler more visibly than grays or browns under prolonged UV exposure. Expect a slight shift toward warm brown over the first 7 to 10 years in Florida sun. The shift is uniform, so the roof still looks coordinated. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will Royal Granite make my house run hotter?",
+      "a": "Slightly. Red asphalt absorbs roughly the same solar heat as a mid-dark gray or brown. In Florida that adds 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light-gray roof. Proper attic ventilation and a radiant barrier reduce monthly cooling impact to under 20 dollars in most homes."
+    },
+    {
+      "q": "How does Royal Granite compare to clay tile?",
+      "a": "Clay tile costs roughly 4 to 6 times more installed and weighs roughly 6 times more per square. The visual difference at street distance is small enough that most homeowners cannot distinguish the two without close inspection. The asphalt option also installs on a standard roof structure without engineered reinforcement."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. IKO's algae-resistance package uses copper- or zinc-infused granules that inhibit Gloeocapsa magma, the dark-streak algae endemic to Florida and the Gulf Coast. Reds show the streaks less visibly than grays do even if growth occurs."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Royal Granite</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "crowne-slate",
+      "color": "royal-granite"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Spanish architecture",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Colonial_Revival_architecture"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "IKO product page",
+      "url": "https://www.iko.com/na/product/crowne-slate-designer-shingles/"
+    },
+    {
+      "label": "Wikipedia: IKO",
+      "url": "https://en.wikipedia.org/wiki/IKO_Industries"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "red"
+}

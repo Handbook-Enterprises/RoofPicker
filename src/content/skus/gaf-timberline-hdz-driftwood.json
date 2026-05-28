@@ -1,0 +1,529 @@
+{
+  "slug": "gaf-timberline-hdz-driftwood",
+  "url_path": "/shingles/gaf/timberline-hdz/driftwood/",
+  "h1": "GAF Timberline HDZ Driftwood Shingles",
+  "meta_title": "GAF Timberline HDZ Driftwood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "GAF Timberline HDZ in Driftwood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "brown",
+  "roof_archetype": "weathered-wood",
+  "best_for_styles": [
+    "cape-cod",
+    "craftsman",
+    "victorian",
+    "colonial",
+    "traditional"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "GAF",
+    "brand_slug": "gaf",
+    "brand_url": "/shingles/gaf/",
+    "line_display": "Timberline HDZ",
+    "line_slug": "gaf-timberline-hdz",
+    "line_url": "/shingles/gaf/timberline-hdz/",
+    "color_display": "Driftwood",
+    "color_slug": "driftwood",
+    "h1_html": "GAF Timberline HDZ <em>Driftwood</em> Shingles",
+    "tagline": "A rich asphalt color that reads as one continuous plane in any light.",
+    "hex": "#897564",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-driftwood\\gaf-timberline-hdz-driftwood-1.jpg",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-driftwood/gaf-timberline-hdz-driftwood-1.jpg",
+    "hero_image_alt": "Home with GAF Timberline HDZ Driftwood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "Up to 150"
+      },
+      {
+        "label": "Warranty",
+        "val": "30 yrs"
+      },
+      {
+        "label": "Per square",
+        "val": "$137"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "GAF",
+        "url": "/shingles/gaf/"
+      },
+      {
+        "label": "Timberline HDZ",
+        "url": "/shingles/gaf/timberline-hdz/"
+      },
+      {
+        "label": "Driftwood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-hdz",
+      "color": "driftwood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Traditional architectural-shingle brown. Driftwood is a workhorse color on craftsman, traditional, and Tudor-style homes where the roof is meant to grow out of the landscape rather than contrast against it. The granule blend uses warm tobacco and weathered-wood accents to keep the surface visually alive.",
+      "The shingle profile carries a deep shadow line that emphasizes the warm tones in late-afternoon light. At dusk the entire roof becomes one quiet warm plane that ties the house into the landscape.",
+      "Pairs cleanly with brick red, cream, warm white, sage, and natural-wood siding. Slightly less flexible than the gray family on cool or modern color palettes, but unbeatable on traditional elevations."
+    ],
+    "swatch_meta": {
+      "hex": "#897564",
+      "family": "Brown",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#897564",
+      "#a08c78",
+      "#6b5a4d"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      },
+      {
+        "label": "Wikipedia: Brown (color)",
+        "url": "https://en.wikipedia.org/wiki/Brown"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "30 years",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "Up to 150 mph",
+        "ctx": "WindProven Limited Wind Warranty has no maximum wind-speed cap when installed with four qualifying GAF accessories. ASTM D3161 Class F."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "240 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StainGuard Plus",
+        "ctx": "25-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "GAF",
+        "ctx": "Parsippany, NJ · made in the USA"
+      },
+      {
+        "cat": "Pieces / square",
+        "val": "64",
+        "ctx": "Coverage: 100 sq ft per square"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Advanced Algae Protection Sell Sheet - RESGN439",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/advanced-algae-protection-sell-sheet-resgn439.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "DuraGrip WindProven Technology Sell Sheet - RESGN751",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/duragrip-windproven-technology-sell-sheet-resgn751.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "EcoDark Granules Sell Sheet - RESGN486",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/ecodark-granules-sell-sheet-resgn486.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Laminated Shingles SDS - 2093",
+        "url": "https://www.gaf.com/en-us/document-library/documents/safety-data-sheets/laminated-shingles-sds-2093.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "LayerLock Technology Sell Sheet - RESTZ114",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/layerlock-technology-sell-sheet-restz114.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Timberline Collection Brochure - RESTL100-CL4",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/gaf-timberline-collection-brochure-restl100-cl4.pdf",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Timberline HDZ Driftwood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-driftwood\\gaf-timberline-hdz-driftwood-1.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-driftwood/gaf-timberline-hdz-driftwood-1.jpg",
+        "image_filename": "gaf-timberline-hdz-driftwood-1.jpg",
+        "alt": "Florida home with Timberline HDZ Driftwood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-driftwood\\gaf-timberline-hdz-driftwood-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-driftwood/gaf-timberline-hdz-driftwood-2.jpg",
+        "image_filename": "gaf-timberline-hdz-driftwood-2.jpg",
+        "alt": "Florida home with Timberline HDZ Driftwood roof",
+        "tag": "AI-rendered example (street view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-hdz-driftwood-1.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-driftwood\\gaf-timberline-hdz-driftwood-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-driftwood/gaf-timberline-hdz-driftwood-3.jpg",
+        "image_filename": "gaf-timberline-hdz-driftwood-3.jpg",
+        "alt": "Florida home with Timberline HDZ Driftwood roof",
+        "tag": "AI-rendered example (dusk view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-hdz-driftwood-1.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-driftwood\\gaf-timberline-hdz-driftwood-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-driftwood/gaf-timberline-hdz-driftwood-4.jpg",
+        "image_filename": "gaf-timberline-hdz-driftwood-4.jpg",
+        "alt": "Florida home with Timberline HDZ Driftwood roof",
+        "tag": "AI-rendered example (morning view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-timberline-hdz-driftwood-1.jpg"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/gaf-timberline-hdz-driftwood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Driftwood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": "/white-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Monochromatic",
+        "house_color_slug": "brown",
+        "url": "/brown-house-with-weathered-wood-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>brown</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Cambridge",
+        "line_slug": "iko-cambridge",
+        "color_display": "Beachwood",
+        "color_hex": "#877b66",
+        "redmean_distance": 12.8,
+        "url": "/shingles/iko/cambridge/beachwood/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Painted Desert",
+        "color_hex": "#917663",
+        "redmean_distance": 13,
+        "url": "/shingles/certainteed/landmark/painted-desert/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Cambridge",
+        "line_slug": "iko-cambridge",
+        "color_display": "Earthtone Cedar",
+        "color_hex": "#8a755a",
+        "redmean_distance": 15.8,
+        "url": "/shingles/iko/cambridge/earthtone-cedar/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration",
+        "line_slug": "owens-corning-duration",
+        "color_display": "Sand Castle",
+        "color_hex": "#8f7d64",
+        "redmean_distance": 18.6,
+        "url": "/shingles/owens-corning/duration/sand-castle/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "TAN MIST",
+        "color_hex": "#917a6b",
+        "redmean_distance": 19.6,
+        "url": "/shingles/atlas/pinnacle-pristine/tan-mist/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$137–$157",
+        "low_usd": 137,
+        "high_usd": 157,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$4,110–$4,710",
+        "low_usd": 4110,
+        "high_usd": 4710,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$12k–$20k",
+        "low_usd": 12330,
+        "high_usd": 20724,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/GAF-Timberline-HDZ-Charcoal-Algae-Resistant-Architectural-Roof-Shingles-33-33-sq-ft-per-Bundle/1001327246",
+        "anchor_color": "Charcoal",
+        "page_title": "GAF Timberline HDZ Charcoal Algae Resistant Architectural Roof Shingles ( 33.33-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 49,
+        "coverage_sq_ft_per_bundle": 33.33,
+        "bundles_per_square": 3,
+        "price_per_square_usd": 147,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-timberline-hdz\\lowes.com__d41e97ce.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Charcoal-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489180/309755006",
+        "anchor_color": "Charcoal",
+        "page_title": "GAF Timberline HDZ Charcoal Algae Resistant Laminated High Definition Shingles (33.33 sq. ft. per Bundle) 0489180 - The Home Depot",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 33.33,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-timberline-hdz\\homedepot.com__08094e4f.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Driftwood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Timberline HDZ Driftwood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Driftwood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-driftwood\\gaf-timberline-hdz-driftwood-1.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-driftwood/gaf-timberline-hdz-driftwood-1.jpg",
+    "badge_text": "Pre-loaded: Driftwood",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-hdz",
+      "color": "driftwood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Driftwood, really?",
+      "a": "A warm, anchored brown with visible reddish or amber granule accents. In direct Florida sun it reads as a clear sienna or coffee; in shade it softens to a near-black. The blend is layered enough that the surface looks alive rather than flat."
+    },
+    {
+      "q": "Does Driftwood pair with red brick?",
+      "a": "Yes, and that is the canonical pairing. Brown asphalt and red brick share a warm tonal family, so they read as one coordinated elevation rather than competing colors. The trick is keeping the trim color clean and bright (warm white, soft cream) so the eye has somewhere to rest."
+    },
+    {
+      "q": "Does Driftwood fade over time?",
+      "a": "Minimally. GAF's ceramic granule coating holds warm tones for 25 plus years in Florida UV. Browns tend to drift slightly cooler over the first 5 years (a barely visible shift) and then stabilize. The full warranty covers premature fading. Source: GAF product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will Driftwood make my house run hotter?",
+      "a": "Slightly. Dark warm tones absorb similar solar heat to dark grays, adding roughly 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light gray. Proper ventilation and a radiant barrier under the decking keep monthly cooling-cost impact under 20 dollars in most homes."
+    },
+    {
+      "q": "How does Driftwood compare to other browns in the asphalt category?",
+      "a": "The 'brown' SKUs across major brands sit within a fairly tight tonal window. Most are mid-to-dark brown with warm undertones; differences are mostly in granule blend size and shadow-line depth. Use the Compare tab to see direct hex deltas against similar SKUs."
+    },
+    {
+      "q": "Is brown a 'dated' roof choice?",
+      "a": "On a contemporary white-stucco build, possibly. On a craftsman, traditional, Tudor, or Mediterranean elevation it is the most architecturally correct choice and reads as deliberate rather than dated. Picking by house style matters more than by trend."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Driftwood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "timberline-hdz",
+      "color": "driftwood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Wikipedia: Brown (color)",
+      "url": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "label": "GAF product page",
+      "url": "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz"
+    },
+    {
+      "label": "Wikipedia: GAF",
+      "url": "https://en.wikipedia.org/wiki/GAF_Materials_Corporation"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "brown"
+}

@@ -1,0 +1,553 @@
+{
+  "slug": "certainteed-landmark-pro-max-def-heather-blend",
+  "url_path": "/shingles/certainteed/landmark-pro/max-def-heather-blend/",
+  "h1": "CertainTeed Landmark Pro Max Def Heather Blend Shingles",
+  "meta_title": "CertainTeed Landmark Pro Max Def Heather Blend Shingles · Color, Specs, Price (2026)",
+  "meta_description": "CertainTeed Landmark Pro in Max Def Heather Blend: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "brown",
+  "roof_archetype": "brown",
+  "best_for_styles": [
+    "ranch"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "CertainTeed",
+    "brand_slug": "certainteed",
+    "brand_url": "/shingles/certainteed/",
+    "line_display": "Landmark Pro",
+    "line_slug": "certainteed-landmark-pro",
+    "line_url": "/shingles/certainteed/landmark-pro/",
+    "color_display": "Max Def Heather Blend",
+    "color_slug": "max-def-heather-blend",
+    "h1_html": "CertainTeed Landmark Pro <em>Max Def Heather Blend</em> Shingles",
+    "tagline": "A rich asphalt color that reads as one continuous plane in any light.",
+    "hex": "#6d513e",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-heather-blend\\certainteed-landmark-pro-max-def-heather-blend-1.jpg",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-heather-blend/certainteed-landmark-pro-max-def-heather-blend-1.jpg",
+    "hero_image_alt": "Home with CertainTeed Landmark Pro Max Def Heather Blend roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$138"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "CertainTeed",
+        "url": "/shingles/certainteed/"
+      },
+      {
+        "label": "Landmark Pro",
+        "url": "/shingles/certainteed/landmark-pro/"
+      },
+      {
+        "label": "Max Def Heather Blend",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "landmark-pro",
+      "color": "max-def-heather-blend"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Traditional architectural-shingle brown. Max Def Heather Blend is a workhorse color on craftsman, traditional, and Tudor-style homes where the roof is meant to grow out of the landscape rather than contrast against it. The granule blend uses warm tobacco and weathered-wood accents to keep the surface visually alive.",
+      "The granule blend layers tobacco, amber, and dark walnut granules in a tight rotation. Up close you can see the layering; from the street it reads as one warm color with subtle texture.",
+      "Difficult to use poorly on a craftsman, traditional, or Tudor home. Harder to specify on a stark modern build where the warmth of the roof can fight the rest of the palette."
+    ],
+    "swatch_meta": {
+      "hex": "#6d513e",
+      "family": "Brown",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#6d513e",
+      "#4c3f34",
+      "#85604a"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-landmark-pro-max-def-heather-blend\\certainteed-landmark-pro-max-def-heather-blend-swatch.jpg",
+      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-landmark-pro-max-def-heather-blend/certainteed-landmark-pro-max-def-heather-blend-swatch.jpg",
+      "image_filename": "certainteed-landmark-pro-max-def-heather-blend-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "landmarkpremium-mdhebl-swatch.jpeg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      },
+      {
+        "label": "Wikipedia: Brown (color)",
+        "url": "https://en.wikipedia.org/wiki/Brown"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "130 mph with SureStart Plus upgrade. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "270 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakFighter",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "CertainTeed",
+        "ctx": "Malvern, PA · made in the USA"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Historical Roofing Warranties - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/0k71w1oizd/pdf/Historical-Asphalt-Roofing-Warranties-1988-2025.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 International Limited Warranty - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/1nmszdhkin/pdf/asphalt-international-warranty-00-02-5544-XP-EN-2601.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 Asphalt Shingles Limited Warranty - Residential",
+        "url": "https://certainteed.widen.net/content/cu4q0koymx/pdf/asphalt-low-slope-shingle-warranty-00-02-5540-NA-EN-2602.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 | Wind Warranty Sell Sheet",
+        "url": "https://certainteed.widen.net/content/nwzj0hed8h/pdf/wind-warranty-sellsheet-00-04-5812-NA-EN-2603.pdf?u=otft5c",
+        "type": "warranty"
+      },
+      {
+        "label": "Brochure - Third Party Classification",
+        "url": "https://certainteed.widen.net/content/evxm8pieio/pdf/roofing-ulclassified-brochure-00-00-17-US-EN--2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      },
+      {
+        "label": "Sell Sheet - Landmark PRO - Red Oak",
+        "url": "https://certainteed.widen.net/content/lsg6lobg1i/pdf/landmarkpro-redoak-sellsheet-00-04-1405-NA-EN-2207.pdf?u=nwk4fd",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Landmark Pro Max Def Heather Blend. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-heather-blend\\certainteed-landmark-pro-max-def-heather-blend-1.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-heather-blend/certainteed-landmark-pro-max-def-heather-blend-1.jpg",
+        "image_filename": "certainteed-landmark-pro-max-def-heather-blend-1.jpg",
+        "alt": "Florida home with Landmark Pro Max Def Heather Blend roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-heather-blend\\certainteed-landmark-pro-max-def-heather-blend-2.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-heather-blend/certainteed-landmark-pro-max-def-heather-blend-2.png",
+        "image_filename": "certainteed-landmark-pro-max-def-heather-blend-2.png",
+        "alt": "Florida home with Landmark Pro Max Def Heather Blend roof",
+        "tag": "AI-rendered example (ranch-with-brown-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "ranch-with-brown-roof",
+        "angle": "front",
+        "origin_filename": "landmark-pro-max-def-heather-blend-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-heather-blend\\certainteed-landmark-pro-max-def-heather-blend-3.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-heather-blend/certainteed-landmark-pro-max-def-heather-blend-3.png",
+        "image_filename": "certainteed-landmark-pro-max-def-heather-blend-3.png",
+        "alt": "Florida home with Landmark Pro Max Def Heather Blend roof",
+        "tag": "AI-rendered example (ranch-with-brown-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "ranch-with-brown-roof",
+        "angle": "right-34",
+        "origin_filename": "landmark-pro-max-def-heather-blend-right-34.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-heather-blend\\certainteed-landmark-pro-max-def-heather-blend-4.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-heather-blend/certainteed-landmark-pro-max-def-heather-blend-4.png",
+        "image_filename": "certainteed-landmark-pro-max-def-heather-blend-4.png",
+        "alt": "Florida home with Landmark Pro Max Def Heather Blend roof",
+        "tag": "AI-rendered example (ranch-with-brown-roof, left-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "ranch-with-brown-roof",
+        "angle": "left-34",
+        "origin_filename": "landmark-pro-max-def-heather-blend-left-34.jpg"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/certainteed-landmark-pro-max-def-heather-blend/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Max Def Heather Blend <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": "/white-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Monochromatic",
+        "house_color_slug": "brown",
+        "url": "/brown-house-with-brown-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>brown</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration",
+        "line_slug": "owens-corning-duration",
+        "color_display": "Teak",
+        "color_hex": "#6b4f3f",
+        "redmean_distance": 5.3,
+        "url": "/shingles/owens-corning/duration/teak/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration",
+        "line_slug": "owens-corning-duration",
+        "color_display": "Brownwood",
+        "color_hex": "#6e4e3f",
+        "redmean_distance": 6.4,
+        "url": "/shingles/owens-corning/duration/brownwood/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "COPPER CANYON",
+        "color_hex": "#6e553e",
+        "redmean_distance": 8.2,
+        "url": "/shingles/atlas/pinnacle-pristine/copper-canyon/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Oakridge",
+        "line_slug": "owens-corning-oakridge",
+        "color_display": "Teak",
+        "color_hex": "#6a4d3e",
+        "redmean_distance": 9.3,
+        "url": "/shingles/owens-corning/oakridge/teak/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Oakridge",
+        "line_slug": "owens-corning-oakridge",
+        "color_display": "Brownwood",
+        "color_hex": "#6c4a3c",
+        "redmean_distance": 14.4,
+        "url": "/shingles/owens-corning/oakridge/brownwood/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$138–$159",
+        "low_usd": 138,
+        "high_usd": 159,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$4,140–$4,770",
+        "low_usd": 4140,
+        "high_usd": 4770,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$12k–$20k",
+        "low_usd": 12420,
+        "high_usd": 20988,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/CertainTeed-Landmark-PRO-Max-Def-Weathered-Wood-Algae-Resistant-Architectural-Roof-Shingles-33-3-sq-ft-per-Bundle/5018245345",
+        "anchor_color": "Weathered Wood",
+        "page_title": "CertainTeed Landmark PRO Max Def Weathered Wood Algae Resistant Architectural Roof Shingles ( 33.3-sq ft per Bundle ) at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\lowes.com__a4a6c68a.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "ringsend.com",
+        "url": "https://www.ringsend.com/certainteed-landmark-pro-ar-roof-shingles-bundle",
+        "anchor_color": "Charcoal",
+        "page_title": "CertainTeed Landmark Pro AR Roof Shingle, Charcoal Black, Bundle",
+        "price_per_bundle_usd": 49.5,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 148.65,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\ringsend.com__ecb6ff85.html",
+        "scraped_ok": true,
+        "error": null,
+        "coverage_source": "line_default"
+      },
+      {
+        "retailer": "dealerschoicedistribution.com",
+        "url": "https://www.dealerschoicedistribution.com/product/CertainTeed-Roofing-Landmark-PRO-Shingles/C-450128/800116",
+        "anchor_color": "",
+        "page_title": "CertainTeed Roofing 13.25 in x 38.75 in Landmark® PRO Shingles Max Def Evergreen",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\dealerschoicedistribution.com__7c4423fe.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "qxo.com",
+        "url": "https://www.qxo.com/product/CertainTeed-Roofing-Landmark-PRO-Shingles/C-450128/450132",
+        "anchor_color": "",
+        "page_title": "CertainTeed Roofing 13.25 in x 38.75 in Landmark® PRO Shingles Max Def Cobblestone Grey",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-landmark-pro\\qxo.com__b0ca6f89.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Max Def Heather Blend</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Landmark Pro Max Def Heather Blend in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Max Def Heather Blend",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-heather-blend\\certainteed-landmark-pro-max-def-heather-blend-1.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-heather-blend/certainteed-landmark-pro-max-def-heather-blend-1.jpg",
+    "badge_text": "Pre-loaded: Max Def Heather Blend",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "landmark-pro",
+      "color": "max-def-heather-blend"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Max Def Heather Blend, really?",
+      "a": "A warm, anchored brown with visible reddish or amber granule accents. In direct Florida sun it reads as a clear sienna or coffee; in shade it softens to a near-black. The blend is layered enough that the surface looks alive rather than flat."
+    },
+    {
+      "q": "Does Max Def Heather Blend pair with red brick?",
+      "a": "Yes, and that is the canonical pairing. Brown asphalt and red brick share a warm tonal family, so they read as one coordinated elevation rather than competing colors. The trick is keeping the trim color clean and bright (warm white, soft cream) so the eye has somewhere to rest."
+    },
+    {
+      "q": "Does Max Def Heather Blend fade over time?",
+      "a": "Minimally. CertainTeed's ceramic granule coating holds warm tones for 25 plus years in Florida UV. Browns tend to drift slightly cooler over the first 5 years (a barely visible shift) and then stabilize. The full warranty covers premature fading. Source: CertainTeed product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will Max Def Heather Blend make my house run hotter?",
+      "a": "Slightly. Dark warm tones absorb similar solar heat to dark grays, adding roughly 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light gray. Proper ventilation and a radiant barrier under the decking keep monthly cooling-cost impact under 20 dollars in most homes."
+    },
+    {
+      "q": "How does Max Def Heather Blend compare to other browns in the asphalt category?",
+      "a": "The 'brown' SKUs across major brands sit within a fairly tight tonal window. Most are mid-to-dark brown with warm undertones; differences are mostly in granule blend size and shadow-line depth. Use the Compare tab to see direct hex deltas against similar SKUs."
+    },
+    {
+      "q": "Is brown a 'dated' roof choice?",
+      "a": "On a contemporary white-stucco build, possibly. On a craftsman, traditional, Tudor, or Mediterranean elevation it is the most architecturally correct choice and reads as deliberate rather than dated. Picking by house style matters more than by trend."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Max Def Heather Blend</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "landmark-pro",
+      "color": "max-def-heather-blend"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Wikipedia: Brown (color)",
+      "url": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "label": "CertainTeed product page",
+      "url": "https://www.certainteed.com/products/residential-roofing-products/landmark-pro"
+    },
+    {
+      "label": "Wikipedia: CertainTeed",
+      "url": "https://en.wikipedia.org/wiki/CertainTeed"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "brown"
+}

@@ -1,0 +1,615 @@
+{
+  "slug": "owens-corning-oakridge-driftwood",
+  "url_path": "/shingles/owens-corning/oakridge/driftwood/",
+  "h1": "Owens Corning Oakridge Driftwood Shingles",
+  "meta_title": "Owens Corning Oakridge Driftwood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Owens Corning Oakridge in Driftwood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "weathered-wood",
+  "best_for_styles": [
+    "modern-farmhouse",
+    "colonial",
+    "cape-cod",
+    "victorian"
+  ],
+  "hail_rating_class": null,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Owens Corning",
+    "brand_slug": "owens-corning",
+    "brand_url": "/shingles/owens-corning/",
+    "line_display": "Oakridge",
+    "line_slug": "owens-corning-oakridge",
+    "line_url": "/shingles/owens-corning/oakridge/",
+    "color_display": "Driftwood",
+    "color_slug": "driftwood",
+    "h1_html": "Owens Corning Oakridge <em>Driftwood</em> Shingles",
+    "tagline": "A timeless asphalt color that recedes visually and lets the siding lead.",
+    "hex": "#5f564c",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-1.jpg",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-1.jpg",
+    "hero_image_alt": "Home with Owens Corning Oakridge Driftwood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$113"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Owens Corning",
+        "url": "/shingles/owens-corning/"
+      },
+      {
+        "label": "Oakridge",
+        "url": "/shingles/owens-corning/oakridge/"
+      },
+      {
+        "label": "Driftwood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "driftwood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Designers reach for Driftwood when they want a roof that disappears into 'looks correct' rather than competing for attention. It is balanced, slightly cool, and difficult to pair badly. On a Florida house with bright sun and white stucco, it is one of the safest specifications you can write.",
+      "The shingle profile carries a deep shadow line that emphasizes the gray tone in midday light. At dusk the whole roof becomes one quiet plane that frames the rest of the house instead of competing with it.",
+      "Works well with crisp white trim, warm wood accents, and natural stone. Slightly cooler than the brown family, so it tends to pair better with blue, sage, and gray sidings than with yellow or peach."
+    ],
+    "swatch_meta": {
+      "hex": "#5f564c",
+      "family": "Gray",
+      "undertone": "Warm slate",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#5f564c",
+      "#686055",
+      "#777063"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-swatch.jpg",
+      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-swatch.jpg",
+      "image_filename": "owens-corning-oakridge-driftwood-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "O_Driftwood_RGB_swatch_lg.jpg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "Upgradable to 130 mph with full Preferred Protection System. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Not rated",
+        "ctx": "UL 2218 impact rating not claimed on the manufacturer warranty card."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "230 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakGuard",
+        "ctx": "10-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Owens Corning",
+        "ctx": "Toledo, OH · made in the USA"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Oakridge Driftwood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-1.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-1.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-1.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-2.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-2.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-3.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-3.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-4.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-4.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-5.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-5.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-5.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-6.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-6.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-6.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-7.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-7.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-7.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-8.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-8.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-8.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-9.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-9.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-9.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-10.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-10.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-10.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-11.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-11.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-11.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-12.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-12.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-12.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-13.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-13.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-13.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-14.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-14.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-14.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-15.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-15.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-15.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-16.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-16.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-16.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-17.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-17.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-17.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-18.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-18.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-18.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-19.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-19.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-19.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-20.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-20.jpg",
+        "image_filename": "owens-corning-oakridge-driftwood-20.jpg",
+        "alt": "Florida home with Oakridge Driftwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      }
+    ],
+    "tiles_total": 20,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/owens-corning-oakridge-driftwood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Driftwood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-weathered-wood-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Driftwood",
+        "color_hex": "#5b554d",
+        "redmean_distance": 6.7,
+        "url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Driftwood",
+        "color_hex": "#5b554d",
+        "redmean_distance": 6.7,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-driftwood/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Driftshake",
+        "color_hex": "#625950",
+        "redmean_distance": 10,
+        "url": "/shingles/iko/dynasty/driftshake/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Royal Estate",
+        "line_slug": "iko-royal-estate",
+        "color_display": "Harvest Slate",
+        "color_hex": "#645747",
+        "redmean_distance": 11.4,
+        "url": "/shingles/iko/royal-estate/harvest-slate/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Olde Style Weatherwood",
+        "color_hex": "#635a51",
+        "redmean_distance": 12.9,
+        "url": "/shingles/iko/dynasty/olde-style-weatherwood/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$113–$130",
+        "low_usd": 113,
+        "high_usd": 130,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,390–$3,900",
+        "low_usd": 3390,
+        "high_usd": 3900,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$10k–$17k",
+        "low_usd": 10170,
+        "high_usd": 17160,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/Owens-Corning-Oakridge-32-8-Sq-Ft-Onyx-Black-Laminated-Architectural-Roof-Shingles/3005314",
+        "anchor_color": "",
+        "page_title": "Owens Corning Oakridge Onyx Black Algae Resistant Architectural Roof Shingles ( 32.8-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 41,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 125.01,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-oakridge\\lowes.com__16f88082.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/Owens-Corning-Oakridge-Onyx-Black-Algae-Resistant-Laminate-Architectural-Roofing-Shingles-32-8-sq-ft-per-Bundle-786353/206830645",
+        "anchor_color": "",
+        "page_title": "Owens Corning Oakridge Onyx Black Algae Resistant Laminate Architectural Roofing Shingles (32.8 sq. ft. per Bundle) 786353 - The Home Depot",
+        "price_per_bundle_usd": 38.97,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 118.82,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-oakridge\\homedepot.com__f91c46a2.html",
+        "scraped_ok": true,
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Driftwood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Oakridge Driftwood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Driftwood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-driftwood\\owens-corning-oakridge-driftwood-1.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-driftwood/owens-corning-oakridge-driftwood-1.jpg",
+    "badge_text": "Pre-loaded: Driftwood",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "driftwood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Driftwood, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Driftwood fade over time?",
+      "a": "Minimally. Owens Corning's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: Owens Corning product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Driftwood look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Driftwood make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across Owens Corning, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. Owens Corning's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Driftwood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "driftwood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "Owens Corning product page",
+      "url": "https://www.owenscorning.com/en-us/roofing/shingles/oakridge?shingle-color=brownwood"
+    },
+    {
+      "label": "Wikipedia: Owens Corning",
+      "url": "https://en.wikipedia.org/wiki/Owens_Corning"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

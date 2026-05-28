@@ -1,0 +1,533 @@
+{
+  "slug": "certainteed-presidential-shake-charcoal-black",
+  "url_path": "/shingles/certainteed/presidential-shake/charcoal-black/",
+  "h1": "CertainTeed Presidential Shake Charcoal Black Shingles",
+  "meta_title": "CertainTeed Presidential Shake Charcoal Black Shingles · Color, Specs, Price (2026)",
+  "meta_description": "CertainTeed Presidential Shake in Charcoal Black: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "black",
+  "roof_archetype": "black",
+  "best_for_styles": [
+    "modern-farmhouse",
+    "contemporary",
+    "ranch",
+    "modern",
+    "traditional"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Luxury / Shake-look",
+    "brand_display": "CertainTeed",
+    "brand_slug": "certainteed",
+    "brand_url": "/shingles/certainteed/",
+    "line_display": "Presidential Shake",
+    "line_slug": "certainteed-presidential-shake",
+    "line_url": "/shingles/certainteed/presidential-shake/",
+    "color_display": "Charcoal Black",
+    "color_slug": "charcoal-black",
+    "h1_html": "CertainTeed Presidential Shake <em>Charcoal Black</em> Shingles",
+    "tagline": "The blackest shingle in the catalog. Reads as one solid plane in any light.",
+    "hex": "#262526",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-charcoal-black\\certainteed-presidential-shake-charcoal-black-1.webp",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-charcoal-black/certainteed-presidential-shake-charcoal-black-1.webp",
+    "hero_image_alt": "Home with CertainTeed Presidential Shake Charcoal Black roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$360"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "CertainTeed",
+        "url": "/shingles/certainteed/"
+      },
+      {
+        "label": "Presidential Shake",
+        "url": "/shingles/certainteed/presidential-shake/"
+      },
+      {
+        "label": "Charcoal Black",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "presidential-shake",
+      "color": "charcoal-black"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Pure depth, no equivocation. Charcoal Black is the color you choose when you want the roof to define the silhouette of the house rather than blend into it. On a Florida elevation it absorbs heat aggressively, so attic ventilation matters more than with lighter shingles.",
+      "Look closely and you can pick out two or three near-black granule shades layered into the surface. The eye stops registering them at conversational distance, but the layering is why a black asphalt roof catches light the way a single-color metal roof never quite does.",
+      "Cools the rest of the elevation visually and makes warm wood and stone accents look richer. The one place it disagrees: yellow-toned bricks or very saturated terracotta walls, where the contrast can read harsh."
+    ],
+    "swatch_meta": {
+      "hex": "#262526",
+      "family": "True black",
+      "undertone": "Cool",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#262526",
+      "#2a292b",
+      "#313031"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-presidential-shake-charcoal-black\\certainteed-presidential-shake-charcoal-black-swatch.jpg",
+      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-presidential-shake-charcoal-black/certainteed-presidential-shake-charcoal-black-swatch.jpg",
+      "image_filename": "certainteed-presidential-shake-charcoal-black-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "presidential-chbl-swatch.jpeg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM E108 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ENERGY STAR cool-roof reference",
+        "url": "https://www.energystar.gov/products/building_products/roof_products"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Luxury / Shake-look",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "Two-piece tab construction. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "480 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakFighter",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "CertainTeed",
+        "ctx": "Malvern, PA · made in the USA"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Historical Roofing Warranties - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/0k71w1oizd/pdf/Historical-Asphalt-Roofing-Warranties-1988-2025.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 International Limited Warranty - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/1nmszdhkin/pdf/asphalt-international-warranty-00-02-5544-XP-EN-2601.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 Asphalt Shingles Limited Warranty - Residential",
+        "url": "https://certainteed.widen.net/content/cu4q0koymx/pdf/asphalt-low-slope-shingle-warranty-00-02-5540-NA-EN-2602.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "Sell Sheet - Presidential Luxury Roofing Shingles | South West",
+        "url": "https://certainteed.widen.net/content/8zyrzph7jd/pdf/presidential-sellsheet-00-04-2203-US-EN-sw-2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      },
+      {
+        "label": "Brochure - Third Party Classification",
+        "url": "https://certainteed.widen.net/content/evxm8pieio/pdf/roofing-ulclassified-brochure-00-00-17-US-EN--2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      },
+      {
+        "label": "Sell Sheet - Presidential Shake IR",
+        "url": "https://certainteed.widen.net/content/skyuyzmf9z/pdf/presidential-ir-sellsheet-00-04-1966-NA-EN-2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Presidential Shake Charcoal Black. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-charcoal-black\\certainteed-presidential-shake-charcoal-black-1.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-charcoal-black/certainteed-presidential-shake-charcoal-black-1.webp",
+        "image_filename": "certainteed-presidential-shake-charcoal-black-1.webp",
+        "alt": "Florida home with Presidential Shake Charcoal Black roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Residential house exterior with a dark shake-profile roof consistent with Presidential Shake Charcoal Black. No dominant branding.",
+        "origin_filename": "03__certainteed-widen-net.webp"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-charcoal-black\\certainteed-presidential-shake-charcoal-black-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-charcoal-black/certainteed-presidential-shake-charcoal-black-2.jpg",
+        "image_filename": "certainteed-presidential-shake-charcoal-black-2.jpg",
+        "alt": "Florida home with Presidential Shake Charcoal Black roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Aerial of a real residential house with a dark shake-profile roof matching Charcoal Black. Has a 'Roofscapes NW' caption banner in the corner, but the house and roof remain the dominant subject.",
+        "origin_filename": "05__img-youtube-com.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-charcoal-black\\certainteed-presidential-shake-charcoal-black-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-charcoal-black/certainteed-presidential-shake-charcoal-black-3.jpg",
+        "image_filename": "certainteed-presidential-shake-charcoal-black-3.jpg",
+        "alt": "Florida home with Presidential Shake Charcoal Black roof",
+        "tag": "AI-rendered example (right-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "certainteed-presidential-shake-charcoal-black-1.webp"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-charcoal-black\\certainteed-presidential-shake-charcoal-black-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-charcoal-black/certainteed-presidential-shake-charcoal-black-4.jpg",
+        "image_filename": "certainteed-presidential-shake-charcoal-black-4.jpg",
+        "alt": "Florida home with Presidential Shake Charcoal Black roof",
+        "tag": "AI-rendered example (left-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "certainteed-presidential-shake-charcoal-black-1.webp"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/certainteed-presidential-shake-charcoal-black/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Charcoal Black <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-black-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-black-roof/"
+      },
+      {
+        "color_name": "Hale Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-black-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-black-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Warm contrast",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-black-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>true black</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Grand Sequoia",
+        "line_slug": "gaf-grand-sequoia",
+        "color_display": "Grand Sequoia Charcoal",
+        "color_hex": "#26282b",
+        "redmean_distance": 10.4,
+        "url": "/shingles/gaf/grand-sequoia/grand-sequoia-charcoal/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Hdz",
+        "line_slug": "gaf-timberline-hdz",
+        "color_display": "Charcoal",
+        "color_hex": "#26282b",
+        "redmean_distance": 10.4,
+        "url": "/shingles/gaf/timberline-hdz/charcoal/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Uhdz",
+        "line_slug": "gaf-timberline-uhdz",
+        "color_display": "Timberline Uhdz With Ultramat Charcoal",
+        "color_hex": "#26282b",
+        "redmean_distance": 10.4,
+        "url": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-charcoal/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Camelot Ii",
+        "line_slug": "gaf-camelot-ii",
+        "color_display": "Camelot Ii Charcoal",
+        "color_hex": "#29292b",
+        "redmean_distance": 12.4,
+        "url": "/shingles/gaf/camelot-ii/camelot-ii-charcoal/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration",
+        "line_slug": "owens-corning-duration",
+        "color_display": "Onyx Black",
+        "color_hex": "#292d30",
+        "redmean_distance": 23.7,
+        "url": "/shingles/owens-corning/duration/onyx-black/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$360–$415",
+        "low_usd": 360,
+        "high_usd": 415,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$10,800–$12,450",
+        "low_usd": 10800,
+        "high_usd": 12450,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$32k–$54k",
+        "low_usd": 32400,
+        "high_usd": 54780,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/CertainTeed-Presidential-Shake-TL-20-sq-ft-Aged-Bark-Laminated-Architectural-Roof-Shingles/5002103211",
+        "anchor_color": "",
+        "page_title": "CertainTeed Presidential Shake TL Aged Bark Laminated Architectural Roof Shingles at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-presidential-shake\\lowes.com__24c9cfc2.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "RoofCalc.org / Bill Ragan Roofing / SkyRidge",
+        "url": "https://www.roofcalc.org/certainteed-roof-shingles/",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 60,
+        "high_per_bundle_usd": 95,
+        "low_per_square_usd": 300,
+        "high_per_square_usd": 475,
+        "price_per_bundle_usd": 77.5,
+        "coverage_sq_ft_per_bundle": 20,
+        "bundles_per_square": 5,
+        "price_per_square_usd": 387.5,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "Triple-laminate shake-look luxury; ~$300-475/sq material; 5 bundles/sq; special-order through CT distributors.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Charcoal Black</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Presidential Shake Charcoal Black in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Charcoal Black",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-charcoal-black\\certainteed-presidential-shake-charcoal-black-1.webp",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-charcoal-black/certainteed-presidential-shake-charcoal-black-1.webp",
+    "badge_text": "Pre-loaded: Charcoal Black",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "presidential-shake",
+      "color": "charcoal-black"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Charcoal Black, really?",
+      "a": "A true deep black with no visible blue, brown, or red undertone. In bright Florida sun it stays black; in shade it reads as pure shadow. The granule blend is a tight mix of carbon and charcoal granules that gives the surface dimensional texture without lifting the perceived color."
+    },
+    {
+      "q": "Will Charcoal Black make my house run hotter?",
+      "a": "Yes, somewhat. A dark asphalt roof can raise attic temperatures by 5 to 15 degrees Fahrenheit at peak summer compared to a light gray. In Florida that translates to roughly 10 to 20 dollars per month in additional cooling cost on a typical 2,500 sq ft home if attic ventilation is adequate. Proper soffit-to-ridge ventilation and a modern radiant barrier under the deck close most of the gap."
+    },
+    {
+      "q": "Does Charcoal Black fade over time?",
+      "a": "Minimally. CertainTeed's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a subtle shift toward a slightly warmer tone over the first 5 years, then visual stability. The full warranty covers premature fading. Source: CertainTeed product warranty document and NRCA field-aging guidance."
+    },
+    {
+      "q": "How does it compare to other black shingles?",
+      "a": "Across CertainTeed, GAF, CertainTeed, IKO, and Owens Corning, the true-black SKUs read nearly identical in daylight from street distance. The granule blend differs slightly (some have a hint of warm undertone, others stay cooler) but unless you place two roofs side by side most homeowners cannot tell them apart."
+    },
+    {
+      "q": "Does Charcoal Black work on a Mediterranean or Spanish-style home?",
+      "a": "It can, but it is less traditional than a terracotta tile look. The black asphalt + cream-stucco combination reads as contemporary Mediterranean rather than historical. If you want the historical look, a multi-tone weathered-wood or warm brown reads closer."
+    },
+    {
+      "q": "How will Charcoal Black look in 10 years?",
+      "a": "Asphalt shingles in this family typically show their first granule loss (visible as small gritty deposits in gutters) at year 8 to 12. Color stability is excellent over the same window. Most Charcoal Black roofs reach year 15 looking visually identical to year 1 unless the house had a serious algae or moss episode."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Charcoal Black</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "presidential-shake",
+      "color": "charcoal-black"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM E108 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "CertainTeed product page",
+      "url": "https://www.certainteed.com/products/residential-roofing-products/presidential-shake"
+    },
+    {
+      "label": "Wikipedia: CertainTeed",
+      "url": "https://en.wikipedia.org/wiki/CertainTeed"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "black"
+}

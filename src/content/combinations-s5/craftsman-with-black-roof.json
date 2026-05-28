@@ -1,0 +1,558 @@
+{
+  "slug": "craftsman-with-black-roof",
+  "url_path": "/craftsman-with-black-roof/",
+  "h1": "Craftsman Homes With a Black Roof: 21 Rendered Examples 2026",
+  "meta_title": "Craftsman Homes With Black Roof: 21 Renders + Recommended Shingles (2026)",
+  "meta_description": "Craftsman-style homes with a black roof: 21 AI-rendered examples across 4 shingle brands, style background, recommended cross-brand SKUs with specs and Florida pricing, design considerations, FAQ, and a free visualizer.",
+  "strategy": 5,
+  "home_style_slug": "craftsman",
+  "home_style_display": "Craftsman",
+  "roof_color_slug": "black",
+  "roof_color_display": "Black",
+  "style_hex": "#7E6B4E",
+  "roof_color_hex": "#1E2128",
+  "combo_hero": {
+    "kicker": "Home style × Roof color · Craftsman",
+    "h1_html": "<em>Craftsman</em> Homes With a <em>Black Roof</em>: <span class='count'>21</span> Rendered Examples <span class='year'>2026</span>",
+    "h1_text": "Craftsman Homes With a Black Roof: 21 Rendered Examples 2026",
+    "intro_paragraphs": [
+      "Craftsman design is built on honest material contrast - rough stone piers against smooth siding, and exposed timber in deliberate tension with painted clapboard. A black roof extends that logic vertically, creating a strong overhead cap that sharpens the exposed rafter tails and tapered porch columns below.",
+      "The deep tone reads well against the style's earth-and-wood palette, providing a decisive overhead anchor without ever competing with the handcrafted facade details that define and distinguish the style from the curb and street."
+    ],
+    "meta_dots": [
+      {
+        "label": "Craftsman style",
+        "dot_color_hex": "#7E6B4E",
+        "type": "style"
+      },
+      {
+        "label": "Black roof",
+        "dot_color_hex": "#1E2128",
+        "type": "roof"
+      },
+      {
+        "label": "4 brands · 21 renders · 3 angle variants per SKU",
+        "type": "meta"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Home Styles",
+        "url": "/home-styles/"
+      },
+      {
+        "label": "Craftsman Homes",
+        "url": "/craftsman-homes/"
+      },
+      {
+        "label": "Craftsman With Black Roof",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+        "alt": "Craftsman home with Black roof -- CertainTeed Landmark Charcoal Black (front)",
+        "tag": "CertainTeed · Charcoal Black",
+        "sku_url": "/shingles/certainteed/landmark/charcoal-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-cambridge-dual-black-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-cambridge-dual-black-front.jpg",
+        "alt": "Craftsman home with Black roof -- IKO Cambridge Dual Black (front)",
+        "tag": "IKO · Dual Black",
+        "sku_url": "/shingles/iko/cambridge/dual-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\owens-corning-duration-onyx-black-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
+        "alt": "Craftsman home with Black roof -- Owens Corning Duration Onyx Black (front)",
+        "tag": "Owens Corning · Onyx Black",
+        "sku_url": "/shingles/owens-corning/duration/onyx-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\tamko-heritage-rustic-black-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/tamko-heritage-rustic-black-front.jpg",
+        "alt": "Craftsman home with Black roof -- TAMKO Heritage Rustic Black (front)",
+        "tag": "TAMKO · Rustic Black",
+        "sku_url": "/shingles/tamko/heritage/rustic-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-pro-cinder-black-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
+        "alt": "Craftsman home with Black roof -- CertainTeed Landmark Pro Cinder Black (front)",
+        "tag": "CertainTeed · Cinder Black",
+        "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-dynasty-granite-black-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-dynasty-granite-black-front.jpg",
+        "alt": "Craftsman home with Black roof -- IKO Dynasty Granite Black (front)",
+        "tag": "IKO · Granite Black",
+        "sku_url": "/shingles/iko/dynasty/granite-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-royal-estate-shadow-slate-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
+        "alt": "Craftsman home with Black roof -- IKO Royal Estate Shadow Slate (front)",
+        "tag": "IKO · Shadow Slate",
+        "sku_url": "/shingles/iko/royal-estate/shadow-slate/",
+        "angle_slug": "front"
+      }
+    ]
+  },
+  "style_background": {
+    "kicker": "Style background · the architecture",
+    "title_html": "What makes a home <em>Craftsman</em>.",
+    "short_descriptor": "Early-20th-century American style derived from the English Arts & Crafts movement.",
+    "background_prose": "Craftsman architecture emerged in the United States between 1905 and the late 1920s as a reaction against Victorian ornamentation. The style draws directly from the English Arts and Crafts movement and the work of Greene & Greene in Pasadena. Key facade features include low-pitched gabled roofs with wide overhanging eaves, exposed rafter tails, tapered square columns set on stone bases, deep covered front porches, and mixed siding -- horizontal clapboard paired with decorative shingle in the gable ends. Natural materials and honest construction details are the defining theme.",
+    "facade_features": [
+      "Low-pitched gabled roof with wide overhanging eaves",
+      "Exposed rafter tails under the eaves",
+      "Tapered square columns on stone bases",
+      "Wide covered front porch",
+      "Mixed siding: horizontal clapboard + decorative shingle gables"
+    ],
+    "era": "1905-1929 (original), 1990s-present (revival)",
+    "sources": [
+      {
+        "label": "Wikipedia: Craftsman",
+        "url": "https://en.wikipedia.org/wiki/American_Craftsman"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "long_gallery": {
+    "title_html": "<em>Craftsman</em> homes with <em>Black</em> roofs.",
+    "section_intro": "All renders generated via fal.ai nano-banana-2 image-edit on real install photos. Roof color and design preserved from the source photo; facade restyled to Craftsman.",
+    "groups": [
+      {
+        "title_html": "Front-on views.",
+        "title_text": "Front-on views",
+        "subtitle": "Seven renders shot directly head-on for the cleanest read of the facade.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "alt": "Craftsman home with Black roof -- CertainTeed Landmark Charcoal Black (front)",
+            "tag": "Landmark · Charcoal Black",
+            "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-cambridge-dual-black-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-cambridge-dual-black-front.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Cambridge Dual Black (front)",
+            "tag": "Cambridge · Dual Black",
+            "sku_url": "/shingles/iko/cambridge/dual-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\owens-corning-duration-onyx-black-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
+            "alt": "Craftsman home with Black roof -- Owens Corning Duration Onyx Black (front)",
+            "tag": "Duration · Onyx Black",
+            "sku_url": "/shingles/owens-corning/duration/onyx-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\tamko-heritage-rustic-black-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/tamko-heritage-rustic-black-front.jpg",
+            "alt": "Craftsman home with Black roof -- TAMKO Heritage Rustic Black (front)",
+            "tag": "Heritage · Rustic Black",
+            "sku_url": "/shingles/tamko/heritage/rustic-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-pro-cinder-black-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
+            "alt": "Craftsman home with Black roof -- CertainTeed Landmark Pro Cinder Black (front)",
+            "tag": "Landmark Pro · Cinder Black",
+            "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-dynasty-granite-black-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-dynasty-granite-black-front.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Dynasty Granite Black (front)",
+            "tag": "Dynasty · Granite Black",
+            "sku_url": "/shingles/iko/dynasty/granite-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-royal-estate-shadow-slate-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Royal Estate Shadow Slate (front)",
+            "tag": "Royal Estate · Shadow Slate",
+            "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>right</em>.",
+        "title_text": "Three-quarter right",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and right elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-charcoal-black-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-charcoal-black-right-34.jpg",
+            "alt": "Craftsman home with Black roof -- CertainTeed Landmark Charcoal Black (right-34)",
+            "tag": "Landmark · Charcoal Black",
+            "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-cambridge-dual-black-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-cambridge-dual-black-right-34.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Cambridge Dual Black (right-34)",
+            "tag": "Cambridge · Dual Black",
+            "sku_url": "/shingles/iko/cambridge/dual-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\owens-corning-duration-onyx-black-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/owens-corning-duration-onyx-black-right-34.jpg",
+            "alt": "Craftsman home with Black roof -- Owens Corning Duration Onyx Black (right-34)",
+            "tag": "Duration · Onyx Black",
+            "sku_url": "/shingles/owens-corning/duration/onyx-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\tamko-heritage-rustic-black-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/tamko-heritage-rustic-black-right-34.jpg",
+            "alt": "Craftsman home with Black roof -- TAMKO Heritage Rustic Black (right-34)",
+            "tag": "Heritage · Rustic Black",
+            "sku_url": "/shingles/tamko/heritage/rustic-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "alt": "Craftsman home with Black roof -- CertainTeed Landmark Pro Cinder Black (right-34)",
+            "tag": "Landmark Pro · Cinder Black",
+            "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-dynasty-granite-black-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-dynasty-granite-black-right-34.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Dynasty Granite Black (right-34)",
+            "tag": "Dynasty · Granite Black",
+            "sku_url": "/shingles/iko/dynasty/granite-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-royal-estate-shadow-slate-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-royal-estate-shadow-slate-right-34.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Royal Estate Shadow Slate (right-34)",
+            "tag": "Royal Estate · Shadow Slate",
+            "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>left</em>.",
+        "title_text": "Three-quarter left",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and left elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-charcoal-black-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-charcoal-black-left-34.jpg",
+            "alt": "Craftsman home with Black roof -- CertainTeed Landmark Charcoal Black (left-34)",
+            "tag": "Landmark · Charcoal Black",
+            "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-cambridge-dual-black-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-cambridge-dual-black-left-34.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Cambridge Dual Black (left-34)",
+            "tag": "Cambridge · Dual Black",
+            "sku_url": "/shingles/iko/cambridge/dual-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\owens-corning-duration-onyx-black-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/owens-corning-duration-onyx-black-left-34.jpg",
+            "alt": "Craftsman home with Black roof -- Owens Corning Duration Onyx Black (left-34)",
+            "tag": "Duration · Onyx Black",
+            "sku_url": "/shingles/owens-corning/duration/onyx-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\tamko-heritage-rustic-black-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/tamko-heritage-rustic-black-left-34.jpg",
+            "alt": "Craftsman home with Black roof -- TAMKO Heritage Rustic Black (left-34)",
+            "tag": "Heritage · Rustic Black",
+            "sku_url": "/shingles/tamko/heritage/rustic-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-pro-cinder-black-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-pro-cinder-black-left-34.jpg",
+            "alt": "Craftsman home with Black roof -- CertainTeed Landmark Pro Cinder Black (left-34)",
+            "tag": "Landmark Pro · Cinder Black",
+            "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-dynasty-granite-black-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-dynasty-granite-black-left-34.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Dynasty Granite Black (left-34)",
+            "tag": "Dynasty · Granite Black",
+            "sku_url": "/shingles/iko/dynasty/granite-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\iko-royal-estate-shadow-slate-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/iko-royal-estate-shadow-slate-left-34.jpg",
+            "alt": "Craftsman home with Black roof -- IKO Royal Estate Shadow Slate (left-34)",
+            "tag": "Royal Estate · Shadow Slate",
+            "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 21,
+    "image_attribution": "Renders generated via fal.ai nano-banana-2 image-edit on top of real install photos from each manufacturer. Roof color, texture, and design preserved from the original install photo; the facade is restyled to match the page's home-style specification."
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Try a <em>Craftsman</em> + <em>Black</em> roof on your own house.",
+    "body": "Upload a phone photo of your house and pre-load this exact craftsman-and-black pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
+    "cta_label": "Open visualizer with this combo",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+    "badge": {
+      "style_display": "Craftsman",
+      "roof_color_display": "Black",
+      "style_hex": "#7E6B4E",
+      "roof_color_hex": "#1E2128",
+      "label": "Craftsman × Black"
+    },
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "craftsman",
+      "roof": "black-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark",
+        "color": "charcoal-black"
+      }
+    }
+  },
+  "recommended": {
+    "title_html": "Shingles that <em>get the Craftsman look</em>.",
+    "note": "Cross-brand, real-world picks. Click any swatch to see specs, install photos, and pricing for that SKU.",
+    "items": [
+      {
+        "url": "/shingles/certainteed/landmark/charcoal-black/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark",
+        "color_display": "Charcoal Black",
+        "color_hex": "#393738"
+      },
+      {
+        "url": "/shingles/iko/cambridge/dual-black/",
+        "brand_display": "IKO",
+        "line_display": "Cambridge",
+        "color_display": "Dual Black",
+        "color_hex": "#333937"
+      },
+      {
+        "url": "/shingles/owens-corning/duration/onyx-black/",
+        "brand_display": "Owens Corning",
+        "line_display": "Duration",
+        "color_display": "Onyx Black",
+        "color_hex": "#292d30"
+      },
+      {
+        "url": "/shingles/tamko/heritage/rustic-black/",
+        "brand_display": "TAMKO",
+        "line_display": "Heritage",
+        "color_display": "Rustic Black",
+        "color_hex": "#2e3236"
+      },
+      {
+        "url": "/shingles/certainteed/landmark-pro/cinder-black/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark Pro",
+        "color_display": "Cinder Black",
+        "color_hex": "#26262a"
+      },
+      {
+        "url": "/shingles/iko/dynasty/granite-black/",
+        "brand_display": "IKO",
+        "line_display": "Dynasty",
+        "color_display": "Granite Black",
+        "color_hex": "#2f3334"
+      },
+      {
+        "url": "/shingles/iko/royal-estate/shadow-slate/",
+        "brand_display": "IKO",
+        "line_display": "Royal Estate",
+        "color_display": "Shadow Slate",
+        "color_hex": "#363635"
+      }
+    ]
+  },
+  "consider": {
+    "kicker": "Things to consider · before you commit",
+    "title_html": "Three things <em>most</em> homeowners forget.",
+    "items": [
+      {
+        "number": "01.",
+        "heading": "Craftsman calls for the roof to extend the architecture rather than cap it.",
+        "body": "Craftsman calls for the roof to extend the architecture rather than cap it. The wide eaves and exposed rafter tails are non-negotiable -- if your existing build does not have them, plan to add them during the re-roof. Skipping these details turns a craftsman into a generic ranch and the roof color choice loses half its impact."
+      },
+      {
+        "number": "02.",
+        "heading": "Black roof + Florida sun = attic temperature delta.",
+        "body": "A black asphalt roof can raise attic temperatures by 5 to 10 degrees Fahrenheit at peak Florida summer compared to a light-gray or weathered-wood roof. Proper soffit-to-ridge attic ventilation and a radiant barrier under the decking close most of the gap and keep monthly cooling-cost impact under 20 dollars in typical Florida homes."
+      },
+      {
+        "number": "03.",
+        "heading": "Install quality matters more than SKU.",
+        "body": "All seven recommended SKUs hit Class A fire and 110-150 mph wind ratings. The bigger variable on a craftsman elevation is install quality: ridge-line straightness, valley flashing, starter strip alignment. Insist on a Master Elite or equivalent certified contractor and a written workmanship warranty separate from the manufacturer's material warranty."
+      }
+    ]
+  },
+  "variations": {
+    "kicker": "Variations · sibling combinations",
+    "title_html": "If you love this look, <em>try these</em>.",
+    "items": [
+      {
+        "url": "/craftsman-with-charcoal-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Craftsman With Charcoal Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "craftsman",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/craftsman-with-brown-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Craftsman With Brown Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "craftsman",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/craftsman-with-weathered-wood-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Craftsman With Weathered Wood Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "craftsman",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/modern-farmhouse-with-black-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Modern Farmhouse With Black Roof",
+        "style_hex": "#F4ECD8",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "modern-farmhouse",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/ranch-with-black-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Ranch With Black Roof",
+        "style_hex": "#A09280",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "ranch",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/colonial-with-black-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Colonial With Black Roof",
+        "style_hex": "#D8CDBA",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "colonial",
+        "roof_color_slug": "black"
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Is craftsman a good fit for Florida architecture?",
+      "a": "Yes. The wide eaves provide natural shade, the deep front porches handle Florida heat well, and the natural-materials palette (wood, stone) photographs beautifully in Florida light. Modern craftsman builds are common in Tampa, Orlando, and the Florida Panhandle."
+    },
+    {
+      "q": "What roof pitch is most authentic for craftsman?",
+      "a": "4:12 to 6:12 (low to medium pitch). Anything steeper reads as Victorian; anything flatter reads as ranch. The roof should feel like a hat the house wears comfortably, with eaves that extend at least 18 inches past the wall."
+    },
+    {
+      "q": "Will the black roof fade in Florida sun?",
+      "a": "Modern asphalt shingles use ceramic-coated granules engineered to hold color for 25 plus years. Expect a subtle shift toward a slightly warmer dark gray over the first 5 years, then stability. Premium SKUs carry 25 to 50-year fade warranties. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Does black roof affect home insurance in Florida?",
+      "a": "Not because of color. Insurance underwriting cares about wind rating, hail rating, and the roof's age. All recommended SKUs on this page are 130 mph wind and Class A fire. Some Florida insurers offer a small discount for impact-rated (Class 3 or 4) variants."
+    },
+    {
+      "q": "How do these renders compare to a real craftsman home with that roof?",
+      "a": "All renders on this page were generated by fal.ai's nano-banana-2 image-edit model on top of REAL install photos from each manufacturer. The roof color, granule texture, and shingle pattern come directly from the source photo and are preserved during the edit. The facade is restyled to Craftsman. The result is photorealistic but not identical to any specific real home -- use it for visual comparison, then open the free visualizer to see the same SKU on a photo of your own house."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>Craftsman × Black</em> on your house.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "craftsman",
+      "roof": "black-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark",
+        "color": "charcoal-black"
+      }
+    }
+  },
+  "data_sources": [
+    {
+      "label": "Wikipedia: Craftsman",
+      "url": "https://en.wikipedia.org/wiki/American_Craftsman"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "NRCA Florida wind/hail guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:48+00:00",
+  "prose_method": "style-keyed-with-archetype-overlay",
+  "prose_style": "craftsman",
+  "prose_archetype": "black"
+}

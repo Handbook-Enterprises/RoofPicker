@@ -1,0 +1,486 @@
+{
+  "slug": "cape-cod-with-weathered-wood-roof",
+  "url_path": "/cape-cod-with-weathered-wood-roof/",
+  "h1": "Cape Cod Homes With a Weathered Wood Roof: 15 Rendered Examples 2026",
+  "meta_title": "Cape Cod Homes With Weathered Wood Roof: 15 Renders + Recommended Shingles (2026)",
+  "meta_description": "Cape Cod-style homes with a weathered wood roof: 15 AI-rendered examples across 4 shingle brands, style background, recommended cross-brand SKUs with specs and Florida pricing, design considerations, FAQ, and a free visualizer.",
+  "strategy": 5,
+  "home_style_slug": "cape-cod",
+  "home_style_display": "Cape Cod",
+  "roof_color_slug": "weathered-wood",
+  "roof_color_display": "Weathered Wood",
+  "style_hex": "#E8E2D4",
+  "roof_color_hex": "#8A7960",
+  "combo_hero": {
+    "kicker": "Home style × Roof color · Cape Cod",
+    "h1_html": "<em>Cape Cod</em> Homes With a <em>Weathered Wood Roof</em>: <span class='count'>15</span> Rendered Examples <span class='year'>2026</span>",
+    "h1_text": "Cape Cod Homes With a Weathered Wood Roof: 15 Rendered Examples 2026",
+    "intro_paragraphs": [
+      "Weathered wood is a natural companion for Cape Cod architecture. The multi-tone granule blend - tawny, gray, and brown shifting across the shingle surface - reads like aged cedar shake at curb distance, which is exactly the material this style originally wore before modern asphalt shingles made it widely available.",
+      "That textured warmth gives the steeply pitched roof genuine visual presence from the street while leaving both the dormer windows and the symmetrical painted facade plenty of room to breathe."
+    ],
+    "meta_dots": [
+      {
+        "label": "Cape Cod style",
+        "dot_color_hex": "#E8E2D4",
+        "type": "style"
+      },
+      {
+        "label": "Weathered Wood roof",
+        "dot_color_hex": "#8A7960",
+        "type": "roof"
+      },
+      {
+        "label": "4 brands · 15 renders · 3 angle variants per SKU",
+        "type": "meta"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Home Styles",
+        "url": "/home-styles/"
+      },
+      {
+        "label": "Cape Cod Homes",
+        "url": "/cape-cod-homes/"
+      },
+      {
+        "label": "Cape Cod With Weathered Wood Roof",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+        "tag": "CertainTeed · Max Def Driftwood",
+        "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+        "alt": "Cape Cod home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+        "tag": "IKO · Driftshake",
+        "sku_url": "/shingles/iko/dynasty/driftshake/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+        "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+        "tag": "Malarkey · Natural Wood",
+        "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+        "alt": "Cape Cod home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
+        "tag": "Owens Corning · Driftwood",
+        "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+        "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
+        "tag": "Malarkey · Weathered Wood",
+        "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+        "angle_slug": "front"
+      }
+    ]
+  },
+  "style_background": {
+    "kicker": "Style background · the architecture",
+    "title_html": "What makes a home <em>Cape Cod</em>.",
+    "short_descriptor": "17th-century New England origin, 1930s-1950s American revival.",
+    "background_prose": "Cape Cod architecture originated in 17th-century New England, where settlers built compact 1.5-story homes with steep roofs to shed snow and central chimneys for heat. The Cape Cod Revival of the 1930s through the 1950s, especially through the work of Royal Barry Wills, brought the style to suburban America. Key features include the 1.5-story height, a steep gabled roof, central chimney, two front-facing dormer windows, weathered cedar-shingle siding, and a compact symmetric front. Florida's coastal-cottage builds borrow the style heavily.",
+    "facade_features": [
+      "1.5-story symmetric home",
+      "Steep gabled roof",
+      "Centered front door with simple trim",
+      "Two prominent front-facing dormer windows",
+      "Weathered cedar-shingle or clapboard siding"
+    ],
+    "era": "1690-present (original), 1930-1955 (Revival)",
+    "sources": [
+      {
+        "label": "Wikipedia: Cape Cod",
+        "url": "https://en.wikipedia.org/wiki/Cape_Cod_(house)"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "long_gallery": {
+    "title_html": "<em>Cape Cod</em> homes with <em>Weathered Wood</em> roofs.",
+    "section_intro": "All renders generated via fal.ai nano-banana-2 image-edit on real install photos. Roof color and design preserved from the source photo; facade restyled to Cape Cod.",
+    "groups": [
+      {
+        "title_html": "Front-on views.",
+        "title_text": "Front-on views",
+        "subtitle": "Seven renders shot directly head-on for the cleanest read of the facade.",
+        "count": 5,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+            "tag": "Landmark Pro · Max Def Driftwood",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+            "tag": "Dynasty · Driftshake",
+            "sku_url": "/shingles/iko/dynasty/driftshake/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+            "tag": "Legacy · Natural Wood",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
+            "tag": "Oakridge · Driftwood",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
+            "tag": "Vista · Weathered Wood",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>right</em>.",
+        "title_text": "Three-quarter right",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and right elevation.",
+        "count": 5,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (right-34)",
+            "tag": "Landmark Pro · Max Def Driftwood",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- IKO Dynasty Driftshake (right-34)",
+            "tag": "Dynasty · Driftshake",
+            "sku_url": "/shingles/iko/dynasty/driftshake/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Legacy Natural Wood (right-34)",
+            "tag": "Legacy · Natural Wood",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/owens-corning-oakridge-driftwood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (right-34)",
+            "tag": "Oakridge · Driftwood",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-vista-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-vista-weathered-wood-right-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Vista Weathered Wood (right-34)",
+            "tag": "Vista · Weathered Wood",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>left</em>.",
+        "title_text": "Three-quarter left",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and left elevation.",
+        "count": 5,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (left-34)",
+            "tag": "Landmark Pro · Max Def Driftwood",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- IKO Dynasty Driftshake (left-34)",
+            "tag": "Dynasty · Driftshake",
+            "sku_url": "/shingles/iko/dynasty/driftshake/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Legacy Natural Wood (left-34)",
+            "tag": "Legacy · Natural Wood",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/owens-corning-oakridge-driftwood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (left-34)",
+            "tag": "Oakridge · Driftwood",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-vista-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-vista-weathered-wood-left-34.jpg",
+            "alt": "Cape Cod home with Weathered Wood roof -- Malarkey Vista Weathered Wood (left-34)",
+            "tag": "Vista · Weathered Wood",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 15,
+    "image_attribution": "Renders generated via fal.ai nano-banana-2 image-edit on top of real install photos from each manufacturer. Roof color, texture, and design preserved from the original install photo; the facade is restyled to match the page's home-style specification."
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Try a <em>Cape Cod</em> + <em>Weathered Wood</em> roof on your own house.",
+    "body": "Upload a phone photo of your house and pre-load this exact cape cod-and-weathered wood pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
+    "cta_label": "Open visualizer with this combo",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+    "badge": {
+      "style_display": "Cape Cod",
+      "roof_color_display": "Weathered Wood",
+      "style_hex": "#E8E2D4",
+      "roof_color_hex": "#8A7960",
+      "label": "Cape Cod × Weathered Wood"
+    },
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "cape-cod",
+      "roof": "weathered-wood-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark-pro",
+        "color": "max-def-driftwood"
+      }
+    }
+  },
+  "recommended": {
+    "title_html": "Shingles that <em>get the Cape Cod look</em>.",
+    "note": "Cross-brand, real-world picks. Click any swatch to see specs, install photos, and pricing for that SKU.",
+    "items": [
+      {
+        "url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark Pro",
+        "color_display": "Max Def Driftwood",
+        "color_hex": "#5b554d"
+      },
+      {
+        "url": "/shingles/iko/dynasty/driftshake/",
+        "brand_display": "IKO",
+        "line_display": "Dynasty",
+        "color_display": "Driftshake",
+        "color_hex": "#625950"
+      },
+      {
+        "url": "/shingles/malarkey/legacy/natural-wood/",
+        "brand_display": "Malarkey",
+        "line_display": "Legacy",
+        "color_display": "Natural Wood",
+        "color_hex": "#6c6764"
+      },
+      {
+        "url": "/shingles/owens-corning/oakridge/driftwood/",
+        "brand_display": "Owens Corning",
+        "line_display": "Oakridge",
+        "color_display": "Driftwood",
+        "color_hex": "#5f564c"
+      },
+      {
+        "url": "/shingles/malarkey/vista/weathered-wood/",
+        "brand_display": "Malarkey",
+        "line_display": "Vista",
+        "color_display": "Weathered Wood",
+        "color_hex": "#6d6b6a"
+      }
+    ]
+  },
+  "consider": {
+    "kicker": "Things to consider · before you commit",
+    "title_html": "Three things <em>most</em> homeowners forget.",
+    "items": [
+      {
+        "number": "01.",
+        "heading": "Cape Cod calls for a steep roof pitch (10:12 minimum) and visible front dormers.",
+        "body": "Cape Cod calls for a steep roof pitch (10:12 minimum) and visible front dormers. Florida coastal Capes often substitute a hipped or shallow-gabled roof for hurricane-resistance reasons; the substitution converts the look toward 'coastal cottage' rather than true Cape Cod. Decide which lineage you want before specifying roof design."
+      },
+      {
+        "number": "02.",
+        "heading": "Multi-tone roofs fade more gracefully than single-color.",
+        "body": "Because the granule blend already contains several shades, slight UV-driven shifts in one shade are invisible to the eye. Weathered-wood SKUs photograph almost identical at year 1 and year 15 -- which is why historic-district homeowners and design-review boards default to them."
+      },
+      {
+        "number": "03.",
+        "heading": "Install quality matters more than SKU.",
+        "body": "All seven recommended SKUs hit Class A fire and 110-150 mph wind ratings. The bigger variable on a cape cod elevation is install quality: ridge-line straightness, valley flashing, starter strip alignment. Insist on a Master Elite or equivalent certified contractor and a written workmanship warranty separate from the manufacturer's material warranty."
+      }
+    ]
+  },
+  "variations": {
+    "kicker": "Variations · sibling combinations",
+    "title_html": "If you love this look, <em>try these</em>.",
+    "items": [
+      {
+        "url": "/cape-cod-with-black-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Cape Cod With Black Roof",
+        "style_hex": "#E8E2D4",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "cape-cod",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/cape-cod-with-charcoal-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Cape Cod With Charcoal Roof",
+        "style_hex": "#E8E2D4",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "cape-cod",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/cape-cod-with-brown-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Cape Cod With Brown Roof",
+        "style_hex": "#E8E2D4",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "cape-cod",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/craftsman-with-weathered-wood-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Craftsman With Weathered Wood Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "craftsman",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/modern-farmhouse-with-weathered-wood-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Modern Farmhouse With Weathered Wood Roof",
+        "style_hex": "#F4ECD8",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "modern-farmhouse",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/ranch-with-weathered-wood-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Ranch With Weathered Wood Roof",
+        "style_hex": "#A09280",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "ranch",
+        "roof_color_slug": "weathered-wood"
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Are Cape Cod homes common in Florida?",
+      "a": "Less common than in New England but well-represented in older Florida coastal communities (St. Augustine Beach, parts of Cocoa Beach, Sandestin). New coastal builds often borrow Cape Cod features (steep roof, dormers, cedar shingles) without committing to the full style."
+    },
+    {
+      "q": "Why are dormer windows non-negotiable for Cape Cod?",
+      "a": "Cape Cod's defining geometry is a 1.5-story home with usable second-floor space lit by front dormers. Without dormers, the second-floor windows would face only the sides of the house and the front facade reads as a single-story bungalow rather than a Cape."
+    },
+    {
+      "q": "Does weathered-wood actually look like real cedar shake on cape cod?",
+      "a": "From street distance, yes. Up close the difference is obvious -- asphalt is flat, cedar is dimensional. But at curb distance most observers cannot tell the two apart, and asphalt costs roughly one-fifth as much installed and carries a 30 to 50 year warranty versus 20 to 30 for cedar."
+    },
+    {
+      "q": "Will weathered-wood show algae streaks in Florida humidity?",
+      "a": "Less visibly than gray or charcoal. The multi-tone blend hides the dark vertical streaks that Gloeocapsa magma algae causes on solid-gray shingles. All recommended SKUs include copper- or zinc-infused granules that inhibit algae growth in the first place."
+    },
+    {
+      "q": "How do these renders compare to a real cape cod home with that roof?",
+      "a": "All renders on this page were generated by fal.ai's nano-banana-2 image-edit model on top of REAL install photos from each manufacturer. The roof color, granule texture, and shingle pattern come directly from the source photo and are preserved during the edit. The facade is restyled to Cape Cod. The result is photorealistic but not identical to any specific real home -- use it for visual comparison, then open the free visualizer to see the same SKU on a photo of your own house."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>Cape Cod × Weathered Wood</em> on your house.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "cape-cod",
+      "roof": "weathered-wood-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark-pro",
+        "color": "max-def-driftwood"
+      }
+    }
+  },
+  "data_sources": [
+    {
+      "label": "Wikipedia: Cape Cod",
+      "url": "https://en.wikipedia.org/wiki/Cape_Cod_(house)"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "NRCA Florida wind/hail guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:49+00:00",
+  "prose_method": "style-keyed-with-archetype-overlay",
+  "prose_style": "cape-cod",
+  "prose_archetype": "weathered-wood"
+}

@@ -1,0 +1,506 @@
+{
+  "slug": "atlas-pinnacle-pristine-woodland-green",
+  "url_path": "/shingles/atlas/pinnacle-pristine/woodland-green/",
+  "h1": "Atlas Pinnacle Pristine WOODLAND GREEN Shingles",
+  "meta_title": "Atlas Pinnacle Pristine WOODLAND GREEN Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Atlas Pinnacle Pristine in WOODLAND GREEN: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "green",
+  "roof_archetype": null,
+  "best_for_styles": [
+    "craftsman",
+    "adirondack",
+    "rustic",
+    "traditional",
+    "cottage"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Atlas",
+    "brand_slug": "atlas",
+    "brand_url": "/shingles/atlas/",
+    "line_display": "Pinnacle Pristine",
+    "line_slug": "atlas-pinnacle-pristine",
+    "line_url": "/shingles/atlas/pinnacle-pristine/",
+    "color_display": "WOODLAND GREEN",
+    "color_slug": "woodland-green",
+    "h1_html": "Atlas Pinnacle Pristine <em>WOODLAND GREEN</em> Shingles",
+    "tagline": "An architecturally bold green that reads as deliberate rather than dated.",
+    "hex": "#3f5550",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-woodland-green\\atlas-pinnacle-pristine-woodland-green-1.png",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-woodland-green/atlas-pinnacle-pristine-woodland-green-1.png",
+    "hero_image_alt": "Home with Atlas Pinnacle Pristine WOODLAND GREEN roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$123"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Atlas",
+        "url": "/shingles/atlas/"
+      },
+      {
+        "label": "Pinnacle Pristine",
+        "url": "/shingles/atlas/pinnacle-pristine/"
+      },
+      {
+        "label": "WOODLAND GREEN",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "woodland-green"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "A deliberate color. WOODLAND GREEN works on craftsman, traditional, and cottage-style elevations where the roof is meant to grow out of the landscape. The granule blend uses dark olive and brown accents to keep the surface visually warm.",
+      "Atlas keeps the green saturation deliberately low so the color reads as natural rather than artificial. The result is a roof that ages gracefully without ever pulling into 'AstroTurf' territory.",
+      "Works best on craftsman, traditional, and rustic-cottage builds. Stays clear of contemporary all-white elevations where the green can read as period-incorrect."
+    ],
+    "swatch_meta": {
+      "hex": "#3f5550",
+      "family": "Green",
+      "undertone": "Earthy",
+      "best_in": "Late morning light"
+    },
+    "hex_blend": [
+      "#3f5550",
+      "#4a605b",
+      "#34504a"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Craftsman style",
+        "url": "https://en.wikipedia.org/wiki/American_Craftsman"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "HP42 reinforced nailing zone, Sweet Spot nailing area. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "250 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "Scotchgard Protector",
+        "ctx": "Lifetime-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Atlas",
+        "ctx": "Atlanta, GA · made in the USA"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Pinnacle Pristine WOODLAND GREEN. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-woodland-green\\atlas-pinnacle-pristine-woodland-green-1.png",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-woodland-green/atlas-pinnacle-pristine-woodland-green-1.png",
+        "image_filename": "atlas-pinnacle-pristine-woodland-green-1.png",
+        "alt": "Florida home with Pinnacle Pristine WOODLAND GREEN roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-woodland-green\\atlas-pinnacle-pristine-woodland-green-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-woodland-green/atlas-pinnacle-pristine-woodland-green-2.jpg",
+        "image_filename": "atlas-pinnacle-pristine-woodland-green-2.jpg",
+        "alt": "Florida home with Pinnacle Pristine WOODLAND GREEN roof",
+        "tag": "AI-rendered example (street view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "atlas-pinnacle-pristine-woodland-green-1.png"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-woodland-green\\atlas-pinnacle-pristine-woodland-green-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-woodland-green/atlas-pinnacle-pristine-woodland-green-3.jpg",
+        "image_filename": "atlas-pinnacle-pristine-woodland-green-3.jpg",
+        "alt": "Florida home with Pinnacle Pristine WOODLAND GREEN roof",
+        "tag": "AI-rendered example (dusk view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "atlas-pinnacle-pristine-woodland-green-1.png"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-woodland-green\\atlas-pinnacle-pristine-woodland-green-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-woodland-green/atlas-pinnacle-pristine-woodland-green-4.jpg",
+        "image_filename": "atlas-pinnacle-pristine-woodland-green-4.jpg",
+        "alt": "Florida home with Pinnacle Pristine WOODLAND GREEN roof",
+        "tag": "AI-rendered example (morning view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "atlas-pinnacle-pristine-woodland-green-1.png"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/atlas-pinnacle-pristine-woodland-green/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "WOODLAND GREEN <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Earthy neutral",
+        "house_color_slug": "cream",
+        "url": null
+      },
+      {
+        "color_name": "Natural Cedar",
+        "color_hex": "#A07C5A",
+        "kicker": "Wood accent",
+        "house_color_slug": "tan",
+        "url": null
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": null
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Tonal match",
+        "house_color_slug": "sage-green",
+        "url": null
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Warm anchor",
+        "house_color_slug": "brown",
+        "url": null
+      }
+    ],
+    "note": "We do not yet have full-render combination pages for this color family."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>green</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Hdz",
+        "line_slug": "gaf-timberline-hdz",
+        "color_display": "Williamsburg Slate",
+        "color_hex": "#4b5150",
+        "redmean_distance": 19.8,
+        "url": "/shingles/gaf/timberline-hdz/williamsburg-slate/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Hunter Green",
+        "color_hex": "#465e51",
+        "redmean_distance": 20.9,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-hunter-green/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Hdz",
+        "line_slug": "gaf-timberline-hdz",
+        "color_display": "Biscayne Blue",
+        "color_hex": "#45505a",
+        "redmean_distance": 21.3,
+        "url": "/shingles/gaf/timberline-hdz/biscayne-blue/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Evergreen",
+        "color_hex": "#4f5a4d",
+        "redmean_distance": 26.6,
+        "url": "/shingles/certainteed/landmark-pro/max-def-evergreen/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Hdz",
+        "line_slug": "gaf-timberline-hdz",
+        "color_display": "Cliffside",
+        "color_hex": "#4b4d49",
+        "redmean_distance": 26.8,
+        "url": "/shingles/gaf/timberline-hdz/cliffside/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$123–$141",
+        "low_usd": 123,
+        "high_usd": 141,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,690–$4,230",
+        "low_usd": 3690,
+        "high_usd": 4230,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$11k–$18k",
+        "low_usd": 11070,
+        "high_usd": 18612,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/ATLAS-Pinnacle-Scotchgard-HP42-Asphalt-Architectural-Shingles-Pristine-Black-Shadow-618F002-3-BD-SQ-618F002/311703732",
+        "anchor_color": "",
+        "page_title": "ATLAS Pinnacle Scotchgard HP42 Asphalt Architectural Shingles-Pristine Black Shadow 618F002 (3 BD/SQ) 618F002 - The Home Depot",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\atlas-pinnacle-pristine\\homedepot.com__321295f7.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "menards.com",
+        "url": "https://www.menards.com/main/building-materials/roofing/roofing-shingles/atlas-pinnacle-reg-pristine-architectural-roofing-shingles-32-8-sq-ft/1516712/p-1536647321035-c-5814.htm",
+        "anchor_color": "Weathered Wood",
+        "page_title": "Atlas Pinnacle® Pristine Weathered Wood Architectural Roofing Shingles (32.8 sq. ft.) at Menards®",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\atlas-pinnacle-pristine\\menards.com__043a912e.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "Home Depot retail / RoofCalc.org",
+        "url": "https://www.homedepot.com/p/ATLAS-Pinnacle-Scotchgard-HP42-Asphalt-Architectural-Shingles-Pristine-Black-Shadow-618F002-3-BD-SQ-618F002/311703732",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 38,
+        "high_per_bundle_usd": 50,
+        "low_per_square_usd": 114.11,
+        "high_per_square_usd": 150.15,
+        "price_per_bundle_usd": 44,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 132.13,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "HD Black Shadow $46.47/bundle ($41.82 bulk); RoofCalc ~$38/bundle avg; sold at HD and Menards.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>WOODLAND GREEN</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Atlas Pinnacle Pristine WOODLAND GREEN in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with WOODLAND GREEN",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-woodland-green\\atlas-pinnacle-pristine-woodland-green-1.png",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-woodland-green/atlas-pinnacle-pristine-woodland-green-1.png",
+    "badge_text": "Pre-loaded: WOODLAND GREEN",
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "woodland-green"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is WOODLAND GREEN, really?",
+      "a": "A deep, earthy forest green with visible olive and dark brown granule accents. In direct Florida sun it reads as a clear forest tone; in shade it pulls toward dark gray-green. Far more committed to green than typical 'gray with a hint' SKUs."
+    },
+    {
+      "q": "Will WOODLAND GREEN look natural on a typical Florida home?",
+      "a": "Depends on the lot. On a wooded or hillside lot the color ties the house into the surroundings beautifully. On a flat suburban lot with mature palms or open lawn, it can read as an isolated choice. Best paired with mature landscaping rather than recently-cleared lots."
+    },
+    {
+      "q": "Does WOODLAND GREEN fade over time?",
+      "a": "Some. Green asphalt shingles use chromium-oxide pigments in the granule blend, which hold up well but drift slightly cooler over time. Expect a barely-visible shift toward gray-green over the first 10 years in Florida sun. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will WOODLAND GREEN make my house run hotter?",
+      "a": "Slightly. Dark green asphalt absorbs similar solar heat to mid-dark gray or brown. Florida attic-temperature impact is 5 to 10 degrees Fahrenheit at peak summer versus a light gray. Proper ventilation and a radiant barrier reduce monthly cooling impact to under 20 dollars."
+    },
+    {
+      "q": "Is this color rare?",
+      "a": "Yes. Green asphalt SKUs are produced in smaller volumes than gray or brown and lead times can be longer. Plan a 2 to 4 week lead time and confirm stock with your installer before contract."
+    },
+    {
+      "q": "How does WOODLAND GREEN pair with palm landscaping?",
+      "a": "Well, especially with mature king palms or sabal palms. The deep green of the roof complements the cool blue-green of palm fronds rather than competing with it. Avoid pairing with vivid Bird-of-Paradise or hibiscus accents that can compete with the roof color."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>WOODLAND GREEN</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "woodland-green"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Craftsman style",
+      "url": "https://en.wikipedia.org/wiki/American_Craftsman"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Atlas product page",
+      "url": "https://www.atlasroofing.com/products/roof-shingles/pinnacle-pristine-shingles"
+    },
+    {
+      "label": "Wikipedia: Atlas",
+      "url": "https://en.wikipedia.org/wiki/Atlas_Roofing_Corporation"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "green"
+}

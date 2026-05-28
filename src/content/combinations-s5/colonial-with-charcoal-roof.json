@@ -1,0 +1,558 @@
+{
+  "slug": "colonial-with-charcoal-roof",
+  "url_path": "/colonial-with-charcoal-roof/",
+  "h1": "Colonial Homes With a Charcoal Roof: 21 Rendered Examples 2026",
+  "meta_title": "Colonial Homes With Charcoal Roof: 21 Renders + Recommended Shingles (2026)",
+  "meta_description": "Colonial-style homes with a charcoal roof: 21 AI-rendered examples across 5 shingle brands, style background, recommended cross-brand SKUs with specs and Florida pricing, design considerations, FAQ, and a free visualizer.",
+  "strategy": 5,
+  "home_style_slug": "colonial",
+  "home_style_display": "Colonial",
+  "roof_color_slug": "charcoal",
+  "roof_color_display": "Charcoal",
+  "style_hex": "#D8CDBA",
+  "roof_color_hex": "#3F434B",
+  "combo_hero": {
+    "kicker": "Home style × Roof color · Colonial",
+    "h1_html": "<em>Colonial</em> Homes With a <em>Charcoal Roof</em>: <span class='count'>21</span> Rendered Examples <span class='year'>2026</span>",
+    "h1_text": "Colonial Homes With a Charcoal Roof: 21 Rendered Examples 2026",
+    "intro_paragraphs": [
+      "Charcoal is a studied choice for a Colonial - authoritative without tipping into graphic drama. The gray-blue undertone harmonizes quietly with white trim, painted shutters, and natural stone, the exact palette the style has maintained and returned to consistently over the centuries.",
+      "The granule variation in charcoal shingles also adds low-key surface texture to a roofline that is, by design, kept fairly spare - enough visual depth to complement the bilateral symmetry and paired shuttered windows without ever upstaging them."
+    ],
+    "meta_dots": [
+      {
+        "label": "Colonial style",
+        "dot_color_hex": "#D8CDBA",
+        "type": "style"
+      },
+      {
+        "label": "Charcoal roof",
+        "dot_color_hex": "#3F434B",
+        "type": "roof"
+      },
+      {
+        "label": "5 brands · 21 renders · 3 angle variants per SKU",
+        "type": "meta"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Home Styles",
+        "url": "/home-styles/"
+      },
+      {
+        "label": "Colonial Homes",
+        "url": "/colonial-homes/"
+      },
+      {
+        "label": "Colonial With Charcoal Roof",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+        "alt": "Colonial home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (front)",
+        "tag": "Atlas · BLACK SHADOW",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-belmont-stonegate-gray-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-belmont-stonegate-gray-front.jpg",
+        "alt": "Colonial home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (front)",
+        "tag": "CertainTeed · Stonegate Gray",
+        "sku_url": "/shingles/certainteed/belmont/stonegate-gray/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\iko-dynasty-glacier-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/iko-dynasty-glacier-front.jpg",
+        "alt": "Colonial home with Charcoal roof -- IKO Dynasty Glacier (front)",
+        "tag": "IKO · Glacier",
+        "sku_url": "/shingles/iko/dynasty/glacier/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\malarkey-legacy-storm-grey-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
+        "alt": "Colonial home with Charcoal roof -- Malarkey Legacy Storm Grey (front)",
+        "tag": "Malarkey · Storm Grey",
+        "sku_url": "/shingles/malarkey/legacy/storm-grey/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\owens-corning-duration-midnight-plum-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
+        "alt": "Colonial home with Charcoal roof -- Owens Corning Duration Midnight Plum (front)",
+        "tag": "Owens Corning · Midnight Plum",
+        "sku_url": "/shingles/owens-corning/duration/midnight-plum/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-grand-manor-sherwood-forest-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-grand-manor-sherwood-forest-front.jpg",
+        "alt": "Colonial home with Charcoal roof -- CertainTeed Grand Manor Sherwood Forest (front)",
+        "tag": "CertainTeed · Sherwood Forest",
+        "sku_url": "/shingles/certainteed/grand-manor/sherwood-forest/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-landmark-cobblestone-gray-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-landmark-cobblestone-gray-front.jpg",
+        "alt": "Colonial home with Charcoal roof -- CertainTeed Landmark Cobblestone Gray (front)",
+        "tag": "CertainTeed · Cobblestone Gray",
+        "sku_url": "/shingles/certainteed/landmark/cobblestone-gray/",
+        "angle_slug": "front"
+      }
+    ]
+  },
+  "style_background": {
+    "kicker": "Style background · the architecture",
+    "title_html": "What makes a home <em>Colonial</em>.",
+    "short_descriptor": "American Colonial Revival -- symmetric, balanced, classically proportioned.",
+    "background_prose": "What we call 'colonial' in the United States today is almost always Colonial Revival, a style that emerged after the 1876 Philadelphia Centennial as Americans reinterpreted 17th and 18th-century English and Dutch colonial architecture. The Colonial Revival peaked 1890-1955 and remains the second most common American home style. Key features include a strictly symmetric two-story facade, a centered front door with a pediment or fanlight, evenly spaced six-over-six paned windows flanked by shutters, and either red brick or white clapboard siding.",
+    "facade_features": [
+      "Symmetric two-story facade with centered front door",
+      "Classical pediment or fanlight over the entry",
+      "Six-over-six paned windows with shutters",
+      "Red brick or white-painted clapboard siding",
+      "Balanced traditional proportions"
+    ],
+    "era": "1890-1955 (peak), continuous from 1700s",
+    "sources": [
+      {
+        "label": "Wikipedia: Colonial",
+        "url": "https://en.wikipedia.org/wiki/Colonial_Revival_architecture"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "long_gallery": {
+    "title_html": "<em>Colonial</em> homes with <em>Charcoal</em> roofs.",
+    "section_intro": "All renders generated via fal.ai nano-banana-2 image-edit on real install photos. Roof color and design preserved from the source photo; facade restyled to Colonial.",
+    "groups": [
+      {
+        "title_html": "Front-on views.",
+        "title_text": "Front-on views",
+        "subtitle": "Seven renders shot directly head-on for the cleanest read of the facade.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+            "alt": "Colonial home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (front)",
+            "tag": "Pinnacle Pristine · BLACK SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-belmont-stonegate-gray-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-belmont-stonegate-gray-front.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (front)",
+            "tag": "Belmont · Stonegate Gray",
+            "sku_url": "/shingles/certainteed/belmont/stonegate-gray/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\iko-dynasty-glacier-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/iko-dynasty-glacier-front.jpg",
+            "alt": "Colonial home with Charcoal roof -- IKO Dynasty Glacier (front)",
+            "tag": "Dynasty · Glacier",
+            "sku_url": "/shingles/iko/dynasty/glacier/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\malarkey-legacy-storm-grey-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
+            "alt": "Colonial home with Charcoal roof -- Malarkey Legacy Storm Grey (front)",
+            "tag": "Legacy · Storm Grey",
+            "sku_url": "/shingles/malarkey/legacy/storm-grey/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\owens-corning-duration-midnight-plum-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
+            "alt": "Colonial home with Charcoal roof -- Owens Corning Duration Midnight Plum (front)",
+            "tag": "Duration · Midnight Plum",
+            "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-grand-manor-sherwood-forest-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-grand-manor-sherwood-forest-front.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Grand Manor Sherwood Forest (front)",
+            "tag": "Grand Manor · Sherwood Forest",
+            "sku_url": "/shingles/certainteed/grand-manor/sherwood-forest/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-landmark-cobblestone-gray-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-landmark-cobblestone-gray-front.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Landmark Cobblestone Gray (front)",
+            "tag": "Landmark · Cobblestone Gray",
+            "sku_url": "/shingles/certainteed/landmark/cobblestone-gray/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>right</em>.",
+        "title_text": "Three-quarter right",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and right elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-right-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (right-34)",
+            "tag": "Pinnacle Pristine · BLACK SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-belmont-stonegate-gray-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-belmont-stonegate-gray-right-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (right-34)",
+            "tag": "Belmont · Stonegate Gray",
+            "sku_url": "/shingles/certainteed/belmont/stonegate-gray/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\iko-dynasty-glacier-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/iko-dynasty-glacier-right-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- IKO Dynasty Glacier (right-34)",
+            "tag": "Dynasty · Glacier",
+            "sku_url": "/shingles/iko/dynasty/glacier/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\malarkey-legacy-storm-grey-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/malarkey-legacy-storm-grey-right-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- Malarkey Legacy Storm Grey (right-34)",
+            "tag": "Legacy · Storm Grey",
+            "sku_url": "/shingles/malarkey/legacy/storm-grey/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\owens-corning-duration-midnight-plum-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/owens-corning-duration-midnight-plum-right-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- Owens Corning Duration Midnight Plum (right-34)",
+            "tag": "Duration · Midnight Plum",
+            "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-grand-manor-sherwood-forest-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-grand-manor-sherwood-forest-right-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Grand Manor Sherwood Forest (right-34)",
+            "tag": "Grand Manor · Sherwood Forest",
+            "sku_url": "/shingles/certainteed/grand-manor/sherwood-forest/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-landmark-cobblestone-gray-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-landmark-cobblestone-gray-right-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Landmark Cobblestone Gray (right-34)",
+            "tag": "Landmark · Cobblestone Gray",
+            "sku_url": "/shingles/certainteed/landmark/cobblestone-gray/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>left</em>.",
+        "title_text": "Three-quarter left",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and left elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-left-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (left-34)",
+            "tag": "Pinnacle Pristine · BLACK SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-belmont-stonegate-gray-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-belmont-stonegate-gray-left-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (left-34)",
+            "tag": "Belmont · Stonegate Gray",
+            "sku_url": "/shingles/certainteed/belmont/stonegate-gray/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\iko-dynasty-glacier-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/iko-dynasty-glacier-left-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- IKO Dynasty Glacier (left-34)",
+            "tag": "Dynasty · Glacier",
+            "sku_url": "/shingles/iko/dynasty/glacier/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\malarkey-legacy-storm-grey-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/malarkey-legacy-storm-grey-left-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- Malarkey Legacy Storm Grey (left-34)",
+            "tag": "Legacy · Storm Grey",
+            "sku_url": "/shingles/malarkey/legacy/storm-grey/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\owens-corning-duration-midnight-plum-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/owens-corning-duration-midnight-plum-left-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- Owens Corning Duration Midnight Plum (left-34)",
+            "tag": "Duration · Midnight Plum",
+            "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-grand-manor-sherwood-forest-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-grand-manor-sherwood-forest-left-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Grand Manor Sherwood Forest (left-34)",
+            "tag": "Grand Manor · Sherwood Forest",
+            "sku_url": "/shingles/certainteed/grand-manor/sherwood-forest/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\certainteed-landmark-cobblestone-gray-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/certainteed-landmark-cobblestone-gray-left-34.jpg",
+            "alt": "Colonial home with Charcoal roof -- CertainTeed Landmark Cobblestone Gray (left-34)",
+            "tag": "Landmark · Cobblestone Gray",
+            "sku_url": "/shingles/certainteed/landmark/cobblestone-gray/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 21,
+    "image_attribution": "Renders generated via fal.ai nano-banana-2 image-edit on top of real install photos from each manufacturer. Roof color, texture, and design preserved from the original install photo; the facade is restyled to match the page's home-style specification."
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Try a <em>Colonial</em> + <em>Charcoal</em> roof on your own house.",
+    "body": "Upload a phone photo of your house and pre-load this exact colonial-and-charcoal pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
+    "cta_label": "Open visualizer with this combo",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+    "badge": {
+      "style_display": "Colonial",
+      "roof_color_display": "Charcoal",
+      "style_hex": "#D8CDBA",
+      "roof_color_hex": "#3F434B",
+      "label": "Colonial × Charcoal"
+    },
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "colonial",
+      "roof": "charcoal-roof",
+      "preload_sku": {
+        "brand": "atlas",
+        "line": "pinnacle-pristine",
+        "color": "black-shadow"
+      }
+    }
+  },
+  "recommended": {
+    "title_html": "Shingles that <em>get the Colonial look</em>.",
+    "note": "Cross-brand, real-world picks. Click any swatch to see specs, install photos, and pricing for that SKU.",
+    "items": [
+      {
+        "url": "/shingles/atlas/pinnacle-pristine/black-shadow/",
+        "brand_display": "Atlas",
+        "line_display": "Pinnacle Pristine",
+        "color_display": "BLACK SHADOW",
+        "color_hex": "#3f4543"
+      },
+      {
+        "url": "/shingles/certainteed/belmont/stonegate-gray/",
+        "brand_display": "CertainTeed",
+        "line_display": "Belmont",
+        "color_display": "Stonegate Gray",
+        "color_hex": "#6e6c5e"
+      },
+      {
+        "url": "/shingles/iko/dynasty/glacier/",
+        "brand_display": "IKO",
+        "line_display": "Dynasty",
+        "color_display": "Glacier",
+        "color_hex": "#3a3a33"
+      },
+      {
+        "url": "/shingles/malarkey/legacy/storm-grey/",
+        "brand_display": "Malarkey",
+        "line_display": "Legacy",
+        "color_display": "Storm Grey",
+        "color_hex": "#5c5c5c"
+      },
+      {
+        "url": "/shingles/owens-corning/duration/midnight-plum/",
+        "brand_display": "Owens Corning",
+        "line_display": "Duration",
+        "color_display": "Midnight Plum",
+        "color_hex": "#403639"
+      },
+      {
+        "url": "/shingles/certainteed/grand-manor/sherwood-forest/",
+        "brand_display": "CertainTeed",
+        "line_display": "Grand Manor",
+        "color_display": "Sherwood Forest",
+        "color_hex": "#555c58"
+      },
+      {
+        "url": "/shingles/certainteed/landmark/cobblestone-gray/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark",
+        "color_display": "Cobblestone Gray",
+        "color_hex": "#7a786f"
+      }
+    ]
+  },
+  "consider": {
+    "kicker": "Things to consider · before you commit",
+    "title_html": "Three things <em>most</em> homeowners forget.",
+    "items": [
+      {
+        "number": "01.",
+        "heading": "Colonial Revival is the strictest style on this list when it comes to proportion.",
+        "body": "Colonial Revival is the strictest style on this list when it comes to proportion. Asymmetry in the facade reads as 'wrong' immediately. If you are renovating, address window placement and entry symmetry before worrying about roof color. A perfect roof on an asymmetric colonial does not save the elevation."
+      },
+      {
+        "number": "02.",
+        "heading": "Charcoal is the safest mid-tone roof for resale.",
+        "body": "Charcoal is the single most-installed asphalt color in the architectural category nationally, which means it appeals to the widest pool of resale buyers and translates across most home styles. If you are not strongly committed to a more decisive color (true black, weathered wood), charcoal is the lowest-risk choice."
+      },
+      {
+        "number": "03.",
+        "heading": "Install quality matters more than SKU.",
+        "body": "All seven recommended SKUs hit Class A fire and 110-150 mph wind ratings. The bigger variable on a colonial elevation is install quality: ridge-line straightness, valley flashing, starter strip alignment. Insist on a Master Elite or equivalent certified contractor and a written workmanship warranty separate from the manufacturer's material warranty."
+      }
+    ]
+  },
+  "variations": {
+    "kicker": "Variations · sibling combinations",
+    "title_html": "If you love this look, <em>try these</em>.",
+    "items": [
+      {
+        "url": "/colonial-with-black-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Colonial With Black Roof",
+        "style_hex": "#D8CDBA",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "colonial",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/colonial-with-brown-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Colonial With Brown Roof",
+        "style_hex": "#D8CDBA",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "colonial",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/colonial-with-weathered-wood-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Colonial With Weathered Wood Roof",
+        "style_hex": "#D8CDBA",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "colonial",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/craftsman-with-charcoal-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Craftsman With Charcoal Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "craftsman",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/modern-farmhouse-with-charcoal-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Modern Farmhouse With Charcoal Roof",
+        "style_hex": "#F4ECD8",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "modern-farmhouse",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/ranch-with-charcoal-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Ranch With Charcoal Roof",
+        "style_hex": "#A09280",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "ranch",
+        "roof_color_slug": "charcoal"
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Is colonial a popular style in Florida?",
+      "a": "Less common than craftsman or modern farmhouse, but still well-represented in older Florida neighborhoods (St. Augustine, Coral Gables, certain Jacksonville and Tampa suburbs). Florida's hurricane-resistance requirements make pure brick-clad colonials less common than their northern equivalents."
+    },
+    {
+      "q": "What roof pitch works for colonial?",
+      "a": "Steep, typically 8:12 to 10:12. The visible roof plane is part of the facade balance; flatter roofs make the house look top-heavy."
+    },
+    {
+      "q": "How is charcoal different from black for colonial architecture?",
+      "a": "Charcoal is a half-step warmer and lighter than true black. On colonial architecture, charcoal reads as slightly softer and more traditional; true black reads as more graphic and modern. Both are correct -- the choice comes down to how decisive you want the elevation to feel."
+    },
+    {
+      "q": "Will charcoal fade in Florida UV?",
+      "a": "Minimally. Modern ceramic-coated granules hold color for 25 plus years. Charcoal tends to drift slightly warmer over the first 5 years -- a barely visible shift -- then stabilizes. Source: NRCA field-aging data."
+    },
+    {
+      "q": "How do these renders compare to a real colonial home with that roof?",
+      "a": "All renders on this page were generated by fal.ai's nano-banana-2 image-edit model on top of REAL install photos from each manufacturer. The roof color, granule texture, and shingle pattern come directly from the source photo and are preserved during the edit. The facade is restyled to Colonial. The result is photorealistic but not identical to any specific real home -- use it for visual comparison, then open the free visualizer to see the same SKU on a photo of your own house."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>Colonial × Charcoal</em> on your house.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "colonial",
+      "roof": "charcoal-roof",
+      "preload_sku": {
+        "brand": "atlas",
+        "line": "pinnacle-pristine",
+        "color": "black-shadow"
+      }
+    }
+  },
+  "data_sources": [
+    {
+      "label": "Wikipedia: Colonial",
+      "url": "https://en.wikipedia.org/wiki/Colonial_Revival_architecture"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "NRCA Florida wind/hail guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:48+00:00",
+  "prose_method": "style-keyed-with-archetype-overlay",
+  "prose_style": "colonial",
+  "prose_archetype": "charcoal"
+}

@@ -1,0 +1,527 @@
+{
+  "slug": "certainteed-presidential-shake-shadow-gray",
+  "url_path": "/shingles/certainteed/presidential-shake/shadow-gray/",
+  "h1": "CertainTeed Presidential Shake Shadow Gray Shingles",
+  "meta_title": "CertainTeed Presidential Shake Shadow Gray Shingles · Color, Specs, Price (2026)",
+  "meta_description": "CertainTeed Presidential Shake in Shadow Gray: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "charcoal",
+  "best_for_styles": [
+    "craftsman",
+    "colonial",
+    "traditional",
+    "modern-farmhouse",
+    "cape-cod"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Luxury / Shake-look",
+    "brand_display": "CertainTeed",
+    "brand_slug": "certainteed",
+    "brand_url": "/shingles/certainteed/",
+    "line_display": "Presidential Shake",
+    "line_slug": "certainteed-presidential-shake",
+    "line_url": "/shingles/certainteed/presidential-shake/",
+    "color_display": "Shadow Gray",
+    "color_slug": "shadow-gray",
+    "h1_html": "CertainTeed Presidential Shake <em>Shadow Gray</em> Shingles",
+    "tagline": "The workhorse mid-tone that flatters almost any house color underneath it.",
+    "hex": "#56524e",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-shadow-gray\\certainteed-presidential-shake-shadow-gray-1.jpg",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-shadow-gray/certainteed-presidential-shake-shadow-gray-1.jpg",
+    "hero_image_alt": "Home with CertainTeed Presidential Shake Shadow Gray roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$360"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "CertainTeed",
+        "url": "/shingles/certainteed/"
+      },
+      {
+        "label": "Presidential Shake",
+        "url": "/shingles/certainteed/presidential-shake/"
+      },
+      {
+        "label": "Shadow Gray",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "presidential-shake",
+      "color": "shadow-gray"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Shadow Gray sits in the heart of the gray spectrum for Presidential Shake. It reads as a clean charcoal in direct sun and softens to a near-black on cloudy or shaded elevations. That tonal range is the reason it dominates the dimensional asphalt category nationally.",
+      "Up close you can pick out three or four granule shades layered into the surface. From the street they collapse into one mid-dark gray, but the layering is why a quality asphalt roof catches light the way single-color metal never quite does.",
+      "A safe specification if you have not committed to a final paint color yet. It cools the rest of the elevation visually and makes warm accents (cedar, stone, copper) look richer."
+    ],
+    "swatch_meta": {
+      "hex": "#56524e",
+      "family": "Gray",
+      "undertone": "Warm slate",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#56524e",
+      "#43413f",
+      "#6a6663"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-presidential-shake-shadow-gray\\certainteed-presidential-shake-shadow-gray-swatch.jpg",
+      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-presidential-shake-shadow-gray/certainteed-presidential-shake-shadow-gray-swatch.jpg",
+      "image_filename": "certainteed-presidential-shake-shadow-gray-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "presidential-shgr-swatch.jpeg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Luxury / Shake-look",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "Two-piece tab construction. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "480 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakFighter",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "CertainTeed",
+        "ctx": "Malvern, PA · made in the USA"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Historical Roofing Warranties - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/0k71w1oizd/pdf/Historical-Asphalt-Roofing-Warranties-1988-2025.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 International Limited Warranty - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/1nmszdhkin/pdf/asphalt-international-warranty-00-02-5544-XP-EN-2601.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 Asphalt Shingles Limited Warranty - Residential",
+        "url": "https://certainteed.widen.net/content/cu4q0koymx/pdf/asphalt-low-slope-shingle-warranty-00-02-5540-NA-EN-2602.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "Sell Sheet - Presidential Luxury Roofing Shingles | South West",
+        "url": "https://certainteed.widen.net/content/8zyrzph7jd/pdf/presidential-sellsheet-00-04-2203-US-EN-sw-2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      },
+      {
+        "label": "Brochure - Third Party Classification",
+        "url": "https://certainteed.widen.net/content/evxm8pieio/pdf/roofing-ulclassified-brochure-00-00-17-US-EN--2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      },
+      {
+        "label": "Sell Sheet - Presidential Shake IR",
+        "url": "https://certainteed.widen.net/content/skyuyzmf9z/pdf/presidential-ir-sellsheet-00-04-1966-NA-EN-2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Presidential Shake Shadow Gray. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-shadow-gray\\certainteed-presidential-shake-shadow-gray-1.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-shadow-gray/certainteed-presidential-shake-shadow-gray-1.jpg",
+        "image_filename": "certainteed-presidential-shake-shadow-gray-1.jpg",
+        "alt": "Florida home with Presidential Shake Shadow Gray roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Real residential house photo with medium-dark gray shingled roof; plausible Shadow Gray tone.",
+        "origin_filename": "01__eastmanroofing-com.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-shadow-gray\\certainteed-presidential-shake-shadow-gray-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-shadow-gray/certainteed-presidential-shake-shadow-gray-2.jpg",
+        "image_filename": "certainteed-presidential-shake-shadow-gray-2.jpg",
+        "alt": "Florida home with Presidential Shake Shadow Gray roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Single-family home with dark gray shingled roof, matches Shadow Gray color.",
+        "origin_filename": "02__eastmanroofing-com.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-shadow-gray\\certainteed-presidential-shake-shadow-gray-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-shadow-gray/certainteed-presidential-shake-shadow-gray-3.jpg",
+        "image_filename": "certainteed-presidential-shake-shadow-gray-3.jpg",
+        "alt": "Florida home with Presidential Shake Shadow Gray roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Residential house with dark gray shingles; tone consistent with Shadow Gray.",
+        "origin_filename": "03__eastmanroofing-com.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-shadow-gray\\certainteed-presidential-shake-shadow-gray-4.webp",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-shadow-gray/certainteed-presidential-shake-shadow-gray-4.webp",
+        "image_filename": "certainteed-presidential-shake-shadow-gray-4.webp",
+        "alt": "Florida home with Presidential Shake Shadow Gray roof",
+        "tag": "Verified contractor install",
+        "source": "web_search_verified",
+        "rationale": "Residential home photo with dark gray shake-profile roof matching Shadow Gray.",
+        "origin_filename": "04__certainteed-widen-net.webp"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/certainteed-presidential-shake-shadow-gray/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Shadow Gray <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-charcoal-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Woodcrest",
+        "line_slug": "owens-corning-woodcrest",
+        "color_display": "Granite",
+        "color_hex": "#53534f",
+        "redmean_distance": 5.3,
+        "url": "/shingles/owens-corning/woodcrest/granite/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration Designer",
+        "line_slug": "owens-corning-duration-designer",
+        "color_display": "Gray Tweed",
+        "color_hex": "#565451",
+        "redmean_distance": 6.3,
+        "url": "/shingles/owens-corning/duration-designer/gray-tweed/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration",
+        "line_slug": "owens-corning-duration",
+        "color_display": "Colonial Slate",
+        "color_hex": "#574f4d",
+        "redmean_distance": 6.4,
+        "url": "/shingles/owens-corning/duration/colonial-slate/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Slateline",
+        "line_slug": "gaf-slateline",
+        "color_display": "Slateline Antique Slate",
+        "color_hex": "#535052",
+        "redmean_distance": 8.9,
+        "url": "/shingles/gaf/slateline/slateline-antique-slate/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Woodcrest",
+        "line_slug": "owens-corning-woodcrest",
+        "color_display": "Mountainside",
+        "color_hex": "#50504f",
+        "redmean_distance": 10.1,
+        "url": "/shingles/owens-corning/woodcrest/mountainside/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$360–$415",
+        "low_usd": 360,
+        "high_usd": 415,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$10,800–$12,450",
+        "low_usd": 10800,
+        "high_usd": 12450,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$32k–$54k",
+        "low_usd": 32400,
+        "high_usd": 54780,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/CertainTeed-Presidential-Shake-TL-20-sq-ft-Aged-Bark-Laminated-Architectural-Roof-Shingles/5002103211",
+        "anchor_color": "",
+        "page_title": "CertainTeed Presidential Shake TL Aged Bark Laminated Architectural Roof Shingles at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-presidential-shake\\lowes.com__24c9cfc2.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "RoofCalc.org / Bill Ragan Roofing / SkyRidge",
+        "url": "https://www.roofcalc.org/certainteed-roof-shingles/",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 60,
+        "high_per_bundle_usd": 95,
+        "low_per_square_usd": 300,
+        "high_per_square_usd": 475,
+        "price_per_bundle_usd": 77.5,
+        "coverage_sq_ft_per_bundle": 20,
+        "bundles_per_square": 5,
+        "price_per_square_usd": 387.5,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "Triple-laminate shake-look luxury; ~$300-475/sq material; 5 bundles/sq; special-order through CT distributors.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Shadow Gray</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Presidential Shake Shadow Gray in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Shadow Gray",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-presidential-shake-shadow-gray\\certainteed-presidential-shake-shadow-gray-1.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-presidential-shake-shadow-gray/certainteed-presidential-shake-shadow-gray-1.jpg",
+    "badge_text": "Pre-loaded: Shadow Gray",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "presidential-shake",
+      "color": "shadow-gray"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Shadow Gray, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Shadow Gray fade over time?",
+      "a": "Minimally. CertainTeed's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: CertainTeed product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Shadow Gray look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Shadow Gray make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across CertainTeed, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. CertainTeed's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Shadow Gray</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "presidential-shake",
+      "color": "shadow-gray"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "CertainTeed product page",
+      "url": "https://www.certainteed.com/products/residential-roofing-products/presidential-shake"
+    },
+    {
+      "label": "Wikipedia: CertainTeed",
+      "url": "https://en.wikipedia.org/wiki/CertainTeed"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

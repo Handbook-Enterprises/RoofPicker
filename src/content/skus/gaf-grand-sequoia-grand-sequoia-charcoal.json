@@ -1,0 +1,516 @@
+{
+  "slug": "gaf-grand-sequoia-grand-sequoia-charcoal",
+  "url_path": "/shingles/gaf/grand-sequoia/grand-sequoia-charcoal/",
+  "h1": "GAF Grand Sequoia Grand Sequoia Charcoal Shingles",
+  "meta_title": "GAF Grand Sequoia Grand Sequoia Charcoal Shingles · Color, Specs, Price (2026)",
+  "meta_description": "GAF Grand Sequoia in Grand Sequoia Charcoal: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "black",
+  "roof_archetype": "black",
+  "best_for_styles": [
+    "modern-farmhouse",
+    "contemporary",
+    "ranch",
+    "modern",
+    "traditional"
+  ],
+  "hail_rating_class": 4,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Designer / Shake-look",
+    "brand_display": "GAF",
+    "brand_slug": "gaf",
+    "brand_url": "/shingles/gaf/",
+    "line_display": "Grand Sequoia",
+    "line_slug": "gaf-grand-sequoia",
+    "line_url": "/shingles/gaf/grand-sequoia/",
+    "color_display": "Grand Sequoia Charcoal",
+    "color_slug": "grand-sequoia-charcoal",
+    "h1_html": "GAF Grand Sequoia <em>Grand Sequoia Charcoal</em> Shingles",
+    "tagline": "The blackest shingle in the catalog. Reads as one solid plane in any light.",
+    "hex": "#26282b",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-grand-sequoia-grand-sequoia-charcoal\\gaf-grand-sequoia-grand-sequoia-charcoal-1.avif",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-grand-sequoia-grand-sequoia-charcoal/gaf-grand-sequoia-grand-sequoia-charcoal-1.avif",
+    "hero_image_alt": "Home with GAF Grand Sequoia Grand Sequoia Charcoal roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$279"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "GAF",
+        "url": "/shingles/gaf/"
+      },
+      {
+        "label": "Grand Sequoia",
+        "url": "/shingles/gaf/grand-sequoia/"
+      },
+      {
+        "label": "Grand Sequoia Charcoal",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "grand-sequoia",
+      "color": "grand-sequoia-charcoal"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Pure depth, no equivocation. Grand Sequoia Charcoal is the color you choose when you want the roof to define the silhouette of the house rather than blend into it. On a Florida elevation it absorbs heat aggressively, so attic ventilation matters more than with lighter shingles.",
+      "The granule blend is built on a deep carbon base with a faint slate accent that prevents the surface from going dead flat. Up close you can see the dimensional shadow line that gives the Grand Sequoia profile its premium feel; from the street it reads as one solid color.",
+      "Works under almost any house color, which is why this family accounts for roughly a third of all architectural-shingle installs nationally. If you are torn, pick this and worry about siding later."
+    ],
+    "swatch_meta": {
+      "hex": "#26282b",
+      "family": "True black",
+      "undertone": "Cool",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#26282b",
+      "#1d2120",
+      "#3a3c3f"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM E108 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ENERGY STAR cool-roof reference",
+        "url": "https://www.energystar.gov/products/building_products/roof_products"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Designer / Shake-look",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "WindProven with required GAF accessory installation. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 4",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "305 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StainGuard Plus",
+        "ctx": "25-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "GAF",
+        "ctx": "Parsippany, NJ · made in the USA"
+      },
+      {
+        "cat": "Pieces / square",
+        "val": "72",
+        "ctx": "Coverage: 100 sq ft per square"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Advanced Algae Protection Sell Sheet - RESGN439",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/advanced-algae-protection-sell-sheet-resgn439.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "Designer Shingles SDS - 1002",
+        "url": "https://www.gaf.com/en-us/document-library/documents/safety-data-sheets/shingles---designer-sds-1002.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "GAF Designer Shingles Collection Brochure - RESGN712",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/brochure__gaf_designer_shingles_collection_resgn712.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "Grand Sequoia and Grand Sequoia AS Shingles Miami-Dade - 22-0523.04",
+        "url": "https://www.gaf.com/en-us/document-library/documents/codes/22-0523.04.pdf",
+        "type": "other"
+      },
+      {
+        "label": "Grand Sequoia and Grand Sequoia IR Installation Instructions",
+        "url": "https://www.gaf.com/en-us/document-library/documents/installation-instructions-&-guides/grand-canyon,-grand-sequoia,-grand-sequoia-ir-shingle-installation-instructions.pdf",
+        "type": "install_instructions"
+      },
+      {
+        "label": "Grand Sequoia Shingles Data Sheet - RESGN467GS",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/grand-sequoia-shingles-data-sheet-resgn467gs.pdf",
+        "type": "tds"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Grand Sequoia Grand Sequoia Charcoal. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-grand-sequoia-grand-sequoia-charcoal\\gaf-grand-sequoia-grand-sequoia-charcoal-1.avif",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-grand-sequoia-grand-sequoia-charcoal/gaf-grand-sequoia-grand-sequoia-charcoal-1.avif",
+        "image_filename": "gaf-grand-sequoia-grand-sequoia-charcoal-1.avif",
+        "alt": "Florida home with Grand Sequoia Grand Sequoia Charcoal roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-grand-sequoia-grand-sequoia-charcoal\\gaf-grand-sequoia-grand-sequoia-charcoal-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-grand-sequoia-grand-sequoia-charcoal/gaf-grand-sequoia-grand-sequoia-charcoal-2.jpg",
+        "image_filename": "gaf-grand-sequoia-grand-sequoia-charcoal-2.jpg",
+        "alt": "Florida home with Grand Sequoia Grand Sequoia Charcoal roof",
+        "tag": "AI-rendered example (right-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-grand-sequoia-grand-sequoia-charcoal-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-grand-sequoia-grand-sequoia-charcoal\\gaf-grand-sequoia-grand-sequoia-charcoal-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-grand-sequoia-grand-sequoia-charcoal/gaf-grand-sequoia-grand-sequoia-charcoal-3.jpg",
+        "image_filename": "gaf-grand-sequoia-grand-sequoia-charcoal-3.jpg",
+        "alt": "Florida home with Grand Sequoia Grand Sequoia Charcoal roof",
+        "tag": "AI-rendered example (left-34 view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-grand-sequoia-grand-sequoia-charcoal-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-grand-sequoia-grand-sequoia-charcoal\\gaf-grand-sequoia-grand-sequoia-charcoal-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-grand-sequoia-grand-sequoia-charcoal/gaf-grand-sequoia-grand-sequoia-charcoal-4.jpg",
+        "image_filename": "gaf-grand-sequoia-grand-sequoia-charcoal-4.jpg",
+        "alt": "Florida home with Grand Sequoia Grand Sequoia Charcoal roof",
+        "tag": "AI-rendered example (aerial view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-grand-sequoia-grand-sequoia-charcoal-1.avif"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/gaf-grand-sequoia-grand-sequoia-charcoal/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Grand Sequoia Charcoal <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-black-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-black-roof/"
+      },
+      {
+        "color_name": "Hale Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-black-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-black-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Warm contrast",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-black-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>true black</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Cinder Black",
+        "color_hex": "#26262a",
+        "redmean_distance": 4.3,
+        "url": "/shingles/certainteed/landmark-pro/cinder-black/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Cinder Black",
+        "color_hex": "#262629",
+        "redmean_distance": 5.2,
+        "url": "/shingles/certainteed/landmark/cinder-black/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Presidential Shake",
+        "line_slug": "certainteed-presidential-shake",
+        "color_display": "Charcoal Black",
+        "color_hex": "#262526",
+        "redmean_distance": 10.4,
+        "url": "/shingles/certainteed/presidential-shake/charcoal-black/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Duration",
+        "line_slug": "owens-corning-duration",
+        "color_display": "Onyx Black",
+        "color_hex": "#292d30",
+        "redmean_distance": 13.8,
+        "url": "/shingles/owens-corning/duration/onyx-black/"
+      },
+      {
+        "brand_display": "Owens Corning",
+        "brand_slug": "owens-corning",
+        "line_display": "Oakridge",
+        "line_slug": "owens-corning-oakridge",
+        "color_display": "Onyx Black",
+        "color_hex": "#292d30",
+        "redmean_distance": 13.8,
+        "url": "/shingles/owens-corning/oakridge/onyx-black/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$279–$321",
+        "low_usd": 279,
+        "high_usd": 321,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$8,370–$9,630",
+        "low_usd": 8370,
+        "high_usd": 9630,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$25k–$42k",
+        "low_usd": 25110,
+        "high_usd": 42372,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/GAF-Grand-Sequoia-20-sq-ft-Weathered-Wood-Laminated-Architectural-Roof-Shingles/50419160",
+        "anchor_color": "Weathered Wood",
+        "page_title": "GAF Grand Sequoia Class 4 Weathered Wood Architectural Roof Shingles ( 20-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 60,
+        "coverage_sq_ft_per_bundle": 20,
+        "bundles_per_square": 5,
+        "price_per_square_usd": 300,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-grand-sequoia\\lowes.com__16c1e052.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Grand Sequoia Charcoal</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Grand Sequoia Grand Sequoia Charcoal in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Grand Sequoia Charcoal",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-grand-sequoia-grand-sequoia-charcoal\\gaf-grand-sequoia-grand-sequoia-charcoal-1.avif",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-grand-sequoia-grand-sequoia-charcoal/gaf-grand-sequoia-grand-sequoia-charcoal-1.avif",
+    "badge_text": "Pre-loaded: Grand Sequoia Charcoal",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "grand-sequoia",
+      "color": "grand-sequoia-charcoal"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Grand Sequoia Charcoal, really?",
+      "a": "A true deep black with no visible blue, brown, or red undertone. In bright Florida sun it stays black; in shade it reads as pure shadow. The granule blend is a tight mix of carbon and charcoal granules that gives the surface dimensional texture without lifting the perceived color."
+    },
+    {
+      "q": "Will Grand Sequoia Charcoal make my house run hotter?",
+      "a": "Yes, somewhat. A dark asphalt roof can raise attic temperatures by 5 to 15 degrees Fahrenheit at peak summer compared to a light gray. In Florida that translates to roughly 10 to 20 dollars per month in additional cooling cost on a typical 2,500 sq ft home if attic ventilation is adequate. Proper soffit-to-ridge ventilation and a modern radiant barrier under the deck close most of the gap."
+    },
+    {
+      "q": "Does Grand Sequoia Charcoal fade over time?",
+      "a": "Minimally. GAF's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a subtle shift toward a slightly warmer tone over the first 5 years, then visual stability. The full warranty covers premature fading. Source: GAF product warranty document and NRCA field-aging guidance."
+    },
+    {
+      "q": "How does it compare to other black shingles?",
+      "a": "Across GAF, GAF, CertainTeed, IKO, and Owens Corning, the true-black SKUs read nearly identical in daylight from street distance. The granule blend differs slightly (some have a hint of warm undertone, others stay cooler) but unless you place two roofs side by side most homeowners cannot tell them apart."
+    },
+    {
+      "q": "Does Grand Sequoia Charcoal work on a Mediterranean or Spanish-style home?",
+      "a": "It can, but it is less traditional than a terracotta tile look. The black asphalt + cream-stucco combination reads as contemporary Mediterranean rather than historical. If you want the historical look, a multi-tone weathered-wood or warm brown reads closer."
+    },
+    {
+      "q": "How will Grand Sequoia Charcoal look in 10 years?",
+      "a": "Asphalt shingles in this family typically show their first granule loss (visible as small gritty deposits in gutters) at year 8 to 12. Color stability is excellent over the same window. Most Grand Sequoia Charcoal roofs reach year 15 looking visually identical to year 1 unless the house had a serious algae or moss episode."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Grand Sequoia Charcoal</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "grand-sequoia",
+      "color": "grand-sequoia-charcoal"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM E108 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "GAF product page",
+      "url": "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/grand-sequoia"
+    },
+    {
+      "label": "Wikipedia: GAF",
+      "url": "https://en.wikipedia.org/wiki/GAF_Materials_Corporation"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "black"
+}

@@ -1,0 +1,520 @@
+{
+  "slug": "gaf-camelot-ii-camelot-ii-royal-slate",
+  "url_path": "/shingles/gaf/camelot-ii/camelot-ii-royal-slate/",
+  "h1": "GAF Camelot II Camelot Ii Royal Slate Shingles",
+  "meta_title": "GAF Camelot II Camelot Ii Royal Slate Shingles · Color, Specs, Price (2026)",
+  "meta_description": "GAF Camelot II in Camelot Ii Royal Slate: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "charcoal",
+  "best_for_styles": [
+    "craftsman",
+    "colonial",
+    "traditional",
+    "modern-farmhouse",
+    "cape-cod"
+  ],
+  "hail_rating_class": 4,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Designer / Luxury",
+    "brand_display": "GAF",
+    "brand_slug": "gaf",
+    "brand_url": "/shingles/gaf/",
+    "line_display": "Camelot II",
+    "line_slug": "gaf-camelot-ii",
+    "line_url": "/shingles/gaf/camelot-ii/",
+    "color_display": "Camelot Ii Royal Slate",
+    "color_slug": "camelot-ii-royal-slate",
+    "h1_html": "GAF Camelot II <em>Camelot Ii Royal Slate</em> Shingles",
+    "tagline": "A confident, anchored gray that reads black in shade and slate in sun.",
+    "hex": "#3e3f40",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-royal-slate\\gaf-camelot-ii-camelot-ii-royal-slate-1.avif",
+    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-royal-slate/gaf-camelot-ii-camelot-ii-royal-slate-1.avif",
+    "hero_image_alt": "Home with GAF Camelot II Camelot Ii Royal Slate roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$191"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "GAF",
+        "url": "/shingles/gaf/"
+      },
+      {
+        "label": "Camelot II",
+        "url": "/shingles/gaf/camelot-ii/"
+      },
+      {
+        "label": "Camelot Ii Royal Slate",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "camelot-ii",
+      "color": "camelot-ii-royal-slate"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Camelot Ii Royal Slate is the kind of gray you choose when you want the roof to recede and the rest of the house to lead. Not quite black, not quite slate. It is a confident, anchored color that absorbs the eye instead of bouncing it. On a south-facing Florida elevation it reads cool and slightly blue. On a north-facing roof in shade it pulls toward true black.",
+      "The granule blend uses a base of charcoal granules with smaller portions of true black and storm-gray accents to keep the surface from going dead flat. In direct midday sun the texture catches enough light to show the dimensional shadow line that gives Camelot II its premium feel.",
+      "Difficult to pair badly. The one place it disagrees: bright primary-yellow houses, where the cool undertone fights the warm siding."
+    ],
+    "swatch_meta": {
+      "hex": "#3e3f40",
+      "family": "Gray",
+      "undertone": "Cool blue",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#3e3f40",
+      "#363738",
+      "#494c4c"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Designer / Luxury",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "WindProven with required GAF accessory installation. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 4",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "305 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StainGuard Plus",
+        "ctx": "25-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "GAF",
+        "ctx": "Parsippany, NJ · made in the USA"
+      },
+      {
+        "cat": "Pieces / square",
+        "val": "56",
+        "ctx": "Coverage: 100 sq ft per square"
+      },
+      {
+        "cat": "Exposure",
+        "val": "7.5\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Advanced Algae Protection Sell Sheet - RESGN439",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/advanced-algae-protection-sell-sheet-resgn439.pdf",
+        "type": "brochure"
+      },
+      {
+        "label": "Camelot II Installation Instructions",
+        "url": "https://www.gaf.com/en-us/document-library/documents/installation-instructions-&-guides/installation-instructions-camelot-ii.pdf",
+        "type": "install_instructions"
+      },
+      {
+        "label": "Camelot II Shingles Data Sheet - RESGN467CII",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/camelot-ii-shingles-resgn467cii-(3-22)-_data-sheet.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Camelot II Shingles Data Sheet SPANISH - RESGN467CIIS",
+        "url": "https://www.gaf.com/en-us/document-library/documents/data-sheets/camelot-ii-shingles-resgn467ciis-spanish-(4-22)-_data-sheet.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "Designer Shingles SDS - 1002",
+        "url": "https://www.gaf.com/en-us/document-library/documents/safety-data-sheets/shingles---designer-sds-1002.pdf",
+        "type": "tds"
+      },
+      {
+        "label": "GAF Designer Shingles Collection Brochure - RESGN712",
+        "url": "https://www.gaf.com/en-us/document-library/documents/brochures-&-literature/brochure__gaf_designer_shingles_collection_resgn712.pdf",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Camelot II Camelot Ii Royal Slate. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-royal-slate\\gaf-camelot-ii-camelot-ii-royal-slate-1.avif",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-royal-slate/gaf-camelot-ii-camelot-ii-royal-slate-1.avif",
+        "image_filename": "gaf-camelot-ii-camelot-ii-royal-slate-1.avif",
+        "alt": "Florida home with Camelot II Camelot Ii Royal Slate roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-royal-slate\\gaf-camelot-ii-camelot-ii-royal-slate-2.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-royal-slate/gaf-camelot-ii-camelot-ii-royal-slate-2.jpg",
+        "image_filename": "gaf-camelot-ii-camelot-ii-royal-slate-2.jpg",
+        "alt": "Florida home with Camelot II Camelot Ii Royal Slate roof",
+        "tag": "AI-rendered example (street view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-camelot-ii-camelot-ii-royal-slate-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-royal-slate\\gaf-camelot-ii-camelot-ii-royal-slate-3.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-royal-slate/gaf-camelot-ii-camelot-ii-royal-slate-3.jpg",
+        "image_filename": "gaf-camelot-ii-camelot-ii-royal-slate-3.jpg",
+        "alt": "Florida home with Camelot II Camelot Ii Royal Slate roof",
+        "tag": "AI-rendered example (dusk view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-camelot-ii-camelot-ii-royal-slate-1.avif"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-royal-slate\\gaf-camelot-ii-camelot-ii-royal-slate-4.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-royal-slate/gaf-camelot-ii-camelot-ii-royal-slate-4.jpg",
+        "image_filename": "gaf-camelot-ii-camelot-ii-royal-slate-4.jpg",
+        "alt": "Florida home with Camelot II Camelot Ii Royal Slate roof",
+        "tag": "AI-rendered example (morning view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "gaf-camelot-ii-camelot-ii-royal-slate-1.avif"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/gaf-camelot-ii-camelot-ii-royal-slate/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Camelot Ii Royal Slate <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-charcoal-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Moire Black",
+        "color_hex": "#413f3f",
+        "redmean_distance": 4.8,
+        "url": "/shingles/certainteed/landmark/moire-black/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Cambridge",
+        "line_slug": "iko-cambridge",
+        "color_display": "Charcoal Grey",
+        "color_hex": "#3b4341",
+        "redmean_distance": 9.3,
+        "url": "/shingles/iko/cambridge/charcoal-grey/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "BLACK SHADOW",
+        "color_hex": "#3f4543",
+        "redmean_distance": 13.1,
+        "url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
+      },
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Legacy",
+        "line_slug": "malarkey-legacy",
+        "color_display": "Midnight Black",
+        "color_hex": "#434346",
+        "redmean_distance": 14.8,
+        "url": "/shingles/malarkey/legacy/midnight-black/"
+      },
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Vista",
+        "line_slug": "malarkey-vista",
+        "color_display": "Midnight Black",
+        "color_hex": "#434346",
+        "redmean_distance": 14.8,
+        "url": "/shingles/malarkey/vista/midnight-black/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$191–$219",
+        "low_usd": 191,
+        "high_usd": 219,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$5,730–$6,570",
+        "low_usd": 5730,
+        "high_usd": 6570,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$17k–$28k",
+        "low_usd": 17190,
+        "high_usd": 28908,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/GAF-Camelot-II-25-sq-ft-Weathered-Timber-Laminated-Architectural-Roof-Shingles/999958279",
+        "anchor_color": "",
+        "page_title": "GAF Camelot II Class 4 Weathered Timber Algae Resistant Architectural Roof Shingles ( 25-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 25,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-camelot-ii\\lowes.com__d64dccd5.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/GAF-Camelot-II-Charcoal-Designer-Laminated-Architectural-Shingles-25-sq-ft-per-Bundle-14-pieces-0692180/206598878",
+        "anchor_color": "Charcoal",
+        "page_title": "GAF Camelot II Charcoal Designer Laminated Architectural Shingles (25 sq. ft. per Bundle) (14-pieces) 0692180 - The Home Depot",
+        "price_per_bundle_usd": 51.25,
+        "coverage_sq_ft_per_bundle": 25,
+        "bundles_per_square": 4,
+        "price_per_square_usd": 205,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\gaf-camelot-ii\\homedepot.com__2fe7833a.html",
+        "scraped_ok": true,
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Camelot Ii Royal Slate</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Camelot II Camelot Ii Royal Slate in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Camelot Ii Royal Slate",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-camelot-ii-camelot-ii-royal-slate\\gaf-camelot-ii-camelot-ii-royal-slate-1.avif",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-camelot-ii-camelot-ii-royal-slate/gaf-camelot-ii-camelot-ii-royal-slate-1.avif",
+    "badge_text": "Pre-loaded: Camelot Ii Royal Slate",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "camelot-ii",
+      "color": "camelot-ii-royal-slate"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Camelot Ii Royal Slate, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Camelot Ii Royal Slate fade over time?",
+      "a": "Minimally. GAF's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: GAF product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Camelot Ii Royal Slate look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Camelot Ii Royal Slate make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across GAF, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. GAF's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Camelot Ii Royal Slate</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "gaf",
+      "line": "camelot-ii",
+      "color": "camelot-ii-royal-slate"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "GAF product page",
+      "url": "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/camelot-ii"
+    },
+    {
+      "label": "Wikipedia: GAF",
+      "url": "https://en.wikipedia.org/wiki/GAF_Materials_Corporation"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

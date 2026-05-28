@@ -1,0 +1,558 @@
+{
+  "slug": "colonial-with-brown-roof",
+  "url_path": "/colonial-with-brown-roof/",
+  "h1": "Colonial Homes With a Brown Roof: 21 Rendered Examples 2026",
+  "meta_title": "Colonial Homes With Brown Roof: 21 Renders + Recommended Shingles (2026)",
+  "meta_description": "Colonial-style homes with a brown roof: 21 AI-rendered examples across 5 shingle brands, style background, recommended cross-brand SKUs with specs and Florida pricing, design considerations, FAQ, and a free visualizer.",
+  "strategy": 5,
+  "home_style_slug": "colonial",
+  "home_style_display": "Colonial",
+  "roof_color_slug": "brown",
+  "roof_color_display": "Brown",
+  "style_hex": "#D8CDBA",
+  "roof_color_hex": "#5C4128",
+  "combo_hero": {
+    "kicker": "Home style × Roof color · Colonial",
+    "h1_html": "<em>Colonial</em> Homes With a <em>Brown Roof</em>: <span class='count'>21</span> Rendered Examples <span class='year'>2026</span>",
+    "h1_text": "Colonial Homes With a Brown Roof: 21 Rendered Examples 2026",
+    "intro_paragraphs": [
+      "Colonial architecture has always leaned toward brick, stone, and aged wood - materials that carry warm earth tones naturally. A brown roof extends that palette upward, connecting the roofline to the masonry and siding rather than creating a sharp tonal break between them.",
+      "The amber and tobacco accents in modern brown asphalt keep the elevation cohesive from ground to peak, letting the symmetrical facade and centered classical entry read as a single, clearly composed visual statement from the street at any distance."
+    ],
+    "meta_dots": [
+      {
+        "label": "Colonial style",
+        "dot_color_hex": "#D8CDBA",
+        "type": "style"
+      },
+      {
+        "label": "Brown roof",
+        "dot_color_hex": "#5C4128",
+        "type": "roof"
+      },
+      {
+        "label": "5 brands · 21 renders · 3 angle variants per SKU",
+        "type": "meta"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Home Styles",
+        "url": "/home-styles/"
+      },
+      {
+        "label": "Colonial Homes",
+        "url": "/colonial-homes/"
+      },
+      {
+        "label": "Colonial With Brown Roof",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+        "alt": "Colonial home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (front)",
+        "tag": "Atlas · WEATHERED SHADOW",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+        "alt": "Colonial home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (front)",
+        "tag": "CertainTeed · Max Def Black Walnut",
+        "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-dynasty-shadow-brown-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
+        "alt": "Colonial home with Brown roof -- IKO Dynasty Shadow Brown (front)",
+        "tag": "IKO · Shadow Brown",
+        "sku_url": "/shingles/iko/dynasty/shadow-brown/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\malarkey-vista-antique-brown-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/malarkey-vista-antique-brown-front.jpg",
+        "alt": "Colonial home with Brown roof -- Malarkey Vista Antique Brown (front)",
+        "tag": "Malarkey · Antique Brown",
+        "sku_url": "/shingles/malarkey/vista/antique-brown/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\owens-corning-duration-sand-castle-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
+        "alt": "Colonial home with Brown roof -- Owens Corning Duration Sand Castle (front)",
+        "tag": "Owens Corning · Sand Castle",
+        "sku_url": "/shingles/owens-corning/duration/sand-castle/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-presidential-shake-aged-bark-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
+        "alt": "Colonial home with Brown roof -- CertainTeed Presidential Shake Aged Bark (front)",
+        "tag": "CertainTeed · Aged Bark",
+        "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-royal-estate-harvest-slate-front.jpg",
+        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-royal-estate-harvest-slate-front.jpg",
+        "alt": "Colonial home with Brown roof -- IKO Royal Estate Harvest Slate (front)",
+        "tag": "IKO · Harvest Slate",
+        "sku_url": "/shingles/iko/royal-estate/harvest-slate/",
+        "angle_slug": "front"
+      }
+    ]
+  },
+  "style_background": {
+    "kicker": "Style background · the architecture",
+    "title_html": "What makes a home <em>Colonial</em>.",
+    "short_descriptor": "American Colonial Revival -- symmetric, balanced, classically proportioned.",
+    "background_prose": "What we call 'colonial' in the United States today is almost always Colonial Revival, a style that emerged after the 1876 Philadelphia Centennial as Americans reinterpreted 17th and 18th-century English and Dutch colonial architecture. The Colonial Revival peaked 1890-1955 and remains the second most common American home style. Key features include a strictly symmetric two-story facade, a centered front door with a pediment or fanlight, evenly spaced six-over-six paned windows flanked by shutters, and either red brick or white clapboard siding.",
+    "facade_features": [
+      "Symmetric two-story facade with centered front door",
+      "Classical pediment or fanlight over the entry",
+      "Six-over-six paned windows with shutters",
+      "Red brick or white-painted clapboard siding",
+      "Balanced traditional proportions"
+    ],
+    "era": "1890-1955 (peak), continuous from 1700s",
+    "sources": [
+      {
+        "label": "Wikipedia: Colonial",
+        "url": "https://en.wikipedia.org/wiki/Colonial_Revival_architecture"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "long_gallery": {
+    "title_html": "<em>Colonial</em> homes with <em>Brown</em> roofs.",
+    "section_intro": "All renders generated via fal.ai nano-banana-2 image-edit on real install photos. Roof color and design preserved from the source photo; facade restyled to Colonial.",
+    "groups": [
+      {
+        "title_html": "Front-on views.",
+        "title_text": "Front-on views",
+        "subtitle": "Seven renders shot directly head-on for the cleanest read of the facade.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+            "alt": "Colonial home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (front)",
+            "tag": "Pinnacle Pristine · WEATHERED SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+            "alt": "Colonial home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (front)",
+            "tag": "Landmark Pro · Max Def Black Walnut",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-dynasty-shadow-brown-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
+            "alt": "Colonial home with Brown roof -- IKO Dynasty Shadow Brown (front)",
+            "tag": "Dynasty · Shadow Brown",
+            "sku_url": "/shingles/iko/dynasty/shadow-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\malarkey-vista-antique-brown-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/malarkey-vista-antique-brown-front.jpg",
+            "alt": "Colonial home with Brown roof -- Malarkey Vista Antique Brown (front)",
+            "tag": "Vista · Antique Brown",
+            "sku_url": "/shingles/malarkey/vista/antique-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\owens-corning-duration-sand-castle-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
+            "alt": "Colonial home with Brown roof -- Owens Corning Duration Sand Castle (front)",
+            "tag": "Duration · Sand Castle",
+            "sku_url": "/shingles/owens-corning/duration/sand-castle/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-presidential-shake-aged-bark-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
+            "alt": "Colonial home with Brown roof -- CertainTeed Presidential Shake Aged Bark (front)",
+            "tag": "Presidential Shake · Aged Bark",
+            "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-royal-estate-harvest-slate-front.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-royal-estate-harvest-slate-front.jpg",
+            "alt": "Colonial home with Brown roof -- IKO Royal Estate Harvest Slate (front)",
+            "tag": "Royal Estate · Harvest Slate",
+            "sku_url": "/shingles/iko/royal-estate/harvest-slate/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>right</em>.",
+        "title_text": "Three-quarter right",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and right elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-right-34.jpg",
+            "alt": "Colonial home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (right-34)",
+            "tag": "Pinnacle Pristine · WEATHERED SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-right-34.jpg",
+            "alt": "Colonial home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (right-34)",
+            "tag": "Landmark Pro · Max Def Black Walnut",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-dynasty-shadow-brown-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-dynasty-shadow-brown-right-34.jpg",
+            "alt": "Colonial home with Brown roof -- IKO Dynasty Shadow Brown (right-34)",
+            "tag": "Dynasty · Shadow Brown",
+            "sku_url": "/shingles/iko/dynasty/shadow-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\malarkey-vista-antique-brown-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/malarkey-vista-antique-brown-right-34.jpg",
+            "alt": "Colonial home with Brown roof -- Malarkey Vista Antique Brown (right-34)",
+            "tag": "Vista · Antique Brown",
+            "sku_url": "/shingles/malarkey/vista/antique-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\owens-corning-duration-sand-castle-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/owens-corning-duration-sand-castle-right-34.jpg",
+            "alt": "Colonial home with Brown roof -- Owens Corning Duration Sand Castle (right-34)",
+            "tag": "Duration · Sand Castle",
+            "sku_url": "/shingles/owens-corning/duration/sand-castle/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-presidential-shake-aged-bark-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-presidential-shake-aged-bark-right-34.jpg",
+            "alt": "Colonial home with Brown roof -- CertainTeed Presidential Shake Aged Bark (right-34)",
+            "tag": "Presidential Shake · Aged Bark",
+            "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-royal-estate-harvest-slate-right-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-royal-estate-harvest-slate-right-34.jpg",
+            "alt": "Colonial home with Brown roof -- IKO Royal Estate Harvest Slate (right-34)",
+            "tag": "Royal Estate · Harvest Slate",
+            "sku_url": "/shingles/iko/royal-estate/harvest-slate/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>left</em>.",
+        "title_text": "Three-quarter left",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and left elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-left-34.jpg",
+            "alt": "Colonial home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (left-34)",
+            "tag": "Pinnacle Pristine · WEATHERED SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
+            "alt": "Colonial home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (left-34)",
+            "tag": "Landmark Pro · Max Def Black Walnut",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-dynasty-shadow-brown-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-dynasty-shadow-brown-left-34.jpg",
+            "alt": "Colonial home with Brown roof -- IKO Dynasty Shadow Brown (left-34)",
+            "tag": "Dynasty · Shadow Brown",
+            "sku_url": "/shingles/iko/dynasty/shadow-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\malarkey-vista-antique-brown-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/malarkey-vista-antique-brown-left-34.jpg",
+            "alt": "Colonial home with Brown roof -- Malarkey Vista Antique Brown (left-34)",
+            "tag": "Vista · Antique Brown",
+            "sku_url": "/shingles/malarkey/vista/antique-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\owens-corning-duration-sand-castle-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/owens-corning-duration-sand-castle-left-34.jpg",
+            "alt": "Colonial home with Brown roof -- Owens Corning Duration Sand Castle (left-34)",
+            "tag": "Duration · Sand Castle",
+            "sku_url": "/shingles/owens-corning/duration/sand-castle/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-presidential-shake-aged-bark-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-presidential-shake-aged-bark-left-34.jpg",
+            "alt": "Colonial home with Brown roof -- CertainTeed Presidential Shake Aged Bark (left-34)",
+            "tag": "Presidential Shake · Aged Bark",
+            "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\iko-royal-estate-harvest-slate-left-34.jpg",
+            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/iko-royal-estate-harvest-slate-left-34.jpg",
+            "alt": "Colonial home with Brown roof -- IKO Royal Estate Harvest Slate (left-34)",
+            "tag": "Royal Estate · Harvest Slate",
+            "sku_url": "/shingles/iko/royal-estate/harvest-slate/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 21,
+    "image_attribution": "Renders generated via fal.ai nano-banana-2 image-edit on top of real install photos from each manufacturer. Roof color, texture, and design preserved from the original install photo; the facade is restyled to match the page's home-style specification."
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Try a <em>Colonial</em> + <em>Brown</em> roof on your own house.",
+    "body": "Upload a phone photo of your house and pre-load this exact colonial-and-brown pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
+    "cta_label": "Open visualizer with this combo",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+    "badge": {
+      "style_display": "Colonial",
+      "roof_color_display": "Brown",
+      "style_hex": "#D8CDBA",
+      "roof_color_hex": "#5C4128",
+      "label": "Colonial × Brown"
+    },
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "colonial",
+      "roof": "brown-roof",
+      "preload_sku": {
+        "brand": "atlas",
+        "line": "pinnacle-pristine",
+        "color": "weathered-shadow"
+      }
+    }
+  },
+  "recommended": {
+    "title_html": "Shingles that <em>get the Colonial look</em>.",
+    "note": "Cross-brand, real-world picks. Click any swatch to see specs, install photos, and pricing for that SKU.",
+    "items": [
+      {
+        "url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/",
+        "brand_display": "Atlas",
+        "line_display": "Pinnacle Pristine",
+        "color_display": "WEATHERED SHADOW",
+        "color_hex": "#756758"
+      },
+      {
+        "url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark Pro",
+        "color_display": "Max Def Black Walnut",
+        "color_hex": "#3e2f25"
+      },
+      {
+        "url": "/shingles/iko/dynasty/shadow-brown/",
+        "brand_display": "IKO",
+        "line_display": "Dynasty",
+        "color_display": "Shadow Brown",
+        "color_hex": "#6e5d4c"
+      },
+      {
+        "url": "/shingles/malarkey/vista/antique-brown/",
+        "brand_display": "Malarkey",
+        "line_display": "Vista",
+        "color_display": "Antique Brown",
+        "color_hex": "#735743"
+      },
+      {
+        "url": "/shingles/owens-corning/duration/sand-castle/",
+        "brand_display": "Owens Corning",
+        "line_display": "Duration",
+        "color_display": "Sand Castle",
+        "color_hex": "#8f7d64"
+      },
+      {
+        "url": "/shingles/certainteed/presidential-shake/aged-bark/",
+        "brand_display": "CertainTeed",
+        "line_display": "Presidential Shake",
+        "color_display": "Aged Bark",
+        "color_hex": "#7d4d34"
+      },
+      {
+        "url": "/shingles/iko/royal-estate/harvest-slate/",
+        "brand_display": "IKO",
+        "line_display": "Royal Estate",
+        "color_display": "Harvest Slate",
+        "color_hex": "#645747"
+      }
+    ]
+  },
+  "consider": {
+    "kicker": "Things to consider · before you commit",
+    "title_html": "Three things <em>most</em> homeowners forget.",
+    "items": [
+      {
+        "number": "01.",
+        "heading": "Colonial Revival is the strictest style on this list when it comes to proportion.",
+        "body": "Colonial Revival is the strictest style on this list when it comes to proportion. Asymmetry in the facade reads as 'wrong' immediately. If you are renovating, address window placement and entry symmetry before worrying about roof color. A perfect roof on an asymmetric colonial does not save the elevation."
+      },
+      {
+        "number": "02.",
+        "heading": "Brown reads as architecturally correct on warm-tone elevations.",
+        "body": "Brown asphalt sits naturally with red brick, cream stucco, natural stone, and bronze hardware -- the warm-tone material families that traditional and revival styles depend on. On stark cool palettes (white-and-black, white-and-charcoal modern farmhouse) brown can read as dated; on warm palettes it reads as deliberate."
+      },
+      {
+        "number": "03.",
+        "heading": "Install quality matters more than SKU.",
+        "body": "All seven recommended SKUs hit Class A fire and 110-150 mph wind ratings. The bigger variable on a colonial elevation is install quality: ridge-line straightness, valley flashing, starter strip alignment. Insist on a Master Elite or equivalent certified contractor and a written workmanship warranty separate from the manufacturer's material warranty."
+      }
+    ]
+  },
+  "variations": {
+    "kicker": "Variations · sibling combinations",
+    "title_html": "If you love this look, <em>try these</em>.",
+    "items": [
+      {
+        "url": "/colonial-with-black-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Colonial With Black Roof",
+        "style_hex": "#D8CDBA",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "colonial",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/colonial-with-charcoal-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Colonial With Charcoal Roof",
+        "style_hex": "#D8CDBA",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "colonial",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/colonial-with-weathered-wood-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Colonial With Weathered Wood Roof",
+        "style_hex": "#D8CDBA",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "colonial",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/craftsman-with-brown-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Craftsman With Brown Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "craftsman",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/modern-farmhouse-with-brown-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Modern Farmhouse With Brown Roof",
+        "style_hex": "#F4ECD8",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "modern-farmhouse",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/ranch-with-brown-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Ranch With Brown Roof",
+        "style_hex": "#A09280",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "ranch",
+        "roof_color_slug": "brown"
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Is colonial a popular style in Florida?",
+      "a": "Less common than craftsman or modern farmhouse, but still well-represented in older Florida neighborhoods (St. Augustine, Coral Gables, certain Jacksonville and Tampa suburbs). Florida's hurricane-resistance requirements make pure brick-clad colonials less common than their northern equivalents."
+    },
+    {
+      "q": "What roof pitch works for colonial?",
+      "a": "Steep, typically 8:12 to 10:12. The visible roof plane is part of the facade balance; flatter roofs make the house look top-heavy."
+    },
+    {
+      "q": "Does brown work for colonial?",
+      "a": "On colonial specifically, yes -- the warm tonal family of the roof reinforces the style's traditional palette. Brown asphalt is one of the most architecturally honest choices for revival-era styles in Florida."
+    },
+    {
+      "q": "Will brown shingles fade more than gray?",
+      "a": "Slightly less visibly. Brown drifts slightly warmer and slightly desaturated over 10 to 15 years of Florida UV. The shift is uniform, so the roof never develops the patchy look that aged gray shingles sometimes show. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How do these renders compare to a real colonial home with that roof?",
+      "a": "All renders on this page were generated by fal.ai's nano-banana-2 image-edit model on top of REAL install photos from each manufacturer. The roof color, granule texture, and shingle pattern come directly from the source photo and are preserved during the edit. The facade is restyled to Colonial. The result is photorealistic but not identical to any specific real home -- use it for visual comparison, then open the free visualizer to see the same SKU on a photo of your own house."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>Colonial × Brown</em> on your house.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "colonial",
+      "roof": "brown-roof",
+      "preload_sku": {
+        "brand": "atlas",
+        "line": "pinnacle-pristine",
+        "color": "weathered-shadow"
+      }
+    }
+  },
+  "data_sources": [
+    {
+      "label": "Wikipedia: Colonial",
+      "url": "https://en.wikipedia.org/wiki/Colonial_Revival_architecture"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "NRCA Florida wind/hail guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:49+00:00",
+  "prose_method": "style-keyed-with-archetype-overlay",
+  "prose_style": "colonial",
+  "prose_archetype": "brown"
+}
