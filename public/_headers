@@ -1,0 +1,19 @@
+# Cloudflare Pages honors this file. CSP locks down to first-party + R2 +
+# RoofKit (once Lucas provides the embed origin). Update PUBLIC_ROOFKIT_EMBED_SRC's
+# host in connect-src and frame-src when the embed URL is known.
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: https://*.r2.dev https://i.ibb.co; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; script-src 'self' 'unsafe-inline' https://cdn.roofkit.com; media-src 'self' https://*.fal.media; frame-src 'self' https://*.roofkit.com https://www.youtube.com https://www.youtube-nocookie.com; connect-src 'self' https://*.roofkit.com; base-uri 'self'; form-action 'self'; frame-ancestors 'none'
+
+# Long-cache the build assets (Astro hashes their filenames)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML uses short cache so re-deploys propagate quickly
+/*.html
+  Cache-Control: public, max-age=300, must-revalidate

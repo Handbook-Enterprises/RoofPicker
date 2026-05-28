@@ -1,0 +1,1504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>GAF Timberline HDZ Charcoal Shingles | RoofPicker</title>
+<meta name="description" content="GAF Timberline HDZ in Charcoal: a confident, anchored dark gray asphalt shingle. Specs, install photos, color pairings, and a live visualizer to preview on your house.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  /* -----------------------------------------------------------
+     RoofPicker — SKU detail page
+     Inherits the design system from design.md.
+     Tokens, type, kickers, italic terracotta em, glass cards.
+     ----------------------------------------------------------- */
+
+  *,*::before,*::after { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    font-family: "Geist", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
+    color: #1A2236;
+    background: #F2ECDE;
+    line-height: 1.45;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+  img { max-width: 100%; display: block; }
+  a { color: inherit; text-decoration: none; }
+  button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+
+  :root {
+    --paper:   #F2ECDE;
+    --shell:   #FAF6EC;
+    --ink:     #1A2236;
+    --ink-soft:#4A536A;
+    --clay:    #B85A3C;
+    --clay-deep:#9A4830;
+    --sage:    #7B8F6E;
+    --rule:    #D9D0BC;
+    --hair:    rgba(26, 34, 54, 0.12);
+
+    /* SKU-specific tokens — swap these per page */
+    --sku-color:      #34373F;
+    --sku-color-deep: #1E2128;
+    --sku-color-light:#5C606C;
+  }
+
+  .wrap { max-width: 1440px; margin: 0 auto; padding: 0 32px; }
+  @media (max-width: 720px) { .wrap { padding: 0 20px; } }
+
+  .kicker {
+    font-family: "Geist Mono", ui-monospace, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+
+  /* ============================================================
+     HEADER (same as homepage and comparison)
+     ============================================================ */
+  header.site {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(242,236,222,0.85);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--hair);
+  }
+  .nav {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 18px 0;
+  }
+  .wordmark {
+    font-family: "Instrument Serif", serif;
+    font-size: 30px;
+    line-height: 1;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    display: inline-flex; align-items: baseline; gap: 2px;
+  }
+  .wordmark em { font-style: italic; color: var(--clay); font-weight: 400; }
+  .wordmark .dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    background: var(--clay);
+    border-radius: 50%;
+    margin-left: 6px;
+    transform: translateY(-2px);
+  }
+  .nav-links { display: flex; align-items: center; gap: 32px; }
+  .nav-links a {
+    font-family: "Geist Mono", monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    color: var(--ink);
+    padding: 6px 0;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s;
+  }
+  .nav-links a:hover, .nav-links a.on { border-color: var(--clay); }
+  .nav-cta {
+    background: var(--ink);
+    color: var(--paper) !important;
+    padding: 10px 16px !important;
+    border-radius: 999px;
+    border: 0 !important;
+    transition: background 0.2s;
+  }
+  .nav-cta:hover { background: var(--clay) !important; border-color: transparent !important; }
+  @media (max-width: 760px) {
+    .nav-links a:not(.nav-cta) { display: none; }
+    .wordmark { font-size: 26px; }
+  }
+
+  /* ============================================================
+     HERO
+     Two-column: editorial title on the left, visualizer launcher
+     card on the right, with a swatch.
+     ============================================================ */
+  .sku-hero {
+    padding: 36px 0 80px;
+  }
+  @media (max-width: 720px) { .sku-hero { padding: 24px 0 56px; } }
+
+  .breadcrumb {
+    display: flex; align-items: center; gap: 10px;
+    font-family: "Geist Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+  }
+  .breadcrumb a:hover { color: var(--clay); }
+  .breadcrumb .sep { color: var(--rule); }
+  .breadcrumb .current { color: var(--ink); }
+
+  .sku-hero-grid {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 60px;
+    align-items: start;
+  }
+  @media (max-width: 980px) { .sku-hero-grid { grid-template-columns: 1fr; gap: 36px; } }
+
+  .sku-title-block .kicker { display: inline-block; margin-bottom: 18px; }
+  .sku-title-block h1 {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-size: clamp(40px, 6vw, 92px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    margin: 0 0 28px;
+    color: var(--ink);
+  }
+  .sku-title-block h1 em { font-style: italic; color: var(--clay); }
+  .sku-tagline {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(20px, 1.8vw, 26px);
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 36ch;
+    margin: 0 0 32px;
+  }
+  .sku-tagline em { font-style: italic; color: var(--clay); }
+
+  .sku-quick {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px;
+    padding-top: 28px;
+    border-top: 1px solid var(--rule);
+  }
+  @media (max-width: 520px) { .sku-quick { grid-template-columns: 1fr 1fr; gap: 16px; } }
+  .quick-fact .label {
+    font-family: "Geist Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 6px;
+  }
+  .quick-fact .val {
+    font-family: "Instrument Serif", serif;
+    font-size: 26px;
+    line-height: 1.1;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+  }
+  .quick-fact .val em { font-style: italic; color: var(--clay); }
+
+  /* Visualizer launcher card (D1 pattern: modal launcher, not inline) */
+  .sku-launch {
+    background: var(--ink);
+    color: var(--paper);
+    border-radius: 18px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 30px 60px -30px rgba(26,34,54,0.45),
+                inset 0 1px 0 rgba(242,236,222,0.14);
+  }
+  .sku-launch-preview {
+    aspect-ratio: 4 / 3;
+    position: relative;
+    overflow: hidden;
+  }
+  .sku-launch-preview img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .sku-launch-preview::after {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(26,34,54,0) 60%, rgba(26,34,54,0.55) 100%);
+  }
+  .sku-swatch-floating {
+    position: absolute;
+    top: 18px; left: 18px;
+    display: flex; align-items: center; gap: 10px;
+    background: rgba(26,34,54,0.85);
+    backdrop-filter: blur(8px);
+    color: var(--paper);
+    padding: 8px 14px 8px 8px;
+    border-radius: 999px;
+    z-index: 2;
+  }
+  .sku-swatch-floating .swatch {
+    width: 28px; height: 28px;
+    border-radius: 50%;
+    background: var(--sku-color);
+    border: 2px solid rgba(242,236,222,0.6);
+  }
+  .sku-swatch-floating .name {
+    font-family: "Geist Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .sku-launch-body {
+    padding: 22px 24px 26px;
+    display: flex; flex-direction: column; gap: 18px;
+  }
+  .sku-launch-body h3 {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.15;
+    color: var(--paper);
+    margin: 0;
+    letter-spacing: -0.005em;
+  }
+  .sku-launch-body h3 em { font-style: italic; color: var(--clay); }
+  .sku-launch-body p {
+    margin: 0;
+    color: rgba(242,236,222,0.7);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .btn-launch {
+    display: inline-flex; align-items: center; gap: 10px;
+    background: var(--clay);
+    color: var(--paper);
+    padding: 14px 22px;
+    border-radius: 999px;
+    font-family: "Geist", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.2s, transform 0.15s;
+    align-self: flex-start;
+  }
+  .btn-launch:hover { background: var(--clay-deep); transform: translateY(-1px); }
+  .btn-launch .arrow {
+    font-family: "Instrument Serif", serif;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1;
+    transition: transform 0.2s;
+  }
+  .btn-launch:hover .arrow { transform: translateX(3px); }
+
+  /* ============================================================
+     COLOR DESCRIPTION (Editorial section on paper)
+     ============================================================ */
+  .color-desc {
+    padding: 100px 0 80px;
+    border-top: 1px solid var(--rule);
+  }
+  @media (max-width: 720px) { .color-desc { padding: 60px 0 40px; } }
+
+  .color-desc-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) { .color-desc-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; } }
+  .color-desc-head .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(36px, 5.2vw, 76px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .color-desc-head .title em { font-style: italic; color: var(--clay); }
+
+  .color-desc-grid {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 60px;
+    align-items: start;
+  }
+  @media (max-width: 880px) { .color-desc-grid { grid-template-columns: 1fr; gap: 36px; } }
+
+  .color-desc-prose p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    margin: 0 0 22px;
+    max-width: 62ch;
+  }
+  .color-desc-prose p:last-child { margin-bottom: 0; }
+  .color-desc-prose .dropcap {
+    font-family: "Instrument Serif", serif;
+    font-style: italic;
+    font-size: 64px;
+    line-height: 0.85;
+    color: var(--clay);
+    float: left;
+    margin: 6px 12px 0 0;
+  }
+
+  /* Color spec sidebar */
+  .color-spec {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 28px 28px 32px;
+    display: flex; flex-direction: column; gap: 18px;
+  }
+  .color-spec .big-swatch {
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    background: linear-gradient(180deg,
+      var(--sku-color-light) 0%,
+      var(--sku-color) 50%,
+      var(--sku-color-deep) 100%);
+    position: relative;
+    overflow: hidden;
+    box-shadow: inset 0 -2px 0 rgba(0,0,0,0.15);
+  }
+  .color-spec .big-swatch::after {
+    content: "";
+    position: absolute; inset: 0;
+    background-image: repeating-linear-gradient(180deg,
+      rgba(0,0,0,0.1) 0 1px, transparent 1px 6px);
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+  .color-spec dl {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px 24px;
+  }
+  .color-spec dt {
+    font-family: "Geist Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 4px;
+  }
+  .color-spec dd {
+    margin: 0;
+    font-family: "Instrument Serif", serif;
+    font-size: 22px;
+    line-height: 1.1;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+  }
+  .color-spec dd .mono {
+    font-family: "Geist Mono", monospace;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+  }
+  .color-spec .blend {
+    display: flex; gap: 6px;
+    padding-top: 12px;
+    border-top: 1px solid var(--rule);
+  }
+  .color-spec .blend-chip {
+    flex: 1;
+    aspect-ratio: 3 / 1;
+    border-radius: 4px;
+  }
+
+  /* ============================================================
+     SPECS TABLE (Dark slab moment)
+     ============================================================ */
+  .specs {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 100px 0;
+  }
+  @media (max-width: 720px) { .specs { padding: 60px 0; } }
+
+  .specs-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) { .specs-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; } }
+  .specs-head .kicker { color: rgba(242,236,222,0.55); }
+  .specs-head .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(34px, 4.8vw, 66px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--paper);
+  }
+  .specs-head .title em { font-style: italic; color: var(--clay); }
+
+  .specs-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .specs-table tr { border-bottom: 1px solid rgba(242,236,222,0.18); }
+  .specs-table tr:first-child { border-top: 1px solid rgba(242,236,222,0.18); }
+  .specs-table td {
+    padding: 22px 16px;
+    vertical-align: top;
+  }
+  .specs-table .cat {
+    font-family: "Geist Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: rgba(242,236,222,0.55);
+    width: 32%;
+  }
+  .specs-table .val {
+    font-family: "Instrument Serif", serif;
+    font-size: 24px;
+    line-height: 1.2;
+    color: var(--paper);
+    letter-spacing: -0.005em;
+  }
+  .specs-table .val em { font-style: italic; color: var(--clay); }
+  .specs-table .ctx {
+    margin-top: 4px;
+    font-family: "Geist", sans-serif;
+    font-size: 13px;
+    color: rgba(242,236,222,0.6);
+    line-height: 1.4;
+  }
+  @media (max-width: 720px) {
+    .specs-table td { display: block; padding: 4px 0; }
+    .specs-table tr { padding: 18px 0; }
+    .specs-table .cat { width: 100%; margin-bottom: 8px; }
+  }
+
+  /* Document links beneath specs */
+  .specs-docs {
+    margin-top: 36px;
+    display: flex; gap: 12px; flex-wrap: wrap;
+  }
+  .doc-pill {
+    display: inline-flex; align-items: center; gap: 10px;
+    background: rgba(242,236,222,0.08);
+    border: 1px solid rgba(242,236,222,0.2);
+    color: var(--paper);
+    padding: 12px 18px;
+    border-radius: 999px;
+    font-family: "Geist Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    transition: background 0.2s, border-color 0.2s;
+  }
+  .doc-pill:hover { background: rgba(242,236,222,0.16); border-color: rgba(242,236,222,0.4); }
+  .doc-pill .pdf-tag {
+    background: var(--clay);
+    color: var(--paper);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+  }
+
+  /* ============================================================
+     INSTALL GALLERY (Magazine mosaic, same as homepage)
+     ============================================================ */
+  .gallery {
+    padding: 110px 0 90px;
+  }
+  @media (max-width: 720px) { .gallery { padding: 60px 0 40px; } }
+  .gallery-head {
+    display: flex; justify-content: space-between; align-items: baseline;
+    margin-bottom: 36px;
+    gap: 24px; flex-wrap: wrap;
+  }
+  .gallery-head .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(34px, 5vw, 72px);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .gallery-head .title em { font-style: italic; color: var(--clay); }
+  .gallery-head .meta {
+    color: var(--ink-soft);
+    font-size: 15px;
+    max-width: 38ch;
+  }
+
+  .mosaic {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 14px;
+    grid-auto-rows: 110px;
+  }
+  @media (max-width: 880px) {
+    .mosaic { grid-template-columns: repeat(6, 1fr); grid-auto-rows: 90px; }
+  }
+  @media (max-width: 520px) {
+    .mosaic { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 130px; }
+  }
+  .tile {
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    background: var(--shell);
+    border: 1px solid var(--rule);
+  }
+  .tile img {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .tile .tag {
+    position: absolute;
+    bottom: 10px; left: 10px;
+    background: rgba(26,34,54,0.85);
+    color: var(--paper);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-family: "Geist Mono", monospace;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    z-index: 2;
+  }
+  .tile.s1 { grid-column: span 6; grid-row: span 3; }
+  .tile.s2 { grid-column: span 3; grid-row: span 3; }
+  .tile.s3 { grid-column: span 3; grid-row: span 3; }
+  .tile.s4 { grid-column: span 4; grid-row: span 3; }
+  .tile.s5 { grid-column: span 4; grid-row: span 3; }
+  .tile.s6 { grid-column: span 4; grid-row: span 3; }
+  @media (max-width: 880px) {
+    .tile.s1 { grid-column: span 6; }
+    .tile.s2, .tile.s3 { grid-column: span 3; }
+    .tile.s4, .tile.s5, .tile.s6 { grid-column: span 2; }
+  }
+  @media (max-width: 520px) {
+    .tile { grid-column: span 2 !important; grid-row: span 2 !important; }
+  }
+
+  /* ============================================================
+     PAIRS WELL WITH (Pattern C: head + content)
+     ============================================================ */
+  .pairs {
+    padding: 90px 0 80px;
+    border-top: 1px solid var(--rule);
+  }
+  @media (max-width: 720px) { .pairs { padding: 60px 0 40px; } }
+  .pairs-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) { .pairs-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; } }
+  .pairs-head .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(30px, 4.4vw, 56px);
+    line-height: 1;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+  }
+  .pairs-head .title em { font-style: italic; color: var(--clay); }
+
+  .pairs-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 18px;
+  }
+  @media (max-width: 880px) { .pairs-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 520px) { .pairs-grid { grid-template-columns: 1fr 1fr; gap: 12px; } }
+
+  .pair-card {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: block;
+  }
+  .pair-card:hover { transform: translateY(-3px); box-shadow: 0 18px 36px -18px rgba(26,34,54,0.3); }
+  .pair-card .siding {
+    aspect-ratio: 4 / 3;
+    background: var(--siding-color, #E5D8C0);
+    position: relative;
+  }
+  .pair-card .siding::after {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.05), rgba(0,0,0,0.18));
+  }
+  .pair-card .meta { padding: 14px 16px 16px; }
+  .pair-card .kicker-row {
+    font-family: "Geist Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 4px;
+  }
+  .pair-card .color-name {
+    font-family: "Instrument Serif", serif;
+    font-size: 19px;
+    line-height: 1.15;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+  }
+
+  /* ============================================================
+     COMPARE TO SIMILAR COLORS (Dark slab)
+     ============================================================ */
+  .similar {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 100px 0;
+  }
+  @media (max-width: 720px) { .similar { padding: 60px 0; } }
+  .similar-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) { .similar-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; } }
+  .similar-head .kicker { color: rgba(242,236,222,0.55); }
+  .similar-head .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(34px, 4.6vw, 60px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--paper);
+  }
+  .similar-head .title em { font-style: italic; color: var(--clay); }
+  .similar-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+  }
+  @media (max-width: 880px) { .similar-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 520px) { .similar-grid { grid-template-columns: 1fr 1fr; gap: 12px; } }
+
+  .similar-card {
+    background: rgba(242,236,222,0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(242,236,222,0.18);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: background 0.2s, border-color 0.2s, transform 0.2s;
+    display: block;
+  }
+  .similar-card:hover {
+    background: rgba(242,236,222,0.10);
+    border-color: rgba(242,236,222,0.32);
+    transform: translateY(-3px);
+  }
+  .similar-card .swatch {
+    aspect-ratio: 4 / 3;
+    background: var(--similar-color, #444851);
+    position: relative;
+    overflow: hidden;
+  }
+  .similar-card .swatch::after {
+    content: "";
+    position: absolute; inset: 0;
+    background-image: repeating-linear-gradient(180deg,
+      rgba(0,0,0,0.1) 0 1px, transparent 1px 6px);
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+  .similar-card .meta { padding: 16px 18px 20px; }
+  .similar-card .brand-line {
+    font-family: "Geist Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(242,236,222,0.55);
+    margin-bottom: 6px;
+  }
+  .similar-card .color-name {
+    font-family: "Instrument Serif", serif;
+    font-size: 22px;
+    line-height: 1.1;
+    color: var(--paper);
+    letter-spacing: -0.005em;
+  }
+
+  /* ============================================================
+     PRICING CONTEXT (Editorial)
+     ============================================================ */
+  .pricing {
+    padding: 100px 0 90px;
+  }
+  @media (max-width: 720px) { .pricing { padding: 60px 0 40px; } }
+  .pricing-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) { .pricing-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; } }
+  .pricing-head .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(34px, 4.6vw, 60px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .pricing-head .title em { font-style: italic; color: var(--clay); }
+
+  .pricing-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+  }
+  @media (max-width: 760px) { .pricing-grid { grid-template-columns: 1fr; } }
+
+  .price-card {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 28px 28px 32px;
+  }
+  .price-card .label {
+    font-family: "Geist Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 14px;
+  }
+  .price-card .range {
+    font-family: "Instrument Serif", serif;
+    font-size: 44px;
+    line-height: 1;
+    color: var(--ink);
+    letter-spacing: -0.015em;
+    margin-bottom: 12px;
+  }
+  .price-card .range em { font-style: italic; color: var(--clay); font-size: 0.7em; }
+  .price-card .note {
+    font-size: 14px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+
+  /* ============================================================
+     TRY IT (D1 launcher pattern)
+     ============================================================ */
+  .try-it {
+    padding: 100px 0;
+    background: var(--ink);
+    color: var(--paper);
+  }
+  @media (max-width: 720px) { .try-it { padding: 60px 0; } }
+
+  .try-it-inner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+  }
+  @media (max-width: 880px) { .try-it-inner { grid-template-columns: 1fr; gap: 36px; } }
+
+  .try-copy .kicker { color: rgba(242,236,222,0.55); display: inline-block; margin-bottom: 14px; }
+  .try-copy .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(36px, 5.4vw, 72px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--paper);
+    margin: 0 0 22px;
+  }
+  .try-copy .title em { font-style: italic; color: var(--clay); }
+  .try-copy p {
+    color: rgba(242,236,222,0.7);
+    font-size: 16px;
+    line-height: 1.55;
+    max-width: 44ch;
+    margin: 0 0 28px;
+  }
+
+  .try-launcher {
+    background: rgba(242,236,222,0.06);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(242,236,222,0.18);
+    border-radius: 18px;
+    padding: 28px;
+    cursor: pointer;
+    transition: background 0.25s, border-color 0.25s, transform 0.2s;
+    width: 100%;
+    text-align: left;
+  }
+  .try-launcher:hover {
+    background: rgba(242,236,222,0.12);
+    border-color: rgba(242,236,222,0.32);
+    transform: translateY(-2px);
+  }
+  .try-launcher .preview {
+    aspect-ratio: 4 / 3;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 22px;
+  }
+  .try-launcher .preview img { width: 100%; height: 100%; object-fit: cover; }
+  .try-launcher .badge {
+    position: absolute;
+    top: 14px; left: 14px;
+    background: rgba(26,34,54,0.85);
+    padding: 6px 10px 6px 6px;
+    border-radius: 999px;
+    display: flex; align-items: center; gap: 8px;
+    z-index: 2;
+  }
+  .try-launcher .badge .dot {
+    width: 18px; height: 18px;
+    border-radius: 50%;
+    background: var(--sku-color);
+    border: 2px solid rgba(242,236,222,0.55);
+  }
+  .try-launcher .badge span {
+    font-family: "Geist Mono", monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--paper);
+  }
+  .try-launcher .action-row {
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .try-launcher .action-title {
+    font-family: "Instrument Serif", serif;
+    font-size: 22px;
+    color: var(--paper);
+    line-height: 1.2;
+    max-width: 16ch;
+  }
+  .try-launcher .arrow {
+    width: 44px; height: 44px;
+    border-radius: 50%;
+    background: var(--clay);
+    color: var(--paper);
+    display: flex; align-items: center; justify-content: center;
+    font-family: "Instrument Serif", serif;
+    font-style: italic;
+    font-size: 22px;
+    flex-shrink: 0;
+    transition: transform 0.2s, background 0.2s;
+  }
+  .try-launcher:hover .arrow { transform: translateX(4px); background: var(--clay-deep); }
+
+  /* ============================================================
+     FAQ (Same as homepage, glass cards on dark slab)
+     ============================================================ */
+  .faq {
+    background: var(--paper);
+    color: var(--ink);
+    padding: 100px 0 90px;
+  }
+  @media (max-width: 720px) { .faq { padding: 60px 0; } }
+  .faq-inner {
+    display: grid; grid-template-columns: 1fr 2fr;
+    gap: 60px; align-items: start;
+  }
+  @media (max-width: 880px) { .faq-inner { grid-template-columns: 1fr; gap: 28px; } }
+  .faq-head .title {
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(36px, 5.2vw, 72px);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .faq-head .title em { font-style: italic; color: var(--clay); }
+  .faq-head .note {
+    margin-top: 22px;
+    color: var(--ink-soft);
+    max-width: 28ch;
+    line-height: 1.5;
+    font-size: 15px;
+  }
+  .faq-list { display: flex; flex-direction: column; gap: 10px; }
+  .qa {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 0 22px;
+    transition: background 0.2s, border-color 0.2s;
+  }
+  .qa:hover { border-color: var(--ink-soft); }
+  .qa.open { border-color: var(--clay); }
+  .qa-q {
+    display: flex; justify-content: space-between; align-items: center;
+    width: 100%;
+    padding: 22px 0;
+    text-align: left;
+    font-family: "Instrument Serif", serif;
+    font-size: clamp(20px, 1.8vw, 26px);
+    line-height: 1.2;
+    color: var(--ink);
+  }
+  .qa-q .plus { width: 24px; height: 24px; position: relative; flex-shrink: 0; margin-left: 24px; }
+  .qa-q .plus::before, .qa-q .plus::after {
+    content: ""; position: absolute; background: var(--ink); transition: transform 0.25s;
+  }
+  .qa-q .plus::before { top: 50%; left: 0; right: 0; height: 1.5px; transform: translateY(-50%); }
+  .qa-q .plus::after { left: 50%; top: 0; bottom: 0; width: 1.5px; transform: translateX(-50%); }
+  .qa.open .qa-q .plus::after { transform: translateX(-50%) rotate(90deg); opacity: 0; }
+  .qa-a {
+    max-height: 0; overflow: hidden;
+    transition: max-height 0.35s ease, padding 0.35s ease;
+  }
+  .qa.open .qa-a { max-height: 400px; padding: 0 0 22px; }
+  .qa-a p {
+    margin: 0;
+    color: var(--ink-soft);
+    max-width: 62ch;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* ============================================================
+     CLOSING CTA
+     ============================================================ */
+  .closing {
+    padding: 140px 0 100px;
+    text-align: center;
+  }
+  @media (max-width: 720px) { .closing { padding: 80px 0 60px; } }
+  .closing .kicker { display: block; margin-bottom: 18px; }
+  .closing h2 {
+    font-family: "Instrument Serif", serif;
+    font-weight: 400;
+    font-size: clamp(40px, 7vw, 96px);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin: 0 0 36px;
+    max-width: 18ch;
+    margin-left: auto; margin-right: auto;
+  }
+  .closing h2 em { font-style: italic; color: var(--clay); }
+  .btn-primary {
+    background: var(--clay);
+    color: var(--paper);
+    padding: 16px 26px;
+    border-radius: 999px;
+    font-family: "Geist", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    display: inline-flex; align-items: center; gap: 10px;
+    transition: background 0.2s, transform 0.15s;
+  }
+  .btn-primary:hover { background: var(--clay-deep); transform: translateY(-1px); }
+  .btn-primary .arrow {
+    font-family: "Instrument Serif", serif;
+    font-style: italic;
+    font-size: 22px;
+    line-height: 1;
+    transition: transform 0.2s;
+  }
+  .btn-primary:hover .arrow { transform: translateX(3px); }
+
+  /* ============================================================
+     FOOTER (same as homepage)
+     ============================================================ */
+  footer.site {
+    border-top: 1px solid var(--rule);
+    padding: 36px 0 28px;
+  }
+  .foot-inner {
+    display: flex; justify-content: space-between; align-items: center;
+    gap: 24px; flex-wrap: wrap;
+  }
+  .foot-nav {
+    display: flex; gap: 26px;
+    font-family: "Geist Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .foot-nav a:hover { color: var(--clay); }
+  .foot-copy {
+    font-family: "Geist Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body>
+
+  <!-- ============================ HEADER ============================ -->
+  <header class="site">
+    <div class="wrap nav">
+      <a href="/" class="wordmark">Roof<em>Picker</em><span class="dot"></span></a>
+      <div class="nav-links">
+        <a href="/">Visualizer</a>
+        <a href="/how-it-works/">How it Works</a>
+        <a href="/shingles/" class="on">Brands</a>
+        <a href="/compare/">Compare</a>
+        <a href="/faq/">FAQ</a>
+        <a href="#" class="nav-cta" onclick="openVisualizer(); return false;">Open Visualizer</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================ HERO ============================ -->
+  <section class="sku-hero">
+    <div class="wrap">
+
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="sep">/</span>
+        <a href="/shingles/">Shingles</a>
+        <span class="sep">/</span>
+        <a href="/shingles/gaf/">GAF</a>
+        <span class="sep">/</span>
+        <a href="/shingles/gaf/timberline-hdz/">Timberline HDZ</a>
+        <span class="sep">/</span>
+        <span class="current">Charcoal</span>
+      </nav>
+
+      <div class="sku-hero-grid">
+
+        <div class="sku-title-block">
+          <span class="kicker">Shingle · Asphalt · Architectural</span>
+          <h1>GAF Timberline HDZ <em>Charcoal</em> Shingles</h1>
+          <p class="sku-tagline">A confident, anchored dark gray that reads <em>black in shade</em> and <em>slate in sun</em>.</p>
+
+          <div class="sku-quick">
+            <div class="quick-fact">
+              <div class="label">Wind</div>
+              <div class="val">130 mph</div>
+            </div>
+            <div class="quick-fact">
+              <div class="label">Warranty</div>
+              <div class="val">30 <em>yrs</em></div>
+            </div>
+            <div class="quick-fact">
+              <div class="label">Per square</div>
+              <div class="val">$140</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="sku-launch">
+          <div class="sku-launch-preview">
+            <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png"
+                 alt="Home with GAF Timberline HDZ Charcoal roof"/>
+            <div class="sku-swatch-floating">
+              <span class="swatch"></span>
+              <span class="name">Charcoal · #34373F</span>
+            </div>
+          </div>
+          <div class="sku-launch-body">
+            <h3>See <em>Charcoal</em> on your house.</h3>
+            <p>Opens the visualizer pre-loaded with this exact shingle. Swap to any other color once it's open.</p>
+            <button class="btn-launch" onclick="openVisualizer('gaf', 'timberline-hdz', 'charcoal')">
+              Open visualizer <span class="arrow">→</span>
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ COLOR DESCRIPTION ============================ -->
+  <section class="color-desc">
+    <div class="wrap">
+
+      <div class="color-desc-head">
+        <span class="kicker">The color · in plain words</span>
+        <div class="title">What you're <em>looking</em> at.</div>
+      </div>
+
+      <div class="color-desc-grid">
+
+        <div class="color-desc-prose">
+          <p>
+            <span class="dropcap">C</span>harcoal is the workhorse dark gray of the asphalt shingle category. Not quite black, not quite slate. It's a confident, anchored color that absorbs the eye instead of bouncing it. On a south-facing Florida elevation it reads cool and slightly blue. On a north-facing roof in shade it pulls toward true black. That tonal range is the reason architects keep specifying it on contemporary builds.
+          </p>
+          <p>
+            The granule blend uses a base of deep ink-blue with charcoal-gray accents and a faint warm undertone to keep the surface from going dead-flat. In direct midday sun the texture catches enough light to show the dimensional shadow line that gives Timberline HDZ its premium feel. At dusk the whole roof becomes one quiet plane that frames the rest of the house instead of competing with it.
+          </p>
+          <p>
+            Pairs cleanly with white, cream, navy, sage, and warm terra-cotta sidings. Almost any house color works underneath it, which is why it accounts for roughly a third of all Timberline HDZ installs nationally. If you want a roof that disappears into "looks good," this is the safe bet.
+          </p>
+        </div>
+
+        <aside class="color-spec">
+          <div class="big-swatch"></div>
+          <dl>
+            <div>
+              <dt>Hex</dt>
+              <dd><span class="mono">#34373F</span></dd>
+            </div>
+            <div>
+              <dt>Family</dt>
+              <dd>Dark gray</dd>
+            </div>
+            <div>
+              <dt>Undertone</dt>
+              <dd>Cool blue</dd>
+            </div>
+            <div>
+              <dt>Best in</dt>
+              <dd>Daylight</dd>
+            </div>
+          </dl>
+          <div class="blend">
+            <div class="blend-chip" style="background: #2E323C;" title="#2E323C"></div>
+            <div class="blend-chip" style="background: #34373F;" title="#34373F"></div>
+            <div class="blend-chip" style="background: #1E2128;" title="#1E2128"></div>
+            <div class="blend-chip" style="background: #5C606C;" title="#5C606C"></div>
+          </div>
+        </aside>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ SPECS TABLE ============================ -->
+  <section class="specs">
+    <div class="wrap">
+
+      <div class="specs-head">
+        <span class="kicker">Specs · what's on the warranty card</span>
+        <div class="title">The <em>numbers</em>, plainly.</div>
+      </div>
+
+      <table class="specs-table">
+        <tr>
+          <td class="cat">Type</td>
+          <td class="val">Asphalt<div class="ctx">Fiberglass-mat, granule-coated, dimensional architectural</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Grade</td>
+          <td class="val">Architectural<div class="ctx">Three-tab profile with dimensional shadow line</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Warranty</td>
+          <td class="val"><em>30</em> years<div class="ctx">Limited transferable, extends to lifetime with Master Elite installer</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Wind rating</td>
+          <td class="val">130 mph<div class="ctx">WindProven coverage, no maximum wind speed cap with proper install</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Hail / impact</td>
+          <td class="val">Class 3<div class="ctx">UL 2218 tested</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Fire rating</td>
+          <td class="val">Class A<div class="ctx">ASTM E108 / UL 790, highest residential rating</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Weight per square</td>
+          <td class="val">240 lbs<div class="ctx">Heaviest in the architectural asphalt class</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Algae resistance</td>
+          <td class="val">StainGuard Plus<div class="ctx">10-year algae warranty included in Florida and Gulf Coast markets</div></td>
+        </tr>
+        <tr>
+          <td class="cat">Manufacturer</td>
+          <td class="val">GAF<div class="ctx">Parsippany, NJ · made in the USA · ENERGY STAR rated</div></td>
+        </tr>
+      </table>
+
+      <div class="specs-docs">
+        <a href="#" class="doc-pill"><span class="pdf-tag">PDF</span>Product brochure</a>
+        <a href="#" class="doc-pill"><span class="pdf-tag">PDF</span>Warranty document</a>
+        <a href="#" class="doc-pill"><span class="pdf-tag">PDF</span>Install specification</a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============================ INSTALL GALLERY ============================ -->
+  <section class="gallery">
+    <div class="wrap">
+
+      <div class="gallery-head">
+        <div class="title">Real <em>installs</em>, real homes.</div>
+        <div class="meta">Photos from Florida roofers who installed this exact SKU. No staging, no flattering filters.</div>
+      </div>
+
+      <div class="mosaic">
+        <figure class="tile s1">
+          <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Florida home with Charcoal Timberline HDZ" loading="lazy"/>
+          <div class="tag">Tampa, FL · 28 sq</div>
+        </figure>
+        <figure class="tile s2">
+          <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Two-story home with Charcoal roof" loading="lazy"/>
+          <div class="tag">Sarasota · 34 sq</div>
+        </figure>
+        <figure class="tile s3">
+          <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Ranch home with Charcoal roof" loading="lazy"/>
+          <div class="tag">Naples · 22 sq</div>
+        </figure>
+        <figure class="tile s4">
+          <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Modern build with Charcoal roof" loading="lazy"/>
+          <div class="tag">Coral Gables · 31 sq</div>
+        </figure>
+        <figure class="tile s5">
+          <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Bungalow with Charcoal roof" loading="lazy"/>
+          <div class="tag">St. Petersburg · 19 sq</div>
+        </figure>
+        <figure class="tile s6">
+          <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Suburban home with Charcoal roof" loading="lazy"/>
+          <div class="tag">Orlando · 26 sq</div>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ PAIRS WELL WITH ============================ -->
+  <section class="pairs">
+    <div class="wrap">
+
+      <div class="pairs-head">
+        <span class="kicker">House colors that work</span>
+        <div class="title">Charcoal <em>pairs</em> well with.</div>
+      </div>
+
+      <div class="pairs-grid">
+        <a href="/white-house-with-charcoal-roof/" class="pair-card" style="--siding-color: #F2EBDA;">
+          <div class="siding"></div>
+          <div class="meta">
+            <div class="kicker-row">Crisp neutral</div>
+            <div class="color-name">Antique White</div>
+          </div>
+        </a>
+        <a href="/cream-house-with-charcoal-roof/" class="pair-card" style="--siding-color: #E8DCC4;">
+          <div class="siding"></div>
+          <div class="meta">
+            <div class="kicker-row">Warm neutral</div>
+            <div class="color-name">Soft Cream</div>
+          </div>
+        </a>
+        <a href="/sage-house-with-charcoal-roof/" class="pair-card" style="--siding-color: #A4B197;">
+          <div class="siding"></div>
+          <div class="meta">
+            <div class="kicker-row">Earthy modern</div>
+            <div class="color-name">Sage Green</div>
+          </div>
+        </a>
+        <a href="/navy-house-with-charcoal-roof/" class="pair-card" style="--siding-color: #2A3B52;">
+          <div class="siding"></div>
+          <div class="meta">
+            <div class="kicker-row">Bold tonal</div>
+            <div class="color-name">Deep Navy</div>
+          </div>
+        </a>
+        <a href="/terracotta-house-with-charcoal-roof/" class="pair-card" style="--siding-color: #C97A5A;">
+          <div class="siding"></div>
+          <div class="meta">
+            <div class="kicker-row">Warm contrast</div>
+            <div class="color-name">Terra Cotta</div>
+          </div>
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============================ COMPARE TO SIMILAR ============================ -->
+  <section class="similar">
+    <div class="wrap">
+
+      <div class="similar-head">
+        <span class="kicker">Compare across brands</span>
+        <div class="title">Other <em>dark grays</em>, side by side.</div>
+      </div>
+
+      <div class="similar-grid">
+        <a href="/shingles/owens-corning/duration/onyx-black/" class="similar-card" style="--similar-color: #2E323C;">
+          <div class="swatch"></div>
+          <div class="meta">
+            <div class="brand-line">Owens Corning · Duration</div>
+            <div class="color-name">Onyx Black</div>
+          </div>
+        </a>
+        <a href="/shingles/certainteed/landmark-pro/moire-black/" class="similar-card" style="--similar-color: #25282E;">
+          <div class="swatch"></div>
+          <div class="meta">
+            <div class="brand-line">CertainTeed · Landmark Pro</div>
+            <div class="color-name">Moire Black</div>
+          </div>
+        </a>
+        <a href="/shingles/iko/cambridge/dual-black/" class="similar-card" style="--similar-color: #2A2D34;">
+          <div class="swatch"></div>
+          <div class="meta">
+            <div class="brand-line">IKO · Cambridge</div>
+            <div class="color-name">Dual Black</div>
+          </div>
+        </a>
+        <a href="/shingles/malarkey/vista/midnight-black/" class="similar-card" style="--similar-color: #1E2128;">
+          <div class="swatch"></div>
+          <div class="meta">
+            <div class="brand-line">Malarkey · Vista AR</div>
+            <div class="color-name">Midnight Black</div>
+          </div>
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============================ PRICING ============================ -->
+  <section class="pricing">
+    <div class="wrap">
+
+      <div class="pricing-head">
+        <span class="kicker">Pricing context · 2026 retail</span>
+        <div class="title">What it <em>actually</em> costs.</div>
+      </div>
+
+      <div class="pricing-grid">
+        <div class="price-card">
+          <div class="label">Per square (materials)</div>
+          <div class="range">$135<em>–</em>$155</div>
+          <div class="note">Home Depot retail, three bundles per square. Supply houses run about $12 to $20 less.</div>
+        </div>
+        <div class="price-card">
+          <div class="label">Typical 30-square home</div>
+          <div class="range">$4,050<em>–</em>$4,650</div>
+          <div class="note">Materials only. Underlayment, starter strip, and ridge cap not included.</div>
+        </div>
+        <div class="price-card">
+          <div class="label">Installed in Florida</div>
+          <div class="range">$14k<em>–</em>$22k</div>
+          <div class="note">Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch and accessibility.</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============================ TRY IT ============================ -->
+  <section class="try-it">
+    <div class="wrap try-it-inner">
+
+      <div class="try-copy">
+        <span class="kicker">Visualize · free · no signup</span>
+        <div class="title">Stop guessing. See <em>Charcoal</em> on your roof.</div>
+        <p>Upload a phone photo of your house and watch our AI swap your existing roof for GAF Timberline HDZ Charcoal in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.</p>
+        <button class="btn-launch" onclick="openVisualizer('gaf', 'timberline-hdz', 'charcoal')">
+          Open visualizer with Charcoal <span class="arrow">→</span>
+        </button>
+      </div>
+
+      <button class="try-launcher" onclick="openVisualizer('gaf', 'timberline-hdz', 'charcoal')">
+        <div class="preview">
+          <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Preview of Charcoal Timberline HDZ on a home"/>
+          <div class="badge">
+            <span class="dot"></span>
+            <span>Pre-loaded: Charcoal</span>
+          </div>
+        </div>
+        <div class="action-row">
+          <div class="action-title">Tap to open visualizer</div>
+          <div class="arrow">→</div>
+        </div>
+      </button>
+
+    </div>
+  </section>
+
+  <!-- ============================ FAQ ============================ -->
+  <section class="faq">
+    <div class="wrap faq-inner">
+
+      <div class="faq-head">
+        <span class="kicker">Common <em>questions</em></span>
+        <div class="title">About <em>Charcoal</em>.</div>
+        <p class="note">Questions homeowners ask before they commit. Answered without sales spin.</p>
+      </div>
+
+      <div class="faq-list" id="faqList">
+
+        <div class="qa open">
+          <button class="qa-q"><span>What color is Charcoal, really?</span><span class="plus"></span></button>
+          <div class="qa-a"><p>A deep, slightly cool dark gray. Reads close to black in shade and as slate or storm-gray in direct sunlight. The granule blend has a subtle warm undertone that keeps it from looking flat.</p></div>
+        </div>
+
+        <div class="qa">
+          <button class="qa-q"><span>Does Charcoal fade over time?</span><span class="plus"></span></button>
+          <div class="qa-a"><p>Minimally. GAF's ceramic granule coating is engineered to hold color for 25-plus years in Florida sun. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The 30-year warranty covers premature fading.</p></div>
+        </div>
+
+        <div class="qa">
+          <button class="qa-q"><span>How does Charcoal look in Florida sun versus a cloudy day?</span><span class="plus"></span></button>
+          <div class="qa-a"><p>In direct overhead sun it brightens to a clear slate-gray with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which actually flatters most siding colors underneath. At sunset the warm undertone shows through.</p></div>
+        </div>
+
+        <div class="qa">
+          <button class="qa-q"><span>How does it compare to Owens Corning Duration Onyx Black?</span><span class="plus"></span></button>
+          <div class="qa-a"><p>Very similar in daylight. Onyx Black is slightly truer to black with less blue undertone. Timberline HDZ Charcoal is a touch lighter and cooler. On the same house photo, most homeowners struggle to tell them apart unless they are placed side by side.</p></div>
+        </div>
+
+        <div class="qa">
+          <button class="qa-q"><span>Will Charcoal make my house hotter?</span><span class="plus"></span></button>
+          <div class="qa-a"><p>Slightly, compared to a white or light gray roof. In Florida, a dark roof adds about 5-10°F to attic temperatures during peak summer. Proper attic ventilation and modern radiant barriers reduce the actual cooling load impact to less than $20 per month in most homes.</p></div>
+        </div>
+
+        <div class="qa">
+          <button class="qa-q"><span>Is StainGuard Plus enough for Florida humidity?</span><span class="plus"></span></button>
+          <div class="qa-a"><p>Yes. StainGuard Plus is GAF's algae-resistance package and includes copper-infused granules. The 10-year algae warranty is the strongest in the asphalt category for Florida and Gulf Coast climates.</p></div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ CLOSING CTA ============================ -->
+  <section class="closing">
+    <div class="wrap">
+      <span class="kicker">It's free. No signup.</span>
+      <h2>See <em>Charcoal</em> on your house.</h2>
+      <button class="btn-primary" onclick="openVisualizer('gaf', 'timberline-hdz', 'charcoal')">Open the visualizer <span class="arrow">→</span></button>
+    </div>
+  </section>
+
+  <!-- ============================ FOOTER ============================ -->
+  <footer class="site">
+    <div class="wrap foot-inner">
+      <a href="/" class="wordmark" style="font-size: 22px;">Roof<em>Picker</em><span class="dot"></span></a>
+      <div class="foot-nav">
+        <a href="/">Visualizer</a>
+        <a href="/how-it-works/">How</a>
+        <a href="/shingles/">Brands</a>
+        <a href="/compare/">Compare</a>
+        <a href="/faq/">FAQ</a>
+        <a href="/contact/">Contact</a>
+      </div>
+      <div class="foot-copy">© 2026 RoofPicker · Made in Florida</div>
+    </div>
+  </footer>
+
+<script>
+  // -------- FAQ accordion --------
+  (function () {
+    const list = document.getElementById('faqList');
+    list.addEventListener('click', (e) => {
+      const btn = e.target.closest('.qa-q');
+      if (!btn) return;
+      const qa = btn.parentElement;
+      const open = qa.classList.contains('open');
+      list.querySelectorAll('.qa').forEach(x => x.classList.remove('open'));
+      if (!open) qa.classList.add('open');
+    });
+  })();
+
+  // -------- Visualizer launcher stub (D1 modal pattern) --------
+  // Wire to Lucas's RoofKit launcher snippet when available.
+  // brand, line, and color are the pre-load params (depend on Lucas's
+  // deep-link URL param work landing).
+  function openVisualizer(brand, line, color) {
+    console.log('Open visualizer:', { brand, line, color });
+    alert('RoofKit visualizer opens here.\n\n' +
+      (brand ? `Pre-load: ${brand} / ${line} / ${color}` : 'No SKU pre-selected'));
+  }
+</script>
+
+</body>
+</html>
