@@ -1,0 +1,182 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const destinations = [
+  { kicker: 'Visualizer', href: '/',              title_pre: 'Try a roof color on',  title_em: 'your house' },
+  { kicker: 'Brands',     href: '/shingles/',     title_pre: 'Every shingle',         title_em: 'color' },
+  { kicker: 'Compare',    href: '/compare/',      title_pre: 'Side-by-side brand',    title_em: 'comparisons' },
+  { kicker: 'Combos',     href: '/combinations/', title_pre: 'House and roof',        title_em: 'pairings' },
+  { kicker: 'Styles',     href: '/home-styles/',  title_pre: 'By architectural',      title_em: 'style' },
+  { kicker: 'Gallery',    href: '/roof-colors/',  title_pre: 'Browse every',          title_em: 'roof color' },
+];
+---
+<BaseLayout
+  title="Page not found"
+  description="The page you are looking for does not exist. Try the visualizer, the brand index, or the color gallery."
+  canonical="/404/"
+  noindex={true}
+>
+  <main class="notfound">
+    <section class="hero">
+      <div class="wrap">
+        <span class="kicker">404 · Page not found</span>
+        <h1>That roof's <em>missing</em> a few shingles.</h1>
+        <p class="lede">The page you were looking for moved or never existed. Try one of these instead.</p>
+      </div>
+    </section>
+
+    <section class="destinations">
+      <div class="wrap">
+        <div class="grid">
+          {destinations.map((d) => (
+            <a class="dest-card" href={d.href}>
+              <span class="card-kicker">{d.kicker}</span>
+              <h3>{d.title_pre} <em>{d.title_em}</em></h3>
+              <span class="card-action">Go <span class="arrow">→</span></span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="closing">
+      <div class="wrap">
+        <span class="kicker">Or start over</span>
+        <h2>Just upload a <em>photo</em> of your house.</h2>
+        <a class="btn-primary" href="/">Open the visualizer <span class="arrow">→</span></a>
+      </div>
+    </section>
+  </main>
+
+  <style>
+    .notfound { padding: 0 0 120px; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 0 32px; }
+    @media (max-width: 720px) { .wrap { padding: 0 20px; } }
+
+    .kicker {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    /* HERO */
+    .hero { padding: 100px 0 56px; }
+    .hero h1 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(48px, 8vw, 108px);
+      line-height: 1.0;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin: 0 0 24px;
+      max-width: 14ch;
+    }
+    .hero h1 em { font-style: italic; color: var(--clay); }
+    .hero .lede {
+      font-family: "Geist", system-ui, sans-serif;
+      font-size: 18px;
+      line-height: 1.55;
+      color: var(--ink-soft);
+      max-width: 60ch;
+      margin: 0;
+    }
+
+    /* DESTINATIONS GRID */
+    .destinations { padding: 40px 0 60px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .dest-card {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      padding: 28px 28px 24px;
+      background: var(--shell);
+      border: 1px solid var(--rule);
+      border-radius: 18px;
+      color: var(--ink);
+      transition: border-color 200ms cubic-bezier(.4,0,.2,1),
+                  transform 200ms cubic-bezier(.4,0,.2,1),
+                  box-shadow 200ms cubic-bezier(.4,0,.2,1);
+    }
+    .dest-card:hover {
+      border-color: var(--clay);
+      transform: translateY(-2px);
+      box-shadow: 0 18px 40px rgba(26,34,54,0.08);
+    }
+    .dest-card .card-kicker {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 10px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+    .dest-card h3 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: 26px;
+      line-height: 1.1;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      margin: 0;
+    }
+    .dest-card h3 em { font-style: italic; color: var(--clay); }
+    .dest-card .card-action {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--clay);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: auto;
+    }
+    .dest-card .card-action .arrow {
+      transition: transform 200ms cubic-bezier(.4,0,.2,1);
+    }
+    .dest-card:hover .card-action .arrow { transform: translateX(4px); }
+
+    /* CLOSING */
+    .closing { padding: 80px 0 0; text-align: center; }
+    .closing .kicker { margin-bottom: 16px; }
+    .closing h2 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(36px, 5.4vw, 80px);
+      line-height: 1.0;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin: 0 0 32px;
+    }
+    .closing h2 em { font-style: italic; color: var(--clay); }
+
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: var(--clay);
+      color: var(--paper);
+      padding: 16px 26px;
+      border-radius: 999px;
+      font-family: "Geist", system-ui, sans-serif;
+      font-size: 15px;
+      font-weight: 500;
+      transition: background 150ms cubic-bezier(.4,0,.2,1),
+                  transform 150ms cubic-bezier(.4,0,.2,1);
+    }
+    .btn-primary:hover {
+      background: var(--clay-deep);
+      transform: translateY(-1px);
+    }
+    .btn-primary .arrow { transition: transform 150ms cubic-bezier(.4,0,.2,1); }
+    .btn-primary:hover .arrow { transform: translateX(3px); }
+  </style>
+</BaseLayout>

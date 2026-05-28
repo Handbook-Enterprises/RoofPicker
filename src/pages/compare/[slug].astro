@@ -1,0 +1,476 @@
+---
+// Strategy 2 per-comparison route. CSS + inline JS verbatim from
+// Comparison-Page-Template.html (refresh via `npm run port-comparison`).
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { breadcrumbList, faqPage } from '@lib/schema';
+import { imageSrc } from '@lib/cdn';
+import comparisonCss from '@styles/comparison.css?raw';
+
+function kebab(s: string): string {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+// Strip marketing-platform prefixes (Max Def, TruDefinition) so SKU
+// color_display matches the comparison's canonical color name.
+function stripPlatformPrefix(name: string): string {
+  return name
+    .replace(/^max[\s-]*def[\s-]*/i, '')
+    .replace(/^tru[\s-]*definition[\s-]*/i, '')
+    .replace(/^designer[\s-]*/i, '')
+    .replace(/^northgate[\s-]*/i, '')
+    .replace(/^cool[\s-]*plus[\s-]*/i, '')
+    .trim();
+}
+
+// `<line_slug>|<normalized-color>` -> swatch_url. Built once,
+// reused across all comparison routes.
+const skuCollection = await getCollection('skus');
+const skuSwatchIndex = new Map<string, string>();
+for (const entry of skuCollection) {
+  const d = entry.data as Record<string, any>;
+
+  // Fallback chain: swatch crop -> first gallery tile -> hero image.
+  // ~30% of GAF/Atlas/IKO SKUs lack a tagged swatch.
+  const galleryFirst = Array.isArray(d.gallery?.tiles) && d.gallery.tiles.length > 0
+    ? imageSrc(d.gallery.tiles[0])
+    : '';
+  const swatchUrl = imageSrc(d.color_desc?.swatch_image)
+    || galleryFirst
+    || (d.sku_hero?.hero_image_cdn_url as string | undefined)
+    || '';
+  if (!swatchUrl) continue;
+
+  const lineSlug = d.sku_hero?.line_slug;
+  const colorDisplay = d.sku_hero?.color_display;
+  if (!lineSlug || !colorDisplay) continue;
+  const key = `${lineSlug}|${kebab(stripPlatformPrefix(colorDisplay))}`;
+  skuSwatchIndex.set(key, swatchUrl);
+  // Also key by raw color_slug for prefix-aware lookups.
+  const colorSlug = d.sku_hero?.color_slug;
+  if (colorSlug) skuSwatchIndex.set(`${lineSlug}|${colorSlug}`, swatchUrl);
+}
+
+export async function getStaticPaths() {
+  const all = await getCollection('comparisons');
+  return all.map((e) => ({
+    params: { slug: e.id },
+    props: { data: e.data as Record<string, any> },
+  }));
+}
+
+const { data } = Astro.props;
+
+const subjectA = String(data.subject_a_display ?? 'Subject A');
+const subjectB = String(data.subject_b_display ?? 'Subject B');
+const subjectAId = String(data.subject_a_id ?? '');
+const subjectBId = String(data.subject_b_id ?? '');
+
+// Split kebab subject_id into (brand, line). Multi-word brands kept whole.
+const BRANDS = new Set([
+  'certainteed', 'gaf', 'iko', 'malarkey', 'tamko', 'atlas',
+  'owens-corning',
+]);
+function splitBrandLine(id: string): [string, string] {
+  for (const brand of BRANDS) {
+    if (id === brand) return [brand, ''];
+    if (id.startsWith(brand + '-')) return [brand, id.slice(brand.length + 1)];
+  }
+  return [id, ''];
+}
+const [brandA, lineA] = splitBrandLine(subjectAId);
+const [brandB, lineB] = splitBrandLine(subjectBId);
+
+type QuickStat = { value: string; label: string };
+type TableRow = {
+  category: string;
+  a_value: string; a_ctx?: string;
+  b_value: string; b_ctx?: string;
+  winner_note?: string;
+};
+type OverlapPair = {
+  color_family: string;
+  a_color: string; a_hex: string;
+  b_color: string; b_hex: string;
+};
+type FaqItem = { q: string; a: string };
+
+const quickStats: QuickStat[] = Array.isArray(data.quick_stats) ? data.quick_stats.slice(0, 3) : [];
+const chooseA: string[] = Array.isArray(data.choose_a) ? data.choose_a : [];
+const chooseB: string[] = Array.isArray(data.choose_b) ? data.choose_b : [];
+const table: TableRow[] = Array.isArray(data.comparison_table) ? data.comparison_table : [];
+const overlap: OverlapPair[] = Array.isArray(data.color_overlap) ? data.color_overlap : [];
+const faqs: FaqItem[] = Array.isArray(data.faq_items) ? data.faq_items : [];
+
+// Split-stage swatches from overlap[0]. Image, then hex, then gray.
+const overlapNameA = overlap[0]?.a_color ?? '';
+const overlapNameB = overlap[0]?.b_color ?? '';
+const swatchAHex = overlap[0]?.a_hex ?? '#7a6850';
+const swatchBHex = overlap[0]?.b_hex ?? '#323b51';
+
+function lookupSwatch(subjectId: string, colorName: string): string {
+  if (!subjectId || !colorName) return '';
+  // Normalized key first, then raw, to cover both naming conventions.
+  const normalized = kebab(stripPlatformPrefix(colorName));
+  const raw = kebab(colorName);
+  return skuSwatchIndex.get(`${subjectId}|${normalized}`)
+    ?? skuSwatchIndex.get(`${subjectId}|${raw}`)
+    ?? '';
+}
+const swatchAImg = lookupSwatch(subjectAId, overlapNameA);
+const swatchBImg = lookupSwatch(subjectBId, overlapNameB);
+
+// Image over hex underlay so paint stays colored during load.
+function paneStyle(img: string, hex: string): string {
+  return img
+    ? `background:${hex} url(${img}) center/cover no-repeat;`
+    : `background:${hex};`;
+}
+const paneAStyle = paneStyle(swatchAImg, swatchAHex);
+const paneBStyle = paneStyle(swatchBImg, swatchBHex);
+
+const youtubeId = (data.youtube_video_id ? String(data.youtube_video_id) : '').trim();
+const youtubeTitle = String(data.youtube_video_title ?? '');
+
+// JSON-LD blocks
+const jsonLd: Array<Record<string, unknown>> = [
+  breadcrumbList([
+    { label: 'Home', url: '/' },
+    { label: 'Compare', url: '/compare/' },
+    { label: String(data.h1), url: String(data.url_path) },
+  ]),
+];
+if (faqs.length > 0) jsonLd.push(faqPage(faqs));
+
+const h1Raw = String(data.h1 ?? `${subjectA} vs ${subjectB}`);
+---
+<BaseLayout
+  title={h1Raw}
+  description={String(data.lead_summary ?? '').slice(0, 160)}
+  canonical={String(data.url_path)}
+  jsonLd={jsonLd}
+>
+  <style is:global set:html={comparisonCss}></style>
+
+  <section class="comp-hero">
+    <div class="wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="sep">/</span>
+        <a href="/compare/">Compare</a>
+        <span class="sep">/</span>
+        <span class="current">{subjectA} vs {subjectB}</span>
+      </nav>
+
+      <span class="kicker">Comparison · Asphalt architectural shingles · 2026</span>
+
+      <h1>{subjectA} <span class="vs">vs</span> {subjectB} <span class="year">2026</span></h1>
+
+      <div class="lead-block">
+        {data.lead_summary && (
+          <div class="lead-summary">{String(data.lead_summary)}</div>
+        )}
+        {quickStats.length > 0 && (
+          <div class="lead-stats">
+            {quickStats.map((s) => (
+              <div class="stat">
+                <div class="num">{s.value}</div>
+                <div class="label">{s.label}</div>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <section class="comp-visual">
+    <div class="wrap">
+      <div class="comp-visual-head">
+        <span class="kicker">Side-by-Side · Same shingle pair, both colors</span>
+        <span class="hint">Drag the divider to compare</span>
+      </div>
+
+      <figure
+        class="split-stage"
+        id="splitStage"
+        aria-label={`Drag the divider to compare ${subjectA} and ${subjectB}`}
+        style={paneAStyle}
+      >
+        {/* Real SKU swatch when matched; hex underlay otherwise. */}
+        <div class="before" style={paneAStyle} aria-hidden="true"></div>
+        <div class="after"  style={paneBStyle} aria-hidden="true"></div>
+
+        <div class="split-divider" id="splitDivider"></div>
+
+        <div class="split-chip" aria-hidden="true">
+          <span style={`background:${swatchAHex}`}></span>
+          <span style={`background:${swatchBHex}`}></span>
+        </div>
+
+        <div class="ba-marks">
+          <span>{subjectA}{overlapNameA && ` · ${overlapNameA}`}</span>
+          <span>{subjectB}{overlapNameB && ` · ${overlapNameB}`}</span>
+        </div>
+
+        {overlapNameA && overlapNameB && (
+          <div class="tag">{overlapNameA} → {overlapNameB}</div>
+        )}
+      </figure>
+    </div>
+  </section>
+
+  {(chooseA.length > 0 || chooseB.length > 0) && (
+    <section class="decision">
+      <div class="wrap">
+        <div class="decision-head">
+          <span class="kicker">The decision · plainly</span>
+          <div class="title">Two good shingles. <em>One</em> right for you.</div>
+        </div>
+
+        <div class="choose-grid">
+          {chooseA.length > 0 && (
+            <div class="choose-card a">
+              <div class="subject"><span class="dot"></span>Subject A</div>
+              <h3>When to choose <em>{subjectA}</em>.</h3>
+              <ul class="choose-list">
+                {chooseA.map((line) => <li>{line}</li>)}
+              </ul>
+            </div>
+          )}
+          {chooseB.length > 0 && (
+            <div class="choose-card b">
+              <div class="subject"><span class="dot"></span>Subject B</div>
+              <h3>When to choose <em>{subjectB}</em>.</h3>
+              <ul class="choose-list">
+                {chooseB.map((line) => <li>{line}</li>)}
+              </ul>
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {table.length > 0 && (
+    <section class="compare-table">
+      <div class="wrap">
+        <div class="compare-table-head">
+          <span class="kicker">Specs · plain numbers</span>
+          <div class="title">The <em>numbers</em>, side by side.</div>
+        </div>
+
+        <table class="ctable">
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th class="subject a"><span class="dot"></span>{subjectA}</th>
+              <th class="subject b"><span class="dot"></span>{subjectB}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {table.map((row) => (
+              <tr>
+                <td class="cat">{row.category}</td>
+                <td class="val" data-subject={subjectA}>
+                  <span class="num-val">{row.a_value}</span>
+                  {row.a_ctx && <span class="ctx">{row.a_ctx}</span>}
+                </td>
+                <td class="val" data-subject={subjectB}>
+                  <span class="num-val">{row.b_value}</span>
+                  {row.b_ctx && <span class="ctx">{row.b_ctx}</span>}
+                  {row.winner_note && <span class="winner">{row.winner_note}</span>}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )}
+
+  {overlap.length > 0 && (
+    <section class="overlap">
+      <div class="wrap">
+        <div class="overlap-head">
+          <span class="kicker">Color overlap · pick the same look across brands</span>
+          <div class="title">If you like a <em>color</em>, both brands probably have it.</div>
+        </div>
+
+        <div class="overlap-grid">
+          {overlap.flatMap((pair) => [
+            <a
+              href={brandA && lineA ? `/shingles/${brandA}/${lineA}/${pair.a_color.toLowerCase().replace(/\s+/g, '-')}/` : '#'}
+              class="overlap-card"
+            >
+              <div class="swatch" style={`background:${pair.a_hex};`}></div>
+              <div class="meta">
+                <div class="brand">{subjectA}</div>
+                <div class="color">{pair.a_color}</div>
+              </div>
+            </a>,
+            <a
+              href={brandB && lineB ? `/shingles/${brandB}/${lineB}/${pair.b_color.toLowerCase().replace(/\s+/g, '-')}/` : '#'}
+              class="overlap-card"
+            >
+              <div class="swatch" style={`background:${pair.b_hex};`}></div>
+              <div class="meta">
+                <div class="brand">{subjectB}</div>
+                <div class="color">{pair.b_color}</div>
+              </div>
+            </a>,
+          ])}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="try-it">
+    <div class="wrap">
+      <div class="try-it-head">
+        <span class="kicker">Open the visualizer</span>
+        <div class="title">Try them on <em>your</em> house.</div>
+        <p class="note">Both are pre-loaded in the visualizer. Upload a photo, pick the one that fits the way your house actually sits in the sun.</p>
+      </div>
+
+      <div class="launcher-row">
+        <button
+          class="launcher-card a"
+          data-brand={brandA}
+          data-line={lineA}
+          data-color={overlap[0]?.a_color ? overlap[0].a_color.toLowerCase().replace(/\s+/g, '-') : ''}
+        >
+          <div class="subject"><span class="dot"></span>Subject A</div>
+          <h4>Try {subjectA} on your house.</h4>
+          <p class="desc">Opens the visualizer pre-loaded with {subjectA}{overlapNameA && ` in ${overlapNameA}`}. Swap colors freely once it loads.</p>
+          <span class="action">Open visualizer <span class="arrow">→</span></span>
+        </button>
+
+        <button
+          class="launcher-card b"
+          data-brand={brandB}
+          data-line={lineB}
+          data-color={overlap[0]?.b_color ? overlap[0].b_color.toLowerCase().replace(/\s+/g, '-') : ''}
+        >
+          <div class="subject"><span class="dot"></span>Subject B</div>
+          <h4>Try {subjectB} on your house.</h4>
+          <p class="desc">Opens the visualizer pre-loaded with {subjectB}{overlapNameB && ` in ${overlapNameB}`}. Swap colors freely once it loads.</p>
+          <span class="action">Open visualizer <span class="arrow">→</span></span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  {youtubeId && (
+    <section class="video-section">
+      <div class="wrap">
+        <div class="video-head">
+          <span class="kicker">On the install · YouTube</span>
+          <div class="title">A pro installer takes both <em>apart</em>.</div>
+        </div>
+
+        {/* z-index lifts iframe above .video-frame::after overlay. */}
+        <div class="video-frame" style="aspect-ratio: 16 / 9; position: relative;">
+          <iframe
+            src={`https://www.youtube.com/embed/${youtubeId}`}
+            title={youtubeTitle || `${subjectA} vs ${subjectB} install comparison`}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+            style="position:absolute; inset:0; width:100%; height:100%; border:0; z-index:2;"
+          ></iframe>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {faqs.length > 0 && (
+    <section class="faq">
+      <div class="wrap faq-inner">
+        <div class="faq-head">
+          <span class="kicker">Comparison FAQ · plainly answered</span>
+          <div class="title">Common <em>questions</em>.</div>
+          <p class="note">The questions People Also Ask on Google for this comparison, answered without sales spin.</p>
+        </div>
+
+        <div class="faq-list" id="faqList">
+          {faqs.map((qa, i) => (
+            <div class={i === 0 ? 'qa open' : 'qa'}>
+              <button class="qa-q"><span>{qa.q}</span><span class="plus"></span></button>
+              <div class="qa-a"><p>{qa.a}</p></div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="closing">
+    <div class="wrap">
+      <span class="kicker">Still not sure?</span>
+      <h2>See both on <em>your</em> house.</h2>
+      <button class="btn-primary" data-open-visualizer>Open the visualizer <span class="arrow">→</span></button>
+    </div>
+  </section>
+
+  <script is:inline>
+    // Split-divider drag — copied verbatim from the template.
+    (function () {
+      const stage = document.getElementById('splitStage');
+      if (!stage) return;
+      const after = stage.querySelector('.after');
+      const divider = stage.querySelector('.split-divider');
+      const chip = stage.querySelector('.split-chip');
+      let dragging = false;
+
+      function setSplit(x) {
+        const r = stage.getBoundingClientRect();
+        const pct = Math.max(0, Math.min(100, ((x - r.left) / r.width) * 100));
+        after.style.clipPath = 'polygon(' + pct + '% 0, 100% 0, 100% 100%, ' + pct + '% 100%)';
+        divider.style.left = pct + '%';
+        if (chip) chip.style.left = pct + '%';
+      }
+
+      const start = (e) => { dragging = true; const x = e.touches ? e.touches[0].clientX : e.clientX; setSplit(x); };
+      const move  = (e) => { if (!dragging) return; const x = e.touches ? e.touches[0].clientX : e.clientX; setSplit(x); };
+      const end   = () => { dragging = false; };
+
+      stage.addEventListener('mousedown', start);
+      window.addEventListener('mousemove', move);
+      window.addEventListener('mouseup', end);
+      stage.addEventListener('touchstart', start, { passive: true });
+      window.addEventListener('touchmove', move, { passive: true });
+      window.addEventListener('touchend', end);
+    })();
+
+    // FAQ accordion — copied verbatim from the template.
+    (function () {
+      const list = document.getElementById('faqList');
+      if (!list) return;
+      list.addEventListener('click', (e) => {
+        const btn = e.target.closest('.qa-q');
+        if (!btn) return;
+        const qa = btn.parentElement;
+        const open = qa.classList.contains('open');
+        list.querySelectorAll('.qa').forEach((x) => x.classList.remove('open'));
+        if (!open) qa.classList.add('open');
+      });
+    })();
+
+    // Visualizer launcher stub. Wires to RoofKit when available.
+    function openVisualizer(brand, line, color) {
+      console.log('Open visualizer:', { brand: brand, line: line, color: color });
+      alert('RoofKit visualizer will open here. Launcher snippet pending from Lucas.\n\n' +
+        (brand ? 'Pre-load: ' + brand + ' / ' + line + ' / ' + color : 'No SKU pre-selected'));
+    }
+    document.querySelectorAll('.launcher-card[data-brand]').forEach((card) => {
+      card.addEventListener('click', () => {
+        openVisualizer(card.dataset.brand, card.dataset.line, card.dataset.color);
+      });
+    });
+    document.querySelectorAll('[data-open-visualizer]').forEach((btn) => {
+      btn.addEventListener('click', () => openVisualizer());
+    });
+  </script>
+</BaseLayout>

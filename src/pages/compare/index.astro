@@ -1,0 +1,260 @@
+---
+// Strategy 2 hub at /compare/. Lists every head-to-head comparison.
+// Design: Docs/design.md (Warm Florida Modern).
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { breadcrumbList } from '@lib/schema';
+import hubJson from '../../data/hubs/comparisons.json';
+
+const data = hubJson as Record<string, unknown>;
+
+// Dedupe by product pair; pick the variant with a target_keyword as the canonical card.
+const all = await getCollection('comparisons');
+const byPair = new Map<string, Record<string, unknown>>();
+for (const e of all) {
+  const d = e.data as Record<string, any>;
+  const pairKey = [d.subject_a_id ?? '', d.subject_b_id ?? ''].sort().join('|');
+  const existing = byPair.get(pairKey);
+  const score = (x: Record<string, any>) =>
+    (x.target_keyword ? 2 : 0) + (typeof x.volume_per_month === 'number' ? 1 : 0);
+  if (!existing || score(d) > score(existing as any)) byPair.set(pairKey, d);
+}
+const items = Array.from(byPair.values())
+  .sort((a, b) => String(a.h1).localeCompare(String(b.h1)));
+
+const hubIntro = String(data.hub_intro ?? 'Two-sided comparisons of the shingle brands and product lines Florida homeowners shop most.');
+---
+<BaseLayout
+  title={String(data.h1 ?? 'Compare shingle brands and product lines')}
+  description={hubIntro}
+  canonical="/compare/"
+  jsonLd={[breadcrumbList([
+    { label: 'Home', url: '/' },
+    { label: 'Compare', url: '/compare/' },
+  ])]}
+>
+  <main class="compare-hub">
+    <section class="hub-hero">
+      <div class="wrap">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a>
+          <span class="sep">/</span>
+          <span class="current">Compare</span>
+        </nav>
+        <span class="kicker">Comparisons · Brand vs brand · 2026</span>
+        <h1>Two good shingles. <em>One</em> right for you.</h1>
+        <p class="lede">{hubIntro}</p>
+      </div>
+    </section>
+
+    <section class="hub-list-section">
+      <div class="wrap">
+        <span class="kicker">All head-to-head pairs</span>
+        <div class="hub-grid">
+          {items.map((c) => {
+            const a = String(c.subject_a_display ?? '').trim();
+            const b = String(c.subject_b_display ?? '').trim();
+            const lead = String(c.lead_summary ?? '').replace(/\s+/g, ' ').slice(0, 220);
+            return (
+              <a class="hub-card" href={String(c.url_path)}>
+                <span class="card-kicker">Comparison</span>
+                <h2>
+                  {a ? <><span>{a}</span> <em>vs</em> <span>{b}</span></> : String(c.h1)}
+                </h2>
+                {lead && <p class="card-lede">{lead}{lead.length === 220 && '…'}</p>}
+                <span class="card-action">Read the comparison <span class="arrow">→</span></span>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+
+    <section class="closing">
+      <div class="wrap">
+        <span class="kicker">Still narrowing it down?</span>
+        <h2>See any pair on <em>your</em> house.</h2>
+        <a class="btn-primary" href="/">Open the visualizer <span class="arrow">→</span></a>
+      </div>
+    </section>
+  </main>
+
+  <style>
+    /* Warm Florida Modern tokens — pulled from design.md. */
+    .compare-hub { padding: 0 0 120px; }
+
+    /* ------ HERO ------ */
+    .hub-hero { padding: 80px 0 56px; }
+    .hub-hero .wrap { max-width: 1100px; margin: 0 auto; padding: 0 32px; }
+    @media (max-width: 720px) { .hub-hero .wrap { padding: 0 20px; } }
+
+    .breadcrumb {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+      margin-bottom: 28px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .breadcrumb a:hover { color: var(--clay); }
+    .breadcrumb .sep { opacity: 0.4; }
+    .breadcrumb .current { color: var(--ink); }
+
+    .kicker {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    .hub-hero h1 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(48px, 8vw, 108px);
+      line-height: 1.0;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin: 0 0 24px;
+      max-width: 12ch;
+    }
+    .hub-hero h1 em { font-style: italic; color: var(--clay); }
+
+    .hub-hero .lede {
+      font-family: "Geist", system-ui, sans-serif;
+      font-size: 18px;
+      line-height: 1.55;
+      color: var(--ink-soft);
+      max-width: 60ch;
+      margin: 0;
+    }
+
+    /* ------ GRID ------ */
+    .hub-list-section { padding: 60px 0; }
+    .hub-list-section .wrap { max-width: 1100px; margin: 0 auto; padding: 0 32px; }
+    @media (max-width: 720px) { .hub-list-section .wrap { padding: 0 20px; } }
+
+    .hub-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+      gap: 20px;
+      margin-top: 24px;
+    }
+    @media (max-width: 720px) {
+      .hub-grid { grid-template-columns: 1fr; }
+    }
+
+    .hub-card {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      padding: 28px 28px 24px;
+      background: var(--shell);
+      border: 1px solid var(--rule);
+      border-radius: 18px;
+      color: var(--ink);
+      transition: border-color 200ms cubic-bezier(.4,0,.2,1),
+                  transform 200ms cubic-bezier(.4,0,.2,1),
+                  box-shadow 200ms cubic-bezier(.4,0,.2,1);
+    }
+    .hub-card:hover {
+      border-color: var(--clay);
+      transform: translateY(-2px);
+      box-shadow: 0 18px 40px rgba(26,34,54,0.08);
+    }
+
+    .hub-card .card-kicker {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 10px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+
+    .hub-card h2 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: 28px;
+      line-height: 1.1;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      margin: 0;
+    }
+    .hub-card h2 em {
+      font-style: italic;
+      color: var(--clay);
+      font-size: 0.85em;
+      padding: 0 4px;
+    }
+
+    .hub-card .card-lede {
+      font-family: "Geist", system-ui, sans-serif;
+      font-size: 14px;
+      line-height: 1.55;
+      color: var(--ink-soft);
+      margin: 0;
+      flex: 1;
+    }
+
+    .hub-card .card-action {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--clay);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    .hub-card .card-action .arrow {
+      transition: transform 200ms cubic-bezier(.4,0,.2,1);
+    }
+    .hub-card:hover .card-action .arrow { transform: translateX(4px); }
+
+    /* ------ CLOSING ------ */
+    .closing {
+      padding: 80px 0 0;
+      text-align: center;
+    }
+    .closing .wrap { max-width: 800px; margin: 0 auto; padding: 0 32px; }
+    .closing .kicker { margin-bottom: 16px; }
+    .closing h2 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(36px, 5.4vw, 80px);
+      line-height: 1.0;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin: 0 0 32px;
+    }
+    .closing h2 em { font-style: italic; color: var(--clay); }
+
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: var(--clay);
+      color: var(--paper);
+      padding: 16px 26px;
+      border-radius: 999px;
+      font-family: "Geist", system-ui, sans-serif;
+      font-size: 15px;
+      font-weight: 500;
+      transition: background 150ms cubic-bezier(.4,0,.2,1),
+                  transform 150ms cubic-bezier(.4,0,.2,1);
+    }
+    .btn-primary:hover {
+      background: var(--clay-deep);
+      transform: translateY(-1px);
+    }
+    .btn-primary .arrow { transition: transform 150ms cubic-bezier(.4,0,.2,1); }
+    .btn-primary:hover .arrow { transform: translateX(3px); }
+  </style>
+</BaseLayout>

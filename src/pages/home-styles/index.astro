@@ -1,0 +1,456 @@
+---
+// Strategy 5 hub. Combos grouped by home style; each group gets a
+// chapter divider with the style's line-drawing icon.
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { breadcrumbList } from '@lib/schema';
+import hubJson from '../../data/hubs/combinations-s5.json';
+import { imageSrc } from '@lib/cdn';
+
+const hub = hubJson as Record<string, any>;
+
+// Single-stroke line drawings, 120x64 viewBox each, currentColor stroke.
+const STYLE_ICONS: Record<string, string> = {
+  // Cape Cod: simple symmetric gabled 1.5-story with dormer + chimney
+  'cape-cod': `
+    <path d="M6 50 L60 14 L114 50"/>
+    <path d="M16 38 V58 H104 V38"/>
+    <path d="M54 58 V44 H66 V58"/>
+    <rect x="22" y="44" width="10" height="8"/>
+    <rect x="88" y="44" width="10" height="8"/>
+    <path d="M72 26 L72 18 L82 18 L82 30"/>
+    <rect x="42" y="34" width="12" height="6"/>
+  `,
+  // Colonial: tall 2-story symmetric, low gable, central door, 4
+  // windows up + 2 down with door between
+  'colonial': `
+    <path d="M10 48 L60 12 L110 48"/>
+    <path d="M16 36 V60 H104 V36"/>
+    <path d="M55 60 V46 H65 V60"/>
+    <rect x="22" y="22" width="10" height="8"/>
+    <rect x="42" y="22" width="10" height="8"/>
+    <rect x="68" y="22" width="10" height="8"/>
+    <rect x="88" y="22" width="10" height="8"/>
+    <rect x="22" y="46" width="10" height="8"/>
+    <rect x="88" y="46" width="10" height="8"/>
+  `,
+  // Contemporary: flat-roof, two-volume composition, big picture window
+  'contemporary': `
+    <path d="M4 22 H68 V14 H116 V58 H4 Z"/>
+    <rect x="16" y="30" width="38" height="22"/>
+    <path d="M16 30 H54"/>
+    <path d="M16 41 H54"/>
+    <rect x="82" y="36" width="10" height="22"/>
+    <rect x="98" y="26" width="10" height="14"/>
+  `,
+  // Craftsman: low-pitch gable, wide overhanging eaves, front porch
+  // with 3 tapered columns and exposed beam
+  'craftsman': `
+    <path d="M2 38 L60 14 L118 38"/>
+    <path d="M14 30 V58 H106 V30"/>
+    <path d="M22 38 H98"/>
+    <path d="M30 38 V58"/>
+    <path d="M52 38 V58"/>
+    <path d="M68 38 V58"/>
+    <path d="M90 38 V58"/>
+    <rect x="56" y="44" width="10" height="14"/>
+    <rect x="34" y="22" width="10" height="6"/>
+    <rect x="76" y="22" width="10" height="6"/>
+  `,
+  // Mediterranean: low tile roof line (scalloped), arched openings
+  'mediterranean': `
+    <path d="M10 32 Q14 28 18 32 Q22 28 26 32 Q30 28 34 32 Q38 28 42 32 Q46 28 50 32 Q54 28 58 32 Q62 28 66 32 Q70 28 74 32 Q78 28 82 32 Q86 28 90 32 Q94 28 98 32 Q102 28 106 32 Q110 28 114 32"/>
+    <path d="M10 32 V58 H114 V32"/>
+    <path d="M54 58 V48 Q54 40 62 40 Q70 40 70 48 V58"/>
+    <path d="M22 50 V44 Q22 38 28 38 Q34 38 34 44 V50"/>
+    <path d="M90 50 V44 Q90 38 96 38 Q102 38 102 44 V50"/>
+  `,
+  // Modern Farmhouse: tall steep gable, vertical board-and-batten lines
+  'modern-farmhouse': `
+    <path d="M28 50 L60 8 L92 50"/>
+    <path d="M28 50 V60 H92 V50"/>
+    <path d="M38 50 V60"/>
+    <path d="M48 50 V60"/>
+    <path d="M58 50 V60"/>
+    <path d="M68 50 V60"/>
+    <path d="M82 50 V60"/>
+    <rect x="52" y="26" width="14" height="14"/>
+    <rect x="55" y="52" width="10" height="8"/>
+  `,
+  // Ranch: long horizontal one-story, very low pitch, attached garage
+  // on the right with door-panel lines
+  'ranch': `
+    <path d="M2 38 L20 28 L78 28 L96 38"/>
+    <path d="M2 38 V58 H96 V38"/>
+    <path d="M96 28 H114 V58 H96 Z"/>
+    <path d="M99 36 H111"/>
+    <path d="M99 44 H111"/>
+    <path d="M99 52 H111"/>
+    <rect x="60" y="44" width="10" height="14"/>
+    <rect x="14" y="42" width="14" height="10"/>
+    <rect x="36" y="42" width="14" height="10"/>
+  `,
+  // Traditional: classic gable with small porch overhang + symmetric
+  // windows (between Colonial and Cape Cod)
+  'traditional': `
+    <path d="M10 46 L60 12 L110 46"/>
+    <path d="M16 38 V58 H104 V38"/>
+    <path d="M40 38 H80 V42 H40 Z"/>
+    <path d="M55 58 V46 H65 V58"/>
+    <rect x="22" y="22" width="10" height="8"/>
+    <rect x="88" y="22" width="10" height="8"/>
+    <rect x="22" y="46" width="10" height="8"/>
+    <rect x="88" y="46" width="10" height="8"/>
+  `,
+  // Tudor: steep cross-gable, half-timber diagonals
+  'tudor': `
+    <path d="M4 50 L40 10 L74 50"/>
+    <path d="M50 50 L82 22 L114 50"/>
+    <path d="M14 42 V58 H110 V42"/>
+    <path d="M22 42 L30 50"/>
+    <path d="M52 42 L60 50"/>
+    <path d="M88 42 L96 50"/>
+    <path d="M40 58 V46 H48 V58"/>
+    <rect x="20" y="28" width="8" height="8"/>
+    <rect x="92" y="30" width="8" height="8"/>
+  `,
+  // Victorian: tower on the right with witch's-hat cone roof, gabled
+  // main on the left, decorative trim hint
+  'victorian': `
+    <path d="M4 46 L40 12 L72 46"/>
+    <path d="M82 24 L96 6 L110 24"/>
+    <path d="M82 24 V58 H110 V24"/>
+    <path d="M10 40 V58 H82"/>
+    <path d="M40 58 V44 H50 V58"/>
+    <rect x="18" y="24" width="8" height="8"/>
+    <rect x="62" y="30" width="8" height="8"/>
+    <circle cx="96" cy="36" r="4"/>
+    <rect x="90" y="46" width="12" height="12"/>
+  `,
+};
+
+// Group all S5 combos by home_style_slug, sorted within each group.
+const all = await getCollection('combinations-s5');
+const grouped = new Map<string, {
+  slug: string;
+  display: string;
+  hex: string;
+  items: Array<Record<string, any>>;
+}>();
+
+for (const e of all) {
+  const d = e.data as Record<string, any>;
+  const key = d.home_style_slug;
+  if (!grouped.has(key)) {
+    grouped.set(key, {
+      slug: key,
+      display: d.home_style_display,
+      hex: d.style_hex,
+      items: [],
+    });
+  }
+  grouped.get(key)!.items.push(d);
+}
+const groups = Array.from(grouped.values())
+  .map((g) => ({
+    ...g,
+    items: g.items.sort((a, b) =>
+      String(a.roof_color_display ?? '').localeCompare(String(b.roof_color_display ?? ''))
+    ),
+  }))
+  .sort((a, b) => a.display.localeCompare(b.display));
+
+const totalCombos = groups.reduce((n, g) => n + g.items.length, 0);
+---
+<BaseLayout
+  title={String(hub.meta_title ?? hub.h1 ?? 'Home style and roof color combinations')}
+  description={String(hub.meta_description ?? hub.hub_intro ?? '')}
+  canonical="/home-styles/"
+  jsonLd={[breadcrumbList([
+    { label: 'Home', url: '/' },
+    { label: 'Home Styles', url: '/home-styles/' },
+  ])]}
+>
+  <main class="styles-hub">
+    <section class="hub-hero">
+      <div class="wrap">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a>
+          <span class="sep">/</span>
+          <span class="current">Home Styles</span>
+        </nav>
+        <span class="kicker">Architectural style × roof color · 2026</span>
+        <h1>Pick a <em>style</em>. See the roof.</h1>
+        {hub.hub_intro && <p class="lede">{String(hub.hub_intro)}</p>}
+        <div class="hero-meta">
+          <span><strong>{groups.length}</strong> architectural styles</span>
+          <span class="dot" aria-hidden="true"></span>
+          <span><strong>{totalCombos}</strong> roof-color pairings</span>
+        </div>
+      </div>
+    </section>
+
+    {groups.map((group) => {
+      const icon = STYLE_ICONS[group.slug] ?? STYLE_ICONS['traditional'];
+      return (
+        <section class="style-block" id={group.slug}>
+          <div class="wrap">
+
+            <div class="chapter-divider">
+              <span class="rule"></span>
+              <div class="chapter-card">
+                <svg
+                  class="style-icon"
+                  viewBox="0 0 120 64"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linejoin="round"
+                  stroke-linecap="round"
+                  aria-hidden="true"
+                  set:html={icon}
+                ></svg>
+                <div class="chapter-meta">
+                  <span class="chapter-kicker">Style</span>
+                  <h2>{group.display}</h2>
+                  <span class="chapter-count">{group.items.length} roof colors</span>
+                </div>
+              </div>
+              <span class="rule"></span>
+            </div>
+
+            <div class="combo-grid">
+              {group.items.map((c) => {
+                // S5 hero lives at combo_hero.hero_mosaic[0].
+                const firstTile = Array.isArray(c.combo_hero?.hero_mosaic) && c.combo_hero.hero_mosaic.length > 0
+                  ? c.combo_hero.hero_mosaic[0]
+                  : null;
+                const hero = imageSrc(firstTile)
+                  || imageSrc(c.combo_hero?.hero_image_local_path
+                    ? { image_local_path: c.combo_hero.hero_image_local_path, image_cdn_url: c.combo_hero.hero_image_cdn_url }
+                    : null);
+                return (
+                  <a class="combo-card" href={String(c.url_path)}>
+                    <div class="card-visual">
+                      {hero
+                        ? <img src={hero} alt={`${group.display} with ${c.roof_color_display} roof`} loading="lazy" />
+                        : <div class="card-fallback">
+                            <span class="swatch style" style={`background:${c.style_hex};`}></span>
+                            <span class="swatch roof"  style={`background:${c.roof_color_hex};`}></span>
+                          </div>}
+                    </div>
+                    <div class="card-body">
+                      <span class="card-kicker">{group.display}</span>
+                      <h3>with <em>{c.roof_color_display}</em></h3>
+                      <span class="card-action">See the pair <span class="arrow">→</span></span>
+                    </div>
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        </section>
+      );
+    })}
+
+    <section class="closing">
+      <div class="wrap">
+        <span class="kicker">Found your style?</span>
+        <h2>Try it on <em>your</em> house.</h2>
+        <a class="btn-primary" href="/">Open the visualizer <span class="arrow">→</span></a>
+      </div>
+    </section>
+  </main>
+
+  <style>
+    .styles-hub { padding: 0 0 120px; }
+
+    .hub-hero { padding: 80px 0 40px; }
+    .hub-hero .wrap, .style-block .wrap, .closing .wrap {
+      max-width: 1200px; margin: 0 auto; padding: 0 32px;
+    }
+    @media (max-width: 720px) {
+      .hub-hero .wrap, .style-block .wrap, .closing .wrap { padding: 0 20px; }
+    }
+
+    .breadcrumb {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--ink-soft); margin-bottom: 28px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .breadcrumb a:hover { color: var(--clay); }
+    .breadcrumb .sep { opacity: 0.4; }
+    .breadcrumb .current { color: var(--ink); }
+
+    .kicker {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px; font-weight: 500; letter-spacing: 0.14em;
+      text-transform: uppercase; color: var(--ink-soft);
+      display: block; margin-bottom: 20px;
+    }
+
+    .hub-hero h1 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(48px, 8vw, 108px);
+      line-height: 1.0; letter-spacing: -0.02em;
+      color: var(--ink); margin: 0 0 24px; max-width: 13ch;
+    }
+    .hub-hero h1 em { font-style: italic; color: var(--clay); }
+
+    .hub-hero .lede {
+      font-family: "Geist", system-ui, sans-serif;
+      font-size: 18px; line-height: 1.55; color: var(--ink-soft);
+      max-width: 65ch; margin: 0 0 32px;
+    }
+
+    .hero-meta {
+      display: inline-flex; align-items: center; gap: 14px;
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+    .hero-meta strong { color: var(--ink); font-weight: 500; }
+    .hero-meta .dot {
+      width: 4px; height: 4px; border-radius: 50%;
+      background: var(--rule);
+    }
+
+    /* ----- CHAPTER DIVIDER -----
+       A horizontal rule that runs across the page, broken in the middle
+       by the style's line-drawing icon and the style name. The card in
+       the middle sits on top of the line, anchoring the section.        */
+    .style-block { padding: 40px 0; }
+
+    .chapter-divider {
+      display: flex; align-items: center; gap: 24px;
+      margin-bottom: 40px;
+    }
+    .chapter-divider .rule {
+      flex: 1; height: 1px; background: var(--rule);
+    }
+    .chapter-card {
+      display: flex; align-items: center; gap: 20px;
+      padding: 18px 28px;
+      background: var(--paper);
+      color: var(--ink);
+    }
+    .style-icon {
+      width: 96px; height: 52px;
+      color: var(--ink);
+      flex-shrink: 0;
+    }
+    @media (max-width: 720px) {
+      .style-icon { width: 72px; height: 38px; }
+      .chapter-card { padding: 12px 16px; gap: 14px; }
+    }
+
+    .chapter-meta {
+      display: flex; flex-direction: column; gap: 2px;
+    }
+    .chapter-kicker {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+    .chapter-meta h2 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(28px, 3.6vw, 44px);
+      line-height: 1.0; letter-spacing: -0.02em;
+      color: var(--ink); margin: 2px 0 4px;
+    }
+    .chapter-count {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+
+    /* ----- COMBO GRID ----- */
+    .combo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+    }
+
+    .combo-card {
+      display: flex; flex-direction: column;
+      background: var(--shell);
+      border: 1px solid var(--rule);
+      border-radius: 16px;
+      overflow: hidden;
+      color: var(--ink);
+      transition: border-color 200ms cubic-bezier(.4,0,.2,1),
+                  transform 200ms cubic-bezier(.4,0,.2,1),
+                  box-shadow 200ms cubic-bezier(.4,0,.2,1);
+    }
+    .combo-card:hover {
+      border-color: var(--clay);
+      transform: translateY(-2px);
+      box-shadow: 0 18px 40px rgba(26,34,54,0.08);
+    }
+
+    .card-visual {
+      aspect-ratio: 4 / 3;
+      background: var(--paper);
+      position: relative;
+      overflow: hidden;
+    }
+    .card-visual img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .card-fallback { position: absolute; inset: 0; display: flex; }
+    .card-fallback .swatch { flex: 1; display: block; }
+    .card-fallback .swatch.roof { flex: 0.6; }
+
+    .card-body { padding: 18px 22px 22px; display: flex; flex-direction: column; gap: 6px; }
+    .card-kicker {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+    .combo-card h3 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: 24px; line-height: 1.1; letter-spacing: -0.01em;
+      color: var(--ink); margin: 0;
+    }
+    .combo-card h3 em { font-style: italic; color: var(--clay); }
+    .card-action {
+      font-family: "Geist Mono", ui-monospace, monospace;
+      font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase;
+      color: var(--clay);
+      display: inline-flex; align-items: center; gap: 6px;
+      margin-top: 8px;
+    }
+    .card-action .arrow { transition: transform 200ms cubic-bezier(.4,0,.2,1); }
+    .combo-card:hover .card-action .arrow { transform: translateX(4px); }
+
+    /* ----- CLOSING ----- */
+    .closing { padding: 100px 0 0; text-align: center; }
+    .closing h2 {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-weight: 400;
+      font-size: clamp(36px, 5.4vw, 80px);
+      line-height: 1.0; letter-spacing: -0.02em;
+      color: var(--ink); margin: 0 0 32px;
+    }
+    .closing h2 em { font-style: italic; color: var(--clay); }
+
+    .btn-primary {
+      display: inline-flex; align-items: center; gap: 10px;
+      background: var(--clay); color: var(--paper);
+      padding: 16px 26px; border-radius: 999px;
+      font-family: "Geist", system-ui, sans-serif;
+      font-size: 15px; font-weight: 500;
+      transition: background 150ms cubic-bezier(.4,0,.2,1),
+                  transform 150ms cubic-bezier(.4,0,.2,1);
+    }
+    .btn-primary:hover { background: var(--clay-deep); transform: translateY(-1px); }
+    .btn-primary .arrow { transition: transform 150ms cubic-bezier(.4,0,.2,1); }
+    .btn-primary:hover .arrow { transform: translateX(3px); }
+  </style>
+</BaseLayout>

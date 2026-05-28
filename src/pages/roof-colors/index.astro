@@ -1,0 +1,211 @@
+---
+// Strategy 6 universal hub at /roof-colors/ (the "Gallery" nav entry).
+// CSS verbatim from Universal-Hub-Template (refresh: npm run port-universal-hub).
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { breadcrumbList } from '@lib/schema';
+import hubData from '../../data/hubs/color-hubs.json';
+import universalHubCss from '@styles/universal-hub.css?raw';
+
+interface HubCard {
+  slug: string;
+  url_path: string;
+  display: string;
+  anchor_hex: string;
+  example_count: number;
+  sku_count: number;
+}
+interface HubIndex {
+  url_path: string;
+  h1: string;
+  meta_title: string;
+  meta_description: string;
+  hub_intro: string;
+  total_hubs: number;
+  hub_cards: HubCard[];
+  data_sources?: Array<{ label: string; url: string }>;
+}
+const hub = hubData as HubIndex;
+
+// Per-color tagline = first sentence of hub_hero.intro.
+// Joined here since hub_cards lacks a `desc` field upstream.
+const perColorHubs = await getCollection('color-hubs');
+const taglineBySlug = new Map<string, string>();
+for (const e of perColorHubs) {
+  const d = e.data as Record<string, any>;
+  const intro = String(d.hub_hero?.intro ?? '').trim();
+  if (!intro) continue;
+  const first = intro.split(/\.\s+/)[0].trim().replace(/[.\s]+$/, '') + '.';
+  taglineBySlug.set(e.id, first);
+}
+
+// Sort by example_count desc — top entry gets the "Most popular" badge.
+const cards = hub.hub_cards
+  .slice()
+  .sort((a, b) => b.example_count - a.example_count);
+const totalHubs = cards.length;
+const totalExamples = cards.reduce((n, c) => n + c.example_count, 0);
+const totalSkus = cards.reduce((n, c) => n + c.sku_count, 0);
+
+// JSON-LD: breadcrumb + ItemList of every hub.
+const itemList = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  itemListElement: cards.map((c, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: `Houses with ${c.display} Roofs`,
+    url: c.url_path,
+  })),
+};
+---
+<BaseLayout
+  title={hub.meta_title}
+  description={hub.meta_description}
+  canonical="/roof-colors/"
+  jsonLd={[
+    breadcrumbList([
+      { label: 'Home', url: '/' },
+      { label: 'Gallery', url: '/roof-colors/' },
+    ]),
+    itemList,
+  ]}
+>
+  <style is:global set:html={universalHubCss}></style>
+
+  <section class="hub-hero">
+    <div class="wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span class="sep">/</span>
+        <span class="current">Gallery</span>
+      </nav>
+
+      <div class="hub-head">
+        <div>
+          <span class="kicker">Index · every roof color</span>
+          <h1>Every <em>roof color</em>, one place.</h1>
+        </div>
+
+        <div class="hub-intro">
+          {hub.hub_intro && <p>{hub.hub_intro}</p>}
+          <div class="stats">
+            <div>
+              <div class="stat-num"><em>{totalHubs}</em></div>
+              <div class="stat-lbl">Roof colors</div>
+            </div>
+            <div>
+              <div class="stat-num">{totalSkus}</div>
+              <div class="stat-lbl">Shingle SKUs</div>
+            </div>
+            <div>
+              <div class="stat-num">{totalExamples}</div>
+              <div class="stat-lbl">Real examples</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="filter-strip">
+    <div class="wrap filter-row">
+      <span class="filter-label">Filter by material</span>
+      <div class="chips">
+        <button class="filter-chip on" data-filter="all">All</button>
+        <button class="filter-chip" data-filter="asphalt">Asphalt</button>
+        <button class="filter-chip" data-filter="metal" disabled aria-disabled="true">Metal · coming soon</button>
+        <button class="filter-chip" data-filter="tile" disabled aria-disabled="true">Tile · coming soon</button>
+      </div>
+      <a href="#" class="filter-sort" data-sort="popularity">Sort: Popularity ↓</a>
+    </div>
+  </section>
+
+  <section class="hub-grid-section">
+    <div class="wrap">
+      <div class="hub-grid">
+        {cards.map((c, i) => {
+          const tagline = taglineBySlug.get(c.slug) ?? '';
+          const isMostPopular = i === 0;
+          return (
+            <a href={c.url_path} class="color-card" style={`--card-color: ${c.anchor_hex};`}>
+              <div class="swatch">
+                {isMostPopular && <span class="badge">Most popular</span>}
+              </div>
+              <div class="meta">
+                <div class="meta-top">
+                  <div class="name">{c.display}</div>
+                  <div class="hex">{c.anchor_hex.toUpperCase()}</div>
+                </div>
+                {tagline && <p class="desc">{tagline}</p>}
+                <div class="footer">
+                  <span class="count">{c.example_count} examples · {c.sku_count} SKUs</span>
+                  <span class="arrow">→</span>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="explainer">
+    <div class="wrap explainer-inner">
+      <div class="explainer-head">
+        <span class="kicker">How to use this index</span>
+        <div class="title">Three ways to <em>narrow</em> the field.</div>
+      </div>
+
+      <div class="explainer-body">
+        <div class="explainer-card">
+          <div class="num">i.</div>
+          <h3>Filter by material.</h3>
+          <p>Asphalt is the cheapest and most common. Metal lasts longest. Tile is the Florida and Mediterranean staple. Use the filter strip above to narrow to the material your contractor is quoting.</p>
+        </div>
+        <div class="explainer-card">
+          <div class="num">ii.</div>
+          <h3>Sort by what matters.</h3>
+          <p>Popularity ranks by national install volume. We can also sort by Florida adoption, by lowest cost per square, or by impact rating if your insurance is asking.</p>
+        </div>
+        <div class="explainer-card">
+          <div class="num">iii.</div>
+          <h3>Click into a color hub.</h3>
+          <p>Each color page has 50+ install examples broken out by house style, the siding colors that pair best, and every shingle SKU available in that color across the seven brands we cover.</p>
+        </div>
+        <div class="explainer-card">
+          <div class="num">iv.</div>
+          <h3>Try on your house.</h3>
+          <p>From any color hub, open the visualizer with that color pre-filtered. Upload a phone photo and cycle through every SKU in seconds. No signup. Free.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="closing">
+    <div class="wrap">
+      <span class="kicker">Free · No signup · See it in seconds</span>
+      <h2>Or just <em>open</em> the visualizer.</h2>
+      <a class="btn-primary" href="/">Open the visualizer <span class="arrow">→</span></a>
+    </div>
+  </section>
+
+  <script>
+    // Phase 1 = asphalt only. Metal/Tile chips disabled until hubs exist.
+    const chips = document.querySelectorAll<HTMLButtonElement>('.filter-chip[data-filter]');
+    const cards = document.querySelectorAll<HTMLAnchorElement>('.color-card');
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        if (chip.disabled) return;
+        chips.forEach((c) => c.classList.remove('on'));
+        chip.classList.add('on');
+        const filter = chip.dataset.filter;
+        cards.forEach((card) => {
+          // No per-card material yet; show on "all"/"asphalt", hide otherwise.
+          const show = filter === 'all' || filter === 'asphalt';
+          card.style.display = show ? '' : 'none';
+        });
+      });
+    });
+  </script>
+</BaseLayout>
