@@ -1,0 +1,217 @@
+---
+import Breadcrumb from '@components/nav/Breadcrumb.astro';
+import VisualizerButton from '@components/visualizer/VisualizerButton.astro';
+import { imageSrc } from '@lib/cdn';
+
+interface Props {
+  data: {
+    kicker: string;
+    brand_display: string;
+    line_display: string;
+    color_display: string;
+    h1_html: string;
+    tagline: string;
+    hex: string;
+    hero_image_local_path: string | null;
+    hero_image_cdn_url: string | null;
+    hero_image_alt: string;
+    quick_facts: Array<{ label: string; val: string }>;
+    breadcrumb: Array<{ label: string; url: string | null }>;
+    visualizer_payload: Record<string, unknown>;
+  };
+}
+const { data } = Astro.props;
+const heroUrl = imageSrc({
+  image_local_path: data.hero_image_local_path,
+  image_cdn_url: data.hero_image_cdn_url,
+});
+---
+<section class="sku-hero" style={`--sku-color:${data.hex}`}>
+  <div class="wrap">
+    <Breadcrumb items={data.breadcrumb} />
+
+    <div class="sku-hero-grid">
+      <div class="sku-title-block">
+        <span class="kicker">{data.kicker}</span>
+        <h1 set:html={data.h1_html}></h1>
+        <p class="sku-tagline">{data.tagline}</p>
+
+        <div class="sku-quick">
+          {data.quick_facts.map((qf) => (
+            <div class="quick-fact">
+              <div class="label">{qf.label}</div>
+              <div class="val">{qf.val}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <div class="sku-launch">
+        <div class="sku-launch-preview">
+          {heroUrl && (
+            <img
+              src={heroUrl}
+              alt={data.hero_image_alt}
+              loading="eager"
+              fetchpriority="high"
+              decoding="async"
+            />
+          )}
+          <div class="sku-swatch-floating">
+            <span class="swatch" aria-hidden="true"></span>
+            <span class="name">{data.color_display} · {data.hex.toUpperCase()}</span>
+          </div>
+        </div>
+        <div class="sku-launch-body">
+          <h3>See <em>{data.color_display}</em> on your house.</h3>
+          <p>Opens the visualizer pre-loaded with this exact shingle. Swap to any other color once it is open.</p>
+          <VisualizerButton
+            payload={data.visualizer_payload}
+            label="Open visualizer"
+            variant="launch"
+            ariaLabel={`Open visualizer with ${data.brand_display} ${data.line_display} ${data.color_display}`}
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .sku-hero {
+    padding: 36px 0 80px;
+  }
+  @media (max-width: 720px) {
+    .sku-hero { padding: 24px 0 56px; }
+  }
+
+  .sku-hero-grid {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 60px;
+    align-items: start;
+  }
+  @media (max-width: 980px) {
+    .sku-hero-grid { grid-template-columns: 1fr; gap: 36px; }
+  }
+
+  .sku-title-block .kicker { display: inline-block; margin-bottom: 18px; }
+  .sku-title-block h1 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: clamp(40px, 6vw, 92px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    margin: 0 0 28px;
+    color: var(--ink);
+  }
+  .sku-title-block h1 :global(em) { font-style: italic; color: var(--clay); }
+
+  .sku-tagline {
+    font-family: var(--font-serif);
+    font-size: clamp(20px, 1.8vw, 26px);
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 36ch;
+    margin: 0 0 32px;
+  }
+  .sku-tagline :global(em) { font-style: italic; color: var(--clay); }
+
+  .sku-quick {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+    padding-top: 28px;
+    border-top: 1px solid var(--rule);
+  }
+  @media (max-width: 520px) {
+    .sku-quick { grid-template-columns: 1fr 1fr; gap: 16px; }
+  }
+  .quick-fact .label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 6px;
+  }
+  .quick-fact .val {
+    font-family: var(--font-serif);
+    font-size: 26px;
+    line-height: 1.1;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+  }
+
+  /* Visualizer launcher card (dark slab) */
+  .sku-launch {
+    background: var(--ink);
+    color: var(--paper);
+    border-radius: 18px;
+    overflow: hidden;
+    position: relative;
+    box-shadow:
+      0 30px 60px -30px rgba(26, 34, 54, 0.45),
+      inset 0 1px 0 rgba(242, 236, 222, 0.14);
+  }
+  .sku-launch-preview {
+    aspect-ratio: 4 / 3;
+    position: relative;
+    overflow: hidden;
+    background: var(--sku-color);
+  }
+  .sku-launch-preview img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .sku-launch-preview::after {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(26,34,54,0) 60%, rgba(26,34,54,0.55) 100%);
+  }
+  .sku-swatch-floating {
+    position: absolute;
+    top: 18px; left: 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(26,34,54,0.85);
+    backdrop-filter: blur(8px);
+    color: var(--paper);
+    padding: 8px 14px 8px 8px;
+    border-radius: 999px;
+    z-index: 2;
+  }
+  .sku-swatch-floating .swatch {
+    width: 28px; height: 28px;
+    border-radius: 50%;
+    background: var(--sku-color);
+    border: 2px solid rgba(242,236,222,0.6);
+  }
+  .sku-swatch-floating .name {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .sku-launch-body {
+    padding: 22px 24px 26px;
+    display: flex; flex-direction: column; gap: 18px;
+  }
+  .sku-launch-body h3 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.15;
+    color: var(--paper);
+    margin: 0;
+    letter-spacing: -0.005em;
+  }
+  .sku-launch-body h3 :global(em) { font-style: italic; color: var(--clay); }
+  .sku-launch-body p {
+    margin: 0;
+    color: rgba(242,236,222,0.7);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+</style>

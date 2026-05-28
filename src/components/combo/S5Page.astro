@@ -1,0 +1,495 @@
+---
+// Strategy 5 detail page (home_style × roof_color).
+// CSS verbatim from Combination-Page-Template; refresh: npm run port-combination.
+import { imageSrc, safeAlt } from '@lib/cdn';
+import combinationCss from '@styles/combination.css?raw';
+import { fixBreadcrumb } from '@lib/breadcrumb';
+
+interface Props {
+  data: Record<string, any>;
+}
+const { data } = Astro.props;
+
+// --- Hero ------------------------------------------------------------
+const hero = data.combo_hero ?? {};
+const heroMosaic: Array<any> = Array.isArray(hero.hero_mosaic) ? hero.hero_mosaic.slice(0, 7) : [];
+const metaDots: Array<{ label: string; dot_color_hex?: string; type?: string }> =
+  Array.isArray(hero.meta_dots) ? hero.meta_dots : [];
+// Rewrite hrefs to existing parents. See lib/breadcrumb.ts.
+const breadcrumb: Array<{ label: string; url: string | null }> =
+  fixBreadcrumb(Array.isArray(hero.breadcrumb) ? hero.breadcrumb : []);
+
+// S5 intro is paragraph array; join to HTML for set:html.
+const introHtml: string = typeof hero.intro_html === 'string'
+  ? hero.intro_html
+  : (Array.isArray(hero.intro_paragraphs)
+      ? hero.intro_paragraphs.map((p: string) => `<p>${p}</p>`).join('')
+      : '');
+
+// --- Style background (S5-only) -------------------------------------
+const styleBg = data.style_background ?? null;
+
+// --- Long gallery groups --------------------------------------------
+const galleryGroups: Array<any> = Array.isArray(data.long_gallery?.groups)
+  ? data.long_gallery.groups : [];
+
+// --- Visualizer CTA --------------------------------------------------
+const vcta = data.visualizer_cta ?? {};
+const vctaPayload = vcta.visualizer_payload ?? {};
+const vctaPreview = imageSrc({
+  image_local_path: vcta.preview_image_local_path,
+  image_cdn_url:    vcta.preview_image_cdn_url,
+});
+
+// --- Recommended SKUs ------------------------------------------------
+const recommended: Array<any> = Array.isArray(data.recommended?.items) ? data.recommended.items : [];
+
+// --- Consider (S5 has no `common_mistakes` counterpart) -------------
+const considerItems: Array<any> = Array.isArray(data.consider?.items) ? data.consider.items : [];
+
+// --- Variations ------------------------------------------------------
+const variations: Array<any> = Array.isArray(data.variations?.items) ? data.variations.items : [];
+
+// --- FAQ -------------------------------------------------------------
+const faqs: Array<{ q: string; a: string }> = Array.isArray(data.faq_items) ? data.faq_items : [];
+
+// --- Closing ---------------------------------------------------------
+const closing = data.closing ?? {};
+const closingPayload = closing.visualizer_payload ?? {};
+
+const vctaPayloadJson = JSON.stringify(vctaPayload);
+const closingPayloadJson = JSON.stringify(closingPayload);
+---
+<style is:global set:html={combinationCss}></style>
+
+<section class="combo-hero">
+  <div class="wrap">
+    {breadcrumb.length > 0 && (
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        {breadcrumb.map((c, i, arr) => (
+          <>
+            {c.url
+              ? <a href={c.url}>{c.label}</a>
+              : <span class="current">{c.label}</span>}
+            {i < arr.length - 1 && <span class="sep">/</span>}
+          </>
+        ))}
+      </nav>
+    )}
+
+    <div class="combo-hero-grid">
+      <div class="combo-title-block">
+        {hero.kicker && <span class="kicker">{hero.kicker}</span>}
+        {hero.h1_html && <h1 set:html={hero.h1_html}></h1>}
+      </div>
+
+      <div class="combo-intro">
+        {introHtml && <Fragment set:html={introHtml} />}
+        {metaDots.length > 0 && (
+          <div class="meta">
+            {metaDots.map((m) => {
+              // Render style/roof/house chips with the same dot-prefix style.
+              const isDot = m.type === 'style' || m.type === 'roof' || m.type === 'house';
+              return isDot ? (
+                <span>
+                  <span
+                    class={`dot ${m.type === 'roof' ? 'roof' : 'house'}`}
+                    style={m.dot_color_hex ? `background:${m.dot_color_hex}` : ''}
+                  ></span>
+                  {m.label}
+                </span>
+              ) : (
+                <span>{m.label}</span>
+              );
+            })}
+          </div>
+        )}
+      </div>
+    </div>
+
+    {heroMosaic.length > 0 && (
+      <div class="hero-mosaic">
+        {heroMosaic.map((t, i) => (
+          <figure class={`htile h${i + 1}`}>
+            {t.sku_url
+              ? <a href={t.sku_url}>
+                  <img src={imageSrc(t)} alt={safeAlt(t, hero.h1_text ?? '')} loading="lazy" />
+                </a>
+              : <img src={imageSrc(t)} alt={safeAlt(t, hero.h1_text ?? '')} loading="lazy" />}
+            {t.tag && <div class="tag">{t.tag}</div>}
+          </figure>
+        ))}
+      </div>
+    )}
+  </div>
+</section>
+
+{styleBg && (
+  <section class="consider style-background">
+    <div class="wrap">
+      <div class="consider-head">
+        {styleBg.kicker && <span class="kicker">{styleBg.kicker}</span>}
+        {styleBg.title_html && <div class="title" set:html={styleBg.title_html}></div>}
+        {styleBg.short_descriptor && <p class="note">{styleBg.short_descriptor}</p>}
+      </div>
+
+      <div class="style-bg-body">
+        {styleBg.background_prose && (
+          <div class="style-prose">
+            <p>{styleBg.background_prose}</p>
+            {styleBg.era && (
+              <div class="style-era">
+                <span class="style-era-label">Era</span>
+                <span class="style-era-value">{styleBg.era}</span>
+              </div>
+            )}
+          </div>
+        )}
+
+        {Array.isArray(styleBg.facade_features) && styleBg.facade_features.length > 0 && (
+          <aside class="style-features">
+            <span class="style-features-label">Facade features</span>
+            <ul>
+              {styleBg.facade_features.map((feat: string) => <li>{feat}</li>)}
+            </ul>
+          </aside>
+        )}
+      </div>
+
+      {Array.isArray(styleBg.sources) && styleBg.sources.length > 0 && (
+        <div class="style-sources">
+          <span class="style-sources-label">Sources</span>
+          <ul>
+            {styleBg.sources.map((s: { label: string; url: string }) => (
+              <li><a href={s.url} target="_blank" rel="noopener">{s.label}</a></li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+  </section>
+)}
+
+{galleryGroups.length > 0 && (
+  <section class="long-gallery">
+    <div class="wrap">
+      {galleryGroups.map((group) => (
+        <div class="substyle">
+          <div class="substyle-head">
+            {group.title_html && <div class="title" set:html={group.title_html}></div>}
+            {group.count !== undefined && <div class="count">{group.count} examples</div>}
+          </div>
+          {Array.isArray(group.tiles) && group.tiles.length > 0 && (
+            <div class="substyle-grid">
+              {group.tiles.slice(0, 6).map((t: any, i: number) => (
+                <figure class={`gtile g${(i % 6) + 1}`}>
+                  {t.sku_url
+                    ? <a href={t.sku_url}>
+                        <img src={imageSrc(t)} alt={safeAlt(t, group.title_text ?? '')} loading="lazy" />
+                      </a>
+                    : <img src={imageSrc(t)} alt={safeAlt(t, group.title_text ?? '')} loading="lazy" />}
+                  {t.tag && <div class="tag">{t.tag}</div>}
+                </figure>
+              ))}
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  </section>
+)}
+
+<section class="visualizer-cta">
+  <div class="wrap vcta-inner">
+    <div class="vcta-copy">
+      {vcta.kicker && <span class="kicker">{vcta.kicker}</span>}
+      {vcta.title_html && <div class="title" set:html={vcta.title_html}></div>}
+      {vcta.body && <p>{vcta.body}</p>}
+      <button class="btn-launch" data-launch={vctaPayloadJson}>
+        {vcta.cta_label ?? 'Open visualizer with this combo'} <span class="arrow">→</span>
+      </button>
+    </div>
+
+    <button class="vcta-launcher" data-launch={vctaPayloadJson}>
+      <div class="preview">
+        {vctaPreview && <img src={vctaPreview} alt={vcta.badge?.label ?? ''} />}
+        {vcta.badge && (
+          <div class="badge">
+            {vcta.badge.style_hex && (
+              <span class="dot-house" style={`background:${vcta.badge.style_hex}`}></span>
+            )}
+            {vcta.badge.roof_color_hex && (
+              <span class="dot-roof" style={`background:${vcta.badge.roof_color_hex}`}></span>
+            )}
+            <span class="label">{vcta.badge.label}</span>
+          </div>
+        )}
+      </div>
+      <div class="action-row">
+        <div class="action-title">Tap to open visualizer</div>
+        <div class="arrow-btn">→</div>
+      </div>
+    </button>
+  </div>
+</section>
+
+{recommended.length > 0 && (
+  <section class="recommended">
+    <div class="wrap">
+      <div class="recommended-head">
+        {data.recommended?.title_html && <div class="title" set:html={data.recommended.title_html}></div>}
+        {data.recommended?.note && <div class="note">{data.recommended.note}</div>}
+      </div>
+
+      <div class="sku-grid">
+        {recommended.map((sku) => (
+          <a href={sku.url} class="sku-card" style={`--card-color: ${sku.color_hex};`}>
+            <div class="swatch"></div>
+            <div class="meta">
+              <div class="brand">{sku.brand_display} · {sku.line_display}</div>
+              <div class="color">{sku.color_display}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{considerItems.length > 0 && (
+  <section class="consider">
+    <div class="wrap">
+      <div class="consider-head">
+        {data.consider?.kicker && <span class="kicker">{data.consider.kicker}</span>}
+        {data.consider?.title_html && <div class="title" set:html={data.consider.title_html}></div>}
+      </div>
+      <div class="consider-grid">
+        {considerItems.map((it) => (
+          <div class="consider-card">
+            <div class="num">{it.number}</div>
+            <h3>{it.heading}</h3>
+            <p>{it.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{variations.length > 0 && (
+  <section class="variations">
+    <div class="wrap">
+      <div class="variations-head">
+        {data.variations?.kicker && <span class="kicker">{data.variations.kicker}</span>}
+        {data.variations?.title_html && <div class="title" set:html={data.variations.title_html}></div>}
+      </div>
+
+      <div class="var-grid">
+        {variations.map((v) => (
+          <a
+            href={v.url}
+            class="var-card"
+            style={`--var-house: ${v.style_hex ?? v.house_color_hex ?? '#D9D6CE'}; --var-roof: ${v.roof_color_hex ?? '#2E323C'};`}
+          >
+            <div class="var-pair">
+              <div class="house-half"></div>
+              <div class="roof-half"></div>
+            </div>
+            <div class="meta">
+              {v.label_row && <div class="label-row">{v.label_row}</div>}
+              <div class="var-title">{v.var_title}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{faqs.length > 0 && (
+  <section class="faq">
+    <div class="wrap faq-inner">
+      <div class="faq-head">
+        <span class="kicker">Common <em>questions</em></span>
+        <div class="title">
+          {data.home_style_display}, <em>{(data.roof_color_display ?? '').toLowerCase()} roof</em>.
+        </div>
+        <p class="note">The questions homeowners ask before they commit. Answered without sales spin.</p>
+      </div>
+
+      <div class="faq-list" id="faqList">
+        {faqs.map((qa, i) => (
+          <div class={i === 0 ? 'qa open' : 'qa'}>
+            <button class="qa-q"><span>{qa.q}</span><span class="plus"></span></button>
+            <div class="qa-a"><p>{qa.a}</p></div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+<section class="closing">
+  <div class="wrap">
+    {closing.kicker && <span class="kicker">{closing.kicker}</span>}
+    {closing.h2_html && <h2 set:html={closing.h2_html}></h2>}
+    <button class="btn-primary" data-launch={closingPayloadJson}>
+      {closing.cta_label ?? 'Open the visualizer'} <span class="arrow">→</span>
+    </button>
+  </div>
+</section>
+
+<style>
+  /* Two-column: prose left, facade-features aside right. */
+  .style-background .style-bg-body {
+    display: grid;
+    grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+    gap: 56px;
+    margin-top: 32px;
+  }
+  @media (max-width: 880px) {
+    .style-background .style-bg-body {
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+  }
+
+  .style-background .style-prose p {
+    font-family: "Geist", system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+    color: var(--ink-soft);
+    margin: 0;
+    max-width: 65ch;
+  }
+  .style-background .style-era {
+    margin-top: 20px;
+    padding-top: 18px;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    gap: 14px;
+    align-items: baseline;
+  }
+  .style-background .style-era-label {
+    font-family: "Geist Mono", ui-monospace, monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .style-background .style-era-value {
+    font-family: "Geist", system-ui, sans-serif;
+    font-size: 14px;
+    color: var(--ink);
+  }
+
+  .style-background .style-features {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 22px 24px;
+  }
+  .style-background .style-features-label {
+    display: block;
+    font-family: "Geist Mono", ui-monospace, monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 14px;
+  }
+  .style-background .style-features ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .style-background .style-features li {
+    font-family: "Geist", system-ui, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    color: var(--ink);
+    padding-left: 18px;
+    position: relative;
+  }
+  .style-background .style-features li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 8px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--clay);
+  }
+
+  .style-background .style-sources {
+    margin-top: 40px;
+    padding-top: 24px;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 16px;
+  }
+  .style-background .style-sources-label {
+    font-family: "Geist Mono", ui-monospace, monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .style-background .style-sources ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+  }
+  .style-background .style-sources a {
+    font-family: "Geist", system-ui, sans-serif;
+    font-size: 13px;
+    color: var(--clay);
+    text-decoration: underline;
+    text-decoration-color: rgba(184, 90, 60, 0.35);
+    text-underline-offset: 3px;
+  }
+  .style-background .style-sources a:hover {
+    color: var(--clay-deep);
+    text-decoration-color: var(--clay-deep);
+  }
+</style>
+
+<script is:inline>
+  // FAQ accordion — same shape as the comparison + S4 page handlers.
+  (function () {
+    const list = document.getElementById('faqList');
+    if (!list) return;
+    list.addEventListener('click', (e) => {
+      const btn = e.target.closest('.qa-q');
+      if (!btn) return;
+      const qa = btn.parentElement;
+      const open = qa.classList.contains('open');
+      list.querySelectorAll('.qa').forEach((x) => x.classList.remove('open'));
+      if (!open) qa.classList.add('open');
+    });
+  })();
+
+  // Visualizer launcher stub. Wires to RoofKit when available.
+  function openVisualizer(payload) {
+    console.log('Open visualizer:', payload);
+    var house = payload && (payload.style || payload.house) ? (payload.style || payload.house) : '';
+    var roof = payload && payload.roof ? payload.roof : '';
+    alert('RoofKit visualizer opens here.\n\n' +
+      (house && roof ? 'Pre-load: ' + house + ' + ' + roof : 'No SKU pre-selected'));
+  }
+  document.querySelectorAll('[data-launch]').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var raw = el.getAttribute('data-launch') || '{}';
+      try { openVisualizer(JSON.parse(raw)); } catch (e) { openVisualizer({}); }
+    });
+  });
+</script>

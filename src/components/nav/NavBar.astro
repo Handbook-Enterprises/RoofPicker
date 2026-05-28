@@ -1,0 +1,150 @@
+---
+// Site header. `transparent` starts the bar clear over the hero;
+// scroll past ~40px fades the glassy cream background back in.
+interface Props {
+  transparent?: boolean;
+}
+const { transparent = false } = Astro.props;
+
+const links = [
+  { label: 'Visualizer',  url: '/' },
+  { label: 'Brands',      url: '/shingles/' },
+  { label: 'Compare',     url: '/compare/' },
+  { label: 'Combos',      url: '/combinations/' },
+  { label: 'Styles',      url: '/home-styles/' },
+  { label: 'Gallery',     url: '/roof-colors/' },
+];
+const pathname = Astro.url.pathname;
+const isActive = (url: string) =>
+  url === '/' ? pathname === '/' : pathname.startsWith(url);
+---
+<header class:list={['site', { 'transparent-top': transparent }]}>
+  <div class="wrap nav">
+    <a href="/" class="wordmark" aria-label="RoofPicker home">
+      Roof<em>Picker</em><span class="dot" aria-hidden="true"></span>
+    </a>
+
+    <nav class="nav-links" aria-label="Primary">
+      {links.map((l) => (
+        <a
+          href={l.url}
+          class:list={[{ on: isActive(l.url) && l.url !== '/' }]}
+          aria-current={isActive(l.url) && l.url !== '/' ? 'page' : undefined}
+        >
+          {l.label}
+        </a>
+      ))}
+      <a href="/" class="nav-cta">Open visualizer</a>
+    </nav>
+  </div>
+</header>
+
+{transparent && (
+  <script>
+    // Toggle .scrolled past 40px; CSS handles the fade.
+    const header = document.querySelector('header.site.transparent-top');
+    if (header) {
+      const onScroll = () => {
+        if (window.scrollY > 40) header.classList.add('scrolled');
+        else header.classList.remove('scrolled');
+      };
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+    }
+  </script>
+)}
+
+<style>
+  header.site {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: rgba(242, 236, 222, 0.85);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--hair);
+    transition: background 250ms cubic-bezier(.4,0,.2,1),
+                backdrop-filter 250ms cubic-bezier(.4,0,.2,1),
+                -webkit-backdrop-filter 250ms cubic-bezier(.4,0,.2,1),
+                border-color 250ms cubic-bezier(.4,0,.2,1);
+  }
+  /* Fixed overlay so the hero starts at y:0; bg fades in on scroll. */
+  header.site.transparent-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  header.site.transparent-top:not(.scrolled) {
+    background: transparent;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    border-bottom-color: transparent;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+  }
+  .wordmark {
+    font-family: var(--font-serif);
+    font-size: 30px;
+    line-height: 1;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    display: inline-flex;
+    align-items: baseline;
+    gap: 2px;
+  }
+  .wordmark em {
+    font-style: italic;
+    color: var(--clay);
+    font-weight: 400;
+  }
+  .wordmark .dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: var(--clay);
+    border-radius: 50%;
+    margin-left: 6px;
+    transform: translateY(-2px);
+  }
+  .nav-links {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+  }
+  .nav-links a {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink);
+    padding: 6px 0;
+    border-bottom: 1px solid transparent;
+    transition: border-color var(--t-fast) var(--ease),
+                 color var(--t-fast) var(--ease);
+  }
+  .nav-links a:hover,
+  .nav-links a.on {
+    border-color: var(--clay);
+  }
+  .nav-cta {
+    background: var(--ink);
+    color: var(--paper) !important;
+    padding: 10px 16px !important;
+    border-radius: var(--r-pill);
+    border: 0 !important;
+    transition: background var(--t-fast) var(--ease);
+  }
+  .nav-cta:hover {
+    background: var(--clay) !important;
+    border-color: transparent !important;
+  }
+  @media (max-width: 760px) {
+    .nav-links a:not(.nav-cta) { display: none; }
+    .wordmark { font-size: 26px; }
+  }
+</style>

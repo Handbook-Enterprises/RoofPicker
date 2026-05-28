@@ -1,0 +1,172 @@
+---
+// FAQ section, SSR-only (no React island). Avoids hydration flicker
+// from CSS transitions replaying on mount.
+
+interface Props {
+  kicker: string;
+  title_html: string;
+  note?: string;
+  items: Array<{ q: string; a: string }>;
+  openFirst?: boolean;
+  // Suffix avoids #faqList collisions across multiple FAQs.
+  listId?: string;
+}
+const { kicker, title_html, note, items, openFirst = true, listId = 'faqList' } = Astro.props;
+---
+<section class="faq">
+  <div class="wrap faq-inner">
+    <div class="faq-head">
+      <span class="kicker">{kicker}</span>
+      <div class="title" set:html={title_html}></div>
+      {note && <p class="note">{note}</p>}
+    </div>
+
+    <div class="faq-list" id={listId}>
+      {items.map((qa, i) => {
+        const id = `${listId}-qa-${i}`;
+        const isOpen = openFirst && i === 0;
+        return (
+          <div class={isOpen ? 'qa open' : 'qa'}>
+            <button
+              type="button"
+              class="qa-q"
+              aria-expanded={isOpen ? 'true' : 'false'}
+              aria-controls={id}
+            >
+              <span>{qa.q}</span>
+              <span class="plus" aria-hidden="true"></span>
+            </button>
+            <div id={id} class="qa-a" role="region">
+              <p>{qa.a}</p>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+</section>
+
+<script>
+  // Single-open accordion; keeps aria-expanded in sync.
+  document.querySelectorAll('.faq-list').forEach((list) => {
+    list.addEventListener('click', (e) => {
+      const target = e.target as Element;
+      const btn = target.closest('.qa-q');
+      if (!btn) return;
+      const qa = btn.parentElement as Element;
+      const wasOpen = qa.classList.contains('open');
+      list.querySelectorAll('.qa').forEach((x) => {
+        x.classList.remove('open');
+        const b = x.querySelector('.qa-q');
+        if (b) b.setAttribute('aria-expanded', 'false');
+      });
+      if (!wasOpen) {
+        qa.classList.add('open');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+</script>
+
+<style is:global>
+  /* Global so comparison page's inline FAQ markup picks up the same styles. */
+  .faq {
+    background: var(--paper);
+    color: var(--ink);
+    padding: 100px 0 90px;
+  }
+  @media (max-width: 720px) { .faq { padding: 60px 0; } }
+  .faq-inner {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 60px;
+    align-items: start;
+  }
+  @media (max-width: 880px) {
+    .faq-inner { grid-template-columns: 1fr; gap: 28px; }
+  }
+  .faq .faq-head .title {
+    font-family: var(--font-serif);
+    font-size: clamp(36px, 5.2vw, 72px);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .faq .faq-head .title em { font-style: italic; color: var(--clay); }
+  .faq .faq-head .note {
+    margin-top: 22px;
+    color: var(--ink-soft);
+    max-width: 28ch;
+    line-height: 1.5;
+    font-size: 15px;
+  }
+  .faq .faq-list { display: flex; flex-direction: column; gap: 10px; }
+  .faq .qa {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 0 22px;
+    transition: background var(--t-fast) var(--ease),
+                 border-color var(--t-fast) var(--ease);
+  }
+  .faq .qa:hover { border-color: var(--ink-soft); }
+  .faq .qa.open { border-color: var(--clay); }
+  .faq .qa-q {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 22px 0;
+    text-align: left;
+    font-family: var(--font-serif);
+    font-size: clamp(20px, 1.8vw, 26px);
+    line-height: 1.2;
+    color: var(--ink);
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+  .faq .qa-q .plus {
+    width: 24px; height: 24px;
+    position: relative;
+    flex-shrink: 0;
+    margin-left: 24px;
+  }
+  .faq .qa-q .plus::before,
+  .faq .qa-q .plus::after {
+    content: "";
+    position: absolute;
+    background: var(--ink);
+    transition: transform 0.25s;
+  }
+  .faq .qa-q .plus::before {
+    top: 50%; left: 0; right: 0;
+    height: 1.5px;
+    transform: translateY(-50%);
+  }
+  .faq .qa-q .plus::after {
+    left: 50%; top: 0; bottom: 0;
+    width: 1.5px;
+    transform: translateX(-50%);
+  }
+  .faq .qa.open .qa-q .plus::after {
+    transform: translateX(-50%) rotate(90deg);
+    opacity: 0;
+  }
+  .faq .qa-a {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease, padding 0.35s ease;
+  }
+  .faq .qa.open .qa-a {
+    max-height: 600px;
+    padding: 0 0 22px;
+  }
+  .faq .qa-a p {
+    margin: 0;
+    color: var(--ink-soft);
+    max-width: 62ch;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+</style>

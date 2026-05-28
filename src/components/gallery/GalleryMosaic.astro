@@ -1,0 +1,156 @@
+---
+import { imageSrc } from '@lib/cdn';
+
+interface Tile {
+  image_local_path?: string | null;
+  image_cdn_url?: string | null;
+  alt?: string;
+  tag?: string;
+  sku_url?: string | null;
+}
+
+interface Props {
+  title_html: string;
+  meta?: string;
+  tiles: Tile[];
+  /** Cap the number of tiles rendered; defaults to 12. */
+  limit?: number;
+  /** Render only the mosaic (no section wrapper, head, or padding). */
+  bare?: boolean;
+}
+const { title_html, meta, tiles, limit = 12, bare = false } = Astro.props;
+const visible = tiles.filter((t) => imageSrc(t)).slice(0, limit);
+// Cycle through s1..s6 size classes for a magazine-mosaic feel.
+const SIZE_CLASSES = ['s1', 's2', 's3', 's4', 's5', 's6'];
+---
+{bare ? (
+  <div class="mosaic" role="list">
+    {visible.map((t, i) => {
+      const url = imageSrc(t);
+      const alt = t.alt || 'Install photo';
+      const cls = SIZE_CLASSES[i % SIZE_CLASSES.length];
+      const inner = (
+        <figure class:list={['tile', cls]} role="listitem">
+          <img src={url} alt={alt} loading={i < 4 ? 'eager' : 'lazy'} decoding="async" />
+          {t.tag && <div class="tag">{t.tag}</div>}
+        </figure>
+      );
+      return t.sku_url ? <a href={t.sku_url} class="tile-link" aria-label={alt}>{inner}</a> : inner;
+    })}
+  </div>
+) : (
+  <section class="gallery">
+    <div class="wrap">
+      <div class="gallery-head">
+        <div class="title" set:html={title_html}></div>
+        {meta && <div class="meta">{meta}</div>}
+      </div>
+      <div class="mosaic" role="list">
+        {visible.map((t, i) => {
+          const url = imageSrc(t);
+          const alt = t.alt || 'Install photo';
+          const cls = SIZE_CLASSES[i % SIZE_CLASSES.length];
+          const inner = (
+            <figure class:list={['tile', cls]} role="listitem">
+              <img src={url} alt={alt} loading={i < 4 ? 'eager' : 'lazy'} decoding="async" />
+              {t.tag && <div class="tag">{t.tag}</div>}
+            </figure>
+          );
+          return t.sku_url ? <a href={t.sku_url} class="tile-link" aria-label={alt}>{inner}</a> : inner;
+        })}
+      </div>
+    </div>
+  </section>
+)}
+
+<style>
+  .gallery {
+    padding: 110px 0 90px;
+  }
+  @media (max-width: 720px) { .gallery { padding: 60px 0 40px; } }
+  .gallery-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 36px;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .gallery-head .title {
+    font-family: var(--font-serif);
+    font-size: clamp(34px, 5vw, 72px);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .gallery-head .title :global(em) { font-style: italic; color: var(--clay); }
+  .gallery-head .meta {
+    color: var(--ink-soft);
+    font-size: 15px;
+    max-width: 38ch;
+  }
+
+  .mosaic {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 14px;
+    grid-auto-rows: 110px;
+  }
+  @media (max-width: 880px) {
+    .mosaic { grid-template-columns: repeat(6, 1fr); grid-auto-rows: 90px; }
+  }
+  @media (max-width: 520px) {
+    .mosaic { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 130px; }
+  }
+
+  .tile, .tile-link {
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    margin: 0;
+    display: block;
+  }
+  .tile-link .tile {
+    width: 100%; height: 100%;
+    border-radius: 0;
+    border: 0;
+  }
+  .tile img {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .tile .tag {
+    position: absolute;
+    bottom: 10px; left: 10px;
+    background: rgba(26, 34, 54, 0.85);
+    color: var(--paper);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-family: var(--font-mono);
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    z-index: 2;
+  }
+
+  /* magazine mosaic size classes (mirrors template exactly) */
+  .tile.s1, .tile-link.s1 { grid-column: span 6; grid-row: span 3; }
+  .tile.s2, .tile-link.s2 { grid-column: span 3; grid-row: span 3; }
+  .tile.s3, .tile-link.s3 { grid-column: span 3; grid-row: span 3; }
+  .tile.s4, .tile-link.s4 { grid-column: span 4; grid-row: span 3; }
+  .tile.s5, .tile-link.s5 { grid-column: span 4; grid-row: span 3; }
+  .tile.s6, .tile-link.s6 { grid-column: span 4; grid-row: span 3; }
+  @media (max-width: 880px) {
+    .tile.s1, .tile-link.s1 { grid-column: span 6; }
+    .tile.s2, .tile-link.s2,
+    .tile.s3, .tile-link.s3 { grid-column: span 3; }
+    .tile.s4, .tile-link.s4,
+    .tile.s5, .tile-link.s5,
+    .tile.s6, .tile-link.s6 { grid-column: span 2; }
+  }
+  @media (max-width: 520px) {
+    .tile, .tile-link { grid-column: span 2 !important; grid-row: span 2 !important; }
+  }
+</style>

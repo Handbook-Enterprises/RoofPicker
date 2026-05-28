@@ -1,0 +1,89 @@
+---
+import '@styles/global.css';
+import NavBar from '@components/nav/NavBar.astro';
+import Footer from '@components/nav/Footer.astro';
+import VisualizerScript from '@components/visualizer/VisualizerScript.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  ogImage?: string | null;
+  noindex?: boolean;
+  jsonLd?: Record<string, unknown> | Array<Record<string, unknown>> | null;
+  transparentNav?: boolean;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  ogImage = null,
+  noindex = false,
+  jsonLd = null,
+  transparentNav = false,
+} = Astro.props;
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://roofpicker.com';
+const absoluteCanonical = canonical.startsWith('http') ? canonical : `${siteUrl}${canonical}`;
+const absoluteOg = ogImage && ogImage.startsWith('http') ? ogImage : (ogImage ? `${siteUrl}${ogImage}` : null);
+
+// Single JSON-LD blob or an array of them
+const ldBlocks: Array<Record<string, unknown>> = jsonLd
+  ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd])
+  : [];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={absoluteCanonical} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Open Graph / Twitter -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={absoluteCanonical} />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="RoofPicker" />
+    {absoluteOg && <meta property="og:image" content={absoluteOg} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    {absoluteOg && <meta name="twitter:image" content={absoluteOg} />}
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+    <!-- Brand fonts. Same three families used by the HTML templates. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap"
+    />
+
+    <!-- Preconnect to image CDN once R2 is wired -->
+    <link rel="preconnect" href="https://cdn.roofpicker.com" crossorigin />
+
+    {/* JSON-LD structured data. is:inline keeps it as a literal <script>
+       block in the rendered HTML rather than being passed through Astro's
+       module pipeline (which would bundle it as JS). */}
+    {ldBlocks.map((block) => (
+      <script is:inline type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Skip to main content</a>
+    <NavBar transparent={transparentNav} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+    <VisualizerScript />
+  </body>
+</html>
+
+<!-- Skip link styles live in global.css now. -->
+

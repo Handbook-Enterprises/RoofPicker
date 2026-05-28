@@ -1,0 +1,45 @@
+---
+import VisualizerButton from '@components/visualizer/VisualizerButton.astro';
+
+interface Props {
+  data: {
+    kicker: string;
+    h2_html: string;
+    cta_label: string;
+    visualizer_payload: Record<string, unknown>;
+  };
+}
+const { data } = Astro.props;
+---
+<section class="closing">
+  <div class="wrap">
+    <span class="kicker">{data.kicker}</span>
+    <h2 set:html={data.h2_html}></h2>
+    <VisualizerButton payload={data.visualizer_payload} label={data.cta_label} />
+  </div>
+</section>
+
+<style>
+  .closing {
+    padding: 140px 0 100px;
+    text-align: center;
+  }
+  @media (max-width: 720px) { .closing { padding: 80px 0 60px; } }
+  .closing .kicker {
+    display: block;
+    margin-bottom: 18px;
+  }
+  .closing h2 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    font-size: clamp(40px, 7vw, 96px);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin: 0 0 36px;
+    max-width: 18ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .closing h2 :global(em) { font-style: italic; color: var(--clay); }
+</style>

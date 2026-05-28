@@ -1,0 +1,46 @@
+---
+// Lazy-load RoofKit embed and delegate [data-visualizer] clicks to RoofKit.open(payload).
+const embedSrc = import.meta.env.PUBLIC_ROOFKIT_EMBED_SRC || '';
+---
+{embedSrc && (
+  <script is:inline defer src={embedSrc}></script>
+)}
+
+<script is:inline>
+  // Defensive: do not run twice if the layout is rendered twice in dev.
+  if (!window.__rpVisualizerInit) {
+    window.__rpVisualizerInit = true;
+
+    function openVisualizer(payload) {
+      // RoofKit.open shape TBD — log + placeholder until Lucas ships embed docs.
+      if (window.RoofKit && typeof window.RoofKit.open === 'function') {
+        try {
+          window.RoofKit.open(payload);
+          return;
+        } catch (err) {
+          console.error('[visualizer] RoofKit.open failed', err);
+        }
+      }
+      // Placeholder while RoofKit script is not yet wired.
+      console.log('[visualizer] would open with', payload);
+      alert('Visualizer integration pending.\n\nPayload:\n' + JSON.stringify(payload, null, 2));
+    }
+
+    document.addEventListener('click', function (event) {
+      var target = event.target;
+      while (target && target !== document) {
+        if (target.dataset && target.dataset.visualizer) {
+          event.preventDefault();
+          try {
+            var payload = JSON.parse(target.dataset.visualizer);
+            openVisualizer(payload);
+          } catch (err) {
+            console.error('[visualizer] bad payload', err, target.dataset.visualizer);
+          }
+          return;
+        }
+        target = target.parentNode;
+      }
+    });
+  }
+</script>
