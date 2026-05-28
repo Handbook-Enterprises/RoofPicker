@@ -1,4 +1,4 @@
-# RoofPicker — Astro Static Site
+# RoofPicker Astro Static Site
 
 Static-build Astro project that renders one HTML page per enriched JSON in
 `../data-scraping-script/output/`. Deploys to Cloudflare Pages.
@@ -11,7 +11,7 @@ Static-build Astro project that renders one HTML page per enriched JSON in
 - [Build for Cloudflare Pages](#build-for-cloudflare-pages)
 - [Scripts](#scripts)
 - [Project layout](#project-layout)
-- [What is wired up so far](#what-is-wired-up-so-far)
+- [What is wired up](#what-is-wired-up)
 - [What is next](#what-is-next)
 - [Security notes](#security-notes)
 - [Updating data](#updating-data)
@@ -22,24 +22,25 @@ Static-build Astro project that renders one HTML page per enriched JSON in
 
 ```bash
 # Prerequisites: Node 20+, npm
-cd RoofPicker-AstroJS
+cd RoofPicker
 
 # 1) Install deps
 npm install
 
-# 2) Copy env template (no secrets needed for dev)
+# 2) Copy env template (fill in for production; defaults work for dev)
 cp .env.example .env
 
-# 3) Sync enriched JSONs from the scraper output folder
-npm run sync
-
-# 4) Local dev server
+# 3) Local dev server (auto-runs sync + stamp-cdn first)
 npm run dev
 ```
 
 By default the dev server runs at <http://localhost:4321>. Hot reload works
-for `.astro`, `.tsx`, and `.css` files. If you change anything in
-`../data-scraping-script/output/`, run `npm run sync` again.
+for `.astro`, `.tsx`, and `.css` files.
+
+`npm run sync` only needs to be run manually if `../data-scraping-script/output/`
+has changed since your last `dev` / `build`. Both commands already run it for
+you. The enriched JSON under `src/content/` is committed, so a fresh clone can
+build without the upstream scraper checked out.
 
 ---
 
@@ -52,7 +53,7 @@ npm run preview     # local preview of the production build
 
 `dist/` is the publishable artifact. Cloudflare Pages either:
 
-- builds it for you on Git push (recommended — set "Build command" to
+- builds it for you on Git push (recommended; set "Build command" to
   `npm run build` and "Build output directory" to `dist`); OR
 - accepts it via `wrangler pages deploy dist --project-name roofpicker`.
 
@@ -65,28 +66,49 @@ headers; Cloudflare Pages honors that file automatically.
 
 | Command | Purpose |
 |---|---|
-| `npm run sync` | Copies `../data-scraping-script/output/{skus,Combination-S4,...}` into `src/content/`. Wipes target subfolders first; idempotent. |
-| `npm run dev` | Runs sync, then `astro dev`. |
-| `npm run build` | Runs sync + `astro check` (TS + content-schema validation) + `astro build`. |
+| `npm run sync` | Copies `../data-scraping-script/output/{skus,Combination-S4,Combination-S5,Color-Gallery-Hub-S6,comparisons}` into `src/content/`. Wipes target subfolders first; idempotent. |
+| `npm run stamp-cdn` | Rewrites every `image_local_path` in `src/content/**/*.json` to its `image_cdn_url` using `scripts/cdn-manifest.json` from the R2 upload. |
+| `npm run dev` | Runs `sync` + `stamp-cdn`, then `astro dev`. |
+| `npm run build` | Runs `sync` + `stamp-cdn` + `astro check` (TS + content-schema validation) + `astro build`. |
 | `npm run preview` | Serves `dist/` locally. |
 | `npm run check` | Type-checks every `.astro` and `.tsx` file against the Zod content schemas. |
-| `npm run stamp-cdn` | (Phase 2) Rewrites `image_cdn_url` in every `src/content/**/*.json` once R2 upload is complete. |
+| `npm run port-homepage` | Regenerates `src/pages/index.astro` from `public/_templates/homepage.html`. |
+| `npm run port-comparison` | Regenerates the comparison detail route + reference page from the template. |
+| `npm run port-combination` | Regenerates the combination reference page from the template. |
+| `npm run port-color-hub` | Regenerates the color-hub reference page from the template. |
+| `npm run port-universal-hub` | Regenerates the universal hub reference page from the template. |
+| `npm run port-templates` | Runs all port-* scripts in order. |
 
 ---
 
 ## Project layout
 
 ```
-RoofPicker-AstroJS/
-├── public/             Static assets and Cloudflare _headers file
-├── scripts/            Node build-time helpers (sync, R2 upload, CDN stamp)
+RoofPicker/
+├── public/
+│   ├── _headers              Cloudflare security headers + CSP
+│   ├── _templates/           Raw HTML design templates (source of truth)
+│   └── robots.txt
+├── scripts/                  Node build-time helpers
+│   ├── sync-enriched-data.mjs    pulls enriched JSON from scraper output
+│   ├── stamp-cdn-urls.mjs        rewrites local image paths to R2 URLs
+│   └── port-*.mjs                ports each HTML template into Astro
 ├── src/
-│   ├── content/        Zod schemas + synced enriched JSONs
-│   ├── layouts/        BaseLayout (head, nav, footer, visualizer script)
-│   ├── components/     Reusable UI (sku/, gallery/, faq/, nav/, ...)
-│   ├── lib/            schema.ts (JSON-LD), cdn.ts (image URL resolver)
-│   ├── pages/          Routes (one .astro file per URL pattern)
-│   └── styles/         tokens.css + global.css
+│   ├── content/              Zod schemas + synced enriched JSONs (committed)
+│   ├── data/hubs/            Hub indexes consumed by listing pages
+│   ├── layouts/              BaseLayout (head, nav, footer, visualizer script)
+│   ├── components/
+│   │   ├── sku/              SKU detail sections (hero, specs, gallery, pairs, similar, pricing)
+│   │   ├── combo/            S4 + S5 combination page components
+│   │   ├── hub/              S6 color-hub page component
+│   │   ├── gallery/          GalleryMosaic
+│   │   ├── faq/              FAQSection (SSR-only, no client JS)
+│   │   ├── cta/              Closing CTA
+│   │   ├── nav/              NavBar, Footer, Breadcrumb
+│   │   └── visualizer/       VisualizerButton + global click-delegation script
+│   ├── lib/                  breadcrumb.ts, cdn.ts, schema.ts (JSON-LD)
+│   ├── pages/                Routes (one .astro file per URL pattern)
+│   └── styles/               tokens.css, global.css, per-template stylesheets
 ├── astro.config.mjs
 ├── tsconfig.json
 ├── package.json
@@ -95,30 +117,31 @@ RoofPicker-AstroJS/
 
 ---
 
-## What is wired up so far
+## What is wired up
 
-- **Foundation**: `BaseLayout`, navigation, footer, security headers, JSON-LD builder, content collections + Zod schemas, image-URL resolver, visualizer click delegation script.
-- **Strategy 3 (SKU pages)**: full end-to-end — every section in `SKU-Detail-Page-Template.html` is an Astro component bound to the enriched JSON. Route file `src/pages/shingles/[brand]/[line]/[color].astro` emits 233 pages on build.
-- **Homepage** and **404** placeholders.
-- **FAQ accordion** as a React island (`client:idle`) — only ~5 KB of client JS, hydrated after the page is idle.
+- **Foundation**: `BaseLayout`, navigation, footer, security headers, JSON-LD builder, sitemap (`@astrojs/sitemap`), content collections + Zod schemas, breadcrumb URL rewriter, image-URL resolver, visualizer click delegation script.
+- **Strategy 2 (Comparisons)**: `src/pages/compare/index.astro` hub + `src/pages/compare/[slug].astro` detail. Dedupes by product pair so each card is unique.
+- **Strategy 3 (SKU pages)**: full end-to-end. Every section in `SKU-Detail-Page-Template.html` is an Astro component bound to the enriched JSON. Route file `src/pages/shingles/[brand]/[line]/[color].astro` emits 233 pages on build.
+- **Strategy 4 (House color × roof color)**: shared `S4Page.astro` component + the `/combinations/` hub index.
+- **Strategy 5 (Home style × roof color)**: shared `S5Page.astro` component + the `/home-styles/` hub index.
+- **Strategy 6 (Color-gallery hubs)**: `S6Page.astro` component + the `/roof-colors/` hub index.
+- **Homepage**, **404**, **`/shingles/` brand index**, and the auto-generated `/reference/*` template pages.
+- **FAQ accordion**: SSR-only Astro component. No client JS, no hydration flicker.
 - **Visualizer**: every button on the site that carries `data-visualizer={JSON}` is wired to a global click handler. Placeholder shows the payload; replace with Lucas's `RoofKit.open()` when his script lands by setting `PUBLIC_ROOFKIT_EMBED_SRC` in `.env`.
 
 ## What is next
 
-- **Strategy 4 + 5** combination pages (share template, different data collections).
-- **Strategy 6** color-hub pages.
-- **Strategy 2** comparison pages.
-- **Image pipeline**: `scripts/upload-images-to-r2.mjs` and `scripts/stamp-cdn-urls.mjs` once R2 credentials are available. Until then the dev server uses local image paths.
+- **Backfill missing swatch images**: a handful of SKUs are missing color-swatch photos and need a targeted re-scrape upstream in `data-scraping-script/`.
 - **RoofKit embed**: drop the actual snippet URL into `PUBLIC_ROOFKIT_EMBED_SRC` once Lucas provides it; the launcher buttons already pass the right payload shape.
 
 ---
 
 ## Security notes
 
-- `public/_headers` ships a CSP that whitelists self + R2 + RoofKit + YouTube.
-- We use `set:html` ONLY on internal `title_html`, `h1_html`, `h2_html` strings that we author in the enricher (they contain `<em>` markup only). No user input flows through `set:html`.
+- `public/_headers` ships a CSP that whitelists self + R2 + RoofKit + YouTube. `.env.example` is empty by design. Fill in `PUBLIC_CDN_URL` (R2 public bucket), `PUBLIC_SITE_URL`, and `PUBLIC_ROOFKIT_EMBED_SRC` for your environment.
+- We use `set:html` ONLY on internal `title_html`, `h1_html`, `h2_html` strings authored in the enricher (they contain `<em>` markup only). No user input flows through `set:html`.
 - All external links in component data carry `rel="noopener noreferrer"` and `target="_blank"`.
-- R2 credentials never reach the client bundle — only env vars prefixed `PUBLIC_` are exposed by Astro.
+- R2 credentials never reach the client bundle. Only env vars prefixed `PUBLIC_` are exposed by Astro.
 - `astro check` runs on every build, so any malformed enriched JSON fails CI before it ships.
 
 ---
@@ -133,5 +156,5 @@ back here and run:
 npm run sync && npm run build
 ```
 
-The new pages appear automatically — no template changes required as
+The new pages appear automatically. No template changes required as
 long as the JSON shape matches the Zod schemas in `src/content/config.ts`.

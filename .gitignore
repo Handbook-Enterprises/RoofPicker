@@ -12,5 +12,3 @@ dist
 Thumbs.db
 ruvector.db
 scripts/cdn-manifest.json
-src/content/**/*.json
-!src/content/config.ts
