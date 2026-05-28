@@ -1,0 +1,37 @@
+{
+  "name": "roofpicker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-enriched-data.mjs",
+    "port-templates": "node scripts/port-templates.mjs",
+    "port-homepage": "node scripts/port-homepage.mjs",
+    "port-comparison": "node scripts/port-comparison.mjs",
+    "port-combination": "node scripts/port-combination.mjs",
+    "port-color-hub": "node scripts/port-color-hub.mjs",
+    "port-universal-hub": "node scripts/port-universal-hub.mjs",
+    "stamp-cdn": "node scripts/stamp-cdn-urls.mjs",
+    "dev": "npm run sync && npm run stamp-cdn && astro dev",
+    "build": "npm run sync && npm run stamp-cdn && astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@astrojs/react": "^4.2.0",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

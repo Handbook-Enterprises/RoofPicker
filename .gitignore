@@ -1,0 +1,16 @@
+node_modules
+.env
+.env.*
+!.env.example
+dist
+.astro
+.wrangler
+.vscode
+.idea
+*.log
+.DS_Store
+Thumbs.db
+ruvector.db
+scripts/cdn-manifest.json
+src/content/**/*.json
+!src/content/config.ts
