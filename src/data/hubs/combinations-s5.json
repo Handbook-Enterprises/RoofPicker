@@ -1,0 +1,452 @@
+{
+  "slug": "_hub",
+  "url_path": "/home-styles/",
+  "is_hub": true,
+  "strategy": 5,
+  "h1": "Home Style × Roof Color: Every Architectural Style, Visualized",
+  "meta_title": "Home Style × Roof Color Combinations · Real Florida Renders (2026)",
+  "meta_description": "Architectural home style paired with roof color. AI-rendered examples across craftsman, modern farmhouse, ranch, colonial, cape cod, victorian, tudor, mediterranean, contemporary, and traditional. Free visualizer.",
+  "hub_intro": "Thirty home-style-and-roof-color pairings across ten architectural styles. Each page covers the architecture's background, fifteen-plus examples on real Florida homes from three camera angles, the shingles that fit the look from every major brand, and a free tool to try the pair on your own house.",
+  "total_combinations": 30,
+  "by_archetype": {
+    "black": 10,
+    "charcoal": 8,
+    "brown": 6,
+    "weathered-wood": 6
+  },
+  "by_style": {
+    "craftsman": 4,
+    "modern-farmhouse": 4,
+    "ranch": 4,
+    "colonial": 4,
+    "cape-cod": 4,
+    "victorian": 4,
+    "tudor": 2,
+    "mediterranean": 2,
+    "contemporary": 1,
+    "traditional": 1
+  },
+  "combination_cards": [
+    {
+      "slug": "craftsman-with-black-roof",
+      "url_path": "/craftsman-with-black-roof/",
+      "home_style_display": "Craftsman",
+      "home_style_slug": "craftsman",
+      "style_hex": "#7E6B4E",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "modern-farmhouse-with-black-roof",
+      "url_path": "/modern-farmhouse-with-black-roof/",
+      "home_style_display": "Modern Farmhouse",
+      "home_style_slug": "modern-farmhouse",
+      "style_hex": "#F4ECD8",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "ranch-with-black-roof",
+      "url_path": "/ranch-with-black-roof/",
+      "home_style_display": "Ranch",
+      "home_style_slug": "ranch",
+      "style_hex": "#A09280",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "colonial-with-black-roof",
+      "url_path": "/colonial-with-black-roof/",
+      "home_style_display": "Colonial",
+      "home_style_slug": "colonial",
+      "style_hex": "#D8CDBA",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "cape-cod-with-black-roof",
+      "url_path": "/cape-cod-with-black-roof/",
+      "home_style_display": "Cape Cod",
+      "home_style_slug": "cape-cod",
+      "style_hex": "#E8E2D4",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "victorian-with-black-roof",
+      "url_path": "/victorian-with-black-roof/",
+      "home_style_display": "Victorian",
+      "home_style_slug": "victorian",
+      "style_hex": "#84566F",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "tudor-with-black-roof",
+      "url_path": "/tudor-with-black-roof/",
+      "home_style_display": "Tudor",
+      "home_style_slug": "tudor",
+      "style_hex": "#5A4A38",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "mediterranean-with-black-roof",
+      "url_path": "/mediterranean-with-black-roof/",
+      "home_style_display": "Mediterranean",
+      "home_style_slug": "mediterranean",
+      "style_hex": "#E8C58A",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "contemporary-with-black-roof",
+      "url_path": "/contemporary-with-black-roof/",
+      "home_style_display": "Contemporary",
+      "home_style_slug": "contemporary",
+      "style_hex": "#9C9991",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "traditional-with-black-roof",
+      "url_path": "/traditional-with-black-roof/",
+      "home_style_display": "Traditional",
+      "home_style_slug": "traditional",
+      "style_hex": "#C2B59B",
+      "roof_color_display": "Black",
+      "roof_color_slug": "black",
+      "roof_color_hex": "#1E2128",
+      "render_count": 21
+    },
+    {
+      "slug": "craftsman-with-charcoal-roof",
+      "url_path": "/craftsman-with-charcoal-roof/",
+      "home_style_display": "Craftsman",
+      "home_style_slug": "craftsman",
+      "style_hex": "#7E6B4E",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "modern-farmhouse-with-charcoal-roof",
+      "url_path": "/modern-farmhouse-with-charcoal-roof/",
+      "home_style_display": "Modern Farmhouse",
+      "home_style_slug": "modern-farmhouse",
+      "style_hex": "#F4ECD8",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "ranch-with-charcoal-roof",
+      "url_path": "/ranch-with-charcoal-roof/",
+      "home_style_display": "Ranch",
+      "home_style_slug": "ranch",
+      "style_hex": "#A09280",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "colonial-with-charcoal-roof",
+      "url_path": "/colonial-with-charcoal-roof/",
+      "home_style_display": "Colonial",
+      "home_style_slug": "colonial",
+      "style_hex": "#D8CDBA",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "cape-cod-with-charcoal-roof",
+      "url_path": "/cape-cod-with-charcoal-roof/",
+      "home_style_display": "Cape Cod",
+      "home_style_slug": "cape-cod",
+      "style_hex": "#E8E2D4",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "victorian-with-charcoal-roof",
+      "url_path": "/victorian-with-charcoal-roof/",
+      "home_style_display": "Victorian",
+      "home_style_slug": "victorian",
+      "style_hex": "#84566F",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "tudor-with-charcoal-roof",
+      "url_path": "/tudor-with-charcoal-roof/",
+      "home_style_display": "Tudor",
+      "home_style_slug": "tudor",
+      "style_hex": "#5A4A38",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "mediterranean-with-charcoal-roof",
+      "url_path": "/mediterranean-with-charcoal-roof/",
+      "home_style_display": "Mediterranean",
+      "home_style_slug": "mediterranean",
+      "style_hex": "#E8C58A",
+      "roof_color_display": "Charcoal",
+      "roof_color_slug": "charcoal",
+      "roof_color_hex": "#3F434B",
+      "render_count": 21
+    },
+    {
+      "slug": "craftsman-with-brown-roof",
+      "url_path": "/craftsman-with-brown-roof/",
+      "home_style_display": "Craftsman",
+      "home_style_slug": "craftsman",
+      "style_hex": "#7E6B4E",
+      "roof_color_display": "Brown",
+      "roof_color_slug": "brown",
+      "roof_color_hex": "#5C4128",
+      "render_count": 21
+    },
+    {
+      "slug": "modern-farmhouse-with-brown-roof",
+      "url_path": "/modern-farmhouse-with-brown-roof/",
+      "home_style_display": "Modern Farmhouse",
+      "home_style_slug": "modern-farmhouse",
+      "style_hex": "#F4ECD8",
+      "roof_color_display": "Brown",
+      "roof_color_slug": "brown",
+      "roof_color_hex": "#5C4128",
+      "render_count": 21
+    },
+    {
+      "slug": "ranch-with-brown-roof",
+      "url_path": "/ranch-with-brown-roof/",
+      "home_style_display": "Ranch",
+      "home_style_slug": "ranch",
+      "style_hex": "#A09280",
+      "roof_color_display": "Brown",
+      "roof_color_slug": "brown",
+      "roof_color_hex": "#5C4128",
+      "render_count": 21
+    },
+    {
+      "slug": "colonial-with-brown-roof",
+      "url_path": "/colonial-with-brown-roof/",
+      "home_style_display": "Colonial",
+      "home_style_slug": "colonial",
+      "style_hex": "#D8CDBA",
+      "roof_color_display": "Brown",
+      "roof_color_slug": "brown",
+      "roof_color_hex": "#5C4128",
+      "render_count": 21
+    },
+    {
+      "slug": "cape-cod-with-brown-roof",
+      "url_path": "/cape-cod-with-brown-roof/",
+      "home_style_display": "Cape Cod",
+      "home_style_slug": "cape-cod",
+      "style_hex": "#E8E2D4",
+      "roof_color_display": "Brown",
+      "roof_color_slug": "brown",
+      "roof_color_hex": "#5C4128",
+      "render_count": 21
+    },
+    {
+      "slug": "victorian-with-brown-roof",
+      "url_path": "/victorian-with-brown-roof/",
+      "home_style_display": "Victorian",
+      "home_style_slug": "victorian",
+      "style_hex": "#84566F",
+      "roof_color_display": "Brown",
+      "roof_color_slug": "brown",
+      "roof_color_hex": "#5C4128",
+      "render_count": 21
+    },
+    {
+      "slug": "craftsman-with-weathered-wood-roof",
+      "url_path": "/craftsman-with-weathered-wood-roof/",
+      "home_style_display": "Craftsman",
+      "home_style_slug": "craftsman",
+      "style_hex": "#7E6B4E",
+      "roof_color_display": "Weathered Wood",
+      "roof_color_slug": "weathered-wood",
+      "roof_color_hex": "#8A7960",
+      "render_count": 21
+    },
+    {
+      "slug": "modern-farmhouse-with-weathered-wood-roof",
+      "url_path": "/modern-farmhouse-with-weathered-wood-roof/",
+      "home_style_display": "Modern Farmhouse",
+      "home_style_slug": "modern-farmhouse",
+      "style_hex": "#F4ECD8",
+      "roof_color_display": "Weathered Wood",
+      "roof_color_slug": "weathered-wood",
+      "roof_color_hex": "#8A7960",
+      "render_count": 21
+    },
+    {
+      "slug": "ranch-with-weathered-wood-roof",
+      "url_path": "/ranch-with-weathered-wood-roof/",
+      "home_style_display": "Ranch",
+      "home_style_slug": "ranch",
+      "style_hex": "#A09280",
+      "roof_color_display": "Weathered Wood",
+      "roof_color_slug": "weathered-wood",
+      "roof_color_hex": "#8A7960",
+      "render_count": 21
+    },
+    {
+      "slug": "colonial-with-weathered-wood-roof",
+      "url_path": "/colonial-with-weathered-wood-roof/",
+      "home_style_display": "Colonial",
+      "home_style_slug": "colonial",
+      "style_hex": "#D8CDBA",
+      "roof_color_display": "Weathered Wood",
+      "roof_color_slug": "weathered-wood",
+      "roof_color_hex": "#8A7960",
+      "render_count": 15
+    },
+    {
+      "slug": "cape-cod-with-weathered-wood-roof",
+      "url_path": "/cape-cod-with-weathered-wood-roof/",
+      "home_style_display": "Cape Cod",
+      "home_style_slug": "cape-cod",
+      "style_hex": "#E8E2D4",
+      "roof_color_display": "Weathered Wood",
+      "roof_color_slug": "weathered-wood",
+      "roof_color_hex": "#8A7960",
+      "render_count": 15
+    },
+    {
+      "slug": "victorian-with-weathered-wood-roof",
+      "url_path": "/victorian-with-weathered-wood-roof/",
+      "home_style_display": "Victorian",
+      "home_style_slug": "victorian",
+      "style_hex": "#84566F",
+      "roof_color_display": "Weathered Wood",
+      "roof_color_slug": "weathered-wood",
+      "roof_color_hex": "#8A7960",
+      "render_count": 15
+    }
+  ],
+  "style_index": [
+    {
+      "slug": "craftsman",
+      "display": "Craftsman",
+      "wiki_url": "https://en.wikipedia.org/wiki/American_Craftsman",
+      "short_descriptor": "Early-20th-century American style derived from the English Arts & Crafts movement.",
+      "era": "1905-1929 (original), 1990s-present (revival)"
+    },
+    {
+      "slug": "modern-farmhouse",
+      "display": "Modern Farmhouse",
+      "wiki_url": "https://en.wikipedia.org/wiki/Farmhouse",
+      "short_descriptor": "Contemporary reinterpretation of traditional American farmhouse, popularized in the 2010s.",
+      "era": "2010s-present"
+    },
+    {
+      "slug": "ranch",
+      "display": "Ranch",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ranch-style_house",
+      "short_descriptor": "Mid-20th-century American single-story style, optimized for suburban lots.",
+      "era": "1940s-1970s (original), 2010s-present (renovation/refresh)"
+    },
+    {
+      "slug": "colonial",
+      "display": "Colonial",
+      "wiki_url": "https://en.wikipedia.org/wiki/Colonial_Revival_architecture",
+      "short_descriptor": "American Colonial Revival -- symmetric, balanced, classically proportioned.",
+      "era": "1890-1955 (peak), continuous from 1700s"
+    },
+    {
+      "slug": "cape-cod",
+      "display": "Cape Cod",
+      "wiki_url": "https://en.wikipedia.org/wiki/Cape_Cod_(house)",
+      "short_descriptor": "17th-century New England origin, 1930s-1950s American revival.",
+      "era": "1690-present (original), 1930-1955 (Revival)"
+    },
+    {
+      "slug": "victorian",
+      "display": "Victorian",
+      "wiki_url": "https://en.wikipedia.org/wiki/Victorian_architecture",
+      "short_descriptor": "Late-19th-century ornamental style, originally British, broadly American 1860-1900.",
+      "era": "1860-1900 (peak)"
+    },
+    {
+      "slug": "tudor",
+      "display": "Tudor",
+      "wiki_url": "https://en.wikipedia.org/wiki/Tudor_Revival_architecture",
+      "short_descriptor": "Tudor Revival -- 1890s-1940s American interpretation of medieval English manor houses.",
+      "era": "1890-1940"
+    },
+    {
+      "slug": "mediterranean",
+      "display": "Mediterranean",
+      "wiki_url": "https://en.wikipedia.org/wiki/Mediterranean_Revival_architecture",
+      "short_descriptor": "Spanish Colonial + Mediterranean Revival, 1915-1940s, dominant in Florida residential.",
+      "era": "1915-1940 (peak), 1990s-present (Florida revival)"
+    },
+    {
+      "slug": "contemporary",
+      "display": "Contemporary",
+      "wiki_url": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+      "short_descriptor": "Late-20th and 21st-century American style emphasizing clean lines and mixed materials.",
+      "era": "1980s-present"
+    },
+    {
+      "slug": "traditional",
+      "display": "Traditional",
+      "wiki_url": "https://en.wikipedia.org/wiki/Colonial_Revival_architecture",
+      "short_descriptor": "Catchall for balanced, classic American residential design rooted in Colonial Revival.",
+      "era": "Continuous from 1900"
+    }
+  ],
+  "data_sources": [
+    {
+      "label": "Wikipedia: American architectural styles",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_the_United_States"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "fal.ai nano-banana-2 model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:49+00:00"
+}

@@ -1,0 +1,178 @@
+{
+  "slug": "_hub",
+  "url_path": "/compare/",
+  "h1": "Shingle Comparisons: Side-by-Side Reviews of Every Major Brand",
+  "target_keyword": null,
+  "volume_per_month": null,
+  "kd": null,
+  "is_hub": true,
+  "hub_intro": "Eleven head-to-head comparisons across the seven major asphalt shingle brands. Every page has the same shape: a draggable visual comparison at the top, a spec table with real numbers in every cell, a decision rubric, install pricing context from Florida contractors, and verified quotes from r/Roofing. Sorted by search popularity so the highest-interest comparisons surface first.",
+  "hub_meta": {
+    "total_comparisons": 11,
+    "brands_covered": ["GAF", "Owens Corning", "CertainTeed", "IKO", "Malarkey"],
+    "primary_sort": "monthly_search_volume_desc",
+    "filter_options": ["all", "gaf", "owens-corning", "certainteed", "iko", "malarkey", "asphalt-architectural", "asphalt-designer"]
+  },
+  "comparison_cards": [
+    {
+      "order": 1,
+      "slug": "owens-corning-vs-gaf",
+      "title": "Owens Corning Duration vs GAF Timberline HDZ",
+      "short_blurb": "The classic mid-tier matchup. SureNail vs LayerLock, identical 130 mph wind rating, $8/sq material difference.",
+      "subject_a_id": "owens-corning-duration",
+      "subject_b_id": "gaf-timberline-hdz",
+      "volume_per_month": 720,
+      "kd": 8,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#6F5A3C", "#34373F"]
+    },
+    {
+      "order": 2,
+      "slug": "certainteed-vs-gaf",
+      "title": "CertainTeed Landmark vs GAF Timberline HDZ",
+      "short_blurb": "Heaviest shingle in class (Landmark) versus the most-installed shingle in America (HDZ). $3-5/sq material difference.",
+      "subject_a_id": "certainteed-landmark",
+      "subject_b_id": "gaf-timberline-hdz",
+      "volume_per_month": 480,
+      "kd": 7,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#25282E", "#34373F"]
+    },
+    {
+      "order": 3,
+      "slug": "gaf-vs-owens-corning-shingles",
+      "title": "GAF Timberline HDZ vs Owens Corning Duration",
+      "short_blurb": "Same matchup as #1 but framed brand-first. GAF cheaper at retail; OC heavier feel and SureNail strip.",
+      "subject_a_id": "gaf-timberline-hdz",
+      "subject_b_id": "owens-corning-duration",
+      "volume_per_month": 390,
+      "kd": 13,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#34373F", "#6F5A3C"]
+    },
+    {
+      "order": 4,
+      "slug": "certainteed-landmark-vs-landmark-pro",
+      "title": "CertainTeed Landmark vs Landmark Pro",
+      "short_blurb": "Sibling matchup: Pro is 40 lbs/sq heavier, adds 5 years to algae warranty, unlocks the Max Def color palette. $30/sq more.",
+      "subject_a_id": "certainteed-landmark",
+      "subject_b_id": "certainteed-landmark-pro",
+      "volume_per_month": 320,
+      "kd": 1,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#7A6F58", "#7C5A3C"]
+    },
+    {
+      "order": 5,
+      "slug": "iko-vs-gaf-shingles",
+      "title": "IKO Cambridge vs GAF Timberline HDZ",
+      "short_blurb": "Budget vs premium. IKO costs 10-20% less. HDZ wins on warranty length, algae coverage, color count.",
+      "subject_a_id": "iko-cambridge",
+      "subject_b_id": "gaf-timberline-hdz",
+      "volume_per_month": 210,
+      "kd": 3,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#2A2D34", "#34373F"]
+    },
+    {
+      "order": 6,
+      "slug": "owens-corning-duration-vs-certainteed-landmark",
+      "title": "Owens Corning Duration vs CertainTeed Landmark",
+      "short_blurb": "Direct cross-brand competitor matchup. Specs nearly identical; difference is contractor preference and local supply.",
+      "subject_a_id": "owens-corning-duration",
+      "subject_b_id": "certainteed-landmark",
+      "volume_per_month": 140,
+      "kd": 2,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#6F5A3C", "#7C6B53"]
+    },
+    {
+      "order": 7,
+      "slug": "gaf-timberline-hdz-vs-owens-corning-duration",
+      "title": "GAF Timberline HDZ vs Owens Corning Duration (Product-Level)",
+      "short_blurb": "Product-level long-tail of comparison #1. Differentiates from the brand-level page via product-specific FAQ angles.",
+      "subject_a_id": "gaf-timberline-hdz",
+      "subject_b_id": "owens-corning-duration",
+      "volume_per_month": 110,
+      "kd": 5,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#34373F", "#6F5A3C"]
+    },
+    {
+      "order": 8,
+      "slug": "malarkey-vs-gaf-shingles",
+      "title": "Malarkey Vista vs GAF Timberline HDZ",
+      "short_blurb": "Premium SBS rubberized asphalt + Class 4 hail (Vista) versus the standard-bearer GAF. Vista costs $30-60/sq more.",
+      "subject_a_id": "malarkey-vista",
+      "subject_b_id": "gaf-timberline-hdz",
+      "volume_per_month": 90,
+      "kd": 7,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#1E2128", "#34373F"]
+    },
+    {
+      "order": 9,
+      "slug": "gaf-timberline-vs-certainteed-landmark",
+      "title": "GAF Timberline HDZ vs CertainTeed Landmark (Product-Level)",
+      "short_blurb": "Product-level long-tail of comparison #2. Differentiates via product-specific FAQ and rotated Reddit quotes.",
+      "subject_a_id": "gaf-timberline-hdz",
+      "subject_b_id": "certainteed-landmark",
+      "volume_per_month": 30,
+      "kd": 5,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#34373F", "#25282E"]
+    },
+    {
+      "order": 10,
+      "slug": "owens-corning-duration-vs-duration-designer",
+      "title": "Owens Corning Duration vs Duration Designer",
+      "short_blurb": "Sibling matchup: Designer is the aesthetic upgrade tier. Same performance specs, larger granules, premium Max Def colors, 15-20% more.",
+      "subject_a_id": "owens-corning-duration",
+      "subject_b_id": "owens-corning-duration-designer",
+      "volume_per_month": 10,
+      "kd": 3,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#6F5A3C", "#6F3F26"]
+    },
+    {
+      "order": 11,
+      "slug": "iko-cambridge-vs-gaf-timberline",
+      "title": "IKO Cambridge vs GAF Timberline HDZ (Product-Level)",
+      "short_blurb": "Product-level long-tail of comparison #5. Same subjects, differentiated FAQ around specific Cambridge install experiences.",
+      "subject_a_id": "iko-cambridge",
+      "subject_b_id": "gaf-timberline-hdz",
+      "volume_per_month": 10,
+      "kd": 7,
+      "card_image_role": "split_swatch",
+      "card_swatches": ["#2A2D34", "#34373F"]
+    }
+  ],
+  "secondary_sections": {
+    "by_brand_strip": [
+      { "brand": "GAF", "card_count": 8, "primary_color": "#34373F" },
+      { "brand": "Owens Corning", "card_count": 5, "primary_color": "#6F5A3C" },
+      { "brand": "CertainTeed", "card_count": 4, "primary_color": "#25282E" },
+      { "brand": "IKO", "card_count": 2, "primary_color": "#2A2D34" },
+      { "brand": "Malarkey", "card_count": 1, "primary_color": "#1E2128" }
+    ],
+    "faq_items": [
+      {
+        "q": "Why are some shingles listed in multiple comparisons?",
+        "a": "GAF Timberline HDZ is the most-installed residential shingle in the U.S., so it appears in 8 of the 11 comparisons here. Other shingles appear multiple times where they're directly cross-shopped against different competitors."
+      },
+      {
+        "q": "How do I pick which comparison to read?",
+        "a": "Start with the two shingles your contractor quoted you on, or the two you saw on neighbors' houses. Each page has the same shape — visual at the top, specs table, decision rubric, and FAQ — so you can find the same information in the same place across all 11."
+      },
+      {
+        "q": "Are these comparisons paid endorsements?",
+        "a": "No. The brand order is set by monthly search volume, not by any commercial agreement. The visualizer SKU library is curated by what each manufacturer publishes, not by paid placement."
+      },
+      {
+        "q": "Why isn't TAMKO or Atlas covered yet?",
+        "a": "Phase 1 covers the five highest-volume brands by national install count. TAMKO and Atlas are in scope for future expansion as we add more shingle SKU detail pages."
+      }
+    ]
+  },
+  "scraped_at": "2026-05-15T12:00:00+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "_hub",
+  "url_path": "/roof-colors/",
+  "is_hub": true,
+  "strategy": 6,
+  "h1": "Roof Colors: Browse Every Color, By House Style",
+  "meta_title": "Roof Color Galleries · Real Florida Homes (2026)",
+  "meta_description": "Every roof color, with real Florida homes broken down by architectural style. The shingles that get each look, side-by-side siding pairings, and a free visualizer.",
+  "hub_intro": "Browse every roof color in one place. Each color opens to a gallery of real-home examples grouped by architectural style — modern, modern farmhouse, ranch, craftsman, coastal, and traditional — along with the shingles that match the look and the siding colors that pair best.",
+  "total_hubs": 4,
+  "hub_cards": [
+    {
+      "slug": "black",
+      "url_path": "/houses-with-black-roofs/",
+      "display": "Black",
+      "anchor_hex": "#1E2128",
+      "example_count": 210,
+      "sku_count": 18
+    },
+    {
+      "slug": "charcoal",
+      "url_path": "/houses-with-charcoal-roofs/",
+      "display": "Charcoal",
+      "anchor_hex": "#3F434B",
+      "example_count": 161,
+      "sku_count": 78
+    },
+    {
+      "slug": "brown",
+      "url_path": "/houses-with-brown-roofs/",
+      "display": "Brown",
+      "anchor_hex": "#5C4128",
+      "example_count": 98,
+      "sku_count": 52
+    },
+    {
+      "slug": "weathered-wood",
+      "url_path": "/houses-with-weathered-wood-roofs/",
+      "display": "Weathered Wood",
+      "anchor_hex": "#8A7960",
+      "example_count": 85,
+      "sku_count": 37
+    }
+  ],
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:45:45+00:00"
+}

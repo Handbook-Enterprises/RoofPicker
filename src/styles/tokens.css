@@ -1,0 +1,49 @@
+/* RoofPicker design tokens.
+   Canonical source: Docs/design.md (Warm Florida Modern).
+   Verbatim copy of the token table -- do not invent new values; if a
+   page needs something not here, add it to design.md first. */
+
+:root {
+  /* ---- Palette ----------------------------------------------------- */
+  --paper:     #F2ECDE;                /* body background, primary surface */
+  --shell:     #FAF6EC;                /* raised surfaces (cards, panels) */
+  --ink:       #1A2236;                /* primary text, dark slabs */
+  --ink-soft:  #4A536A;                /* secondary text */
+  --clay:      #B85A3C;                /* signature terracotta accent */
+  --clay-deep: #9A4830;                /* terracotta hover */
+  --sage:      #7B8F6E;                /* tertiary status accent */
+  --rule:      #D9D0BC;                /* hairline divider on paper */
+  --hair:      rgba(26, 34, 54, 0.12); /* hairline on translucent surfaces */
+
+  /* ---- Type ------------------------------------------------------- */
+  --font-serif: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --font-sans:  "Geist", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-mono:  "Geist Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* ---- Container + spacing scale (matches design.md spacing rules) -- */
+  --wrap-max:  1440px;
+  --wrap-pad:  32px;
+  --wrap-pad-mobile: 20px;
+
+  --space-section-lg-top:    110px;
+  --space-section-lg-bottom:  90px;
+  --space-section-top:       100px;
+  --space-section-bottom:     80px;
+  --space-gap-lg:             60px;
+  --space-gap:                40px;
+  --space-gap-sm:             24px;
+  --space-tight:              16px;
+  --space-hair:                8px;
+
+  /* ---- Radii ------------------------------------------------------- */
+  --r-pill:  999px;
+  --r-glass: 18px;
+  --r-card:  14px;
+  --r-tile:  10px;
+  --r-chip:   6px;
+
+  /* ---- Motion ----------------------------------------------------- */
+  --t-fast: 150ms;
+  --t-med:  240ms;
+  --ease:   cubic-bezier(.4, 0, .2, 1);
+}

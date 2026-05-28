@@ -1,0 +1,2418 @@
+{
+  "slug": "_hub",
+  "url_path": "/shingles/",
+  "is_hub": true,
+  "strategy": 3,
+  "h1": "Shingle Colors by Brand: Every Major Color, Side by Side",
+  "meta_title": "Shingle Colors by Brand · See Them On Your House (2026)",
+  "meta_description": "Browse every shingle color from GAF, CertainTeed, IKO, Owens Corning, and more. Real install photos, install pricing, and a free tool to see any color on your house in seconds.",
+  "hub_intro": "Every shingle color worth installing in Florida, in one place. We cover the major lines from GAF, CertainTeed, IKO, TAMKO, Atlas, Malarkey, and Owens Corning. Each color page has real install photos on Florida homes, the exact shade you'll see in daylight, install pricing, and side-by-side picks from other brands that get the same look. Upload a photo of your house to try any color on your own roof in seconds.",
+  "total_skus": 233,
+  "brands_covered": [
+    "atlas",
+    "certainteed",
+    "gaf",
+    "iko",
+    "malarkey",
+    "owens-corning",
+    "tamko"
+  ],
+  "lines_covered": [
+    "atlas-pinnacle-pristine",
+    "certainteed-belmont",
+    "certainteed-grand-manor",
+    "certainteed-landmark",
+    "certainteed-landmark-pro",
+    "certainteed-northgate-climateflex",
+    "certainteed-presidential-shake",
+    "gaf-camelot-ii",
+    "gaf-grand-sequoia",
+    "gaf-slateline",
+    "gaf-timberline-as-ii",
+    "gaf-timberline-hdz",
+    "gaf-timberline-uhdz",
+    "iko-cambridge",
+    "iko-crowne-slate",
+    "iko-dynasty",
+    "iko-royal-estate",
+    "malarkey-legacy",
+    "malarkey-vista",
+    "owens-corning-duration",
+    "owens-corning-duration-designer",
+    "owens-corning-oakridge",
+    "owens-corning-woodcrest",
+    "tamko-heritage"
+  ],
+  "by_family": {
+    "gray": 124,
+    "brown": 74,
+    "red": 13,
+    "black": 9,
+    "green": 5,
+    "orange": 4,
+    "blue": 4
+  },
+  "by_archetype": {
+    "charcoal": 78,
+    "brown": 52,
+    "unknown": 48,
+    "weathered-wood": 37,
+    "black": 18
+  },
+  "by_brand": {
+    "certainteed": 77,
+    "gaf": 50,
+    "owens-corning": 36,
+    "iko": 30,
+    "malarkey": 18,
+    "atlas": 16,
+    "tamko": 6
+  },
+  "sku_cards": [
+    {
+      "slug": "atlas-pinnacle-pristine-coastal-granite",
+      "url_path": "/shingles/atlas/pinnacle-pristine/coastal-granite/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "COASTAL GRANITE",
+      "hex": "#6a6e6b",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-hearthstone",
+      "url_path": "/shingles/atlas/pinnacle-pristine/hearthstone/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "HEARTHSTONE",
+      "hex": "#75787a",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-pewter",
+      "url_path": "/shingles/atlas/pinnacle-pristine/pewter/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "PEWTER",
+      "hex": "#6a6c6f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-copper-canyon",
+      "url_path": "/shingles/atlas/pinnacle-pristine/copper-canyon/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "COPPER CANYON",
+      "hex": "#6e553e",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-summer-storm",
+      "url_path": "/shingles/atlas/pinnacle-pristine/summer-storm/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "SUMMER STORM",
+      "hex": "#7a6e6e",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-oyster-shell",
+      "url_path": "/shingles/atlas/pinnacle-pristine/oyster-shell/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "OYSTER SHELL",
+      "hex": "#9a9b97",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-heatherblend",
+      "url_path": "/shingles/atlas/pinnacle-pristine/heatherblend/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "HEATHERBLEND",
+      "hex": "#7c6553",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-burnt-hickory",
+      "url_path": "/shingles/atlas/pinnacle-pristine/burnt-hickory/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "BURNT HICKORY",
+      "hex": "#7a5d44",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-majestic-shake",
+      "url_path": "/shingles/atlas/pinnacle-pristine/majestic-shake/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "MAJESTIC SHAKE",
+      "hex": "#7d6753",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-weathered-wood",
+      "url_path": "/shingles/atlas/pinnacle-pristine/weathered-wood/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "WEATHERED WOOD",
+      "hex": "#6e645d",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-weathered-shadow",
+      "url_path": "/shingles/atlas/pinnacle-pristine/weathered-shadow/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "WEATHERED SHADOW",
+      "hex": "#756758",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-morning-harvest",
+      "url_path": "/shingles/atlas/pinnacle-pristine/morning-harvest/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "MORNING HARVEST",
+      "hex": "#93755a",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-tan-mist",
+      "url_path": "/shingles/atlas/pinnacle-pristine/tan-mist/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "TAN MIST",
+      "hex": "#917a6b",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-woodland-green",
+      "url_path": "/shingles/atlas/pinnacle-pristine/woodland-green/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "WOODLAND GREEN",
+      "hex": "#3f5550",
+      "color_family": "green",
+      "roof_archetype": null
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-sunset",
+      "url_path": "/shingles/atlas/pinnacle-pristine/sunset/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "SUNSET",
+      "hex": "#8a4a40",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "atlas-pinnacle-pristine-black-shadow",
+      "url_path": "/shingles/atlas/pinnacle-pristine/black-shadow/",
+      "brand_display": "Atlas",
+      "line_display": "Pinnacle Pristine",
+      "color_display": "BLACK SHADOW",
+      "hex": "#3f4543",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-belmont-black-granite",
+      "url_path": "/shingles/certainteed/belmont/black-granite/",
+      "brand_display": "CertainTeed",
+      "line_display": "Belmont",
+      "color_display": "Black Granite",
+      "hex": "#3a3937",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-belmont-colonial-slate",
+      "url_path": "/shingles/certainteed/belmont/colonial-slate/",
+      "brand_display": "CertainTeed",
+      "line_display": "Belmont",
+      "color_display": "Colonial Slate",
+      "hex": "#6e6a64",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-belmont-shenandoah",
+      "url_path": "/shingles/certainteed/belmont/shenandoah/",
+      "brand_display": "CertainTeed",
+      "line_display": "Belmont",
+      "color_display": "Shenandoah",
+      "hex": "#665139",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-belmont-stonegate-gray",
+      "url_path": "/shingles/certainteed/belmont/stonegate-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Belmont",
+      "color_display": "Stonegate Gray",
+      "hex": "#6e6c5e",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-belmont-weathered-wood",
+      "url_path": "/shingles/certainteed/belmont/weathered-wood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Belmont",
+      "color_display": "Weathered Wood",
+      "hex": "#71655a",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-grand-manor-black-pearl",
+      "url_path": "/shingles/certainteed/grand-manor/black-pearl/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Black Pearl",
+      "hex": "#4a474a",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-grand-manor-brownstone",
+      "url_path": "/shingles/certainteed/grand-manor/brownstone/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Brownstone",
+      "hex": "#785e4f",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-grand-manor-chestnut",
+      "url_path": "/shingles/certainteed/grand-manor/chestnut/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Chestnut",
+      "hex": "#654f43",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-grand-manor-colonial-slate",
+      "url_path": "/shingles/certainteed/grand-manor/colonial-slate/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Colonial Slate",
+      "hex": "#8a8584",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-grand-manor-gatehouse-slate",
+      "url_path": "/shingles/certainteed/grand-manor/gatehouse-slate/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Gatehouse Slate",
+      "hex": "#82797a",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-grand-manor-georgian-brick",
+      "url_path": "/shingles/certainteed/grand-manor/georgian-brick/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Georgian Brick",
+      "hex": "#884b36",
+      "color_family": "orange",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-grand-manor-sherwood-forest",
+      "url_path": "/shingles/certainteed/grand-manor/sherwood-forest/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Sherwood Forest",
+      "hex": "#555c58",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-grand-manor-stonegate-gray",
+      "url_path": "/shingles/certainteed/grand-manor/stonegate-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Stonegate Gray",
+      "hex": "#83807b",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-grand-manor-weathered-wood",
+      "url_path": "/shingles/certainteed/grand-manor/weathered-wood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Grand Manor",
+      "color_display": "Weathered Wood",
+      "hex": "#807972",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-black-walnut",
+      "url_path": "/shingles/certainteed/landmark/black-walnut/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Black Walnut",
+      "hex": "#5a3e2f",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-landmark-burnt-sienna",
+      "url_path": "/shingles/certainteed/landmark/burnt-sienna/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Burnt Sienna",
+      "hex": "#86553a",
+      "color_family": "orange",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-charcoal-black",
+      "url_path": "/shingles/certainteed/landmark/charcoal-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Charcoal Black",
+      "hex": "#393738",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "certainteed-landmark-cinder-black",
+      "url_path": "/shingles/certainteed/landmark/cinder-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Cinder Black",
+      "hex": "#262629",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "certainteed-landmark-cobblestone-gray",
+      "url_path": "/shingles/certainteed/landmark/cobblestone-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Cobblestone Gray",
+      "hex": "#7a786f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-colonial-slate",
+      "url_path": "/shingles/certainteed/landmark/colonial-slate/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Colonial Slate",
+      "hex": "#6e6962",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-driftwood",
+      "url_path": "/shingles/certainteed/landmark/driftwood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Driftwood",
+      "hex": "#6d635a",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-georgetown-gray",
+      "url_path": "/shingles/certainteed/landmark/georgetown-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Georgetown Gray",
+      "hex": "#5d5c57",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-granite-gray",
+      "url_path": "/shingles/certainteed/landmark/granite-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Granite Gray",
+      "hex": "#7d7c7a",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-heather-blend",
+      "url_path": "/shingles/certainteed/landmark/heather-blend/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Heather Blend",
+      "hex": "#76604c",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-landmark-moire-black",
+      "url_path": "/shingles/certainteed/landmark/moire-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Moire Black",
+      "hex": "#413f3f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-mojave-tan",
+      "url_path": "/shingles/certainteed/landmark/mojave-tan/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Mojave Tan",
+      "hex": "#a08c7c",
+      "color_family": "brown",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-painted-desert",
+      "url_path": "/shingles/certainteed/landmark/painted-desert/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Painted Desert",
+      "hex": "#917663",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-landmark-pewter",
+      "url_path": "/shingles/certainteed/landmark/pewter/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Pewter",
+      "hex": "#6a6967",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pewterwood",
+      "url_path": "/shingles/certainteed/landmark/pewterwood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Pewterwood",
+      "hex": "#5e6463",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-resawn-shake",
+      "url_path": "/shingles/certainteed/landmark/resawn-shake/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Resawn Shake",
+      "hex": "#946a4f",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-silver-birch",
+      "url_path": "/shingles/certainteed/landmark/silver-birch/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Silver Birch",
+      "hex": "#a4a8a7",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-sunrise-cedar",
+      "url_path": "/shingles/certainteed/landmark/sunrise-cedar/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Sunrise Cedar",
+      "hex": "#988774",
+      "color_family": "brown",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-terra-cotta",
+      "url_path": "/shingles/certainteed/landmark/terra-cotta/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Terra Cotta",
+      "hex": "#7a3c2d",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-thunderstorm-gray",
+      "url_path": "/shingles/certainteed/landmark/thunderstorm-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Thunderstorm Gray",
+      "hex": "#5e5d5b",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-weathered-wood",
+      "url_path": "/shingles/certainteed/landmark/weathered-wood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark",
+      "color_display": "Weathered Wood",
+      "hex": "#7b7062",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-pro-cinder-black",
+      "url_path": "/shingles/certainteed/landmark-pro/cinder-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Cinder Black",
+      "hex": "#26262a",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-birchwood",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-birchwood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Birchwood",
+      "hex": "#8a8985",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-black-walnut",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-black-walnut/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Black Walnut",
+      "hex": "#3e2f25",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-burnt-sienna",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-burnt-sienna/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Burnt Sienna",
+      "hex": "#7d4f37",
+      "color_family": "orange",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-charcoal-black",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-charcoal-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Charcoal Black",
+      "hex": "#383635",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-coastal-blue",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-coastal-blue/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Coastal Blue",
+      "hex": "#5e7280",
+      "color_family": "blue",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-cobblestone-gray",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-cobblestone-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Cobblestone Gray",
+      "hex": "#8c8c83",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-colonial-slate",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-colonial-slate/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Colonial Slate",
+      "hex": "#5a5654",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-driftwood",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Driftwood",
+      "hex": "#5b554d",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-espresso",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-espresso/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Espresso",
+      "hex": "#4a3d36",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-evergreen",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-evergreen/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Evergreen",
+      "hex": "#4f5a4d",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-georgetown-gray",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-georgetown-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Georgetown Gray",
+      "hex": "#75726c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-granite-gray",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-granite-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Granite Gray",
+      "hex": "#5e5d5c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-heather-blend",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-heather-blend/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Heather Blend",
+      "hex": "#6d513e",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-moire-black",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-moire-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Moire Black",
+      "hex": "#3a3837",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-mojave-tan",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-mojave-tan/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Mojave Tan",
+      "hex": "#a89180",
+      "color_family": "brown",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-pewter",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-pewter/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Pewter",
+      "hex": "#585a58",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-pewterwood",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-pewterwood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Pewterwood",
+      "hex": "#54534f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-prairie-wood",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-prairie-wood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Prairie Wood",
+      "hex": "#75594a",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-red-oak",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-red-oak/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Red Oak",
+      "hex": "#7a3d2e",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-resawn-shake",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-resawn-shake/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Resawn Shake",
+      "hex": "#8e6e51",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-shenandoah",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-shenandoah/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Shenandoah",
+      "hex": "#54382d",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-pro-max-def-weathered-wood",
+      "url_path": "/shingles/certainteed/landmark-pro/max-def-weathered-wood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Max Def Weathered Wood",
+      "hex": "#7c7165",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-landmark-pro-silver-birch",
+      "url_path": "/shingles/certainteed/landmark-pro/silver-birch/",
+      "brand_display": "CertainTeed",
+      "line_display": "Landmark Pro",
+      "color_display": "Silver Birch",
+      "hex": "#a4a8a7",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-burnt-sienna",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-burnt-sienna/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Burnt Sienna",
+      "hex": "#7d4f37",
+      "color_family": "orange",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-driftwood",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-driftwood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Driftwood",
+      "hex": "#5b554d",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-espresso",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-espresso/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Espresso",
+      "hex": "#4a3d36",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-georgetown-gray",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-georgetown-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Georgetown Gray",
+      "hex": "#6d6a64",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-granite-gray",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-granite-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Granite Gray",
+      "hex": "#5e5d5c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-heather-blend",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-heather-blend/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Heather Blend",
+      "hex": "#6d513e",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-hunter-green",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-hunter-green/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Hunter Green",
+      "hex": "#465e51",
+      "color_family": "green",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-moire-black",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-moire-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Moire Black",
+      "hex": "#3a3837",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-pewter",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-pewter/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Pewter",
+      "hex": "#585a58",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-resawn-shake",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-resawn-shake/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Resawn Shake",
+      "hex": "#8e6e51",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-max-def-weathered-wood",
+      "url_path": "/shingles/certainteed/northgate-climateflex/max-def-weathered-wood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Max Def Weathered Wood",
+      "hex": "#7c7165",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "certainteed-northgate-climateflex-silver-birch",
+      "url_path": "/shingles/certainteed/northgate-climateflex/silver-birch/",
+      "brand_display": "CertainTeed",
+      "line_display": "Northgate Climateflex",
+      "color_display": "Silver Birch",
+      "hex": "#a5a4a1",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "certainteed-presidential-shake-aged-bark",
+      "url_path": "/shingles/certainteed/presidential-shake/aged-bark/",
+      "brand_display": "CertainTeed",
+      "line_display": "Presidential Shake",
+      "color_display": "Aged Bark",
+      "hex": "#7d4d34",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-presidential-shake-autumn-blend",
+      "url_path": "/shingles/certainteed/presidential-shake/autumn-blend/",
+      "brand_display": "CertainTeed",
+      "line_display": "Presidential Shake",
+      "color_display": "Autumn Blend",
+      "hex": "#5e4434",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "certainteed-presidential-shake-charcoal-black",
+      "url_path": "/shingles/certainteed/presidential-shake/charcoal-black/",
+      "brand_display": "CertainTeed",
+      "line_display": "Presidential Shake",
+      "color_display": "Charcoal Black",
+      "hex": "#262526",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "certainteed-presidential-shake-country-gray",
+      "url_path": "/shingles/certainteed/presidential-shake/country-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Presidential Shake",
+      "color_display": "Country Gray",
+      "hex": "#605d59",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-presidential-shake-shadow-gray",
+      "url_path": "/shingles/certainteed/presidential-shake/shadow-gray/",
+      "brand_display": "CertainTeed",
+      "line_display": "Presidential Shake",
+      "color_display": "Shadow Gray",
+      "hex": "#56524e",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "certainteed-presidential-shake-weathered-wood",
+      "url_path": "/shingles/certainteed/presidential-shake/weathered-wood/",
+      "brand_display": "CertainTeed",
+      "line_display": "Presidential Shake",
+      "color_display": "Weathered Wood",
+      "hex": "#7d6e5a",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-camelot-ii-camelot-ii-antique-slate",
+      "url_path": "/shingles/gaf/camelot-ii/camelot-ii-antique-slate/",
+      "brand_display": "GAF",
+      "line_display": "Camelot II",
+      "color_display": "Camelot Ii Antique Slate",
+      "hex": "#514c48",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-camelot-ii-camelot-ii-barkwood",
+      "url_path": "/shingles/gaf/camelot-ii/camelot-ii-barkwood/",
+      "brand_display": "GAF",
+      "line_display": "Camelot II",
+      "color_display": "Camelot Ii Barkwood",
+      "hex": "#7b6448",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-camelot-ii-camelot-ii-charcoal",
+      "url_path": "/shingles/gaf/camelot-ii/camelot-ii-charcoal/",
+      "brand_display": "GAF",
+      "line_display": "Camelot II",
+      "color_display": "Camelot Ii Charcoal",
+      "hex": "#29292b",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "gaf-camelot-ii-camelot-ii-royal-slate",
+      "url_path": "/shingles/gaf/camelot-ii/camelot-ii-royal-slate/",
+      "brand_display": "GAF",
+      "line_display": "Camelot II",
+      "color_display": "Camelot Ii Royal Slate",
+      "hex": "#3e3f40",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-camelot-ii-camelot-ii-weathered-timber",
+      "url_path": "/shingles/gaf/camelot-ii/camelot-ii-weathered-timber/",
+      "brand_display": "GAF",
+      "line_display": "Camelot II",
+      "color_display": "Camelot Ii Weathered Timber",
+      "hex": "#6b6453",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-grand-sequoia-grand-sequoia-autumn-brown",
+      "url_path": "/shingles/gaf/grand-sequoia/grand-sequoia-autumn-brown/",
+      "brand_display": "GAF",
+      "line_display": "Grand Sequoia",
+      "color_display": "Grand Sequoia Autumn Brown",
+      "hex": "#4a3a2a",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-grand-sequoia-grand-sequoia-charcoal",
+      "url_path": "/shingles/gaf/grand-sequoia/grand-sequoia-charcoal/",
+      "brand_display": "GAF",
+      "line_display": "Grand Sequoia",
+      "color_display": "Grand Sequoia Charcoal",
+      "hex": "#26282b",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "gaf-grand-sequoia-grand-sequoia-weathered-wood",
+      "url_path": "/shingles/gaf/grand-sequoia/grand-sequoia-weathered-wood/",
+      "brand_display": "GAF",
+      "line_display": "Grand Sequoia",
+      "color_display": "Grand Sequoia Weathered Wood",
+      "hex": "#6b6555",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-grand-sequoia-grand-sequoia-mesa-brown",
+      "url_path": "/shingles/gaf/grand-sequoia/grand-sequoia-mesa-brown/",
+      "brand_display": "GAF",
+      "line_display": "Grand Sequoia",
+      "color_display": "Grand Sequoia Mesa Brown",
+      "hex": "#634a38",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-grand-sequoia-grand-sequoia-cedar",
+      "url_path": "/shingles/gaf/grand-sequoia/grand-sequoia-cedar/",
+      "brand_display": "GAF",
+      "line_display": "Grand Sequoia",
+      "color_display": "Grand Sequoia Cedar",
+      "hex": "#8a7256",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-slateline-slateline-antique-slate",
+      "url_path": "/shingles/gaf/slateline/slateline-antique-slate/",
+      "brand_display": "GAF",
+      "line_display": "Slateline",
+      "color_display": "Slateline Antique Slate",
+      "hex": "#535052",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-slateline-slateline-english-gray",
+      "url_path": "/shingles/gaf/slateline/slateline-english-gray/",
+      "brand_display": "GAF",
+      "line_display": "Slateline",
+      "color_display": "Slateline English Gray",
+      "hex": "#4c494c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-slateline-slateline-royal-slate",
+      "url_path": "/shingles/gaf/slateline/slateline-royal-slate/",
+      "brand_display": "GAF",
+      "line_display": "Slateline",
+      "color_display": "Slateline Royal Slate",
+      "hex": "#444745",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-slateline-slateline-weathered-slate",
+      "url_path": "/shingles/gaf/slateline/slateline-weathered-slate/",
+      "brand_display": "GAF",
+      "line_display": "Slateline",
+      "color_display": "Slateline Weathered Slate",
+      "hex": "#7c6852",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-timberline-as-ii-timberline-as-ii-barkwood",
+      "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-barkwood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline AS II",
+      "color_display": "Timberline As Ii Barkwood",
+      "hex": "#75614a",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-as-ii-timberline-as-ii-charcoal",
+      "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-charcoal/",
+      "brand_display": "GAF",
+      "line_display": "Timberline AS II",
+      "color_display": "Timberline As Ii Charcoal",
+      "hex": "#2a2e32",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "gaf-timberline-as-ii-timberline-as-ii-hickory",
+      "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-hickory/",
+      "brand_display": "GAF",
+      "line_display": "Timberline AS II",
+      "color_display": "Timberline As Ii Hickory",
+      "hex": "#5a3a30",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-as-ii-timberline-as-ii-pewter-gray",
+      "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-pewter-gray/",
+      "brand_display": "GAF",
+      "line_display": "Timberline AS II",
+      "color_display": "Timberline As Ii Pewter Gray",
+      "hex": "#585b5e",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-as-ii-timberline-as-ii-shakewood",
+      "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-shakewood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline AS II",
+      "color_display": "Timberline As Ii Shakewood",
+      "hex": "#887056",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-as-ii-timberline-as-ii-slate",
+      "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-slate/",
+      "brand_display": "GAF",
+      "line_display": "Timberline AS II",
+      "color_display": "Timberline As Ii Slate",
+      "hex": "#566058",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-as-ii-timberline-as-ii-weathered-wood",
+      "url_path": "/shingles/gaf/timberline-as-ii/timberline-as-ii-weathered-wood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline AS II",
+      "color_display": "Timberline As Ii Weathered Wood",
+      "hex": "#6b6555",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-hdz-barkwood",
+      "url_path": "/shingles/gaf/timberline-hdz/barkwood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Barkwood",
+      "hex": "#5c4d40",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-hdz-birchwood",
+      "url_path": "/shingles/gaf/timberline-hdz/birchwood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Birchwood",
+      "hex": "#878c89",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-biscayne-blue",
+      "url_path": "/shingles/gaf/timberline-hdz/biscayne-blue/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Biscayne Blue",
+      "hex": "#45505a",
+      "color_family": "blue",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-charcoal",
+      "url_path": "/shingles/gaf/timberline-hdz/charcoal/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Charcoal",
+      "hex": "#26282b",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "gaf-timberline-hdz-copper-canyon",
+      "url_path": "/shingles/gaf/timberline-hdz/copper-canyon/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Copper Canyon",
+      "hex": "#84755e",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-timberline-hdz-driftwood",
+      "url_path": "/shingles/gaf/timberline-hdz/driftwood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Driftwood",
+      "hex": "#897564",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-hdz-fox-follow-gray",
+      "url_path": "/shingles/gaf/timberline-hdz/fox-follow-gray/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Fox Follow Gray",
+      "hex": "#878a87",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-golden-amber",
+      "url_path": "/shingles/gaf/timberline-hdz/golden-amber/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Golden Amber",
+      "hex": "#998973",
+      "color_family": "brown",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-hickory",
+      "url_path": "/shingles/gaf/timberline-hdz/hickory/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Hickory",
+      "hex": "#5a3a30",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-hunter-green",
+      "url_path": "/shingles/gaf/timberline-hdz/hunter-green/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Hunter Green",
+      "hex": "#33443c",
+      "color_family": "green",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-mission-brown",
+      "url_path": "/shingles/gaf/timberline-hdz/mission-brown/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Mission Brown",
+      "hex": "#6a5b4e",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-timberline-hdz-oyster-gray",
+      "url_path": "/shingles/gaf/timberline-hdz/oyster-gray/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Oyster Gray",
+      "hex": "#63676a",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-hdz-patriot-red",
+      "url_path": "/shingles/gaf/timberline-hdz/patriot-red/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Patriot Red",
+      "hex": "#672f31",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-pewter-gray",
+      "url_path": "/shingles/gaf/timberline-hdz/pewter-gray/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Pewter Gray",
+      "hex": "#585b5e",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-hdz-shakewood",
+      "url_path": "/shingles/gaf/timberline-hdz/shakewood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Shakewood",
+      "hex": "#887056",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-hdz-slate",
+      "url_path": "/shingles/gaf/timberline-hdz/slate/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Slate",
+      "hex": "#5c635c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-hdz-sunset-brick",
+      "url_path": "/shingles/gaf/timberline-hdz/sunset-brick/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Sunset Brick",
+      "hex": "#774c40",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "gaf-timberline-hdz-weathered-wood",
+      "url_path": "/shingles/gaf/timberline-hdz/weathered-wood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Weathered Wood",
+      "hex": "#6b6555",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-hdz-williamsburg-slate",
+      "url_path": "/shingles/gaf/timberline-hdz/williamsburg-slate/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Williamsburg Slate",
+      "hex": "#4b5150",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-hdz-chestnut-valley",
+      "url_path": "/shingles/gaf/timberline-hdz/chestnut-valley/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Chestnut Valley",
+      "hex": "#5a3d2c",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-timberline-hdz-cliffside",
+      "url_path": "/shingles/gaf/timberline-hdz/cliffside/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Cliffside",
+      "hex": "#4b4d49",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-hdz-midnight-mesa",
+      "url_path": "/shingles/gaf/timberline-hdz/midnight-mesa/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Midnight Mesa",
+      "hex": "#403830",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-timberline-hdz-sierra-sand",
+      "url_path": "/shingles/gaf/timberline-hdz/sierra-sand/",
+      "brand_display": "GAF",
+      "line_display": "Timberline HDZ",
+      "color_display": "Sierra Sand",
+      "hex": "#6e6553",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "gaf-timberline-uhdz-timberline-uhdz-with-ultramat-barkwood",
+      "url_path": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-barkwood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline UHDZ with UltraMat",
+      "color_display": "Timberline Uhdz With Ultramat Barkwood",
+      "hex": "#5c4d40",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-uhdz-timberline-uhdz-with-ultramat-charcoal",
+      "url_path": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-charcoal/",
+      "brand_display": "GAF",
+      "line_display": "Timberline UHDZ with UltraMat",
+      "color_display": "Timberline Uhdz With Ultramat Charcoal",
+      "hex": "#26282b",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "gaf-timberline-uhdz-timberline-uhdz-with-ultramat-pewter-gray",
+      "url_path": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-pewter-gray/",
+      "brand_display": "GAF",
+      "line_display": "Timberline UHDZ with UltraMat",
+      "color_display": "Timberline Uhdz With Ultramat Pewter Gray",
+      "hex": "#585b5e",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-uhdz-timberline-uhdz-with-ultramat-shakewood",
+      "url_path": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-shakewood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline UHDZ with UltraMat",
+      "color_display": "Timberline Uhdz With Ultramat Shakewood",
+      "hex": "#887056",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "gaf-timberline-uhdz-timberline-uhdz-with-ultramat-slate",
+      "url_path": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-slate/",
+      "brand_display": "GAF",
+      "line_display": "Timberline UHDZ with UltraMat",
+      "color_display": "Timberline Uhdz With Ultramat Slate",
+      "hex": "#5c635c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "gaf-timberline-uhdz-timberline-uhdz-with-ultramat-weathered-wood",
+      "url_path": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-weathered-wood/",
+      "brand_display": "GAF",
+      "line_display": "Timberline UHDZ with UltraMat",
+      "color_display": "Timberline Uhdz With Ultramat Weathered Wood",
+      "hex": "#6b6555",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "iko-cambridge-dual-black",
+      "url_path": "/shingles/iko/cambridge/dual-black/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Dual Black",
+      "hex": "#333937",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "iko-cambridge-weatherwood",
+      "url_path": "/shingles/iko/cambridge/weatherwood/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Weatherwood",
+      "hex": "#5d4f42",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "iko-cambridge-charcoal-grey",
+      "url_path": "/shingles/iko/cambridge/charcoal-grey/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Charcoal Grey",
+      "hex": "#3b4341",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-cambridge-dove-white",
+      "url_path": "/shingles/iko/cambridge/dove-white/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Dove White",
+      "hex": "#9ca6a4",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "iko-cambridge-dual-grey",
+      "url_path": "/shingles/iko/cambridge/dual-grey/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Dual Grey",
+      "hex": "#5e635f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-cambridge-dual-brown",
+      "url_path": "/shingles/iko/cambridge/dual-brown/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Dual Brown",
+      "hex": "#6b5a45",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "iko-cambridge-earthtone-cedar",
+      "url_path": "/shingles/iko/cambridge/earthtone-cedar/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Earthtone Cedar",
+      "hex": "#8a755a",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "iko-cambridge-harvard-slate",
+      "url_path": "/shingles/iko/cambridge/harvard-slate/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Harvard Slate",
+      "hex": "#5d605c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-cambridge-beachwood",
+      "url_path": "/shingles/iko/cambridge/beachwood/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Beachwood",
+      "hex": "#877b66",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "iko-cambridge-driftwood",
+      "url_path": "/shingles/iko/cambridge/driftwood/",
+      "brand_display": "IKO",
+      "line_display": "Cambridge",
+      "color_display": "Driftwood",
+      "hex": "#4a423a",
+      "color_family": "brown",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "iko-crowne-slate-royal-granite",
+      "url_path": "/shingles/iko/crowne-slate/royal-granite/",
+      "brand_display": "IKO",
+      "line_display": "Crowne Slate",
+      "color_display": "Royal Granite",
+      "hex": "#4d3a36",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "iko-dynasty-olde-style-weatherwood",
+      "url_path": "/shingles/iko/dynasty/olde-style-weatherwood/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Olde Style Weatherwood",
+      "hex": "#635a51",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-dynasty-granite-black",
+      "url_path": "/shingles/iko/dynasty/granite-black/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Granite Black",
+      "hex": "#2f3334",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "iko-dynasty-cornerstone-wwd",
+      "url_path": "/shingles/iko/dynasty/cornerstone-wwd/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Cornerstone WWD",
+      "hex": "#706860",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-dynasty-atlantic-blue",
+      "url_path": "/shingles/iko/dynasty/atlantic-blue/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Atlantic Blue",
+      "hex": "#2c4253",
+      "color_family": "blue",
+      "roof_archetype": null
+    },
+    {
+      "slug": "iko-dynasty-glacier",
+      "url_path": "/shingles/iko/dynasty/glacier/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Glacier",
+      "hex": "#3a3a33",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-dynasty-shadow-brown",
+      "url_path": "/shingles/iko/dynasty/shadow-brown/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Shadow Brown",
+      "hex": "#6e5d4c",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "iko-dynasty-summit-grey",
+      "url_path": "/shingles/iko/dynasty/summit-grey/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Summit Grey",
+      "hex": "#616362",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-dynasty-biscayne",
+      "url_path": "/shingles/iko/dynasty/biscayne/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Biscayne",
+      "hex": "#7a7670",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-dynasty-monaco-red",
+      "url_path": "/shingles/iko/dynasty/monaco-red/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Monaco Red",
+      "hex": "#7a3a2e",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "iko-dynasty-frostone-grey",
+      "url_path": "/shingles/iko/dynasty/frostone-grey/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Frostone Grey",
+      "hex": "#8b9190",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "iko-dynasty-emerald-green",
+      "url_path": "/shingles/iko/dynasty/emerald-green/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Emerald Green",
+      "hex": "#3a4a3f",
+      "color_family": "green",
+      "roof_archetype": null
+    },
+    {
+      "slug": "iko-dynasty-driftshake",
+      "url_path": "/shingles/iko/dynasty/driftshake/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Driftshake",
+      "hex": "#625950",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "iko-dynasty-brownstone",
+      "url_path": "/shingles/iko/dynasty/brownstone/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Brownstone",
+      "hex": "#6b5645",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "iko-dynasty-sentinel-slate",
+      "url_path": "/shingles/iko/dynasty/sentinel-slate/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Sentinel Slate",
+      "hex": "#6a5f5a",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-dynasty-blackstone",
+      "url_path": "/shingles/iko/dynasty/blackstone/",
+      "brand_display": "IKO",
+      "line_display": "Dynasty",
+      "color_display": "Blackstone",
+      "hex": "#30312f",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "iko-royal-estate-harvest-slate",
+      "url_path": "/shingles/iko/royal-estate/harvest-slate/",
+      "brand_display": "IKO",
+      "line_display": "Royal Estate",
+      "color_display": "Harvest Slate",
+      "hex": "#645747",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "iko-royal-estate-mountain-slate",
+      "url_path": "/shingles/iko/royal-estate/mountain-slate/",
+      "brand_display": "IKO",
+      "line_display": "Royal Estate",
+      "color_display": "Mountain Slate",
+      "hex": "#5d6058",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "iko-royal-estate-shadow-slate",
+      "url_path": "/shingles/iko/royal-estate/shadow-slate/",
+      "brand_display": "IKO",
+      "line_display": "Royal Estate",
+      "color_display": "Shadow Slate",
+      "hex": "#363635",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "iko-royal-estate-taupe-slate",
+      "url_path": "/shingles/iko/royal-estate/taupe-slate/",
+      "brand_display": "IKO",
+      "line_display": "Royal Estate",
+      "color_display": "Taupe Slate",
+      "hex": "#7a6f5c",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "malarkey-legacy-antique-brown",
+      "url_path": "/shingles/malarkey/legacy/antique-brown/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Antique Brown",
+      "hex": "#735743",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "malarkey-legacy-black-oak",
+      "url_path": "/shingles/malarkey/legacy/black-oak/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Black Oak",
+      "hex": "#4f4a4b",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "malarkey-legacy-heather",
+      "url_path": "/shingles/malarkey/legacy/heather/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Heather",
+      "hex": "#6b5852",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "malarkey-legacy-midnight-black",
+      "url_path": "/shingles/malarkey/legacy/midnight-black/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Midnight Black",
+      "hex": "#434346",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "malarkey-legacy-natural-wood",
+      "url_path": "/shingles/malarkey/legacy/natural-wood/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Natural Wood",
+      "hex": "#6c6764",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "malarkey-legacy-sienna-blend",
+      "url_path": "/shingles/malarkey/legacy/sienna-blend/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Sienna Blend",
+      "hex": "#a97d5b",
+      "color_family": "brown",
+      "roof_archetype": null
+    },
+    {
+      "slug": "malarkey-legacy-silverwood",
+      "url_path": "/shingles/malarkey/legacy/silverwood/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Silverwood",
+      "hex": "#b9bbbc",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "malarkey-legacy-storm-grey",
+      "url_path": "/shingles/malarkey/legacy/storm-grey/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Storm Grey",
+      "hex": "#5c5c5c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "malarkey-legacy-weathered-wood",
+      "url_path": "/shingles/malarkey/legacy/weathered-wood/",
+      "brand_display": "Malarkey",
+      "line_display": "Legacy Scotchgard",
+      "color_display": "Weathered Wood",
+      "hex": "#6d6b6a",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "malarkey-vista-antique-brown",
+      "url_path": "/shingles/malarkey/vista/antique-brown/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Antique Brown",
+      "hex": "#735743",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "malarkey-vista-black-oak",
+      "url_path": "/shingles/malarkey/vista/black-oak/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Black Oak",
+      "hex": "#4f4a4b",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "malarkey-vista-heather",
+      "url_path": "/shingles/malarkey/vista/heather/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Heather",
+      "hex": "#6b5852",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "malarkey-vista-midnight-black",
+      "url_path": "/shingles/malarkey/vista/midnight-black/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Midnight Black",
+      "hex": "#434346",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "malarkey-vista-natural-wood",
+      "url_path": "/shingles/malarkey/vista/natural-wood/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Natural Wood",
+      "hex": "#6c6764",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "malarkey-vista-sienna-blend",
+      "url_path": "/shingles/malarkey/vista/sienna-blend/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Sienna Blend",
+      "hex": "#a97d5b",
+      "color_family": "brown",
+      "roof_archetype": null
+    },
+    {
+      "slug": "malarkey-vista-silverwood",
+      "url_path": "/shingles/malarkey/vista/silverwood/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Silverwood",
+      "hex": "#b9bbbc",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "malarkey-vista-storm-grey",
+      "url_path": "/shingles/malarkey/vista/storm-grey/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Storm Grey",
+      "hex": "#5c5c5c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "malarkey-vista-weathered-wood",
+      "url_path": "/shingles/malarkey/vista/weathered-wood/",
+      "brand_display": "Malarkey",
+      "line_display": "Vista AR",
+      "color_display": "Weathered Wood",
+      "hex": "#6d6b6a",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "owens-corning-duration-brownwood",
+      "url_path": "/shingles/owens-corning/duration/brownwood/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Brownwood",
+      "hex": "#6e4e3f",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-duration-chateau-green",
+      "url_path": "/shingles/owens-corning/duration/chateau-green/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Chateau Green",
+      "hex": "#3e6855",
+      "color_family": "green",
+      "roof_archetype": null
+    },
+    {
+      "slug": "owens-corning-duration-colonial-slate",
+      "url_path": "/shingles/owens-corning/duration/colonial-slate/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Colonial Slate",
+      "hex": "#574f4d",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-desert-rose",
+      "url_path": "/shingles/owens-corning/duration/desert-rose/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Desert Rose",
+      "hex": "#7d5b48",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-duration-driftwood",
+      "url_path": "/shingles/owens-corning/duration/driftwood/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Driftwood",
+      "hex": "#605852",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "owens-corning-duration-estate-gray",
+      "url_path": "/shingles/owens-corning/duration/estate-gray/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Estate Gray",
+      "hex": "#53585c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-harbor-blue",
+      "url_path": "/shingles/owens-corning/duration/harbor-blue/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Harbor Blue",
+      "hex": "#505f69",
+      "color_family": "blue",
+      "roof_archetype": null
+    },
+    {
+      "slug": "owens-corning-duration-midnight-plum",
+      "url_path": "/shingles/owens-corning/duration/midnight-plum/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Midnight Plum",
+      "hex": "#403639",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-onyx-black",
+      "url_path": "/shingles/owens-corning/duration/onyx-black/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Onyx Black",
+      "hex": "#292d30",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "owens-corning-duration-peppercorn",
+      "url_path": "/shingles/owens-corning/duration/peppercorn/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Peppercorn",
+      "hex": "#6b665e",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-sand-castle",
+      "url_path": "/shingles/owens-corning/duration/sand-castle/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Sand Castle",
+      "hex": "#8f7d64",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-duration-sierra-gray",
+      "url_path": "/shingles/owens-corning/duration/sierra-gray/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Sierra Gray",
+      "hex": "#858585",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "owens-corning-duration-slatestone-gray",
+      "url_path": "/shingles/owens-corning/duration/slatestone-gray/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Slatestone Gray",
+      "hex": "#646665",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-teak",
+      "url_path": "/shingles/owens-corning/duration/teak/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Teak",
+      "hex": "#6b4f3f",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-duration-terra-cotta",
+      "url_path": "/shingles/owens-corning/duration/terra-cotta/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Terra Cotta",
+      "hex": "#9b4e3c",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "owens-corning-duration-williamsburg-gray",
+      "url_path": "/shingles/owens-corning/duration/williamsburg-gray/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration",
+      "color_display": "Williamsburg Gray",
+      "hex": "#4f4f52",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-designer-black-sable",
+      "url_path": "/shingles/owens-corning/duration-designer/black-sable/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration Designer",
+      "color_display": "Black Sable",
+      "hex": "#3a342d",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-duration-designer-bourbon",
+      "url_path": "/shingles/owens-corning/duration-designer/bourbon/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration Designer",
+      "color_display": "Bourbon",
+      "hex": "#6a3e36",
+      "color_family": "red",
+      "roof_archetype": null
+    },
+    {
+      "slug": "owens-corning-duration-designer-evergreen-mist",
+      "url_path": "/shingles/owens-corning/duration-designer/evergreen-mist/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration Designer",
+      "color_display": "Evergreen Mist",
+      "hex": "#80887b",
+      "color_family": "gray",
+      "roof_archetype": null
+    },
+    {
+      "slug": "owens-corning-duration-designer-gray-tweed",
+      "url_path": "/shingles/owens-corning/duration-designer/gray-tweed/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration Designer",
+      "color_display": "Gray Tweed",
+      "hex": "#565451",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-designer-mountain-pine",
+      "url_path": "/shingles/owens-corning/duration-designer/mountain-pine/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration Designer",
+      "color_display": "Mountain Pine",
+      "hex": "#5b665f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-duration-designer-summer-harvest",
+      "url_path": "/shingles/owens-corning/duration-designer/summer-harvest/",
+      "brand_display": "Owens Corning",
+      "line_display": "Duration Designer",
+      "color_display": "Summer Harvest",
+      "hex": "#7e5d4a",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-oakridge-brownwood",
+      "url_path": "/shingles/owens-corning/oakridge/brownwood/",
+      "brand_display": "Owens Corning",
+      "line_display": "Oakridge",
+      "color_display": "Brownwood",
+      "hex": "#6c4a3c",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-oakridge-desert-tan",
+      "url_path": "/shingles/owens-corning/oakridge/desert-tan/",
+      "brand_display": "Owens Corning",
+      "line_display": "Oakridge",
+      "color_display": "Desert Tan",
+      "hex": "#866451",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-oakridge-driftwood",
+      "url_path": "/shingles/owens-corning/oakridge/driftwood/",
+      "brand_display": "Owens Corning",
+      "line_display": "Oakridge",
+      "color_display": "Driftwood",
+      "hex": "#5f564c",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "owens-corning-oakridge-estate-gray",
+      "url_path": "/shingles/owens-corning/oakridge/estate-gray/",
+      "brand_display": "Owens Corning",
+      "line_display": "Oakridge",
+      "color_display": "Estate Gray",
+      "hex": "#545a5a",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-oakridge-onyx-black",
+      "url_path": "/shingles/owens-corning/oakridge/onyx-black/",
+      "brand_display": "Owens Corning",
+      "line_display": "Oakridge",
+      "color_display": "Onyx Black",
+      "hex": "#292d30",
+      "color_family": "black",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "owens-corning-oakridge-teak",
+      "url_path": "/shingles/owens-corning/oakridge/teak/",
+      "brand_display": "Owens Corning",
+      "line_display": "Oakridge",
+      "color_display": "Teak",
+      "hex": "#6a4d3e",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-woodcrest-chestnut",
+      "url_path": "/shingles/owens-corning/woodcrest/chestnut/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Chestnut",
+      "hex": "#5e4836",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-woodcrest-granite",
+      "url_path": "/shingles/owens-corning/woodcrest/granite/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Granite",
+      "hex": "#53534f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-woodcrest-mesquite",
+      "url_path": "/shingles/owens-corning/woodcrest/mesquite/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Mesquite",
+      "hex": "#49413c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-woodcrest-mountainside",
+      "url_path": "/shingles/owens-corning/woodcrest/mountainside/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Mountainside",
+      "hex": "#50504f",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "owens-corning-woodcrest-night-sky",
+      "url_path": "/shingles/owens-corning/woodcrest/night-sky/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Night Sky",
+      "hex": "#383839",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "owens-corning-woodcrest-sand-castle",
+      "url_path": "/shingles/owens-corning/woodcrest/sand-castle/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Sand Castle",
+      "hex": "#886b52",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-woodcrest-sycamore",
+      "url_path": "/shingles/owens-corning/woodcrest/sycamore/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Sycamore",
+      "hex": "#6a5c4a",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "owens-corning-woodcrest-timber",
+      "url_path": "/shingles/owens-corning/woodcrest/timber/",
+      "brand_display": "Owens Corning",
+      "line_display": "Woodcrest",
+      "color_display": "Timber",
+      "hex": "#61432f",
+      "color_family": "brown",
+      "roof_archetype": "brown"
+    },
+    {
+      "slug": "tamko-heritage-oxford-grey",
+      "url_path": "/shingles/tamko/heritage/oxford-grey/",
+      "brand_display": "TAMKO",
+      "line_display": "Heritage",
+      "color_display": "Oxford Grey",
+      "hex": "#6a6c6c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "tamko-heritage-rustic-black",
+      "url_path": "/shingles/tamko/heritage/rustic-black/",
+      "brand_display": "TAMKO",
+      "line_display": "Heritage",
+      "color_display": "Rustic Black",
+      "hex": "#2e3236",
+      "color_family": "gray",
+      "roof_archetype": "black"
+    },
+    {
+      "slug": "tamko-heritage-shadow-grey",
+      "url_path": "/shingles/tamko/heritage/shadow-grey/",
+      "brand_display": "TAMKO",
+      "line_display": "Heritage",
+      "color_display": "Shadow Grey",
+      "hex": "#5f6569",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "tamko-heritage-virginia-slate",
+      "url_path": "/shingles/tamko/heritage/virginia-slate/",
+      "brand_display": "TAMKO",
+      "line_display": "Heritage",
+      "color_display": "Virginia Slate",
+      "hex": "#63696c",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    },
+    {
+      "slug": "tamko-heritage-weathered-wood",
+      "url_path": "/shingles/tamko/heritage/weathered-wood/",
+      "brand_display": "TAMKO",
+      "line_display": "Heritage",
+      "color_display": "Weathered Wood",
+      "hex": "#6f635a",
+      "color_family": "gray",
+      "roof_archetype": "weathered-wood"
+    },
+    {
+      "slug": "tamko-heritage-antique-slate",
+      "url_path": "/shingles/tamko/heritage/antique-slate/",
+      "brand_display": "TAMKO",
+      "line_display": "Heritage",
+      "color_display": "Antique Slate",
+      "hex": "#656b73",
+      "color_family": "gray",
+      "roof_archetype": "charcoal"
+    }
+  ],
+  "data_sources": [
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00"
+}
