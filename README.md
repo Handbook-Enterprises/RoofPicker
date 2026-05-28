@@ -72,12 +72,6 @@ headers; Cloudflare Pages honors that file automatically.
 | `npm run build` | Runs `sync` + `stamp-cdn` + `astro check` (TS + content-schema validation) + `astro build`. |
 | `npm run preview` | Serves `dist/` locally. |
 | `npm run check` | Type-checks every `.astro` and `.tsx` file against the Zod content schemas. |
-| `npm run port-homepage` | Regenerates `src/pages/index.astro` from `public/_templates/homepage.html`. |
-| `npm run port-comparison` | Regenerates the comparison detail route + reference page from the template. |
-| `npm run port-combination` | Regenerates the combination reference page from the template. |
-| `npm run port-color-hub` | Regenerates the color-hub reference page from the template. |
-| `npm run port-universal-hub` | Regenerates the universal hub reference page from the template. |
-| `npm run port-templates` | Runs all port-* scripts in order. |
 
 ---
 
@@ -87,12 +81,10 @@ headers; Cloudflare Pages honors that file automatically.
 RoofPicker/
 ├── public/
 │   ├── _headers              Cloudflare security headers + CSP
-│   ├── _templates/           Raw HTML design templates (source of truth)
 │   └── robots.txt
 ├── scripts/                  Node build-time helpers
 │   ├── sync-enriched-data.mjs    pulls enriched JSON from scraper output
-│   ├── stamp-cdn-urls.mjs        rewrites local image paths to R2 URLs
-│   └── port-*.mjs                ports each HTML template into Astro
+│   └── stamp-cdn-urls.mjs        rewrites local image paths to R2 URLs
 ├── src/
 │   ├── content/              Zod schemas + synced enriched JSONs (committed)
 │   ├── data/hubs/            Hub indexes consumed by listing pages

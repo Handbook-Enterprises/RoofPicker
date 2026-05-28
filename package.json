@@ -5,12 +5,6 @@
   "type": "module",
   "scripts": {
     "sync": "node scripts/sync-enriched-data.mjs",
-    "port-templates": "node scripts/port-templates.mjs",
-    "port-homepage": "node scripts/port-homepage.mjs",
-    "port-comparison": "node scripts/port-comparison.mjs",
-    "port-combination": "node scripts/port-combination.mjs",
-    "port-color-hub": "node scripts/port-color-hub.mjs",
-    "port-universal-hub": "node scripts/port-universal-hub.mjs",
     "stamp-cdn": "node scripts/stamp-cdn-urls.mjs",
     "dev": "npm run sync && npm run stamp-cdn && astro dev",
     "build": "npm run sync && npm run stamp-cdn && astro check && astro build",
