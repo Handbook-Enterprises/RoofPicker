@@ -54,9 +54,7 @@
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER (same as other templates)
-     ============================================================ */
+  /* HEADER (same as other templates) */
   
   
   
@@ -72,9 +70,7 @@
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     HUB HERO — Pattern C two-column head + content
-     ============================================================ */
+  /* HUB HERO — Pattern C two-column head + content */
   .hub-hero {
     padding: 56px 0 60px;
     border-bottom: 1px solid var(--rule);
@@ -150,9 +146,7 @@
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     FILTER STRIP (optional, only on busier hubs)
-     ============================================================ */
+  /* FILTER STRIP (optional, only on busier hubs) */
   .filter-strip {
     padding: 24px 0;
     border-bottom: 1px solid var(--rule);
@@ -207,9 +201,7 @@
     margin-left: auto;
   }
 
-  /* ============================================================
-     CARDS GRID (variant 1: Master Color Index)
-     ============================================================ */
+  /* CARDS GRID (variant 1: Master Color Index) */
   .hub-grid-section {
     padding: 60px 0 100px;
   }
@@ -313,19 +305,7 @@
   }
   .color-card:hover .footer .arrow { transform: translateX(4px); }
 
-  /* ============================================================
-     PAGINATION (Optional, conditional)
-     Activates only when item count exceeds the page threshold.
-     Default: 24 per page. Threshold and chip values are page-level
-     decisions (24 / 48 / 96).
-
-       - Master Color Index (13 items):  no pagination
-       - Comparison Hub (12 items):       no pagination
-       - Brand Hub (7 brands or so):      no pagination
-       - Line Hub (5 to 15 SKUs):         no pagination
-       - Long-color Line Hub (33 colors): pagination active
-       - "All SKUs" view (230 items):     pagination active
-     ============================================================ */
+  /* PAGINATION (Optional, conditional) */
   .pagination {
     margin-top: 56px;
     padding-top: 32px;
@@ -464,9 +444,7 @@
     .pagination .page-next { padding: 8px 14px; font-size: 10px; }
   }
 
-  /* ============================================================
-     SUPPORTING SECTION — quick explainer or FAQ (optional)
-     ============================================================ */
+  /* SUPPORTING SECTION — quick explainer or FAQ (optional) */
   .explainer {
     background: var(--ink);
     color: var(--paper);
@@ -529,9 +507,7 @@
     line-height: 1.55;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -570,9 +546,7 @@
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER
-     ============================================================ */
+  /* FOOTER */
   
   
   

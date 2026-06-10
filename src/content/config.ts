@@ -1,4 +1,4 @@
-// Zod schemas for each strategy's enriched JSON — upstream drift fails the build.
+// Zod schemas for each strategy's enriched JSON. Upstream drift fails the build.
 
 import { defineCollection, z } from 'astro:content';
 

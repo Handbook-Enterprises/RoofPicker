@@ -49,9 +49,7 @@
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER (same pattern as homepage)
-     ============================================================ */
+  /* HEADER (same pattern as homepage) */
   
   
   
@@ -67,9 +65,7 @@
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     COMPARISON HERO
-     ============================================================ */
+  /* COMPARISON HERO */
   .comp-hero {
     padding: 36px 0 64px;
   }
@@ -156,12 +152,7 @@
     margin-top: 6px;
   }
 
-  /* ============================================================
-     SPLIT-IMAGE COMPARISON MODULE (D2 pattern)
-     Same DNA as the homepage "A few from this week" gallery tiles.
-     Hero-sized, real before/after images, dual-color split-chip
-     at top center, brand + color names replace BEFORE / AFTER.
-     ============================================================ */
+  /* SPLIT-IMAGE COMPARISON MODULE (D2 pattern) */
   .comp-visual {
     padding: 0 0 100px;
   }
@@ -294,9 +285,7 @@
     .split-stage .tag { font-size: 9px; letter-spacing: 0.12em; padding: 4px 8px; bottom: 10px; left: 10px; }
   }
 
-  /* ============================================================
-     DECISION RUBRIC ("When to choose A / When to choose B")
-     ============================================================ */
+  /* DECISION RUBRIC ("When to choose A / When to choose B") */
   .decision {
     padding: 90px 0 80px;
     border-top: 1px solid var(--rule);
@@ -377,9 +366,7 @@
   }
   .choose-card.b .choose-list li::before { background: var(--sage); }
 
-  /* ============================================================
-     COMPARISON TABLE
-     ============================================================ */
+  /* COMPARISON TABLE */
   .compare-table {
     padding: 90px 0 90px;
     background: var(--ink);
@@ -494,9 +481,7 @@
     }
   }
 
-  /* ============================================================
-     REDDIT QUOTES
-     ============================================================ */
+  /* REDDIT QUOTES */
   .quotes {
     padding: 100px 0 80px;
   }
@@ -562,9 +547,7 @@
   .quote-attr .source { color: var(--clay); }
   .quote-attr .source:hover { color: var(--clay-deep); }
 
-  /* ============================================================
-     COLOR OVERLAP / CROSS-LINKS TO SKU PAGES
-     ============================================================ */
+  /* COLOR OVERLAP / CROSS-LINKS TO SKU PAGES */
   .overlap {
     padding: 90px 0;
   }
@@ -625,9 +608,7 @@
     letter-spacing: -0.005em;
   }
 
-  /* ============================================================
-     TRY ON YOUR HOUSE — LAUNCHER CARDS
-     ============================================================ */
+  /* TRY ON YOUR HOUSE — LAUNCHER CARDS */
   .try-it {
     padding: 100px 0 100px;
     background: var(--ink);
@@ -731,9 +712,7 @@
   }
   .launcher-card:hover .action .arrow { transform: translateX(4px); }
 
-  /* ============================================================
-     VIDEO
-     ============================================================ */
+  /* VIDEO */
   .video-section {
     padding: 100px 0 80px;
   }
@@ -787,9 +766,7 @@
     cursor: pointer;
   }
 
-  /* ============================================================
-     FAQ (glass cards on dark slab, same as homepage)
-     ============================================================ */
+  /* FAQ (glass cards on dark slab, same as homepage) */
   .faq {
     background: var(--ink);
     color: var(--paper);
@@ -857,9 +834,7 @@
     line-height: 1.6;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -899,9 +874,7 @@
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER (same as homepage)
-     ============================================================ */
+  /* FOOTER (same as homepage) */
   
   
   

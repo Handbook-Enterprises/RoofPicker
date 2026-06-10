@@ -54,9 +54,7 @@
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER
-     ============================================================ */
+  /* HEADER */
   
   
   
@@ -72,9 +70,7 @@
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     HERO — H1 + intro + above-fold mosaic (12+ images)
-     ============================================================ */
+  /* HERO — H1 + intro + above-fold mosaic (12+ images) */
   .hub-hero {
     padding: 36px 0 60px;
   }
@@ -226,11 +222,7 @@
     .htile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     COLOR COMBINATIONS TABLE
-     The trulogsiding PAA-winning format: roof color, recommended
-     siding colors, house styles that fit.
-     ============================================================ */
+  /* COLOR COMBINATIONS TABLE */
   .combos {
     padding: 110px 0 100px;
   }
@@ -370,9 +362,7 @@
     border-radius: 4px;
   }
 
-  /* ============================================================
-     MID-PAGE VISUALIZER LAUNCHER
-     ============================================================ */
+  /* MID-PAGE VISUALIZER LAUNCHER */
   .visualizer-cta {
     background: var(--ink);
     color: var(--paper);
@@ -495,9 +485,7 @@
   }
   .vcta-launcher:hover .arrow-btn { transform: translateX(4px); background: var(--clay-deep); }
 
-  /* ============================================================
-     LONG-TAIL GALLERY by SUB-STYLE
-     ============================================================ */
+  /* LONG-TAIL GALLERY by SUB-STYLE */
   .long-gallery {
     padding: 110px 0 90px;
   }
@@ -604,9 +592,7 @@
     .gtile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     MATERIAL VARIATIONS
-     ============================================================ */
+  /* MATERIAL VARIATIONS */
   .materials {
     padding: 90px 0 80px;
     border-top: 1px solid var(--rule);
@@ -697,10 +683,7 @@
     align-self: flex-start;
   }
 
-  /* ============================================================
-     CROSS-LINK CLUSTER
-     Three columns: sub-color hubs, recommended SKUs, combination pages
-     ============================================================ */
+  /* CROSS-LINK CLUSTER */
   .crosslinks {
     background: var(--ink);
     color: var(--paper);
@@ -780,9 +763,7 @@
     border: 1px solid rgba(242,236,222,0.3);
   }
 
-  /* ============================================================
-     FAQ
-     ============================================================ */
+  /* FAQ */
   .faq {
     padding: 100px 0 90px;
   }
@@ -847,9 +828,7 @@
     line-height: 1.6;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -889,9 +868,7 @@
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER
-     ============================================================ */
+  /* FOOTER */
   
   
   

@@ -55,9 +55,7 @@
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER (same as other templates)
-     ============================================================ */
+  /* HEADER (same as other templates) */
   
   
   
@@ -73,9 +71,7 @@
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     HERO — H1 + intro + above-fold gallery mosaic
-     ============================================================ */
+  /* HERO — H1 + intro + above-fold gallery mosaic */
   .combo-hero {
     padding: 36px 0 60px;
   }
@@ -215,9 +211,7 @@
     .htile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     LONG-TAIL GALLERY (sub-style sections)
-     ============================================================ */
+  /* LONG-TAIL GALLERY (sub-style sections) */
   .long-gallery {
     padding: 80px 0 80px;
   }
@@ -303,9 +297,7 @@
     .gtile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     MID-PAGE VISUALIZER LAUNCHER (D1 pattern)
-     ============================================================ */
+  /* MID-PAGE VISUALIZER LAUNCHER (D1 pattern) */
   .visualizer-cta {
     background: var(--ink);
     color: var(--paper);
@@ -435,9 +427,7 @@
   }
   .vcta-launcher:hover .arrow-btn { transform: translateX(4px); background: var(--clay-deep); }
 
-  /* ============================================================
-     RECOMMENDED SKUs
-     ============================================================ */
+  /* RECOMMENDED SKUs */
   .recommended {
     padding: 110px 0 90px;
   }
@@ -517,9 +507,7 @@
   }
   .sku-card .color em { font-style: italic; color: var(--clay); }
 
-  /* ============================================================
-     THINGS TO CONSIDER
-     ============================================================ */
+  /* THINGS TO CONSIDER */
   .consider {
     padding: 90px 0 80px;
     border-top: 1px solid var(--rule);
@@ -582,9 +570,7 @@
     line-height: 1.55;
   }
 
-  /* ============================================================
-     VARIATIONS (Dark slab moment)
-     ============================================================ */
+  /* VARIATIONS (Dark slab moment) */
   .variations {
     background: var(--ink);
     color: var(--paper);
@@ -673,9 +659,7 @@
     letter-spacing: -0.005em;
   }
 
-  /* ============================================================
-     FAQ (paper, same as SKU page)
-     ============================================================ */
+  /* FAQ (paper, same as SKU page) */
   .faq {
     padding: 100px 0 90px;
   }
@@ -740,9 +724,7 @@
     line-height: 1.6;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -782,9 +764,7 @@
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER
-     ============================================================ */
+  /* FOOTER */
   
   
   

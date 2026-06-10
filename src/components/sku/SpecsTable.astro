@@ -30,7 +30,7 @@ function prettyDocLabel(raw: string, url?: string): string {
   if (s === s.toLowerCase() || s === s.toUpperCase()) {
     s = s.toLowerCase().replace(/\b([a-z])/g, (_, c) => c.toUpperCase());
   }
-  // Drop trailing "final" / "draft" markers — internal versioning noise.
+  // Drop trailing "final" / "draft" markers (internal versioning noise).
   s = s.replace(/\s+\b(final|draft|v\d+(\.\d+)*)\b\s*$/i, '');
   return s.trim() || 'Product document';
 }
