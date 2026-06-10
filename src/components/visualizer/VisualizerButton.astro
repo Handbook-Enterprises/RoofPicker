@@ -1,13 +1,13 @@
 ---
-// Three variants: primary (light surfaces), launch (dark slabs), ghost (secondary text).
+// Variants: primary (light), launch (dark), ghost (text). Opens the floating widget.
+// `payload` is unused until RoofKit ships a programmatic prefill API.
 interface Props {
-  payload: Record<string, unknown>;
+  payload?: Record<string, unknown>;
   label: string;
   variant?: 'primary' | 'launch' | 'ghost';
   ariaLabel?: string;
 }
-const { payload, label, variant = 'primary', ariaLabel } = Astro.props;
-const json = JSON.stringify(payload);
+const { label, variant = 'primary', ariaLabel } = Astro.props;
 const klass = variant === 'ghost' ? 'btn-ghost'
             : variant === 'launch' ? 'btn-launch'
             : 'btn-primary';
@@ -15,7 +15,7 @@ const klass = variant === 'ghost' ? 'btn-ghost'
 <button
   type="button"
   class={klass}
-  data-visualizer={json}
+  data-roofkit-open
   aria-label={ariaLabel || label}
 >
   <span>{label}</span>
