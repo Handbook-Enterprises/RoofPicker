@@ -55,9 +55,7 @@ const css = `
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER
-     ============================================================ */
+  /* HEADER */
   
   
   
@@ -73,9 +71,7 @@ const css = `
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     HERO — H1 + intro + above-fold mosaic (12+ images)
-     ============================================================ */
+  /* HERO — H1 + intro + above-fold mosaic (12+ images) */
   .hub-hero {
     padding: 36px 0 60px;
   }
@@ -227,11 +223,7 @@ const css = `
     .htile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     COLOR COMBINATIONS TABLE
-     The trulogsiding PAA-winning format: roof color, recommended
-     siding colors, house styles that fit.
-     ============================================================ */
+  /* COLOR COMBINATIONS TABLE */
   .combos {
     padding: 110px 0 100px;
   }
@@ -371,9 +363,7 @@ const css = `
     border-radius: 4px;
   }
 
-  /* ============================================================
-     MID-PAGE VISUALIZER LAUNCHER
-     ============================================================ */
+  /* MID-PAGE VISUALIZER LAUNCHER */
   .visualizer-cta {
     background: var(--ink);
     color: var(--paper);
@@ -496,9 +486,7 @@ const css = `
   }
   .vcta-launcher:hover .arrow-btn { transform: translateX(4px); background: var(--clay-deep); }
 
-  /* ============================================================
-     LONG-TAIL GALLERY by SUB-STYLE
-     ============================================================ */
+  /* LONG-TAIL GALLERY by SUB-STYLE */
   .long-gallery {
     padding: 110px 0 90px;
   }
@@ -605,9 +593,7 @@ const css = `
     .gtile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     MATERIAL VARIATIONS
-     ============================================================ */
+  /* MATERIAL VARIATIONS */
   .materials {
     padding: 90px 0 80px;
     border-top: 1px solid var(--rule);
@@ -698,10 +684,7 @@ const css = `
     align-self: flex-start;
   }
 
-  /* ============================================================
-     CROSS-LINK CLUSTER
-     Three columns: sub-color hubs, recommended SKUs, combination pages
-     ============================================================ */
+  /* CROSS-LINK CLUSTER */
   .crosslinks {
     background: var(--ink);
     color: var(--paper);
@@ -781,9 +764,7 @@ const css = `
     border: 1px solid rgba(242,236,222,0.3);
   }
 
-  /* ============================================================
-     FAQ
-     ============================================================ */
+  /* FAQ */
   .faq {
     padding: 100px 0 90px;
   }
@@ -848,9 +829,7 @@ const css = `
     line-height: 1.6;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -890,19 +869,17 @@ const css = `
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER
-     ============================================================ */
+  /* FOOTER */
   
   
   
   
   
 `;
-const body = `<!-- ============================ HEADER ============================ -->
+const body = `<!-- HEADER -->
   
 
-  <!-- ============================ HUB HERO ============================ -->
+  <!-- HUB HERO -->
   <section class="hub-hero">
     <div class="wrap">
 
@@ -996,7 +973,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ COMBINATIONS TABLE ============================ -->
+  <!-- COMBINATIONS TABLE -->
   <section class="combos">
     <div class="wrap">
 
@@ -1049,7 +1026,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ MID-PAGE VISUALIZER ============================ -->
+  <!-- MID-PAGE VISUALIZER -->
   <section class="visualizer-cta">
     <div class="wrap vcta-inner">
 
@@ -1057,12 +1034,12 @@ const body = `<!-- ============================ HEADER =========================
         <span class="kicker">See it on your house · free</span>
         <div class="title">Filter the visualizer to <em>black roofs only</em>.</div>
         <p>Open the visualizer with every black-roof SKU pre-filtered. Upload a photo of your house and cycle through Charcoal, Onyx Black, Moire Black, and Midnight Slate in one tap each.</p>
-        <button class="btn-launch" onclick="openVisualizer('hub', 'black-roof')">
+        <button class="btn-launch" data-roofkit-open>
           Open visualizer with black filter <span class="arrow">→</span>
         </button>
       </div>
 
-      <button class="vcta-launcher" onclick="openVisualizer('hub', 'black-roof')">
+      <button class="vcta-launcher" data-roofkit-open>
         <div class="preview">
           <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="Black roof color filter preview"/>
           <div class="filter-badge">
@@ -1079,7 +1056,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ LONG-TAIL GALLERY ============================ -->
+  <!-- LONG-TAIL GALLERY -->
   <section class="long-gallery">
     <div class="wrap">
 
@@ -1298,7 +1275,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ MATERIAL VARIATIONS ============================ -->
+  <!-- MATERIAL VARIATIONS -->
   <section class="materials">
     <div class="wrap">
 
@@ -1333,7 +1310,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ CROSS-LINK CLUSTER ============================ -->
+  <!-- CROSS-LINK CLUSTER -->
   <section class="crosslinks">
     <div class="wrap">
 
@@ -1381,7 +1358,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ FAQ ============================ -->
+  <!-- FAQ -->
   <section class="faq">
     <div class="wrap faq-inner">
 
@@ -1427,16 +1404,16 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ CLOSING CTA ============================ -->
+  <!-- CLOSING CTA -->
   <section class="closing">
     <div class="wrap">
       <span class="kicker">Free · No signup · See it in seconds</span>
       <h2>See <em>your house</em> with a black roof.</h2>
-      <button class="btn-primary" onclick="openVisualizer('hub', 'black-roof')">Open the visualizer <span class="arrow">→</span></button>
+      <button class="btn-primary" data-roofkit-open>Open the visualizer <span class="arrow">→</span></button>
     </div>
   </section>
 
-  <!-- ============================ FOOTER ============================ -->`;
+  <!-- FOOTER -->`;
 const inlineScripts = `
   // -------- FAQ accordion --------
   (function () {
@@ -1451,17 +1428,6 @@ const inlineScripts = `
     });
   })();
 
-  // -------- Visualizer launcher stub (D1 modal pattern) --------
-  // For color hub pages, the launcher pre-applies a roof color filter
-  // and optionally a material filter (depends on Lucas's answer 5,
-  // confirmed yes for material filtering).
-  function openVisualizer(context, colorFilter) {
-    console.log('Open visualizer:', { context, colorFilter });
-    alert('RoofKit visualizer opens here.\\n\\n' +
-      (context === 'hub'
-        ? \`Pre-applied filter: \${colorFilter}\`
-        : 'No filter pre-selected'));
-  }
 `;
 ---
 <BaseLayout

@@ -56,9 +56,7 @@ const css = `
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER (same as other templates)
-     ============================================================ */
+  /* HEADER (same as other templates) */
   
   
   
@@ -74,9 +72,7 @@ const css = `
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     HERO — H1 + intro + above-fold gallery mosaic
-     ============================================================ */
+  /* HERO — H1 + intro + above-fold gallery mosaic */
   .combo-hero {
     padding: 36px 0 60px;
   }
@@ -216,9 +212,7 @@ const css = `
     .htile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     LONG-TAIL GALLERY (sub-style sections)
-     ============================================================ */
+  /* LONG-TAIL GALLERY (sub-style sections) */
   .long-gallery {
     padding: 80px 0 80px;
   }
@@ -304,9 +298,7 @@ const css = `
     .gtile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* ============================================================
-     MID-PAGE VISUALIZER LAUNCHER (D1 pattern)
-     ============================================================ */
+  /* MID-PAGE VISUALIZER LAUNCHER (D1 pattern) */
   .visualizer-cta {
     background: var(--ink);
     color: var(--paper);
@@ -436,9 +428,7 @@ const css = `
   }
   .vcta-launcher:hover .arrow-btn { transform: translateX(4px); background: var(--clay-deep); }
 
-  /* ============================================================
-     RECOMMENDED SKUs
-     ============================================================ */
+  /* RECOMMENDED SKUs */
   .recommended {
     padding: 110px 0 90px;
   }
@@ -518,9 +508,7 @@ const css = `
   }
   .sku-card .color em { font-style: italic; color: var(--clay); }
 
-  /* ============================================================
-     THINGS TO CONSIDER
-     ============================================================ */
+  /* THINGS TO CONSIDER */
   .consider {
     padding: 90px 0 80px;
     border-top: 1px solid var(--rule);
@@ -583,9 +571,7 @@ const css = `
     line-height: 1.55;
   }
 
-  /* ============================================================
-     VARIATIONS (Dark slab moment)
-     ============================================================ */
+  /* VARIATIONS (Dark slab moment) */
   .variations {
     background: var(--ink);
     color: var(--paper);
@@ -674,9 +660,7 @@ const css = `
     letter-spacing: -0.005em;
   }
 
-  /* ============================================================
-     FAQ (paper, same as SKU page)
-     ============================================================ */
+  /* FAQ (paper, same as SKU page) */
   .faq {
     padding: 100px 0 90px;
   }
@@ -741,9 +725,7 @@ const css = `
     line-height: 1.6;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -783,19 +765,17 @@ const css = `
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER
-     ============================================================ */
+  /* FOOTER */
   
   
   
   
   
 `;
-const body = `<!-- ============================ HEADER ============================ -->
+const body = `<!-- HEADER -->
   
 
-  <!-- ============================ COMBO HERO ============================ -->
+  <!-- COMBO HERO -->
   <section class="combo-hero">
     <div class="wrap">
 
@@ -862,7 +842,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ LONG-TAIL GALLERY ============================ -->
+  <!-- LONG-TAIL GALLERY -->
   <section class="long-gallery">
     <div class="wrap">
 
@@ -1014,7 +994,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ VISUALIZER CTA ============================ -->
+  <!-- VISUALIZER CTA -->
   <section class="visualizer-cta">
     <div class="wrap vcta-inner">
 
@@ -1022,12 +1002,12 @@ const body = `<!-- ============================ HEADER =========================
         <span class="kicker">See it on your house · free</span>
         <div class="title">Try this <em>combination</em> on your own house.</div>
         <p>Upload a phone photo of your house and pre-load this exact white-and-black pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.</p>
-        <button class="btn-launch" onclick="openVisualizer('combination', 'white-house', 'black-roof')">
+        <button class="btn-launch" data-roofkit-open>
           Open visualizer with this combo <span class="arrow">→</span>
         </button>
       </div>
 
-      <button class="vcta-launcher" onclick="openVisualizer('combination', 'white-house', 'black-roof')">
+      <button class="vcta-launcher" data-roofkit-open>
         <div class="preview">
           <img src="https://i.ibb.co/8nc7FX6j/Charcoal-Slate.png" alt="White house with black roof preview"/>
           <div class="badge">
@@ -1045,7 +1025,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ RECOMMENDED SKUs ============================ -->
+  <!-- RECOMMENDED SKUs -->
   <section class="recommended">
     <div class="wrap">
 
@@ -1095,7 +1075,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ THINGS TO CONSIDER ============================ -->
+  <!-- THINGS TO CONSIDER -->
   <section class="consider">
     <div class="wrap">
 
@@ -1128,7 +1108,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ VARIATIONS (Dark slab) ============================ -->
+  <!-- VARIATIONS (Dark slab) -->
   <section class="variations">
     <div class="wrap">
 
@@ -1203,7 +1183,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ FAQ ============================ -->
+  <!-- FAQ -->
   <section class="faq">
     <div class="wrap faq-inner">
 
@@ -1244,16 +1224,16 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ CLOSING CTA ============================ -->
+  <!-- CLOSING CTA -->
   <section class="closing">
     <div class="wrap">
       <span class="kicker">Free · No signup · See it in seconds</span>
       <h2>See <em>White × Black</em> on your house.</h2>
-      <button class="btn-primary" onclick="openVisualizer('combination', 'white-house', 'black-roof')">Open the visualizer <span class="arrow">→</span></button>
+      <button class="btn-primary" data-roofkit-open>Open the visualizer <span class="arrow">→</span></button>
     </div>
   </section>
 
-  <!-- ============================ FOOTER ============================ -->`;
+  <!-- FOOTER -->`;
 const inlineScripts = `
   // -------- FAQ accordion --------
   (function () {
@@ -1268,17 +1248,6 @@ const inlineScripts = `
     });
   })();
 
-  // -------- Visualizer launcher stub (D1 modal pattern) --------
-  // Wire to Lucas's RoofKit launcher snippet when available.
-  // For combination pages, the launcher pre-loads with a recommended
-  // SKU (the top recommended one) and the house template hint.
-  function openVisualizer(context, house, roof) {
-    console.log('Open visualizer:', { context, house, roof });
-    alert('RoofKit visualizer opens here.\\n\\n' +
-      (context === 'combination'
-        ? \`Pre-load: \${house} + \${roof} (top recommended SKU)\`
-        : 'No SKU pre-selected'));
-  }
 `;
 ---
 <BaseLayout

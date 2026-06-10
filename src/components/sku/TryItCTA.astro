@@ -31,7 +31,7 @@ const previewUrl = imageSrc({
       <VisualizerButton payload={data.visualizer_payload} label={data.cta_label} variant="launch" />
     </div>
 
-    <button type="button" class="try-launcher" data-visualizer={JSON.stringify(data.visualizer_payload)}>
+    <button type="button" class="try-launcher" data-roofkit-open>
       <div class="preview">
         {previewUrl && <img src={previewUrl} alt="Visualizer preview" loading="lazy" />}
         {data.badge_text && (

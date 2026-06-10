@@ -55,9 +55,7 @@ const css = `
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER (same as other templates)
-     ============================================================ */
+  /* HEADER (same as other templates) */
   
   
   
@@ -73,9 +71,7 @@ const css = `
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     HUB HERO — Pattern C two-column head + content
-     ============================================================ */
+  /* HUB HERO — Pattern C two-column head + content */
   .hub-hero {
     padding: 56px 0 60px;
     border-bottom: 1px solid var(--rule);
@@ -151,9 +147,7 @@ const css = `
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     FILTER STRIP (optional, only on busier hubs)
-     ============================================================ */
+  /* FILTER STRIP (optional, only on busier hubs) */
   .filter-strip {
     padding: 24px 0;
     border-bottom: 1px solid var(--rule);
@@ -208,9 +202,7 @@ const css = `
     margin-left: auto;
   }
 
-  /* ============================================================
-     CARDS GRID (variant 1: Master Color Index)
-     ============================================================ */
+  /* CARDS GRID (variant 1: Master Color Index) */
   .hub-grid-section {
     padding: 60px 0 100px;
   }
@@ -314,19 +306,7 @@ const css = `
   }
   .color-card:hover .footer .arrow { transform: translateX(4px); }
 
-  /* ============================================================
-     PAGINATION (Optional, conditional)
-     Activates only when item count exceeds the page threshold.
-     Default: 24 per page. Threshold and chip values are page-level
-     decisions (24 / 48 / 96).
-
-       - Master Color Index (13 items):  no pagination
-       - Comparison Hub (12 items):       no pagination
-       - Brand Hub (7 brands or so):      no pagination
-       - Line Hub (5 to 15 SKUs):         no pagination
-       - Long-color Line Hub (33 colors): pagination active
-       - "All SKUs" view (230 items):     pagination active
-     ============================================================ */
+  /* PAGINATION (Optional, conditional) */
   .pagination {
     margin-top: 56px;
     padding-top: 32px;
@@ -465,9 +445,7 @@ const css = `
     .pagination .page-next { padding: 8px 14px; font-size: 10px; }
   }
 
-  /* ============================================================
-     SUPPORTING SECTION — quick explainer or FAQ (optional)
-     ============================================================ */
+  /* SUPPORTING SECTION — quick explainer or FAQ (optional) */
   .explainer {
     background: var(--ink);
     color: var(--paper);
@@ -530,9 +508,7 @@ const css = `
     line-height: 1.55;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -571,19 +547,17 @@ const css = `
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER
-     ============================================================ */
+  /* FOOTER */
   
   
   
   
   
 `;
-const body = `<!-- ============================ HEADER ============================ -->
+const body = `<!-- HEADER -->
   
 
-  <!-- ============================ HUB HERO ============================ -->
+  <!-- HUB HERO -->
   <section class="hub-hero">
     <div class="wrap">
 
@@ -622,7 +596,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ FILTER STRIP ============================ -->
+  <!-- FILTER STRIP -->
   <section class="filter-strip">
     <div class="wrap filter-row">
       <span class="filter-label">Filter by material</span>
@@ -636,7 +610,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ CARDS GRID ============================ -->
+  <!-- CARDS GRID -->
   <section class="hub-grid-section">
     <div class="wrap">
       <div class="hub-grid">
@@ -844,20 +818,7 @@ const body = `<!-- ============================ HEADER =========================
 
       </div>
 
-      <!-- ============================ PAGINATION ============================
-        Pagination is OPTIONAL and conditional. Include this <nav> block
-        ONLY when the number of grid items exceeds the page threshold
-        (default: 24 per page).
-
-        For the Master Color Index shown above (13 items), pagination is
-        not needed. The block below is rendered here for demonstration
-        purposes so designers and devs can see the visual pattern.
-
-        Variants that DO need pagination:
-          - "All SKUs" index (230 items)
-          - GAF Timberline HDZ Line Hub (33 colors)
-          - Any other hub where item count > 24
-        ============================================================ -->
+      <!-- PAGINATION -->
       <nav class="pagination" aria-label="Pagination">
 
         <div class="controls">
@@ -897,7 +858,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ EXPLAINER ============================ -->
+  <!-- EXPLAINER -->
   <section class="explainer">
     <div class="wrap explainer-inner">
 
@@ -936,16 +897,16 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ CLOSING CTA ============================ -->
+  <!-- CLOSING CTA -->
   <section class="closing">
     <div class="wrap">
       <span class="kicker">Free · No signup · See it in seconds</span>
       <h2>Or just <em>open</em> the visualizer.</h2>
-      <button class="btn-primary" onclick="openVisualizer()">Open the visualizer <span class="arrow">→</span></button>
+      <button class="btn-primary" data-roofkit-open>Open the visualizer <span class="arrow">→</span></button>
     </div>
   </section>
 
-  <!-- ============================ FOOTER ============================ -->`;
+  <!-- FOOTER -->`;
 const inlineScripts = `
   // -------- Filter chip toggle (visual only) --------
   (function () {
@@ -968,15 +929,9 @@ const inlineScripts = `
       if (!chip) return;
       chips.querySelectorAll('.per-page-chip').forEach(c => c.classList.remove('on'));
       chip.classList.add('on');
-      console.log('Per-page changed to:', chip.dataset.size);
     });
   })();
 
-  // -------- Visualizer launcher stub (D1 modal pattern) --------
-  function openVisualizer() {
-    console.log('Open visualizer (hub)');
-    alert('RoofKit visualizer opens here. No SKU pre-selected from the hub index.');
-  }
 `;
 ---
 <BaseLayout

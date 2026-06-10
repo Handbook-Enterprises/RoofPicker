@@ -334,24 +334,14 @@ const h1Raw = String(data.h1 ?? `${subjectA} vs ${subjectB}`);
       </div>
 
       <div class="launcher-row">
-        <button
-          class="launcher-card a"
-          data-brand={brandA}
-          data-line={lineA}
-          data-color={overlap[0]?.a_color ? overlap[0].a_color.toLowerCase().replace(/\s+/g, '-') : ''}
-        >
+        <button class="launcher-card a" data-roofkit-open>
           <div class="subject"><span class="dot"></span>Subject A</div>
           <h4>Try {subjectA} on your house.</h4>
           <p class="desc">Opens the visualizer pre-loaded with {subjectA}{overlapNameA && ` in ${overlapNameA}`}. Swap colors freely once it loads.</p>
           <span class="action">Open visualizer <span class="arrow">→</span></span>
         </button>
 
-        <button
-          class="launcher-card b"
-          data-brand={brandB}
-          data-line={lineB}
-          data-color={overlap[0]?.b_color ? overlap[0].b_color.toLowerCase().replace(/\s+/g, '-') : ''}
-        >
+        <button class="launcher-card b" data-roofkit-open>
           <div class="subject"><span class="dot"></span>Subject B</div>
           <h4>Try {subjectB} on your house.</h4>
           <p class="desc">Opens the visualizer pre-loaded with {subjectB}{overlapNameB && ` in ${overlapNameB}`}. Swap colors freely once it loads.</p>
@@ -410,12 +400,12 @@ const h1Raw = String(data.h1 ?? `${subjectA} vs ${subjectB}`);
     <div class="wrap">
       <span class="kicker">Still not sure?</span>
       <h2>See both on <em>your</em> house.</h2>
-      <button class="btn-primary" data-open-visualizer>Open the visualizer <span class="arrow">→</span></button>
+      <button class="btn-primary" data-roofkit-open>Open the visualizer <span class="arrow">→</span></button>
     </div>
   </section>
 
   <script is:inline>
-    // Split-divider drag — copied verbatim from the template.
+    // Split-divider drag. Copied verbatim from the template.
     (function () {
       const stage = document.getElementById('splitStage');
       if (!stage) return;
@@ -444,7 +434,7 @@ const h1Raw = String(data.h1 ?? `${subjectA} vs ${subjectB}`);
       window.addEventListener('touchend', end);
     })();
 
-    // FAQ accordion — copied verbatim from the template.
+    // FAQ accordion. Copied verbatim from the template.
     (function () {
       const list = document.getElementById('faqList');
       if (!list) return;
@@ -458,19 +448,5 @@ const h1Raw = String(data.h1 ?? `${subjectA} vs ${subjectB}`);
       });
     })();
 
-    // Visualizer launcher stub. Wires to RoofKit when available.
-    function openVisualizer(brand, line, color) {
-      console.log('Open visualizer:', { brand: brand, line: line, color: color });
-      alert('RoofKit visualizer will open here. Launcher snippet pending from Lucas.\n\n' +
-        (brand ? 'Pre-load: ' + brand + ' / ' + line + ' / ' + color : 'No SKU pre-selected'));
-    }
-    document.querySelectorAll('.launcher-card[data-brand]').forEach((card) => {
-      card.addEventListener('click', () => {
-        openVisualizer(card.dataset.brand, card.dataset.line, card.dataset.color);
-      });
-    });
-    document.querySelectorAll('[data-open-visualizer]').forEach((btn) => {
-      btn.addEventListener('click', () => openVisualizer());
-    });
   </script>
 </BaseLayout>

@@ -25,7 +25,6 @@ const styleTags: Array<any> = Array.isArray(combos.style_tags) ? combos.style_ta
 
 // --- Visualizer CTA --------------------------------------------------
 const vcta = data.visualizer_cta ?? {};
-const vctaPayload = vcta.visualizer_payload ?? {};
 const vctaPreview = imageSrc({
   image_local_path: vcta.preview_image_local_path,
   image_cdn_url:    vcta.preview_image_cdn_url,
@@ -46,10 +45,6 @@ const faqs: Array<{ q: string; a: string }> = Array.isArray(data.faq_items) ? da
 
 // --- Closing ---------------------------------------------------------
 const closing = data.closing ?? {};
-const closingPayload = closing.visualizer_payload ?? {};
-
-const vctaPayloadJson = JSON.stringify(vctaPayload);
-const closingPayloadJson = JSON.stringify(closingPayload);
 
 const roofArchetypeDisplay = (data.roof_archetype_display ?? 'roof').toLowerCase();
 ---
@@ -169,12 +164,12 @@ const roofArchetypeDisplay = (data.roof_archetype_display ?? 'roof').toLowerCase
       {vcta.kicker && <span class="kicker">{vcta.kicker}</span>}
       {vcta.title_html && <div class="title" set:html={vcta.title_html}></div>}
       {vcta.body && <p>{vcta.body}</p>}
-      <button class="btn-launch" data-launch={vctaPayloadJson}>
+      <button class="btn-launch" data-roofkit-open>
         {vcta.cta_label ?? 'Open visualizer'} <span class="arrow">→</span>
       </button>
     </div>
 
-    <button class="vcta-launcher" data-launch={vctaPayloadJson}>
+    <button class="vcta-launcher" data-roofkit-open>
       <div class="preview">
         {vctaPreview && <img src={vctaPreview} alt={vcta.filter_badge?.label ?? ''} />}
         {vcta.filter_badge && (
@@ -321,14 +316,14 @@ const roofArchetypeDisplay = (data.roof_archetype_display ?? 'roof').toLowerCase
   <div class="wrap">
     {closing.kicker && <span class="kicker">{closing.kicker}</span>}
     {closing.h2_html && <h2 set:html={closing.h2_html}></h2>}
-    <button class="btn-primary" data-launch={closingPayloadJson}>
+    <button class="btn-primary" data-roofkit-open>
       {closing.cta_label ?? 'Open the visualizer'} <span class="arrow">→</span>
     </button>
   </div>
 </section>
 
 <script is:inline>
-  // FAQ accordion — copied verbatim from the template.
+  // FAQ accordion. Copied verbatim from the template.
   (function () {
     const list = document.getElementById('faqList');
     if (!list) return;
@@ -342,17 +337,4 @@ const roofArchetypeDisplay = (data.roof_archetype_display ?? 'roof').toLowerCase
     });
   })();
 
-  // Visualizer launcher stub. Wires to RoofKit when available.
-  function openVisualizer(payload) {
-    console.log('Open visualizer:', payload);
-    var filter = payload && payload.color_filter ? payload.color_filter : '';
-    alert('RoofKit visualizer opens here.\n\n' +
-      (filter ? 'Filter: ' + filter : 'No filter applied'));
-  }
-  document.querySelectorAll('[data-launch]').forEach(function (el) {
-    el.addEventListener('click', function () {
-      var raw = el.getAttribute('data-launch') || '{}';
-      try { openVisualizer(JSON.parse(raw)); } catch (e) { openVisualizer({}); }
-    });
-  });
 </script>

@@ -50,9 +50,7 @@ const css = `
     color: var(--ink-soft);
   }
 
-  /* ============================================================
-     HEADER (same pattern as homepage)
-     ============================================================ */
+  /* HEADER (same pattern as homepage) */
   
   
   
@@ -68,9 +66,7 @@ const css = `
     .wordmark { font-size: 26px; }
   }
 
-  /* ============================================================
-     COMPARISON HERO
-     ============================================================ */
+  /* COMPARISON HERO */
   .comp-hero {
     padding: 36px 0 64px;
   }
@@ -157,12 +153,7 @@ const css = `
     margin-top: 6px;
   }
 
-  /* ============================================================
-     SPLIT-IMAGE COMPARISON MODULE (D2 pattern)
-     Same DNA as the homepage "A few from this week" gallery tiles.
-     Hero-sized, real before/after images, dual-color split-chip
-     at top center, brand + color names replace BEFORE / AFTER.
-     ============================================================ */
+  /* SPLIT-IMAGE COMPARISON MODULE (D2 pattern) */
   .comp-visual {
     padding: 0 0 100px;
   }
@@ -295,9 +286,7 @@ const css = `
     .split-stage .tag { font-size: 9px; letter-spacing: 0.12em; padding: 4px 8px; bottom: 10px; left: 10px; }
   }
 
-  /* ============================================================
-     DECISION RUBRIC ("When to choose A / When to choose B")
-     ============================================================ */
+  /* DECISION RUBRIC ("When to choose A / When to choose B") */
   .decision {
     padding: 90px 0 80px;
     border-top: 1px solid var(--rule);
@@ -378,9 +367,7 @@ const css = `
   }
   .choose-card.b .choose-list li::before { background: var(--sage); }
 
-  /* ============================================================
-     COMPARISON TABLE
-     ============================================================ */
+  /* COMPARISON TABLE */
   .compare-table {
     padding: 90px 0 90px;
     background: var(--ink);
@@ -495,9 +482,7 @@ const css = `
     }
   }
 
-  /* ============================================================
-     REDDIT QUOTES
-     ============================================================ */
+  /* REDDIT QUOTES */
   .quotes {
     padding: 100px 0 80px;
   }
@@ -563,9 +548,7 @@ const css = `
   .quote-attr .source { color: var(--clay); }
   .quote-attr .source:hover { color: var(--clay-deep); }
 
-  /* ============================================================
-     COLOR OVERLAP / CROSS-LINKS TO SKU PAGES
-     ============================================================ */
+  /* COLOR OVERLAP / CROSS-LINKS TO SKU PAGES */
   .overlap {
     padding: 90px 0;
   }
@@ -626,9 +609,7 @@ const css = `
     letter-spacing: -0.005em;
   }
 
-  /* ============================================================
-     TRY ON YOUR HOUSE — LAUNCHER CARDS
-     ============================================================ */
+  /* TRY ON YOUR HOUSE — LAUNCHER CARDS */
   .try-it {
     padding: 100px 0 100px;
     background: var(--ink);
@@ -732,9 +713,7 @@ const css = `
   }
   .launcher-card:hover .action .arrow { transform: translateX(4px); }
 
-  /* ============================================================
-     VIDEO
-     ============================================================ */
+  /* VIDEO */
   .video-section {
     padding: 100px 0 80px;
   }
@@ -788,9 +767,7 @@ const css = `
     cursor: pointer;
   }
 
-  /* ============================================================
-     FAQ (glass cards on dark slab, same as homepage)
-     ============================================================ */
+  /* FAQ (glass cards on dark slab, same as homepage) */
   .faq {
     background: var(--ink);
     color: var(--paper);
@@ -858,9 +835,7 @@ const css = `
     line-height: 1.6;
   }
 
-  /* ============================================================
-     CLOSING CTA
-     ============================================================ */
+  /* CLOSING CTA */
   .closing {
     padding: 140px 0 100px;
     text-align: center;
@@ -900,19 +875,17 @@ const css = `
   }
   .btn-primary:hover .arrow { transform: translateX(3px); }
 
-  /* ============================================================
-     FOOTER (same as homepage)
-     ============================================================ */
+  /* FOOTER (same as homepage) */
   
   
   
   
   
 `;
-const body = `<!-- ============================ HEADER ============================ -->
+const body = `<!-- HEADER -->
   
 
-  <!-- ============================ COMPARISON HERO ============================ -->
+  <!-- COMPARISON HERO -->
   <section class="comp-hero">
     <div class="wrap">
 
@@ -951,7 +924,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ SPLIT-IMAGE COMPARISON ============================ -->
+  <!-- SPLIT-IMAGE COMPARISON -->
   <section class="comp-visual">
     <div class="wrap">
 
@@ -993,7 +966,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ DECISION RUBRIC ============================ -->
+  <!-- DECISION RUBRIC -->
   <section class="decision">
     <div class="wrap">
 
@@ -1032,7 +1005,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ COMPARISON TABLE ============================ -->
+  <!-- COMPARISON TABLE -->
   <section class="compare-table">
     <div class="wrap">
 
@@ -1138,7 +1111,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ REDDIT QUOTES ============================ -->
+  <!-- REDDIT QUOTES -->
   <section class="quotes">
     <div class="wrap">
 
@@ -1180,7 +1153,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ COLOR OVERLAP / CROSS-LINKS ============================ -->
+  <!-- COLOR OVERLAP / CROSS-LINKS -->
   <section class="overlap">
     <div class="wrap">
 
@@ -1223,7 +1196,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ TRY ON YOUR HOUSE ============================ -->
+  <!-- TRY ON YOUR HOUSE -->
   <section class="try-it">
     <div class="wrap">
 
@@ -1234,14 +1207,14 @@ const body = `<!-- ============================ HEADER =========================
       </div>
 
       <div class="launcher-row">
-        <button class="launcher-card a" onclick="openVisualizer('owens-corning', 'duration', 'driftwood')">
+        <button class="launcher-card a" data-roofkit-open>
           <div class="subject"><span class="dot"></span>Subject A</div>
           <h4>Try Owens Corning Duration on your house.</h4>
           <p class="desc">Opens the visualizer pre-loaded with Duration in Driftwood. Swap colors freely once it loads.</p>
           <span class="action">Open visualizer <span class="arrow">→</span></span>
         </button>
 
-        <button class="launcher-card b" onclick="openVisualizer('gaf', 'timberline-hdz', 'charcoal')">
+        <button class="launcher-card b" data-roofkit-open>
           <div class="subject"><span class="dot"></span>Subject B</div>
           <h4>Try GAF Timberline HDZ on your house.</h4>
           <p class="desc">Opens the visualizer pre-loaded with HDZ in Charcoal. Swap colors freely once it loads.</p>
@@ -1252,7 +1225,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ VIDEO ============================ -->
+  <!-- VIDEO -->
   <section class="video-section">
     <div class="wrap">
 
@@ -1269,7 +1242,7 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ FAQ ============================ -->
+  <!-- FAQ -->
   <section class="faq">
     <div class="wrap faq-inner">
 
@@ -1315,16 +1288,16 @@ const body = `<!-- ============================ HEADER =========================
     </div>
   </section>
 
-  <!-- ============================ CLOSING CTA ============================ -->
+  <!-- CLOSING CTA -->
   <section class="closing">
     <div class="wrap">
       <span class="kicker">Still not sure?</span>
       <h2>See both on <em>your</em> house.</h2>
-      <button class="btn-primary" onclick="openVisualizer()">Open the visualizer <span class="arrow">→</span></button>
+      <button class="btn-primary" data-roofkit-open>Open the visualizer <span class="arrow">→</span></button>
     </div>
   </section>
 
-  <!-- ============================ FOOTER ============================ -->`;
+  <!-- FOOTER -->`;
 const inlineScripts = `
   // -------- Split divider drag (same pattern as homepage gallery tile) --------
   (function () {
@@ -1368,15 +1341,6 @@ const inlineScripts = `
     });
   })();
 
-  // -------- Visualizer launcher stub (D1 pattern) --------
-  // Wire to Lucas's RoofKit launcher snippet when available.
-  function openVisualizer(brand, line, color) {
-    // Placeholder until Lucas's launcher snippet is integrated.
-    // The pre-loaded SKU params will be passed once deep-link support lands.
-    console.log('Open visualizer:', { brand, line, color });
-    alert('RoofKit visualizer will open here. Launcher snippet pending from Lucas.\\n\\n' +
-      (brand ? \`Pre-load: \${brand} / \${line} / \${color}\` : 'No SKU pre-selected'));
-  }
 `;
 ---
 <BaseLayout
