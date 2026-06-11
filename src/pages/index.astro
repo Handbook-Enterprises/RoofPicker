@@ -2,6 +2,9 @@
 import BaseLayout from '@layouts/BaseLayout.astro';
 import { softwareApplication, faqPage } from '@lib/schema';
 
+// CDN base for static homepage assets (mosaic, etc.). Driven by PUBLIC_CDN_URL.
+const cdnBase = (import.meta.env.PUBLIC_CDN_URL || '').replace(/\/+$/, '');
+
 // Inline-embed config. Swap landing-slug to point at a different dashboard template.
 const rooferId    = import.meta.env.PUBLIC_ROOFKIT_ROOFER_ID || '';
 const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'roofpicker';
@@ -224,7 +227,7 @@ const css = `
     .vz-stage { aspect-ratio: 4 / 3.4; }
   }
 
-  /* Sky elements — minimal */
+  /* Sky elements. Minimal. */
   .vz-sun {
     position: absolute;
     top: 14%; right: 12%;
@@ -233,7 +236,7 @@ const css = `
     border-radius: 50%;
   }
 
-  /* Stylized house — composed of simple geometric blocks only */
+  /* Stylized house. Composed of simple geometric blocks only. */
   .house {
     position: absolute;
     left: 50%; bottom: 0;
@@ -271,7 +274,7 @@ const css = `
     border: 1px solid rgba(26,34,54,0.16);
     border-bottom: 0;
   }
-  /* roof — main (trapezoid via clip-path; counts as simple geometry) */
+  /* roof: main (trapezoid via clip-path; counts as simple geometry) */
   .roof-main {
     position: absolute;
     left: 5%; right: 5%;
@@ -282,7 +285,7 @@ const css = `
     transition: background 0.5s cubic-bezier(.2,.7,.2,1), filter 0.5s;
     box-shadow: inset 0 -2px 0 rgba(0,0,0,0.15);
   }
-  /* roof — second (smaller pitched roof over setback) */
+  /* roof: second (smaller pitched roof over setback) */
   .roof-side {
     position: absolute;
     right: 4%;
@@ -307,7 +310,7 @@ const css = `
     opacity: 0.7;
     pointer-events: none;
   }
-  /* mask outline overlay — "AI-detected roof" */
+  /* mask outline overlay. "AI-detected roof". */
   .roof-mask {
     position: absolute;
     left: 5%; right: 5%;
@@ -531,7 +534,7 @@ const css = `
     border-bottom: 1px solid var(--ink);
   }
 
-  /* CAPABILITY CALLOUTS — editorial statements, not cards */
+  /* CAPABILITY CALLOUTS. Editorial statements, not cards. */
   .caps {
     padding: 100px 0 80px;
     border-top: 1px solid var(--rule);
@@ -651,7 +654,7 @@ const css = `
     color: rgba(242,236,222,0.55);
   }
 
-  /* HOW IT WORKS — three large stepped panels */
+  /* HOW IT WORKS. Three large stepped panels. */
   .how {
     padding: 110px 0 90px;
   }
@@ -719,7 +722,7 @@ const css = `
   }
   @keyframes how-demo-pulse { 0%,100%{opacity:1} 50%{opacity:0.45} }
 
-  /* Play overlay — echoes the upload orb: circling text + clay core */
+  /* Play overlay. Echoes the upload orb: circling text + clay core. */
   .how-demo-play {
     position: absolute;
     top: 50%; left: 50%;
@@ -891,7 +894,7 @@ const css = `
     position: relative;
   }
 
-  /* Step 1 — upload visual */
+  /* Step 1. Upload visual. */
   .upload-target {
     position: absolute; inset: 0;
     border: 2px dashed var(--rule);
@@ -920,7 +923,7 @@ const css = `
     text-transform: uppercase;
     color: var(--ink-soft);
   }
-  /* Step 2 — mask visual */
+  /* Step 2. Mask visual. */
   .mask-preview {
     position: absolute; inset: 0;
     background: linear-gradient(180deg, #6B7A8F 0%, #9DAEBD 100%);
@@ -967,7 +970,7 @@ const css = `
   .mp-tick.a { top: 26%; left: 22%; }
   .mp-tick.b { top: 22%; left: 60%; }
   .mp-tick.c { top: 18%; left: 78%; }
-  /* Step 3 — swap visual */
+  /* Step 3. Swap visual. */
   .swap-preview {
     position: absolute; inset: 0;
     display: grid;
@@ -1009,7 +1012,7 @@ const css = `
   }
   .swap-swatches div:hover { transform: scale(1.1); }
 
-  /* GALLERY — magazine mosaic */
+  /* GALLERY. Magazine mosaic. */
   .gallery {
     padding: 0 0 100px;
   }
@@ -1059,7 +1062,7 @@ const css = `
     clip-path: polygon(50% 0, 100% 0, 100% 100%, 50% 100%);
   }
 
-  /* Split color chip — straddles divider, half = before roof color, half = after */
+  /* Split color chip: straddles divider, half = before roof color, half = after. */
   .tile .split-chip {
     position: absolute;
     top: 14px;
@@ -1148,7 +1151,7 @@ const css = `
     .tile { grid-column: span 2 !important; grid-row: span 2 !important; }
   }
 
-  /* tile after-color variants — terracotta, slate, weathered wood, forest, charcoal, etc. */
+  /* tile after-color variants: terracotta, slate, weathered wood, forest, charcoal, etc. */
   .tile.c-clay .after { background: repeating-linear-gradient(180deg, #B85A3C 0 4px, #9A4830 4px 8px); }
   .tile.c-slate .after { background: repeating-linear-gradient(180deg, #4A5060 0 4px, #353A48 4px 8px); }
   .tile.c-driftwood .after { background: repeating-linear-gradient(180deg, #8A7960 0 4px, #6F6049 4px 8px); }
@@ -1276,7 +1279,7 @@ const css = `
   
   
 
-  /* HERO V2 — Video background + upload */
+  /* HERO V2. Video background + upload. */
   .hero-v2 {
     position: relative;
     min-height: 100vh;
@@ -1412,7 +1415,7 @@ const css = `
     .hero-v2 .subtitle { font-size: 17px; width: auto; }
   }
 
-  /* Upload orb — circular glass container */
+  /* Upload orb. Circular glass container. */
   .upload-orb {
     position: relative;
     width: 320px; height: 320px;
@@ -1507,7 +1510,7 @@ const css = `
   .upload-orb .orb-caption-sub { font-weight: 400; font-size: 12px; letter-spacing: 0.08em; opacity: 0.7; text-transform: uppercase; display: block; margin-top: 4px; }
   .upload-orb.has-file .orb-caption { opacity: 1; }
 
-  /* Submit button — sits below the orb when ready */
+  /* Submit button. Sits below the orb when ready. */
   .upload-orb .orb-submit {
     position: absolute;
     left: 50%; bottom: -120px;
@@ -1634,12 +1637,12 @@ const css = `
 
 
 
-/* === Astro overlay overrides — applied because the in-hero nav-v2 is
-       stripped and replaced by BaseLayout's fixed transparent NavBar. */
+/* Astro overlay overrides. BaseLayout's fixed transparent NavBar replaces the
+   in-hero nav-v2 that the original HTML template shipped with. */
 .hero-v2-content { margin-top: 0; padding-top: 80px; }
 .hero-v2-header  { padding-top: 0; }
 `;
-const body = `<!-- HERO V2 — VIDEO BG -->
+const body = `<!-- HERO V2: VIDEO BG -->
   <section class="hero-v2" id="heroV2">
     <video class="video-bg" id="heroVideo" autoplay muted playsinline preload="auto" aria-hidden="true">
       <source src="https://v3b.fal.media/files/b/0a99ebbe/2RBfNicUcyvjfQ29lg74U_video.mp4" type="video/mp4">
@@ -1883,8 +1886,8 @@ const body = `<!-- HERO V2 — VIDEO BG -->
 
       <div class="mosaic">
         <figure class="tile s1">
-          <img class="before" src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/TerraCotta-Tile-Orange.png" alt="Home with terracotta tile roof" loading="lazy"/>
-          <img class="after"  src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Charcoal-Slate.png"   alt="Same home, charcoal slate roof" loading="lazy"/>
+          <img class="before" src="${cdnBase}/Assets/home/TerraCotta-Tile-Orange.png" alt="Home with terracotta tile roof" loading="lazy"/>
+          <img class="after"  src="${cdnBase}/Assets/home/Charcoal-Slate.png"   alt="Same home, charcoal slate roof" loading="lazy"/>
           <div class="divider"></div>
           <div class="split-chip" aria-hidden="true">
             <span style="background:#8a5236"></span>
@@ -1895,8 +1898,8 @@ const body = `<!-- HERO V2 — VIDEO BG -->
         </figure>
 
         <figure class="tile s2">
-          <img class="before" src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Weathered-Gray.png" alt="Weathered gray shingle roof" loading="lazy"/>
-          <img class="after"  src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Forest-Green.png"     alt="Same roof, deep forest green tiles" loading="lazy"/>
+          <img class="before" src="${cdnBase}/Assets/home/Weathered-Gray.png" alt="Weathered gray shingle roof" loading="lazy"/>
+          <img class="after"  src="${cdnBase}/Assets/home/Forest-Green.png"     alt="Same roof, deep forest green tiles" loading="lazy"/>
           <div class="divider"></div>
           <div class="split-chip" aria-hidden="true">
             <span style="background:#5d5e71"></span>
@@ -1907,8 +1910,8 @@ const body = `<!-- HERO V2 — VIDEO BG -->
         </figure>
 
         <figure class="tile s3">
-          <img class="before" src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Weathered-Gray.png" alt="Weathered gray shingle roof" loading="lazy"/>
-          <img class="after"  src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Midnight-Slate.png"     alt="Same roof, dark slate shingles" loading="lazy"/>
+          <img class="before" src="${cdnBase}/Assets/home/Weathered-Gray.png" alt="Weathered gray shingle roof" loading="lazy"/>
+          <img class="after"  src="${cdnBase}/Assets/home/Midnight-Slate.png"     alt="Same roof, dark slate shingles" loading="lazy"/>
           <div class="divider"></div>
           <div class="split-chip" aria-hidden="true">
             <span style="background:#5d5e71"></span>
@@ -1919,8 +1922,8 @@ const body = `<!-- HERO V2 — VIDEO BG -->
         </figure>
 
         <figure class="tile s4">
-          <img class="before" src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Midnight-Slate.png" alt="Dark slate shingle roof" loading="lazy"/>
-          <img class="after"  src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Forest-Green.png" alt="Same roof, forest green tiles" loading="lazy"/>
+          <img class="before" src="${cdnBase}/Assets/home/Midnight-Slate.png" alt="Dark slate shingle roof" loading="lazy"/>
+          <img class="after"  src="${cdnBase}/Assets/home/Forest-Green.png" alt="Same roof, forest green tiles" loading="lazy"/>
           <div class="divider"></div>
           <div class="split-chip" aria-hidden="true">
             <span style="background:#23354f"></span>
@@ -1931,8 +1934,8 @@ const body = `<!-- HERO V2 — VIDEO BG -->
         </figure>
 
         <figure class="tile s5">
-          <img class="before" src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Weathered-Gray.png" alt="Weathered gray shingle roof" loading="lazy"/>
-          <img class="after"  src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Blue-Navy.png"      alt="Same roof, deep navy blue tiles" loading="lazy"/>
+          <img class="before" src="${cdnBase}/Assets/home/Weathered-Gray.png" alt="Weathered gray shingle roof" loading="lazy"/>
+          <img class="after"  src="${cdnBase}/Assets/home/Blue-Navy.png"      alt="Same roof, deep navy blue tiles" loading="lazy"/>
           <div class="divider"></div>
           <div class="split-chip" aria-hidden="true">
             <span style="background:#5d5e71"></span>
@@ -1943,8 +1946,8 @@ const body = `<!-- HERO V2 — VIDEO BG -->
         </figure>
 
         <figure class="tile s6">
-          <img class="before" src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Forest-Green.png" alt="Forest green tile roof" loading="lazy"/>
-          <img class="after"  src="https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Assets/home/Blue-Navy.png"  alt="Same roof, deep navy blue tiles" loading="lazy"/>
+          <img class="before" src="${cdnBase}/Assets/home/Forest-Green.png" alt="Forest green tile roof" loading="lazy"/>
+          <img class="after"  src="${cdnBase}/Assets/home/Blue-Navy.png"  alt="Same roof, deep navy blue tiles" loading="lazy"/>
           <div class="divider"></div>
           <div class="split-chip" aria-hidden="true">
             <span style="background:#1b4153"></span>
