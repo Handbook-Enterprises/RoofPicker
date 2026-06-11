@@ -24,7 +24,19 @@ const isActive = (url: string) =>
       <img src="/img/getroofreport-horizontal.png" alt="GetRoofReport" width="200" height="40" />
     </a>
 
-    <nav class="nav-links" aria-label="Primary">
+    <button
+      class="nav-toggle"
+      type="button"
+      aria-expanded="false"
+      aria-controls="primary-nav"
+      aria-label="Open menu"
+    >
+      <span class="bar" aria-hidden="true"></span>
+      <span class="bar" aria-hidden="true"></span>
+      <span class="bar" aria-hidden="true"></span>
+    </button>
+
+    <nav class="nav-links" id="primary-nav" aria-label="Primary">
       {links.map((l) => (
         <a
           href={l.url}
@@ -38,6 +50,30 @@ const isActive = (url: string) =>
     </nav>
   </div>
 </header>
+
+<script is:inline>
+  // Mobile drawer toggle. Closes on link click, Escape, or click outside.
+  (function () {
+    const toggle = document.querySelector('.nav-toggle');
+    const drawer = document.getElementById('primary-nav');
+    if (!toggle || !drawer) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', String(open));
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      drawer.classList.toggle('open', open);
+      document.body.style.overflow = open ? 'hidden' : '';
+    }
+    toggle.addEventListener('click', () => {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    drawer.addEventListener('click', (e) => {
+      if (e.target.closest('a')) setOpen(false);
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && drawer.classList.contains('open')) setOpen(false);
+    });
+  })();
+</script>
 
 {transparent && (
   <script>
@@ -122,7 +158,87 @@ const isActive = (url: string) =>
     background: var(--clay) !important;
     border-color: transparent !important;
   }
+  /* Hamburger trigger. Hidden above the mobile breakpoint. */
+  .nav-toggle {
+    display: none;
+    width: 44px; height: 44px;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    position: relative;
+    z-index: 60;
+  }
+  .nav-toggle .bar {
+    position: absolute;
+    left: 10px; right: 10px;
+    height: 2px;
+    background: var(--ink);
+    border-radius: 2px;
+    transition: transform var(--t-fast) var(--ease),
+                opacity var(--t-fast) var(--ease),
+                top var(--t-fast) var(--ease);
+  }
+  .nav-toggle .bar:nth-child(1) { top: 14px; }
+  .nav-toggle .bar:nth-child(2) { top: 21px; }
+  .nav-toggle .bar:nth-child(3) { top: 28px; }
+  .nav-toggle[aria-expanded="true"] .bar:nth-child(1) {
+    top: 21px;
+    transform: rotate(45deg);
+  }
+  .nav-toggle[aria-expanded="true"] .bar:nth-child(2) { opacity: 0; }
+  .nav-toggle[aria-expanded="true"] .bar:nth-child(3) {
+    top: 21px;
+    transform: rotate(-45deg);
+  }
+
   @media (max-width: 760px) {
-    .nav-links a:not(.nav-cta) { display: none; }
+    .nav-toggle { display: block; }
+
+    /* Drawer panel. Slides down from below the header. */
+    .nav-links {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0;
+      padding: 80px 24px 32px;
+      background: rgba(242, 236, 222, 0.98);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--hair);
+      transform: translateY(-100%);
+      opacity: 0;
+      visibility: hidden;
+      transition: transform 280ms cubic-bezier(.4,0,.2,1),
+                  opacity 200ms ease,
+                  visibility 0s linear 280ms;
+      z-index: 55;
+      max-height: 100vh;
+      overflow-y: auto;
+    }
+    .nav-links.open {
+      transform: translateY(0);
+      opacity: 1;
+      visibility: visible;
+      transition: transform 320ms cubic-bezier(.4,0,.2,1),
+                  opacity 240ms ease,
+                  visibility 0s linear 0s;
+    }
+    .nav-links a {
+      font-size: 16px;
+      padding: 16px 0;
+      border-bottom: 1px solid var(--rule);
+      letter-spacing: 0.08em;
+    }
+    .nav-links a:hover,
+    .nav-links a.on { border-color: var(--clay); }
+    .nav-links .nav-cta {
+      margin-top: 20px;
+      padding: 14px 22px !important;
+      text-align: center;
+      border-bottom: 0;
+      border-radius: var(--r-pill);
+    }
   }
 </style>
