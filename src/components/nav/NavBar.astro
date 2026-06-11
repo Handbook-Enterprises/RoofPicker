@@ -20,8 +20,8 @@ const isActive = (url: string) =>
 ---
 <header class:list={['site', { 'transparent-top': transparent }]}>
   <div class="wrap nav">
-    <a href="/" class="wordmark" aria-label="RoofPicker home">
-      Roof<em>Picker</em><span class="dot" aria-hidden="true"></span>
+    <a href="/" class="wordmark" aria-label="GetRoofReport home">
+      <img src="/img/getroofreport-horizontal.png" alt="GetRoofReport" width="200" height="40" />
     </a>
 
     <nav class="nav-links" aria-label="Primary">
@@ -87,30 +87,9 @@ const isActive = (url: string) =>
     justify-content: space-between;
     padding: 18px 0;
   }
-  .wordmark {
-    font-family: var(--font-serif);
-    font-size: 30px;
-    line-height: 1;
-    letter-spacing: -0.01em;
-    color: var(--ink);
-    display: inline-flex;
-    align-items: baseline;
-    gap: 2px;
-  }
-  .wordmark em {
-    font-style: italic;
-    color: var(--clay);
-    font-weight: 400;
-  }
-  .wordmark .dot {
-    display: inline-block;
-    width: 8px;
-    height: 8px;
-    background: var(--clay);
-    border-radius: 50%;
-    margin-left: 6px;
-    transform: translateY(-2px);
-  }
+  .wordmark { display: inline-flex; align-items: center; }
+  .wordmark img { height: 40px; width: auto; display: block; }
+  @media (max-width: 760px) { .wordmark img { height: 32px; } }
   .nav-links {
     display: flex;
     align-items: center;
@@ -145,6 +124,5 @@ const isActive = (url: string) =>
   }
   @media (max-width: 760px) {
     .nav-links a:not(.nav-cta) { display: none; }
-    .wordmark { font-size: 26px; }
   }
 </style>

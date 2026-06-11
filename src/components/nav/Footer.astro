@@ -3,8 +3,8 @@ const year = new Date().getFullYear();
 ---
 <footer class="site">
   <div class="wrap foot-inner">
-    <a href="/" class="wordmark">
-      Roof<em>Picker</em><span class="dot" aria-hidden="true"></span>
+    <a href="/" class="wordmark" aria-label="GetRoofReport home">
+      <img src="/img/getroofreport-horizontal.png" alt="GetRoofReport" width="160" height="32" />
     </a>
     <nav class="foot-nav" aria-label="Footer">
       <a href="/">Visualizer</a>
@@ -14,7 +14,7 @@ const year = new Date().getFullYear();
       <a href="/home-styles/">Styles</a>
       <a href="/roof-colors/">Gallery</a>
     </nav>
-    <div class="foot-copy">&copy; {year} RoofPicker · Made in Florida</div>
+    <div class="foot-copy">&copy; {year} GetRoofReport · Made in Florida</div>
   </div>
 </footer>
 
@@ -31,25 +31,8 @@ const year = new Date().getFullYear();
     gap: 24px;
     flex-wrap: wrap;
   }
-  .wordmark {
-    font-family: var(--font-serif);
-    font-size: 24px;
-    line-height: 1;
-    letter-spacing: -0.01em;
-    color: var(--ink);
-    display: inline-flex;
-    align-items: baseline;
-    gap: 2px;
-  }
-  .wordmark em { font-style: italic; color: var(--clay); }
-  .wordmark .dot {
-    display: inline-block;
-    width: 6px; height: 6px;
-    background: var(--clay);
-    border-radius: 50%;
-    margin-left: 5px;
-    transform: translateY(-2px);
-  }
+  .wordmark { display: inline-flex; align-items: center; }
+  .wordmark img { height: 32px; width: auto; display: block; }
   .foot-nav {
     display: flex;
     gap: 26px;
