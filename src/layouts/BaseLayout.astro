@@ -24,7 +24,7 @@ const {
   transparentNav = false,
 } = Astro.props;
 
-const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://roofpicker.com';
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://getroofreport.com';
 const absoluteCanonical = canonical.startsWith('http') ? canonical : `${siteUrl}${canonical}`;
 const absoluteOg = ogImage && ogImage.startsWith('http') ? ogImage : (ogImage ? `${siteUrl}${ogImage}` : null);
 
@@ -65,7 +65,7 @@ const ldBlocks: Array<Record<string, unknown>> = jsonLd
     />
 
     <!-- Preconnect to image CDN once R2 is wired -->
-    <link rel="preconnect" href="https://cdn.roofpicker.com" crossorigin />
+    <link rel="preconnect" href="https://cdn.getroofreport.com" crossorigin />
 
     {/* JSON-LD structured data. is:inline keeps it as a literal <script>
        block in the rendered HTML rather than being passed through Astro's

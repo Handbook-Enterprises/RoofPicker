@@ -2,7 +2,7 @@
 
 interface Crumb { label: string; url: string | null }
 
-const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://roofpicker.com';
+const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://getroofreport.com';
 
 function absolute(urlOrPath: string): string {
   if (!urlOrPath) return SITE_URL;

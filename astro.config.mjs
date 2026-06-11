@@ -4,7 +4,7 @@ import react from '@astrojs/react';
 
 // https://docs.astro.build/en/reference/configuration-reference/
 export default defineConfig({
-  site: process.env.PUBLIC_SITE_URL || 'https://roofpicker.com',
+  site: process.env.PUBLIC_SITE_URL || 'https://getroofreport.com',
   output: 'static',
   trailingSlash: 'always',
   compressHTML: true,

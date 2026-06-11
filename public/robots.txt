@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://roofpicker.com/sitemap-index.xml
+Sitemap: https://getroofreport.com/sitemap-index.xml
