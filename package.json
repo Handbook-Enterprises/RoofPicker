@@ -8,6 +8,7 @@
     "stamp-cdn": "node scripts/stamp-cdn-urls.mjs",
     "dev": "npm run sync && npm run stamp-cdn && astro dev",
     "build": "npm run sync && npm run stamp-cdn && astro check && astro build",
+    "build:ci": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check"
