@@ -1,6 +1,8 @@
 // Walks src/content/, stamps R2 CDN URLs from cdn-manifest.json. Idempotent.
+// Host portion of every URL is rewritten with PUBLIC_CDN_URL from .env so the
+// manifest stays portable across CDN cutovers.
 
-import { promises as fs } from 'node:fs';
+import { promises as fs, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -8,6 +10,38 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.resolve(__dirname, '..');
 const CONTENT = path.resolve(ROOT, 'src', 'content');
+
+// Read PUBLIC_CDN_URL from process.env first; fall back to a minimal .env
+// parse so this script works when run directly via node (not through Astro).
+function loadCdnBase() {
+  if (process.env.PUBLIC_CDN_URL) return process.env.PUBLIC_CDN_URL.replace(/\/+$/, '');
+  try {
+    const raw = readFileSync(path.resolve(ROOT, '.env'), 'utf-8');
+    for (const line of raw.split('\n')) {
+      const m = line.match(/^\s*PUBLIC_CDN_URL\s*=\s*(.*?)\s*$/);
+      if (m) return m[1].replace(/^['"]|['"]$/g, '').replace(/\/+$/, '');
+    }
+  } catch (_) {
+    // .env missing is fine in some build contexts
+  }
+  return '';
+}
+const CDN_BASE = loadCdnBase();
+if (!CDN_BASE) {
+  console.warn('PUBLIC_CDN_URL is not set; manifest URLs will be copied verbatim.');
+}
+
+// Rewrite the host of a manifest URL so the result always points at CDN_BASE.
+// Keeps the path identical so the underlying R2 object key never moves.
+function rehost(cdnUrl) {
+  if (!CDN_BASE || typeof cdnUrl !== 'string') return cdnUrl;
+  try {
+    const u = new URL(cdnUrl);
+    return `${CDN_BASE}${u.pathname}`;
+  } catch (_) {
+    return cdnUrl;
+  }
+}
 
 // Manifest from data-scraping-script; local copy in scripts/ as fallback.
 const EXTERNAL_MANIFEST = path.resolve(
@@ -50,7 +84,7 @@ function walk(node, manifest, stats) {
       const cdnUrl = manifest[lp];
       const pairedKey = key.slice(0, -'image_local_path'.length) + 'image_cdn_url';
       if (cdnUrl) {
-        node[pairedKey] = cdnUrl;
+        node[pairedKey] = rehost(cdnUrl);
         stats.stamped++;
       } else {
         stats.missing++;
