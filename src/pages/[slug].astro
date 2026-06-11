@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import S4Page from '@components/combo/S4Page.astro';
+import S5Page from '@components/combo/S5Page.astro';
+import S6Page from '@components/hub/S6Page.astro';
+import { imageSrc } from '@lib/cdn';
+import { breadcrumbList, faqPage, imageGallery } from '@lib/schema';
+import { fixBreadcrumb } from '@lib/breadcrumb';
+
+// Catch-all root route. Dispatches a slug to S4/S5/S6 by collection.
+
+export async function getStaticPaths() {
+  const [s4, s5, s6] = await Promise.all([
+    getCollection('combinations-s4'),
+    getCollection('combinations-s5'),
+    getCollection('color-hubs'),
+  ]);
+  const paths: Array<{
+    params: { slug: string };
+    props: { strategy: 4 | 5 | 6; data: any };
+  }> = [];
+  for (const e of s4) {
+    const slug = e.data.url_path.replace(/^\//, '').replace(/\/$/, '');
+    paths.push({ params: { slug }, props: { strategy: 4, data: e.data } });
+  }
+  for (const e of s5) {
+    const slug = e.data.url_path.replace(/^\//, '').replace(/\/$/, '');
+    paths.push({ params: { slug }, props: { strategy: 5, data: e.data } });
+  }
+  for (const e of s6) {
+    const slug = e.data.url_path.replace(/^\//, '').replace(/\/$/, '');
+    paths.push({ params: { slug }, props: { strategy: 6, data: e.data } });
+  }
+  return paths;
+}
+
+const { strategy, data } = Astro.props;
+
+// Pick the most specific hero/OG image available.
+function pickOgImage(d: any): string | null {
+  const candidates: Array<{ image_local_path?: string | null; image_cdn_url?: string | null } | null | undefined> = [
+    d?.combo_hero?.hero_mosaic?.[0],
+    d?.hub_hero?.hero_mosaic?.[0],
+    d?.visualizer_cta?.preview_image_local_path
+      ? { image_local_path: d.visualizer_cta.preview_image_local_path,
+           image_cdn_url:   d.visualizer_cta.preview_image_cdn_url }
+      : null,
+  ];
+  for (const c of candidates) {
+    const url = imageSrc(c ?? null);
+    if (url) return url;
+  }
+  return null;
+}
+
+const og = pickOgImage(data);
+
+// Build JSON-LD blocks for the page.
+const ldBlocks: Array<Record<string, unknown>> = [];
+if (strategy === 6 && data.hub_hero?.breadcrumb) {
+  ldBlocks.push(breadcrumbList(fixBreadcrumb(data.hub_hero.breadcrumb)));
+} else if ((strategy === 4 || strategy === 5) && data.combo_hero?.breadcrumb) {
+  ldBlocks.push(breadcrumbList(fixBreadcrumb(data.combo_hero.breadcrumb)));
+}
+if (Array.isArray(data.faq_items) && data.faq_items.length > 0) {
+  ldBlocks.push(faqPage(data.faq_items));
+}
+// S6 also emits an ImageGallery JSON-LD block.
+if (strategy === 6) {
+  const tiles = (data.hub_hero?.hero_mosaic ?? []) as Array<any>;
+  const groupTiles = (data.long_gallery?.groups ?? []).flatMap((g: any) => g.tiles ?? []);
+  const allUrls = [...tiles, ...groupTiles].map((t: any) => imageSrc(t)).filter(Boolean);
+  if (allUrls.length > 0) {
+    ldBlocks.push(imageGallery(data.h1, data.url_path, allUrls));
+  }
+}
+---
+<BaseLayout
+  title={data.meta_title}
+  description={data.meta_description}
+  canonical={data.url_path}
+  ogImage={og}
+  jsonLd={ldBlocks.length ? ldBlocks : null}
+>
+  {strategy === 6 && <S6Page data={data} />}
+
+  {strategy === 4 && <S4Page data={data} />}
+  {strategy === 5 && <S5Page data={data} />}
+</BaseLayout>

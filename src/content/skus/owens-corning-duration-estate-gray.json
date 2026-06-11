@@ -1,0 +1,554 @@
+{
+  "slug": "owens-corning-duration-estate-gray",
+  "url_path": "/shingles/owens-corning/duration/estate-gray/",
+  "h1": "Owens Corning Duration Estate Gray Shingles",
+  "meta_title": "Owens Corning Duration Estate Gray Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Owens Corning Duration in Estate Gray: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "charcoal",
+  "best_for_styles": [
+    "modern-farmhouse"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Owens Corning",
+    "brand_slug": "owens-corning",
+    "brand_url": "/shingles/owens-corning/",
+    "line_display": "Duration",
+    "line_slug": "owens-corning-duration",
+    "line_url": "/shingles/owens-corning/duration/",
+    "color_display": "Estate Gray",
+    "color_slug": "estate-gray",
+    "h1_html": "Owens Corning Duration <em>Estate Gray</em> Shingles",
+    "tagline": "A confident, anchored gray that reads black in shade and slate in sun.",
+    "hex": "#53585c",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
+    "hero_image_alt": "Home with Owens Corning Duration Estate Gray roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$120"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Owens Corning",
+        "url": "/shingles/owens-corning/"
+      },
+      {
+        "label": "Duration",
+        "url": "/shingles/owens-corning/duration/"
+      },
+      {
+        "label": "Estate Gray",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "duration",
+      "color": "estate-gray"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Estate Gray is the kind of gray you choose when you want the roof to recede and the rest of the house to lead. Not quite black, not quite slate. It is a confident, anchored color that absorbs the eye instead of bouncing it. On a south-facing Florida elevation it reads cool and slightly blue. On a north-facing roof in shade it pulls toward true black.",
+      "Up close you can pick out three or four granule shades layered into the surface. From the street they collapse into one mid-dark gray, but the layering is why a quality asphalt roof catches light the way single-color metal never quite does.",
+      "Pairs cleanly with white, cream, navy, sage, and warm terra-cotta sidings. Almost any house color works underneath it."
+    ],
+    "swatch_meta": {
+      "hex": "#53585c",
+      "family": "Gray",
+      "undertone": "Cool blue",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#53585c",
+      "#464b4f",
+      "#646a6b"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-swatch.jpg",
+      "image_filename": "owens-corning-duration-estate-gray-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "TDD_EstateGray_RGB_swatch_lg.jpg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "SureNail Strip nailing reinforcement enables 130 mph standard. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "230 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakGuard",
+        "ctx": "10-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Owens Corning",
+        "ctx": "Toledo, OH · made in the USA"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Duration Estate Gray. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-1.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-2.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-2.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-3.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-3.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-4.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-4.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-5.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-5.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-6.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-6.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-7.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-7.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-8.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-8.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-9.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-9.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-9.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-10.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-10.jpg",
+        "image_filename": "owens-corning-duration-estate-gray-10.jpg",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-11.png",
+        "image_filename": "owens-corning-duration-estate-gray-11.png",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-charcoal-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-charcoal-roof",
+        "angle": "front",
+        "origin_filename": "duration-estate-gray-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-12.png",
+        "image_filename": "owens-corning-duration-estate-gray-12.png",
+        "alt": "Florida home with Duration Estate Gray roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-charcoal-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-charcoal-roof",
+        "angle": "right-34",
+        "origin_filename": "duration-estate-gray-right-34.jpg"
+      }
+    ],
+    "tiles_total": 12,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/owens-corning-duration-estate-gray/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Estate Gray <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-charcoal-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline As Ii",
+        "line_slug": "gaf-timberline-as-ii",
+        "color_display": "Timberline As Ii Pewter Gray",
+        "color_hex": "#585b5e",
+        "redmean_distance": 10.2,
+        "url": "/shingles/gaf/timberline-as-ii/timberline-as-ii-pewter-gray/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Hdz",
+        "line_slug": "gaf-timberline-hdz",
+        "color_display": "Pewter Gray",
+        "color_hex": "#585b5e",
+        "redmean_distance": 10.2,
+        "url": "/shingles/gaf/timberline-hdz/pewter-gray/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Uhdz",
+        "line_slug": "gaf-timberline-uhdz",
+        "color_display": "Timberline Uhdz With Ultramat Pewter Gray",
+        "color_hex": "#585b5e",
+        "redmean_distance": 10.2,
+        "url": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-pewter-gray/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Grand Manor",
+        "line_slug": "certainteed-grand-manor",
+        "color_display": "Sherwood Forest",
+        "color_hex": "#555c58",
+        "redmean_distance": 10.8,
+        "url": "/shingles/certainteed/grand-manor/sherwood-forest/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Pewter",
+        "color_hex": "#585a58",
+        "redmean_distance": 10.8,
+        "url": "/shingles/certainteed/landmark-pro/max-def-pewter/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$120–$139",
+        "low_usd": 120,
+        "high_usd": 139,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,600–$4,170",
+        "low_usd": 3600,
+        "high_usd": 4170,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$10k–$18k",
+        "low_usd": 10800,
+        "high_usd": 18348,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/Owens-Corning-TruDefinition-Duration-32-8-sq-ft-Driftwood-Laminated-Architectural-Roof-Shingles/3428116",
+        "anchor_color": "Driftwood",
+        "page_title": "Owens Corning TruDefinition Duration Driftwood Algae Resistant Architectural Roof Shingles ( 32.8-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 44,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 134.16,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-duration\\lowes.com__2358a399.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/Owens-Corning-TruDefinition-Duration-Driftwood-Algae-Resistant-Laminate-Architectural-Roofing-Shingles-32-8-sq-ft-Per-Bundle-TD30/205655963",
+        "anchor_color": "Driftwood",
+        "page_title": "Owens Corning TruDefinition Duration Driftwood Algae Resistant Laminate Architectural Roofing Shingles (32.8 sq. ft. Per Bundle) TD30 - The Home Depot",
+        "price_per_bundle_usd": 40.97,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 124.92,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-duration\\homedepot.com__9f148581.html",
+        "scraped_ok": true,
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Estate Gray</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Estate Gray in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Estate Gray",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
+    "badge_text": "Pre-loaded: Estate Gray",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "duration",
+      "color": "estate-gray"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Estate Gray, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Estate Gray fade over time?",
+      "a": "Minimally. Owens Corning's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: Owens Corning product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Estate Gray look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Estate Gray make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across Owens Corning, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. Owens Corning's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Estate Gray</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "duration",
+      "color": "estate-gray"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "Owens Corning product page",
+      "url": "https://www.owenscorning.com/en-us/roofing/shingles/trudefinition-duration?shingle-color=brownwood"
+    },
+    {
+      "label": "Wikipedia: Owens Corning",
+      "url": "https://en.wikipedia.org/wiki/Owens_Corning"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

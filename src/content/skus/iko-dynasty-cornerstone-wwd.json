@@ -1,0 +1,615 @@
+{
+  "slug": "iko-dynasty-cornerstone-wwd",
+  "url_path": "/shingles/iko/dynasty/cornerstone-wwd/",
+  "h1": "IKO Dynasty Cornerstone WWD Shingles",
+  "meta_title": "IKO Dynasty Cornerstone WWD Shingles · Color, Specs, Price (2026)",
+  "meta_description": "IKO Dynasty in Cornerstone WWD: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "charcoal",
+  "best_for_styles": [
+    "ranch",
+    "cape-cod",
+    "victorian",
+    "tudor",
+    "mediterranean"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural Performance",
+    "brand_display": "IKO",
+    "brand_slug": "iko",
+    "brand_url": "/shingles/iko/",
+    "line_display": "Dynasty",
+    "line_slug": "iko-dynasty",
+    "line_url": "/shingles/iko/dynasty/",
+    "color_display": "Cornerstone WWD",
+    "color_slug": "cornerstone-wwd",
+    "h1_html": "IKO Dynasty <em>Cornerstone WWD</em> Shingles",
+    "tagline": "A bold dimensional gray with enough depth to anchor a contemporary build.",
+    "hex": "#706860",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-1.webp",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-1.webp",
+    "hero_image_alt": "Home with IKO Dynasty Cornerstone WWD roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$154"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "IKO",
+        "url": "/shingles/iko/"
+      },
+      {
+        "label": "Dynasty",
+        "url": "/shingles/iko/dynasty/"
+      },
+      {
+        "label": "Cornerstone WWD",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "dynasty",
+      "color": "cornerstone-wwd"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "The most common asphalt-shingle install nationally is a gray in this exact tonal zone. Cornerstone WWD sits right inside that fairway: dark enough to feel anchored, light enough to keep the elevation breathing. The granule blend is engineered to read as a single quiet plane from the street.",
+      "IKO uses a tight blend of dark gray and faint blue-gray granules to keep the surface visually alive. The result is a roof that reads as a clean architectural line from the street and a textured surface up close.",
+      "Pairs cleanly with white, cream, navy, sage, and warm terra-cotta sidings. Almost any house color works underneath it."
+    ],
+    "swatch_meta": {
+      "hex": "#706860",
+      "family": "Gray",
+      "undertone": "Warm slate",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#706860",
+      "#665e57",
+      "#7f756a"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-swatch.webp",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-swatch.webp",
+      "image_filename": "iko-dynasty-cornerstone-wwd-swatch.webp",
+      "source": "manufacturer_swatch",
+      "origin_filename": "RGB-CRNS_IKO_CRC_PRFM_SWCH-upd-min-1.webp"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural Performance",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "ArmourZone reinforced nailing strip enables the 130 mph rating without accessory upgrades. ASTM D3161 Class F."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "230 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "AR (Algae Resistant)",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "IKO",
+        "ctx": "Brampton, Ontario · made in the Canada"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 7/8 inches (149 mm)",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "FL30310 R6 AE IKO19002.7%202023%20FBC%20Eval%20Shingles%20final",
+        "url": "https://www.floridabuilding.org/upload/PR_Tech_Docs/FL30310_R6_AE_IKO19002.7%202023%20FBC%20Eval%20Shingles%20final.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO TDS DYST EN",
+        "url": "https://mediaresourcecenter.iko.com/m/9cb658bc5b184278/original/IKO_TDS_DYST_EN.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO DYST HO BROCH US EN",
+        "url": "https://mediaresourcecenter.iko.com/m/39387668777a1a25/original/IKO_DYST_HO_BROCH_US_EN.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO DYST SHGL SELLS CONTR US",
+        "url": "https://mediaresourcecenter.iko.com/m/152e8336e522e042/original/IKO_DYST_SHGL_SELLS_CONTR_US.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO DYST SHGL SELLS CONTR CA",
+        "url": "https://mediaresourcecenter.iko.com/m/60af2121632daf21/original/IKO_DYST_SHGL_SELLS_CONTR_CA.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO DYST HO BROCH CA EN",
+        "url": "https://mediaresourcecenter.iko.com/m/566c0be84a2fa178/original/IKO_DYST_HO_BROCH_CA_EN.pdf",
+        "type": "doc"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Dynasty Cornerstone WWD. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-1.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-1.webp",
+        "image_filename": "iko-dynasty-cornerstone-wwd-1.webp",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-2.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-2.webp",
+        "image_filename": "iko-dynasty-cornerstone-wwd-2.webp",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-3.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-3.webp",
+        "image_filename": "iko-dynasty-cornerstone-wwd-3.webp",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-10.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-10.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-10.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (mediterranean-with-charcoal-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "mediterranean-with-charcoal-roof",
+        "angle": "right-34",
+        "origin_filename": "dynasty-cornerstone-wwd-right-34.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-11.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-11.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (ranch-with-charcoal-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "ranch-with-charcoal-roof",
+        "angle": "right-34",
+        "origin_filename": "dynasty-cornerstone-wwd-right-34.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-12.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-12.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (tudor-with-charcoal-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "tudor-with-charcoal-roof",
+        "angle": "right-34",
+        "origin_filename": "dynasty-cornerstone-wwd-right-34.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-4.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-4.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (cape-cod-with-charcoal-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "cape-cod-with-charcoal-roof",
+        "angle": "front",
+        "origin_filename": "dynasty-cornerstone-wwd-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-5.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-5.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-5.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (mediterranean-with-charcoal-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "mediterranean-with-charcoal-roof",
+        "angle": "front",
+        "origin_filename": "dynasty-cornerstone-wwd-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-6.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-6.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-6.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (ranch-with-charcoal-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "ranch-with-charcoal-roof",
+        "angle": "front",
+        "origin_filename": "dynasty-cornerstone-wwd-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-7.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-7.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-7.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (tudor-with-charcoal-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "tudor-with-charcoal-roof",
+        "angle": "front",
+        "origin_filename": "dynasty-cornerstone-wwd-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-8.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-8.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-8.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (victorian-with-charcoal-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "victorian-with-charcoal-roof",
+        "angle": "front",
+        "origin_filename": "dynasty-cornerstone-wwd-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-9.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-9.png",
+        "image_filename": "iko-dynasty-cornerstone-wwd-9.png",
+        "alt": "Florida home with Dynasty Cornerstone WWD roof",
+        "tag": "AI-rendered example (cape-cod-with-charcoal-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "cape-cod-with-charcoal-roof",
+        "angle": "right-34",
+        "origin_filename": "dynasty-cornerstone-wwd-right-34.jpg"
+      }
+    ],
+    "tiles_total": 12,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/iko-dynasty-cornerstone-wwd/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Cornerstone WWD <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-charcoal-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Colonial Slate",
+        "color_hex": "#6e6962",
+        "redmean_distance": 4.9,
+        "url": "/shingles/certainteed/landmark/colonial-slate/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Belmont",
+        "line_slug": "certainteed-belmont",
+        "color_display": "Colonial Slate",
+        "color_hex": "#6e6a64",
+        "redmean_distance": 8.2,
+        "url": "/shingles/certainteed/belmont/colonial-slate/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Georgetown Gray",
+        "color_hex": "#6d6a64",
+        "redmean_distance": 8.9,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-georgetown-gray/"
+      },
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Legacy",
+        "line_slug": "malarkey-legacy",
+        "color_display": "Natural Wood",
+        "color_hex": "#6c6764",
+        "redmean_distance": 9.2,
+        "url": "/shingles/malarkey/legacy/natural-wood/"
+      },
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Vista",
+        "line_slug": "malarkey-vista",
+        "color_display": "Natural Wood",
+        "color_hex": "#6c6764",
+        "redmean_distance": 9.2,
+        "url": "/shingles/malarkey/vista/natural-wood/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$154–$177",
+        "low_usd": 154,
+        "high_usd": 177,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$4,620–$5,310",
+        "low_usd": 4620,
+        "high_usd": 5310,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$13k–$23k",
+        "low_usd": 13860,
+        "high_usd": 23364,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/IKO-IKO-Dynasty-Premium-AR-Asphalt-Performance-Architectural-Shingles-Lifetime-Limited-Warranty-Sentinel-Slate-4970200-3-4970200/324039522",
+        "anchor_color": "",
+        "page_title": "IKO IKO Dynasty Premium AR Asphalt Performance Architectural Shingles - Lifetime Limited Warranty Sentinel Slate 4970200 (3 4970200 - The Home Depot",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\iko-dynasty\\homedepot.com__4d2b44f7.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "Roofing4US / RoofCalc.org",
+        "url": "https://roofing4us.com/products/iko-dynasty-laminated-asphalt-shingle-granite-black",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 45,
+        "high_per_bundle_usd": 65,
+        "low_per_square_usd": 135.13,
+        "high_per_square_usd": 195.19,
+        "price_per_bundle_usd": 55,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 165.17,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "Performance AR architectural; Roofing4US $61.64/bundle; limited big-box presence.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Cornerstone WWD</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Dynasty Cornerstone WWD in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Cornerstone WWD",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-cornerstone-wwd\\iko-dynasty-cornerstone-wwd-1.webp",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-cornerstone-wwd/iko-dynasty-cornerstone-wwd-1.webp",
+    "badge_text": "Pre-loaded: Cornerstone WWD",
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "dynasty",
+      "color": "cornerstone-wwd"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Cornerstone WWD, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Cornerstone WWD fade over time?",
+      "a": "Minimally. IKO's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: IKO product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Cornerstone WWD look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Cornerstone WWD make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across IKO, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. IKO's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Cornerstone WWD</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "dynasty",
+      "color": "cornerstone-wwd"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "IKO product page",
+      "url": "https://www.iko.com/na/product/dynasty/"
+    },
+    {
+      "label": "Wikipedia: IKO",
+      "url": "https://en.wikipedia.org/wiki/IKO_Industries"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

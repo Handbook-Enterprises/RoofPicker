@@ -1,0 +1,58 @@
+---
+// Loads the floating RoofKit widget and routes [data-roofkit-open] clicks to it.
+// Widget launcher id pattern: `roofkit-embed-<safeRooferId>-launcher`.
+const rooferId    = import.meta.env.PUBLIC_ROOFKIT_ROOFER_ID;
+const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'roofpicker';
+const widgetSrc   = import.meta.env.PUBLIC_ROOFKIT_WIDGET_SRC || 'https://roofkit.ai/roofkit-embed.js';
+const safeRooferId = (rooferId || '').replace(/[^a-zA-Z0-9_-]/g, '-').toLowerCase();
+const launcherId   = safeRooferId ? `roofkit-embed-${safeRooferId}-launcher` : '';
+---
+{rooferId && (
+  <script
+    is:inline
+    src={widgetSrc}
+    data-roofer-id={rooferId}
+    data-landing-slug={landingSlug}
+    data-button-text="See your new roof"
+    data-button-bg="#B85A3C"
+    data-button-text-color="#F2ECDE"
+    data-button-size="md"
+    data-border-style="rounded"
+    data-font-stack='Geist, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif'
+    defer
+  ></script>
+)}
+
+<script is:inline set:html={`
+  if (!window.__rpRoofKitOpenInit) {
+    window.__rpRoofKitOpenInit = true;
+    var __rpLauncherId = ${JSON.stringify(launcherId)};
+
+    function findLauncher() {
+      if (__rpLauncherId) {
+        var byId = document.getElementById(__rpLauncherId);
+        if (byId && typeof byId.click === 'function') return byId;
+      }
+      // Fallback: any element whose id matches the launcher pattern.
+      var generic = document.querySelector('[id^="roofkit-embed-"][id$="-launcher"]');
+      if (generic && typeof generic.click === 'function') return generic;
+      return null;
+    }
+
+    function openWidget(retries) {
+      var launcher = findLauncher();
+      if (launcher) { launcher.click(); return; }
+      // Widget loads deferred; retry briefly until the launcher exists.
+      if (retries > 0) {
+        setTimeout(function () { openWidget(retries - 1); }, 80);
+      }
+    }
+
+    document.addEventListener('click', function (event) {
+      var target = event.target && event.target.closest && event.target.closest('[data-roofkit-open]');
+      if (!target) return;
+      event.preventDefault();
+      openWidget(50); // up to ~4s of retries
+    });
+  }
+`}></script>

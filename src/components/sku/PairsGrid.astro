@@ -1,0 +1,127 @@
+---
+interface Props {
+  data: {
+    kicker: string;
+    title_html: string;
+    items: Array<{
+      color_name: string;
+      color_hex: string;
+      kicker: string;
+      url: string | null;
+    }>;
+    note?: string;
+  };
+}
+const { data } = Astro.props;
+---
+<section class="pairs">
+  <div class="wrap">
+    <div class="pairs-head">
+      <span class="kicker">{data.kicker}</span>
+      <div class="title" set:html={data.title_html}></div>
+    </div>
+
+    <div class="pairs-grid">
+      {data.items.map((p) => {
+        const styleVar = `--siding-color:${p.color_hex}`;
+        const inner = (
+          <>
+            <div class="siding"></div>
+            <div class="meta">
+              <div class="kicker-row">{p.kicker}</div>
+              <div class="color-name">{p.color_name}</div>
+            </div>
+          </>
+        );
+        return p.url
+          ? <a href={p.url} class="pair-card" style={styleVar}>{inner}</a>
+          : <div class="pair-card disabled" style={styleVar} aria-disabled="true">{inner}</div>;
+      })}
+    </div>
+
+    {data.note && <p class="note">{data.note}</p>}
+  </div>
+</section>
+
+<style>
+  .pairs {
+    padding: 90px 0 80px;
+    border-top: 1px solid var(--rule);
+  }
+  @media (max-width: 720px) { .pairs { padding: 60px 0 40px; } }
+
+  .pairs-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) {
+    .pairs-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; }
+  }
+  .pairs-head .title {
+    font-family: var(--font-serif);
+    font-size: clamp(30px, 4.4vw, 56px);
+    line-height: 1;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+  }
+  .pairs-head .title :global(em) { font-style: italic; color: var(--clay); }
+
+  .pairs-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 18px;
+  }
+  @media (max-width: 880px) { .pairs-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 520px) { .pairs-grid { grid-template-columns: 1fr 1fr; gap: 12px; } }
+
+  .pair-card {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform var(--t-fast) var(--ease), box-shadow var(--t-fast) var(--ease);
+    display: block;
+  }
+  .pair-card:not(.disabled):hover {
+    transform: translateY(-3px);
+    box-shadow: 0 18px 36px -18px rgba(26, 34, 54, 0.3);
+  }
+  .pair-card.disabled { opacity: 0.55; cursor: not-allowed; }
+
+  .pair-card .siding {
+    aspect-ratio: 4 / 3;
+    background: var(--siding-color, #E5D8C0);
+    position: relative;
+  }
+  .pair-card .siding::after {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.18));
+  }
+  .pair-card .meta { padding: 14px 16px 16px; }
+  .pair-card .kicker-row {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 4px;
+  }
+  .pair-card .color-name {
+    font-family: var(--font-serif);
+    font-size: 19px;
+    line-height: 1.15;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+  }
+  .note {
+    margin-top: 18px;
+    color: var(--ink-soft);
+    font-size: 13px;
+    font-family: var(--font-mono);
+    letter-spacing: 0.06em;
+  }
+</style>

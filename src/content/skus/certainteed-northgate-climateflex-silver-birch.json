@@ -1,0 +1,486 @@
+{
+  "slug": "certainteed-northgate-climateflex-silver-birch",
+  "url_path": "/shingles/certainteed/northgate-climateflex/silver-birch/",
+  "h1": "CertainTeed Northgate Climateflex Silver Birch Shingles",
+  "meta_title": "CertainTeed Northgate Climateflex Silver Birch Shingles · Color, Specs, Price (2026)",
+  "meta_description": "CertainTeed Northgate Climateflex in Silver Birch: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": null,
+  "best_for_styles": [
+    "contemporary",
+    "modern-farmhouse",
+    "traditional",
+    "transitional",
+    "ranch"
+  ],
+  "hail_rating_class": 4,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural (SBS modified)",
+    "brand_display": "CertainTeed",
+    "brand_slug": "certainteed",
+    "brand_url": "/shingles/certainteed/",
+    "line_display": "Northgate Climateflex",
+    "line_slug": "certainteed-northgate-climateflex",
+    "line_url": "/shingles/certainteed/northgate-climateflex/",
+    "color_display": "Silver Birch",
+    "color_slug": "silver-birch",
+    "h1_html": "CertainTeed Northgate Climateflex <em>Silver Birch</em> Shingles",
+    "tagline": "The workhorse mid-tone that flatters almost any house color underneath it.",
+    "hex": "#a5a4a1",
+    "hero_image_local_path": null,
+    "hero_image_cdn_url": null,
+    "hero_image_alt": "Home with CertainTeed Northgate Climateflex Silver Birch roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$161"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "CertainTeed",
+        "url": "/shingles/certainteed/"
+      },
+      {
+        "label": "Northgate Climateflex",
+        "url": "/shingles/certainteed/northgate-climateflex/"
+      },
+      {
+        "label": "Silver Birch",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "northgate-climateflex",
+      "color": "silver-birch"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Silver Birch sits in the heart of the gray spectrum for Northgate Climateflex. It reads as a clean charcoal in direct sun and softens to a near-black on cloudy or shaded elevations. That tonal range is the reason it dominates the dimensional asphalt category nationally.",
+      "Up close you can pick out three or four granule shades layered into the surface. From the street they collapse into one mid-dark gray, but the layering is why a quality asphalt roof catches light the way single-color metal never quite does.",
+      "A safe specification if you have not committed to a final paint color yet. It cools the rest of the elevation visually and makes warm accents (cedar, stone, copper) look richer."
+    ],
+    "swatch_meta": {
+      "hex": "#a5a4a1",
+      "family": "Gray",
+      "undertone": "Cool blue",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#a5a4a1",
+      "#b2b1af",
+      "#c1c0be"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-northgate-climateflex-silver-birch\\certainteed-northgate-climateflex-silver-birch-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/certainteed-northgate-climateflex-silver-birch/certainteed-northgate-climateflex-silver-birch-swatch.jpg",
+      "image_filename": "certainteed-northgate-climateflex-silver-birch-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "northgate-cf-sibi-swatch.jpeg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural (SBS modified)",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "ClimateFlex SBS-modified asphalt for cold-flex and impact. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 4",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "250 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakFighter",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "CertainTeed",
+        "ctx": "Malvern, PA · made in the USA"
+      }
+    ],
+    "docs": [
+      {
+        "label": "Historical Roofing Warranties - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/0k71w1oizd/pdf/Historical-Asphalt-Roofing-Warranties-1988-2025.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 International Limited Warranty - Asphalt Shingles",
+        "url": "https://certainteed.widen.net/content/1nmszdhkin/pdf/asphalt-international-warranty-00-02-5544-XP-EN-2601.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 Asphalt Shingles Limited Warranty - Residential",
+        "url": "https://certainteed.widen.net/content/cu4q0koymx/pdf/asphalt-low-slope-shingle-warranty-00-02-5540-NA-EN-2602.pdf?u=nwk4fd",
+        "type": "warranty"
+      },
+      {
+        "label": "2026 | Wind Warranty Sell Sheet",
+        "url": "https://certainteed.widen.net/content/nwzj0hed8h/pdf/wind-warranty-sellsheet-00-04-5812-NA-EN-2603.pdf?u=otft5c",
+        "type": "warranty"
+      },
+      {
+        "label": "Brochure - Third Party Classification",
+        "url": "https://certainteed.widen.net/content/evxm8pieio/pdf/roofing-ulclassified-brochure-00-00-17-US-EN--2601.pdf?u=nwk4fd",
+        "type": "brochure"
+      },
+      {
+        "label": "Brochure - Integrity Roof System",
+        "url": "https://certainteed.widen.net/content/dowfttmlc0/pdf/Integrity-Roof-System-Brochure-13-00-1916-NA-EN-2501.pdf?u=nwk4fd",
+        "type": "brochure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Northgate Climateflex Silver Birch. No staging, no flattering filters.",
+    "tiles": [],
+    "tiles_total": 0,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/certainteed-northgate-climateflex-silver-birch/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Silver Birch <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": null
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": null
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": null
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": null
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": null
+      }
+    ],
+    "note": "We do not yet have full-render combination pages for this color family."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Cambridge",
+        "line_slug": "iko-cambridge",
+        "color_display": "Dove White",
+        "color_hex": "#9ca6a4",
+        "redmean_distance": 15.8,
+        "url": "/shingles/iko/cambridge/dove-white/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "OYSTER SHELL",
+        "color_hex": "#9a9b97",
+        "redmean_distance": 29.6,
+        "url": "/shingles/atlas/pinnacle-pristine/oyster-shell/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Frostone Grey",
+        "color_hex": "#8b9190",
+        "redmean_distance": 62.4,
+        "url": "/shingles/iko/dynasty/frostone-grey/"
+      },
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Legacy",
+        "line_slug": "malarkey-legacy",
+        "color_display": "Silverwood",
+        "color_hex": "#b9bbbc",
+        "redmean_distance": 69.8,
+        "url": "/shingles/malarkey/legacy/silverwood/"
+      },
+      {
+        "brand_display": "Malarkey",
+        "brand_slug": "malarkey",
+        "line_display": "Vista",
+        "line_slug": "malarkey-vista",
+        "color_display": "Silverwood",
+        "color_hex": "#b9bbbc",
+        "redmean_distance": 69.8,
+        "url": "/shingles/malarkey/vista/silverwood/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$161–$185",
+        "low_usd": 161,
+        "high_usd": 185,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$4,830–$5,550",
+        "low_usd": 4830,
+        "high_usd": 5550,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$14k–$24k",
+        "low_usd": 14490,
+        "high_usd": 24420,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/CertainTeed-NorthGate-ClimateFlex-Max-Def-Hunter-Green-Algae-Resistant-Architectural-Roof-Shingles-33-3-sq-ft-per-Bundle/5018257093",
+        "anchor_color": "",
+        "page_title": "CertainTeed NorthGate ClimateFlex Max Def Hunter Green Algae Resistant Architectural Roof Shingles ( 33.3-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\certainteed-northgate-climateflex\\lowes.com__b8510eb6.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "RoofingCalc.com / Lowe's listing",
+        "url": "https://www.roofingcalc.com/cost-to-install-certainteed-shingles/",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 45,
+        "high_per_bundle_usd": 70,
+        "low_per_square_usd": 135.13,
+        "high_per_square_usd": 210.21,
+        "price_per_bundle_usd": 57.5,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 172.67,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "SBS-modified Class 4 architectural; $2-3/sq ft material ($135-$210/sq); consumer-retail at Lowe's.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Silver Birch</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Northgate Climateflex Silver Birch in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Silver Birch",
+    "preview_image_local_path": null,
+    "preview_image_cdn_url": null,
+    "badge_text": "Pre-loaded: Silver Birch",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "northgate-climateflex",
+      "color": "silver-birch"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Silver Birch, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Silver Birch fade over time?",
+      "a": "Minimally. CertainTeed's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: CertainTeed product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Silver Birch look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Silver Birch make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across CertainTeed, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. CertainTeed's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Silver Birch</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "certainteed",
+      "line": "northgate-climateflex",
+      "color": "silver-birch"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "CertainTeed product page",
+      "url": "https://www.certainteed.com/products/residential-roofing-products/northgate-climateflex"
+    },
+    {
+      "label": "Wikipedia: CertainTeed",
+      "url": "https://en.wikipedia.org/wiki/CertainTeed"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

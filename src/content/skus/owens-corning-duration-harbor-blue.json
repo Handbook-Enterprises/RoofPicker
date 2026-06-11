@@ -1,0 +1,496 @@
+{
+  "slug": "owens-corning-duration-harbor-blue",
+  "url_path": "/shingles/owens-corning/duration/harbor-blue/",
+  "h1": "Owens Corning Duration Harbor Blue Shingles",
+  "meta_title": "Owens Corning Duration Harbor Blue Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Owens Corning Duration in Harbor Blue: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "blue",
+  "roof_archetype": null,
+  "best_for_styles": [
+    "cape-cod",
+    "coastal-cottage",
+    "nantucket",
+    "shingle-style"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Owens Corning",
+    "brand_slug": "owens-corning",
+    "brand_url": "/shingles/owens-corning/",
+    "line_display": "Duration",
+    "line_slug": "owens-corning-duration",
+    "line_url": "/shingles/owens-corning/duration/",
+    "color_display": "Harbor Blue",
+    "color_slug": "harbor-blue",
+    "h1_html": "Owens Corning Duration <em>Harbor Blue</em> Shingles",
+    "tagline": "A rare committed-blue asphalt shingle that reads as architectural intent.",
+    "hex": "#505f69",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-harbor-blue\\owens-corning-duration-harbor-blue-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-harbor-blue/owens-corning-duration-harbor-blue-1.jpg",
+    "hero_image_alt": "Home with Owens Corning Duration Harbor Blue roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$120"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Owens Corning",
+        "url": "/shingles/owens-corning/"
+      },
+      {
+        "label": "Duration",
+        "url": "/shingles/owens-corning/duration/"
+      },
+      {
+        "label": "Harbor Blue",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "duration",
+      "color": "harbor-blue"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Harbor Blue is the cool-end specialty in the Duration catalog. It is a confident, slightly slate-leaning blue that pairs naturally with coastal whites, sage, and natural wood. Specified far less often than gray or brown, but unbeatable on the right elevation.",
+      "The granule blend uses a base of slate-blue with smaller portions of charcoal and storm-gray to keep the cool tone honest. Up close you can see the layering; from the street it collapses into one quiet blue plane.",
+      "Pairs naturally with cool whites, light sage, soft natural wood, and crisp navy accents. Pairs poorly with warm yellows, terracotta, or red brick where the cool undertone fights."
+    ],
+    "swatch_meta": {
+      "hex": "#505f69",
+      "family": "Blue / Coastal",
+      "undertone": "Cool",
+      "best_in": "Bright direct sun"
+    },
+    "hex_blend": [
+      "#505f69",
+      "#46525b",
+      "#5b6d7a"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-harbor-blue\\owens-corning-duration-harbor-blue-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-harbor-blue/owens-corning-duration-harbor-blue-swatch.jpg",
+      "image_filename": "owens-corning-duration-harbor-blue-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "TDD_HarborBlue_RGB_swatch_lg.jpg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Cape Cod house",
+        "url": "https://en.wikipedia.org/wiki/Cape_Cod_(house)"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "SureNail Strip nailing reinforcement enables 130 mph standard. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "230 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakGuard",
+        "ctx": "10-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Owens Corning",
+        "ctx": "Toledo, OH · made in the USA"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Duration Harbor Blue. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-harbor-blue\\owens-corning-duration-harbor-blue-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-harbor-blue/owens-corning-duration-harbor-blue-1.jpg",
+        "image_filename": "owens-corning-duration-harbor-blue-1.jpg",
+        "alt": "Florida home with Duration Harbor Blue roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-harbor-blue\\owens-corning-duration-harbor-blue-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-harbor-blue/owens-corning-duration-harbor-blue-2.jpg",
+        "image_filename": "owens-corning-duration-harbor-blue-2.jpg",
+        "alt": "Florida home with Duration Harbor Blue roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-harbor-blue\\owens-corning-duration-harbor-blue-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-harbor-blue/owens-corning-duration-harbor-blue-3.jpg",
+        "image_filename": "owens-corning-duration-harbor-blue-3.jpg",
+        "alt": "Florida home with Duration Harbor Blue roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-harbor-blue\\owens-corning-duration-harbor-blue-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-harbor-blue/owens-corning-duration-harbor-blue-4.jpg",
+        "image_filename": "owens-corning-duration-harbor-blue-4.jpg",
+        "alt": "Florida home with Duration Harbor Blue roof",
+        "tag": "AI-rendered example (street view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "owens-corning-duration-harbor-blue-1.jpg"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/owens-corning-duration-harbor-blue/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Harbor Blue <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Coastal White",
+        "color_hex": "#F4F0E6",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": null
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": null
+      },
+      {
+        "color_name": "Natural Cedar",
+        "color_hex": "#A07C5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "tan",
+        "url": null
+      },
+      {
+        "color_name": "Cape Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Tonal match",
+        "house_color_slug": "navy",
+        "url": null
+      },
+      {
+        "color_name": "Stone Gray",
+        "color_hex": "#B8B5AC",
+        "kicker": "Cool neutral",
+        "house_color_slug": "gray",
+        "url": null
+      }
+    ],
+    "note": "We do not yet have full-render combination pages for this color family."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>blue / coastal</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline As Ii",
+        "line_slug": "gaf-timberline-as-ii",
+        "color_display": "Timberline As Ii Pewter Gray",
+        "color_hex": "#585b5e",
+        "redmean_distance": 23.1,
+        "url": "/shingles/gaf/timberline-as-ii/timberline-as-ii-pewter-gray/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Hdz",
+        "line_slug": "gaf-timberline-hdz",
+        "color_display": "Pewter Gray",
+        "color_hex": "#585b5e",
+        "redmean_distance": 23.1,
+        "url": "/shingles/gaf/timberline-hdz/pewter-gray/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Uhdz",
+        "line_slug": "gaf-timberline-uhdz",
+        "color_display": "Timberline Uhdz With Ultramat Pewter Gray",
+        "color_hex": "#585b5e",
+        "redmean_distance": 23.1,
+        "url": "/shingles/gaf/timberline-uhdz/timberline-uhdz-with-ultramat-pewter-gray/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Pewterwood",
+        "color_hex": "#5e6463",
+        "redmean_distance": 25.6,
+        "url": "/shingles/certainteed/landmark/pewterwood/"
+      },
+      {
+        "brand_display": "TAMKO",
+        "brand_slug": "tamko",
+        "line_display": "Heritage",
+        "line_slug": "tamko-heritage",
+        "color_display": "Shadow Grey",
+        "color_hex": "#5f6569",
+        "redmean_distance": 25.9,
+        "url": "/shingles/tamko/heritage/shadow-grey/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$120–$139",
+        "low_usd": 120,
+        "high_usd": 139,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,600–$4,170",
+        "low_usd": 3600,
+        "high_usd": 4170,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$10k–$18k",
+        "low_usd": 10800,
+        "high_usd": 18348,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/Owens-Corning-TruDefinition-Duration-32-8-sq-ft-Driftwood-Laminated-Architectural-Roof-Shingles/3428116",
+        "anchor_color": "Driftwood",
+        "page_title": "Owens Corning TruDefinition Duration Driftwood Algae Resistant Architectural Roof Shingles ( 32.8-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 44,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 134.16,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-duration\\lowes.com__2358a399.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/Owens-Corning-TruDefinition-Duration-Driftwood-Algae-Resistant-Laminate-Architectural-Roofing-Shingles-32-8-sq-ft-Per-Bundle-TD30/205655963",
+        "anchor_color": "Driftwood",
+        "page_title": "Owens Corning TruDefinition Duration Driftwood Algae Resistant Laminate Architectural Roofing Shingles (32.8 sq. ft. Per Bundle) TD30 - The Home Depot",
+        "price_per_bundle_usd": 40.97,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 124.92,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-duration\\homedepot.com__9f148581.html",
+        "scraped_ok": true,
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Harbor Blue</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Harbor Blue in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Harbor Blue",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-harbor-blue\\owens-corning-duration-harbor-blue-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-harbor-blue/owens-corning-duration-harbor-blue-1.jpg",
+    "badge_text": "Pre-loaded: Harbor Blue",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "duration",
+      "color": "harbor-blue"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Harbor Blue, really?",
+      "a": "A confident cool blue with slate and storm-gray granule accents. In direct Florida sun it reads as a clean blue; in shade it pulls toward cool gray. Far less common than gray or brown in the asphalt category, which is part of the appeal."
+    },
+    {
+      "q": "Will Harbor Blue look strange on a non-coastal home?",
+      "a": "Possibly. The color was specified historically to pair with cedar shake, Cape Cod, and coastal-cottage elevations. On a traditional brick or warm-stucco home it can read as out of place. On a contemporary or modern build it works as long as the rest of the palette stays cool."
+    },
+    {
+      "q": "Does Harbor Blue fade over time?",
+      "a": "Some. Blue asphalt shingles use ultramarine and cobalt-toned pigments in the granule blend, and blues drift cooler-and-grayer more visibly than grays or browns under prolonged UV. Expect a slight loss of saturation over the first 10 years in Florida sun. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Harbor Blue compare to a true gray shingle?",
+      "a": "From across the street they can read similarly, especially on overcast days. In direct sun the blue tone separates clearly. If you want a roof that 'reads gray most of the time and blue on bright days,' this is closer to what you want than the cool-gray family."
+    },
+    {
+      "q": "Will Harbor Blue make my house run hotter?",
+      "a": "Slightly. Mid-tone cool asphalt absorbs similar solar heat to mid-tone gray. Florida attic-temperature impact is 5 to 10 degrees Fahrenheit at peak summer versus a light gray. Proper ventilation and a radiant barrier reduce monthly cooling-cost impact to under 20 dollars."
+    },
+    {
+      "q": "Is this color rare?",
+      "a": "Yes. Blue asphalt SKUs are produced in far smaller volumes than gray or brown. Lead times can be longer and some retailers do not stock them. Plan a 2 to 4 week lead time if you want to specify this color."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Harbor Blue</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "duration",
+      "color": "harbor-blue"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Cape Cod house",
+      "url": "https://en.wikipedia.org/wiki/Cape_Cod_(house)"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Owens Corning product page",
+      "url": "https://www.owenscorning.com/en-us/roofing/shingles/trudefinition-duration?shingle-color=brownwood"
+    },
+    {
+      "label": "Wikipedia: Owens Corning",
+      "url": "https://en.wikipedia.org/wiki/Owens_Corning"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "blue"
+}

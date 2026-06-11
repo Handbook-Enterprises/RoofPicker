@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import SKUHero from '@components/sku/SKUHero.astro';
+import ColorDesc from '@components/sku/ColorDesc.astro';
+import SpecsTable from '@components/sku/SpecsTable.astro';
+import GalleryMosaic from '@components/gallery/GalleryMosaic.astro';
+import PairsGrid from '@components/sku/PairsGrid.astro';
+import SimilarGrid from '@components/sku/SimilarGrid.astro';
+import PricingCards from '@components/sku/PricingCards.astro';
+import TryItCTA from '@components/sku/TryItCTA.astro';
+import FAQSection from '@components/faq/FAQSection.astro';
+import ClosingCTA from '@components/cta/ClosingCTA.astro';
+import { imageSrc } from '@lib/cdn';
+import { breadcrumbList, faqPage, product } from '@lib/schema';
+import { fixBreadcrumb } from '@lib/breadcrumb';
+
+export async function getStaticPaths() {
+  const skus = await getCollection('skus');
+  return skus.map((sku) => {
+    const hero = sku.data.sku_hero;
+    // line_slug is "<brand>-<line>"; strip the brand prefix.
+    const lineWithin = hero.line_slug.startsWith(`${hero.brand_slug}-`)
+      ? hero.line_slug.slice(hero.brand_slug.length + 1)
+      : hero.line_slug;
+    return {
+      params: {
+        brand: hero.brand_slug,
+        line:  lineWithin,
+        color: hero.color_slug,
+      },
+      props: { sku: sku.data },
+    };
+  });
+}
+
+const { sku } = Astro.props;
+const hero = sku.sku_hero;
+
+const heroOg = imageSrc({
+  image_local_path: hero.hero_image_local_path,
+  image_cdn_url:    hero.hero_image_cdn_url,
+});
+
+const jsonLd = [
+  product({
+    name: `${hero.brand_display} ${hero.line_display} ${hero.color_display}`,
+    brand: hero.brand_display,
+    sku: sku.slug,
+    description: sku.meta_description,
+    images: sku.gallery.tiles.map((t) => imageSrc(t)).filter(Boolean),
+    pricingCard: sku.pricing.cards[0] && {
+      low_usd:  (sku.pricing.cards[0] as any).low_usd,
+      high_usd: (sku.pricing.cards[0] as any).high_usd,
+    },
+  }),
+  faqPage(sku.faq_items),
+  breadcrumbList(fixBreadcrumb(hero.breadcrumb)),
+];
+---
+<BaseLayout
+  title={sku.meta_title}
+  description={sku.meta_description}
+  canonical={sku.url_path}
+  ogImage={heroOg || null}
+  jsonLd={jsonLd}
+>
+  <SKUHero data={hero} />
+  <ColorDesc data={sku.color_desc} />
+  <SpecsTable data={sku.specs} />
+  <GalleryMosaic
+    title_html={sku.gallery.title_html}
+    meta={sku.gallery.meta}
+    tiles={sku.gallery.tiles}
+    limit={12}
+  />
+  <PairsGrid data={sku.pairs} />
+  <SimilarGrid data={sku.similar} />
+  <PricingCards data={sku.pricing} />
+  <TryItCTA data={sku.try_it} skuHex={hero.hex} />
+
+  <FAQSection
+    kicker="Common questions"
+    title_html={`About <em>${hero.color_display}</em>.`}
+    note="Questions homeowners ask before they commit. Answered without sales spin."
+    items={sku.faq_items}
+  />
+
+  <ClosingCTA data={sku.closing} />
+</BaseLayout>

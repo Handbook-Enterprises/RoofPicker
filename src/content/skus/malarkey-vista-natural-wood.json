@@ -1,0 +1,577 @@
+{
+  "slug": "malarkey-vista-natural-wood",
+  "url_path": "/shingles/malarkey/vista/natural-wood/",
+  "h1": "Malarkey Vista AR Natural Wood Shingles",
+  "meta_title": "Malarkey Vista AR Natural Wood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Malarkey Vista AR in Natural Wood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "weathered-wood",
+  "best_for_styles": [
+    "ranch"
+  ],
+  "hail_rating_class": null,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Malarkey",
+    "brand_slug": "malarkey",
+    "brand_url": "/shingles/malarkey/",
+    "line_display": "Vista AR",
+    "line_slug": "malarkey-vista",
+    "line_url": "/shingles/malarkey/vista/",
+    "color_display": "Natural Wood",
+    "color_slug": "natural-wood",
+    "h1_html": "Malarkey Vista AR <em>Natural Wood</em> Shingles",
+    "tagline": "A bold dimensional gray with enough depth to anchor a contemporary build.",
+    "hex": "#6c6764",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
+    "hero_image_alt": "Home with Malarkey Vista AR Natural Wood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$132"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Malarkey",
+        "url": "/shingles/malarkey/"
+      },
+      {
+        "label": "Vista AR",
+        "url": "/shingles/malarkey/vista/"
+      },
+      {
+        "label": "Natural Wood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "malarkey",
+      "line": "vista",
+      "color": "natural-wood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "The most common asphalt-shingle install nationally is a gray in this exact tonal zone. Natural Wood sits right inside that fairway: dark enough to feel anchored, light enough to keep the elevation breathing. The granule blend is engineered to read as a single quiet plane from the street.",
+      "The shingle profile carries a deep shadow line that emphasizes the gray tone in midday light. At dusk the whole roof becomes one quiet plane that frames the rest of the house instead of competing with it.",
+      "Pairs cleanly with white, cream, navy, sage, and warm terra-cotta sidings. Almost any house color works underneath it."
+    ],
+    "swatch_meta": {
+      "hex": "#6c6764",
+      "family": "Gray",
+      "undertone": "Warm slate",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#6c6764",
+      "#77716e",
+      "#847f7b"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/malarkey-vista-natural-wood/malarkey-vista-natural-wood-swatch.jpg",
+      "image_filename": "malarkey-vista-natural-wood-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "architectural-natural-wood-OR-malarkey-swatch.jpg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "ASTM D7158 / D3161 standard"
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Not rated",
+        "ctx": "UL 2218 impact rating not claimed on the manufacturer warranty card."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "230 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "Algae-resistant granules",
+        "ctx": "Algae-resistance package included"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Malarkey",
+        "ctx": "Portland, OR · made in the USA"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Vista AR Natural Wood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
+        "image_filename": "malarkey-vista-natural-wood-1.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-2.jpg",
+        "image_filename": "malarkey-vista-natural-wood-2.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-3.jpg",
+        "image_filename": "malarkey-vista-natural-wood-3.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-4.jpg",
+        "image_filename": "malarkey-vista-natural-wood-4.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-5.jpg",
+        "image_filename": "malarkey-vista-natural-wood-5.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-6.jpg",
+        "image_filename": "malarkey-vista-natural-wood-6.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-7.jpg",
+        "image_filename": "malarkey-vista-natural-wood-7.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-8.jpg",
+        "image_filename": "malarkey-vista-natural-wood-8.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-9.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-9.jpg",
+        "image_filename": "malarkey-vista-natural-wood-9.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-10.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-10.jpg",
+        "image_filename": "malarkey-vista-natural-wood-10.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-11.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-11.jpg",
+        "image_filename": "malarkey-vista-natural-wood-11.jpg",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-12.png",
+        "image_filename": "malarkey-vista-natural-wood-12.png",
+        "alt": "Florida home with Vista AR Natural Wood roof",
+        "tag": "AI-rendered example (ranch-with-weathered-wood-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "ranch-with-weathered-wood-roof",
+        "angle": "front",
+        "origin_filename": "vista-natural-wood-front.jpg"
+      }
+    ],
+    "tiles_total": 12,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/malarkey-vista-natural-wood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Natural Wood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-weathered-wood-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Colonial Slate",
+        "color_hex": "#6e6962",
+        "redmean_distance": 6,
+        "url": "/shingles/certainteed/landmark/colonial-slate/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Georgetown Gray",
+        "color_hex": "#6d6a64",
+        "redmean_distance": 6.2,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-georgetown-gray/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Belmont",
+        "line_slug": "certainteed-belmont",
+        "color_display": "Colonial Slate",
+        "color_hex": "#6e6a64",
+        "redmean_distance": 6.8,
+        "url": "/shingles/certainteed/belmont/colonial-slate/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Pewter",
+        "color_hex": "#6a6967",
+        "redmean_distance": 7,
+        "url": "/shingles/certainteed/landmark/pewter/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Cornerstone WWD",
+        "color_hex": "#706860",
+        "redmean_distance": 9.2,
+        "url": "/shingles/iko/dynasty/cornerstone-wwd/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$132–$152",
+        "low_usd": 132,
+        "high_usd": 152,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,960–$4,560",
+        "low_usd": 3960,
+        "high_usd": 4560,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$11k–$20k",
+        "low_usd": 11880,
+        "high_usd": 20064,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/Malarkey-Vista-Silverwood-Architectural-Roof-Shingles-33-3-sq-ft-per-Bundle/5018046129",
+        "anchor_color": "Silverwood",
+        "page_title": "Malarkey Vista Silverwood Architectural Roof Shingles ( 33.3-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\malarkey-vista\\lowes.com__5c612506.html",
+        "scraped_ok": true,
+        "error": "lowes_out_of_stock_in_all_zips"
+      },
+      {
+        "retailer": "dealerschoicedistribution.com",
+        "url": "https://www.dealerschoicedistribution.com/product/Malarkey-Vista-AR-Algae-Resistant-Shingles-3-Bundles-per-Square/C-595615/753372",
+        "anchor_color": "",
+        "page_title": "Malarkey 13.25 in x 39 in Vista™ AR Algae Resistant Shingles - 3 Bundles per Square Brilliant Black",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\malarkey-vista\\dealerschoicedistribution.com__effb7d24.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "qxo.com",
+        "url": "https://www.qxo.com/product/Malarkey-Vista-AR-Algae-Resistant-Shingles-4-Bundles-per-Square-Natural-Wood/C-529461/529463",
+        "anchor_color": "",
+        "page_title": "Malarkey 13.25 in x 40 in Vista™ AR Algae Resistant Shingles - 4 Bundles per Square Natural Wood",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\malarkey-vista\\qxo.com__8e3edbd1.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "roofcalc.org published average",
+        "url": "https://www.roofcalc.org/malarkey-vista-shingles/",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 46.25,
+        "high_per_bundle_usd": 48.25,
+        "low_per_square_usd": 138.89,
+        "high_per_square_usd": 144.89,
+        "price_per_bundle_usd": 47.25,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 141.89,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "Malarkey Vista is not sold consumer retail; published industry average.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Natural Wood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Malarkey Vista AR Natural Wood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Natural Wood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
+    "badge_text": "Pre-loaded: Natural Wood",
+    "visualizer_payload": {
+      "brand": "malarkey",
+      "line": "vista",
+      "color": "natural-wood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Natural Wood, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Natural Wood fade over time?",
+      "a": "Minimally. Malarkey's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: Malarkey product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Natural Wood look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Natural Wood make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across Malarkey, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. Malarkey's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Natural Wood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "malarkey",
+      "line": "vista",
+      "color": "natural-wood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "Malarkey product page",
+      "url": "https://www.malarkeyroofing.com/products/shingles-overview/vista-ar-shingles/"
+    },
+    {
+      "label": "Wikipedia: Malarkey",
+      "url": "https://en.wikipedia.org/wiki/Malarkey_Roofing_Products"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

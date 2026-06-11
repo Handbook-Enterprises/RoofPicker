@@ -1,0 +1,568 @@
+{
+  "slug": "owens-corning-oakridge-brownwood",
+  "url_path": "/shingles/owens-corning/oakridge/brownwood/",
+  "h1": "Owens Corning Oakridge Brownwood Shingles",
+  "meta_title": "Owens Corning Oakridge Brownwood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Owens Corning Oakridge in Brownwood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "brown",
+  "roof_archetype": "brown",
+  "best_for_styles": [
+    "craftsman",
+    "tudor",
+    "mediterranean",
+    "traditional",
+    "victorian"
+  ],
+  "hail_rating_class": null,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Owens Corning",
+    "brand_slug": "owens-corning",
+    "brand_url": "/shingles/owens-corning/",
+    "line_display": "Oakridge",
+    "line_slug": "owens-corning-oakridge",
+    "line_url": "/shingles/owens-corning/oakridge/",
+    "color_display": "Brownwood",
+    "color_slug": "brownwood",
+    "h1_html": "Owens Corning Oakridge <em>Brownwood</em> Shingles",
+    "tagline": "Traditional brown that flatters brick, stone, and warm-wood elevations.",
+    "hex": "#6c4a3c",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-1.jpg",
+    "hero_image_alt": "Home with Owens Corning Oakridge Brownwood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$113"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Owens Corning",
+        "url": "/shingles/owens-corning/"
+      },
+      {
+        "label": "Oakridge",
+        "url": "/shingles/owens-corning/oakridge/"
+      },
+      {
+        "label": "Brownwood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "brownwood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Brownwood sits in the warm half of the asphalt spectrum and pairs naturally with brick, stone, and earth-tone siding. On Florida elevations with bright midday light, the surface picks up enough red to read as a clear, decided color rather than a generic 'dark roof'.",
+      "Look closely and you can pick out three or four granule shades inside the blend. The eye stops registering them at conversational distance, but the layered texture is why warm-brown asphalt roofs photograph as 'rich' rather than 'flat'.",
+      "Difficult to use poorly on a craftsman, traditional, or Tudor home. Harder to specify on a stark modern build where the warmth of the roof can fight the rest of the palette."
+    ],
+    "swatch_meta": {
+      "hex": "#6c4a3c",
+      "family": "Brown",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#6c4a3c",
+      "#523730",
+      "#88634e"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-swatch.jpg",
+      "image_filename": "owens-corning-oakridge-brownwood-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "O_Brownwood_RGB_swatch_lg.jpg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      },
+      {
+        "label": "Wikipedia: Brown (color)",
+        "url": "https://en.wikipedia.org/wiki/Brown"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "Upgradable to 130 mph with full Preferred Protection System. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Not rated",
+        "ctx": "UL 2218 impact rating not claimed on the manufacturer warranty card."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "230 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakGuard",
+        "ctx": "10-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Owens Corning",
+        "ctx": "Toledo, OH · made in the USA"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Oakridge Brownwood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-1.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-1.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-2.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-2.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-3.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-3.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-4.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-4.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-5.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-5.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-6.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-6.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-7.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-7.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-8.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-8.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-9.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-9.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-9.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-10.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-10.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-10.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-11.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-11.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-11.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-12.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-12.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-12.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-13.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-13.jpg",
+        "image_filename": "owens-corning-oakridge-brownwood-13.jpg",
+        "alt": "Florida home with Oakridge Brownwood roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      }
+    ],
+    "tiles_total": 13,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/owens-corning-oakridge-brownwood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Brownwood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Stone White",
+        "color_hex": "#EDE6D6",
+        "kicker": "Bright contrast",
+        "house_color_slug": "white",
+        "url": "/white-house-with-brown-roof/"
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Monochromatic",
+        "house_color_slug": "brown",
+        "url": "/brown-house-with-brown-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>brown</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Heather Blend",
+        "color_hex": "#6d513e",
+        "redmean_distance": 14.4,
+        "url": "/shingles/certainteed/landmark-pro/max-def-heather-blend/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Heather Blend",
+        "color_hex": "#6d513e",
+        "redmean_distance": 14.4,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-heather-blend/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Grand Sequoia",
+        "line_slug": "gaf-grand-sequoia",
+        "color_display": "Grand Sequoia Mesa Brown",
+        "color_hex": "#634a38",
+        "redmean_distance": 15.4,
+        "url": "/shingles/gaf/grand-sequoia/grand-sequoia-mesa-brown/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Belmont",
+        "line_slug": "certainteed-belmont",
+        "color_display": "Shenandoah",
+        "color_hex": "#665139",
+        "redmean_distance": 17.5,
+        "url": "/shingles/certainteed/belmont/shenandoah/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Grand Manor",
+        "line_slug": "certainteed-grand-manor",
+        "color_display": "Chestnut",
+        "color_hex": "#654f43",
+        "redmean_distance": 18.6,
+        "url": "/shingles/certainteed/grand-manor/chestnut/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$113–$130",
+        "low_usd": 113,
+        "high_usd": 130,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,390–$3,900",
+        "low_usd": 3390,
+        "high_usd": 3900,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$10k–$17k",
+        "low_usd": 10170,
+        "high_usd": 17160,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/Owens-Corning-Oakridge-32-8-Sq-Ft-Onyx-Black-Laminated-Architectural-Roof-Shingles/3005314",
+        "anchor_color": "",
+        "page_title": "Owens Corning Oakridge Onyx Black Algae Resistant Architectural Roof Shingles ( 32.8-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 41,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 125.01,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-oakridge\\lowes.com__16f88082.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/Owens-Corning-Oakridge-Onyx-Black-Algae-Resistant-Laminate-Architectural-Roofing-Shingles-32-8-sq-ft-per-Bundle-786353/206830645",
+        "anchor_color": "",
+        "page_title": "Owens Corning Oakridge Onyx Black Algae Resistant Laminate Architectural Roofing Shingles (32.8 sq. ft. per Bundle) 786353 - The Home Depot",
+        "price_per_bundle_usd": 38.97,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 118.82,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-oakridge\\homedepot.com__f91c46a2.html",
+        "scraped_ok": true,
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Brownwood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Oakridge Brownwood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Brownwood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-brownwood\\owens-corning-oakridge-brownwood-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-brownwood/owens-corning-oakridge-brownwood-1.jpg",
+    "badge_text": "Pre-loaded: Brownwood",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "brownwood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Brownwood, really?",
+      "a": "A warm, anchored brown with visible reddish or amber granule accents. In direct Florida sun it reads as a clear sienna or coffee; in shade it softens to a near-black. The blend is layered enough that the surface looks alive rather than flat."
+    },
+    {
+      "q": "Does Brownwood pair with red brick?",
+      "a": "Yes, and that is the canonical pairing. Brown asphalt and red brick share a warm tonal family, so they read as one coordinated elevation rather than competing colors. The trick is keeping the trim color clean and bright (warm white, soft cream) so the eye has somewhere to rest."
+    },
+    {
+      "q": "Does Brownwood fade over time?",
+      "a": "Minimally. Owens Corning's ceramic granule coating holds warm tones for 25 plus years in Florida UV. Browns tend to drift slightly cooler over the first 5 years (a barely visible shift) and then stabilize. The full warranty covers premature fading. Source: Owens Corning product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will Brownwood make my house run hotter?",
+      "a": "Slightly. Dark warm tones absorb similar solar heat to dark grays, adding roughly 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light gray. Proper ventilation and a radiant barrier under the decking keep monthly cooling-cost impact under 20 dollars in most homes."
+    },
+    {
+      "q": "How does Brownwood compare to other browns in the asphalt category?",
+      "a": "The 'brown' SKUs across major brands sit within a fairly tight tonal window. Most are mid-to-dark brown with warm undertones; differences are mostly in granule blend size and shadow-line depth. Use the Compare tab to see direct hex deltas against similar SKUs."
+    },
+    {
+      "q": "Is brown a 'dated' roof choice?",
+      "a": "On a contemporary white-stucco build, possibly. On a craftsman, traditional, Tudor, or Mediterranean elevation it is the most architecturally correct choice and reads as deliberate rather than dated. Picking by house style matters more than by trend."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Brownwood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "brownwood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Wikipedia: Brown (color)",
+      "url": "https://en.wikipedia.org/wiki/Brown"
+    },
+    {
+      "label": "Owens Corning product page",
+      "url": "https://www.owenscorning.com/en-us/roofing/shingles/oakridge?shingle-color=brownwood"
+    },
+    {
+      "label": "Wikipedia: Owens Corning",
+      "url": "https://en.wikipedia.org/wiki/Owens_Corning"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "brown"
+}

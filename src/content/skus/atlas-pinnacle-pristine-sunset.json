@@ -1,0 +1,505 @@
+{
+  "slug": "atlas-pinnacle-pristine-sunset",
+  "url_path": "/shingles/atlas/pinnacle-pristine/sunset/",
+  "h1": "Atlas Pinnacle Pristine SUNSET Shingles",
+  "meta_title": "Atlas Pinnacle Pristine SUNSET Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Atlas Pinnacle Pristine in SUNSET: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "red",
+  "roof_archetype": null,
+  "best_for_styles": [
+    "mediterranean",
+    "spanish-revival",
+    "tuscan",
+    "tudor"
+  ],
+  "hail_rating_class": 3,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Atlas",
+    "brand_slug": "atlas",
+    "brand_url": "/shingles/atlas/",
+    "line_display": "Pinnacle Pristine",
+    "line_slug": "atlas-pinnacle-pristine",
+    "line_url": "/shingles/atlas/pinnacle-pristine/",
+    "color_display": "SUNSET",
+    "color_slug": "sunset",
+    "h1_html": "Atlas Pinnacle Pristine <em>SUNSET</em> Shingles",
+    "tagline": "An asphalt take on the traditional terracotta roof, in shingle form.",
+    "hex": "#8a4a40",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-sunset\\atlas-pinnacle-pristine-sunset-1.png",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-sunset/atlas-pinnacle-pristine-sunset-1.png",
+    "hero_image_alt": "Home with Atlas Pinnacle Pristine SUNSET roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$123"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Atlas",
+        "url": "/shingles/atlas/"
+      },
+      {
+        "label": "Pinnacle Pristine",
+        "url": "/shingles/atlas/pinnacle-pristine/"
+      },
+      {
+        "label": "SUNSET",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "sunset"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "A statement color. SUNSET is what you specify when you want the roof to be part of the house's design conversation rather than a neutral backdrop. The granule blend is engineered to read as a clear red from street distance, not as a 'warm brown' approximation.",
+      "The shingle profile holds enough shadow line that the red tone deepens at sunset rather than washing out. Florida's bright midday light flatters this color especially well.",
+      "A natural choice if your house has warm stucco, terracotta, or natural-stone accents you want the roof to tie into. Best avoided on stark white modern builds."
+    ],
+    "swatch_meta": {
+      "hex": "#8a4a40",
+      "family": "Red / Russet",
+      "undertone": "Warm",
+      "best_in": "Late afternoon light"
+    },
+    "hex_blend": [
+      "#8a4a40",
+      "#9a5a50",
+      "#7a3a30"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "Wikipedia: Spanish architecture",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Colonial_Revival_architecture"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ASTM D3462 asphalt-shingle physical standard",
+        "url": "https://www.astm.org/d3462_d3462m-22.html"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "HP42 reinforced nailing zone, Sweet Spot nailing area. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 3",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "250 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "Scotchgard Protector",
+        "ctx": "Lifetime-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Atlas",
+        "ctx": "Atlanta, GA · made in the USA"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Pinnacle Pristine SUNSET. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-sunset\\atlas-pinnacle-pristine-sunset-1.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-sunset/atlas-pinnacle-pristine-sunset-1.png",
+        "image_filename": "atlas-pinnacle-pristine-sunset-1.png",
+        "alt": "Florida home with Pinnacle Pristine SUNSET roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-sunset\\atlas-pinnacle-pristine-sunset-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-sunset/atlas-pinnacle-pristine-sunset-2.jpg",
+        "image_filename": "atlas-pinnacle-pristine-sunset-2.jpg",
+        "alt": "Florida home with Pinnacle Pristine SUNSET roof",
+        "tag": "AI-rendered example (dusk view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "atlas-pinnacle-pristine-sunset-1.png"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-sunset\\atlas-pinnacle-pristine-sunset-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-sunset/atlas-pinnacle-pristine-sunset-3.jpg",
+        "image_filename": "atlas-pinnacle-pristine-sunset-3.jpg",
+        "alt": "Florida home with Pinnacle Pristine SUNSET roof",
+        "tag": "AI-rendered example (morning view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "atlas-pinnacle-pristine-sunset-1.png"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-sunset\\atlas-pinnacle-pristine-sunset-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-sunset/atlas-pinnacle-pristine-sunset-4.jpg",
+        "image_filename": "atlas-pinnacle-pristine-sunset-4.jpg",
+        "alt": "Florida home with Pinnacle Pristine SUNSET roof",
+        "tag": "AI-rendered example (front view)",
+        "source": "ai_rendered_sku_topup",
+        "origin_filename": "atlas-pinnacle-pristine-sunset-1.png"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/atlas-pinnacle-pristine-sunset/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "SUNSET <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Warm Cream Stucco",
+        "color_hex": "#EAD8B0",
+        "kicker": "Classic Mediterranean",
+        "house_color_slug": "cream",
+        "url": null
+      },
+      {
+        "color_name": "Soft Sage",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": null
+      },
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp contrast",
+        "house_color_slug": "white",
+        "url": null
+      },
+      {
+        "color_name": "Tobacco Brown",
+        "color_hex": "#6B4F36",
+        "kicker": "Tonal match",
+        "house_color_slug": "brown",
+        "url": null
+      },
+      {
+        "color_name": "Olive Green",
+        "color_hex": "#7C7A4B",
+        "kicker": "Mediterranean accent",
+        "house_color_slug": "sage-green",
+        "url": null
+      }
+    ],
+    "note": "We do not yet have full-render combination pages for this color family."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>red / russet</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Grand Manor",
+        "line_slug": "certainteed-grand-manor",
+        "color_display": "Georgian Brick",
+        "color_hex": "#884b36",
+        "redmean_distance": 16.1,
+        "url": "/shingles/certainteed/grand-manor/georgian-brick/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Burnt Sienna",
+        "color_hex": "#86553a",
+        "redmean_distance": 24.8,
+        "url": "/shingles/certainteed/landmark/burnt-sienna/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Burnt Sienna",
+        "color_hex": "#7d4f37",
+        "redmean_distance": 26.9,
+        "url": "/shingles/certainteed/landmark-pro/max-def-burnt-sienna/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Burnt Sienna",
+        "color_hex": "#7d4f37",
+        "redmean_distance": 26.9,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-burnt-sienna/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Presidential Shake",
+        "line_slug": "certainteed-presidential-shake",
+        "color_display": "Aged Bark",
+        "color_hex": "#7d4d34",
+        "redmean_distance": 28.6,
+        "url": "/shingles/certainteed/presidential-shake/aged-bark/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$123–$141",
+        "low_usd": 123,
+        "high_usd": 141,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,690–$4,230",
+        "low_usd": 3690,
+        "high_usd": 4230,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$11k–$18k",
+        "low_usd": 11070,
+        "high_usd": 18612,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/ATLAS-Pinnacle-Scotchgard-HP42-Asphalt-Architectural-Shingles-Pristine-Black-Shadow-618F002-3-BD-SQ-618F002/311703732",
+        "anchor_color": "",
+        "page_title": "ATLAS Pinnacle Scotchgard HP42 Asphalt Architectural Shingles-Pristine Black Shadow 618F002 (3 BD/SQ) 618F002 - The Home Depot",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\atlas-pinnacle-pristine\\homedepot.com__321295f7.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "menards.com",
+        "url": "https://www.menards.com/main/building-materials/roofing/roofing-shingles/atlas-pinnacle-reg-pristine-architectural-roofing-shingles-32-8-sq-ft/1516712/p-1536647321035-c-5814.htm",
+        "anchor_color": "Weathered Wood",
+        "page_title": "Atlas Pinnacle® Pristine Weathered Wood Architectural Roofing Shingles (32.8 sq. ft.) at Menards®",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\atlas-pinnacle-pristine\\menards.com__043a912e.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "Home Depot retail / RoofCalc.org",
+        "url": "https://www.homedepot.com/p/ATLAS-Pinnacle-Scotchgard-HP42-Asphalt-Architectural-Shingles-Pristine-Black-Shadow-618F002-3-BD-SQ-618F002/311703732",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 38,
+        "high_per_bundle_usd": 50,
+        "low_per_square_usd": 114.11,
+        "high_per_square_usd": 150.15,
+        "price_per_bundle_usd": 44,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 132.13,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "HD Black Shadow $46.47/bundle ($41.82 bulk); RoofCalc ~$38/bundle avg; sold at HD and Menards.",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>SUNSET</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Atlas Pinnacle Pristine SUNSET in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with SUNSET",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-sunset\\atlas-pinnacle-pristine-sunset-1.png",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-sunset/atlas-pinnacle-pristine-sunset-1.png",
+    "badge_text": "Pre-loaded: SUNSET",
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "sunset"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is SUNSET, really?",
+      "a": "A warm, confident red with visible iron-oxide and brick-toned granule accents. In direct Florida sun it reads as a clear russet; in shade it deepens toward warm brown. Far more committed to red than the typical 'warm brown' SKU in the asphalt category."
+    },
+    {
+      "q": "Does SUNSET look natural on a non-Mediterranean home?",
+      "a": "Sometimes, depending on the rest of the palette. The color was specified historically to approximate Spanish and Mediterranean tile roofs, and it reads most naturally on those styles. On a traditional craftsman or Tudor it can work with the right warm-tone siding. On a contemporary all-white build it almost always reads as out of period."
+    },
+    {
+      "q": "Does SUNSET fade over time?",
+      "a": "Some. Red asphalt shingles use iron-oxide pigments in the granule blend, and reds drift cooler more visibly than grays or browns under prolonged UV exposure. Expect a slight shift toward warm brown over the first 7 to 10 years in Florida sun. The shift is uniform, so the roof still looks coordinated. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Will SUNSET make my house run hotter?",
+      "a": "Slightly. Red asphalt absorbs roughly the same solar heat as a mid-dark gray or brown. In Florida that adds 5 to 10 degrees Fahrenheit to peak-summer attic temperatures versus a light-gray roof. Proper attic ventilation and a radiant barrier reduce monthly cooling impact to under 20 dollars in most homes."
+    },
+    {
+      "q": "How does SUNSET compare to clay tile?",
+      "a": "Clay tile costs roughly 4 to 6 times more installed and weighs roughly 6 times more per square. The visual difference at street distance is small enough that most homeowners cannot distinguish the two without close inspection. The asphalt option also installs on a standard roof structure without engineered reinforcement."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. Atlas's algae-resistance package uses copper- or zinc-infused granules that inhibit Gloeocapsa magma, the dark-streak algae endemic to Florida and the Gulf Coast. Reds show the streaks less visibly than grays do even if growth occurs."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>SUNSET</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "atlas",
+      "line": "pinnacle-pristine",
+      "color": "sunset"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "Wikipedia: Spanish architecture",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Colonial_Revival_architecture"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ASTM D3462 asphalt-shingle physical standard",
+      "url": "https://www.astm.org/d3462_d3462m-22.html"
+    },
+    {
+      "label": "Atlas product page",
+      "url": "https://www.atlasroofing.com/products/roof-shingles/pinnacle-pristine-shingles"
+    },
+    {
+      "label": "Wikipedia: Atlas",
+      "url": "https://en.wikipedia.org/wiki/Atlas_Roofing_Corporation"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "red"
+}

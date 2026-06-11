@@ -1,0 +1,315 @@
+---
+// Strategy 4 detail page (house_color × roof_color).
+// CSS verbatim from Combination-Page-Template; refresh: npm run port-combination.
+import { imageSrc, safeAlt } from '@lib/cdn';
+import combinationCss from '@styles/combination.css?raw';
+import { fixBreadcrumb } from '@lib/breadcrumb';
+
+interface Props {
+  data: Record<string, any>;
+}
+const { data } = Astro.props;
+
+// --- Hero ------------------------------------------------------------
+const hero = data.combo_hero ?? {};
+const heroMosaic: Array<any> = Array.isArray(hero.hero_mosaic) ? hero.hero_mosaic.slice(0, 7) : [];
+const metaDots: Array<{ label: string; dot_color_hex?: string; type?: string }> =
+  Array.isArray(hero.meta_dots) ? hero.meta_dots : [];
+// Rewrite hrefs to existing parents. See lib/breadcrumb.ts.
+const breadcrumb: Array<{ label: string; url: string | null }> =
+  fixBreadcrumb(Array.isArray(hero.breadcrumb) ? hero.breadcrumb : []);
+
+// --- Long gallery groups --------------------------------------------
+const galleryGroups: Array<any> = Array.isArray(data.long_gallery?.groups)
+  ? data.long_gallery.groups : [];
+
+// --- Visualizer CTA --------------------------------------------------
+const vcta = data.visualizer_cta ?? {};
+const vctaPreview = imageSrc({
+  image_local_path: vcta.preview_image_local_path,
+  image_cdn_url:    vcta.preview_image_cdn_url,
+});
+
+// --- Recommended SKUs ------------------------------------------------
+const recommended: Array<any> = Array.isArray(data.recommended?.items) ? data.recommended.items : [];
+
+// --- Consider + Common mistakes (two numbered-card sections) --------
+const considerItems: Array<any> = Array.isArray(data.consider?.items) ? data.consider.items : [];
+const mistakeItems: Array<any> = Array.isArray(data.common_mistakes?.items) ? data.common_mistakes.items : [];
+
+// --- Variations ------------------------------------------------------
+const variations: Array<any> = Array.isArray(data.variations?.items) ? data.variations.items : [];
+
+// --- FAQ -------------------------------------------------------------
+const faqs: Array<{ q: string; a: string }> = Array.isArray(data.faq_items) ? data.faq_items : [];
+
+// --- Closing ---------------------------------------------------------
+const closing = data.closing ?? {};
+---
+<style is:global set:html={combinationCss}></style>
+
+<section class="combo-hero">
+  <div class="wrap">
+    {breadcrumb.length > 0 && (
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        {breadcrumb.map((c, i, arr) => (
+          <>
+            {c.url
+              ? <a href={c.url}>{c.label}</a>
+              : <span class="current">{c.label}</span>}
+            {i < arr.length - 1 && <span class="sep">/</span>}
+          </>
+        ))}
+      </nav>
+    )}
+
+    <div class="combo-hero-grid">
+      <div class="combo-title-block">
+        {hero.kicker && <span class="kicker">{hero.kicker}</span>}
+        {hero.h1_html && <h1 set:html={hero.h1_html}></h1>}
+      </div>
+
+      <div class="combo-intro">
+        {hero.intro_html
+          ? <Fragment set:html={hero.intro_html} />
+          : null}
+        {metaDots.length > 0 && (
+          <div class="meta">
+            {metaDots.map((m) => {
+              const isDot = m.type === 'house' || m.type === 'roof';
+              return isDot ? (
+                <span>
+                  <span class={`dot ${m.type}`} style={m.dot_color_hex ? `background:${m.dot_color_hex}` : ''}></span>
+                  {m.label}
+                </span>
+              ) : (
+                <span>{m.label}</span>
+              );
+            })}
+          </div>
+        )}
+      </div>
+    </div>
+
+    {heroMosaic.length > 0 && (
+      <div class="hero-mosaic">
+        {heroMosaic.map((t, i) => (
+          <figure class={`htile h${i + 1}`}>
+            {t.sku_url
+              ? <a href={t.sku_url}>
+                  <img src={imageSrc(t)} alt={safeAlt(t, hero.h1_text ?? '')} loading="lazy" />
+                </a>
+              : <img src={imageSrc(t)} alt={safeAlt(t, hero.h1_text ?? '')} loading="lazy" />}
+            {t.tag && <div class="tag">{t.tag}</div>}
+          </figure>
+        ))}
+      </div>
+    )}
+  </div>
+</section>
+
+{galleryGroups.length > 0 && (
+  <section class="long-gallery">
+    <div class="wrap">
+      {galleryGroups.map((group) => (
+        <div class="substyle">
+          <div class="substyle-head">
+            {group.title_html && <div class="title" set:html={group.title_html}></div>}
+            {group.count !== undefined && <div class="count">{group.count} examples</div>}
+          </div>
+          {Array.isArray(group.tiles) && group.tiles.length > 0 && (
+            <div class="substyle-grid">
+              {group.tiles.slice(0, 6).map((t: any, i: number) => (
+                <figure class={`gtile g${(i % 6) + 1}`}>
+                  {t.sku_url
+                    ? <a href={t.sku_url}>
+                        <img src={imageSrc(t)} alt={safeAlt(t, group.title_text ?? '')} loading="lazy" />
+                      </a>
+                    : <img src={imageSrc(t)} alt={safeAlt(t, group.title_text ?? '')} loading="lazy" />}
+                  {t.tag && <div class="tag">{t.tag}</div>}
+                </figure>
+              ))}
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  </section>
+)}
+
+<section class="visualizer-cta">
+  <div class="wrap vcta-inner">
+    <div class="vcta-copy">
+      {vcta.kicker && <span class="kicker">{vcta.kicker}</span>}
+      {vcta.title_html && <div class="title" set:html={vcta.title_html}></div>}
+      {vcta.body && <p>{vcta.body}</p>}
+      <button class="btn-launch" data-roofkit-open>
+        {vcta.cta_label ?? 'Open visualizer with this combo'} <span class="arrow">→</span>
+      </button>
+    </div>
+
+    <button class="vcta-launcher" data-roofkit-open>
+      <div class="preview">
+        {vctaPreview && <img src={vctaPreview} alt={vcta.badge?.label ?? ''} />}
+        {vcta.badge && (
+          <div class="badge">
+            {vcta.badge.house_color_hex && (
+              <span class="dot-house" style={`background:${vcta.badge.house_color_hex}`}></span>
+            )}
+            {vcta.badge.roof_color_hex && (
+              <span class="dot-roof" style={`background:${vcta.badge.roof_color_hex}`}></span>
+            )}
+            <span class="label">{vcta.badge.label}</span>
+          </div>
+        )}
+      </div>
+      <div class="action-row">
+        <div class="action-title">Tap to open visualizer</div>
+        <div class="arrow-btn">→</div>
+      </div>
+    </button>
+  </div>
+</section>
+
+{recommended.length > 0 && (
+  <section class="recommended">
+    <div class="wrap">
+      <div class="recommended-head">
+        {data.recommended?.title_html && <div class="title" set:html={data.recommended.title_html}></div>}
+        {data.recommended?.note && <div class="note">{data.recommended.note}</div>}
+      </div>
+
+      <div class="sku-grid">
+        {recommended.map((sku) => (
+          <a href={sku.url} class="sku-card" style={`--card-color: ${sku.color_hex};`}>
+            <div class="swatch"></div>
+            <div class="meta">
+              <div class="brand">{sku.brand_display} · {sku.line_display}</div>
+              <div class="color">{sku.color_display}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{considerItems.length > 0 && (
+  <section class="consider">
+    <div class="wrap">
+      <div class="consider-head">
+        {data.consider?.kicker && <span class="kicker">{data.consider.kicker}</span>}
+        {data.consider?.title_html && <div class="title" set:html={data.consider.title_html}></div>}
+      </div>
+      <div class="consider-grid">
+        {considerItems.map((it) => (
+          <div class="consider-card">
+            <div class="num">{it.number}</div>
+            <h3>{it.heading}</h3>
+            <p>{it.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{mistakeItems.length > 0 && (
+  <section class="consider mistakes">
+    <div class="wrap">
+      <div class="consider-head">
+        {data.common_mistakes?.kicker && <span class="kicker">{data.common_mistakes.kicker}</span>}
+        {data.common_mistakes?.title_html && <div class="title" set:html={data.common_mistakes.title_html}></div>}
+      </div>
+      <div class="consider-grid">
+        {mistakeItems.map((it) => (
+          <div class="consider-card">
+            <div class="num">{it.number}</div>
+            <h3>{it.heading}</h3>
+            <p>{it.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{variations.length > 0 && (
+  <section class="variations">
+    <div class="wrap">
+      <div class="variations-head">
+        {data.variations?.kicker && <span class="kicker">{data.variations.kicker}</span>}
+        {data.variations?.title_html && <div class="title" set:html={data.variations.title_html}></div>}
+      </div>
+
+      <div class="var-grid">
+        {variations.map((v) => (
+          <a
+            href={v.url}
+            class="var-card"
+            style={`--var-house: ${v.house_color_hex}; --var-roof: ${v.roof_color_hex};`}
+          >
+            <div class="var-pair">
+              <div class="house-half"></div>
+              <div class="roof-half"></div>
+            </div>
+            <div class="meta">
+              {v.label_row && <div class="label-row">{v.label_row}</div>}
+              <div class="var-title">{v.var_title}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{faqs.length > 0 && (
+  <section class="faq">
+    <div class="wrap faq-inner">
+      <div class="faq-head">
+        <span class="kicker">Common <em>questions</em></span>
+        <div class="title">
+          {data.house_color_display} house, <em>{(data.roof_color_display ?? '').toLowerCase()} roof</em>.
+        </div>
+        <p class="note">The questions homeowners ask before they commit. Answered without sales spin.</p>
+      </div>
+
+      <div class="faq-list" id="faqList">
+        {faqs.map((qa, i) => (
+          <div class={i === 0 ? 'qa open' : 'qa'}>
+            <button class="qa-q"><span>{qa.q}</span><span class="plus"></span></button>
+            <div class="qa-a"><p>{qa.a}</p></div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+<section class="closing">
+  <div class="wrap">
+    {closing.kicker && <span class="kicker">{closing.kicker}</span>}
+    {closing.h2_html && <h2 set:html={closing.h2_html}></h2>}
+    <button class="btn-primary" data-roofkit-open>
+      {closing.cta_label ?? 'Open the visualizer'} <span class="arrow">→</span>
+    </button>
+  </div>
+</section>
+
+<script is:inline>
+  // FAQ accordion. Copied verbatim from the template.
+  (function () {
+    const list = document.getElementById('faqList');
+    if (!list) return;
+    list.addEventListener('click', (e) => {
+      const btn = e.target.closest('.qa-q');
+      if (!btn) return;
+      const qa = btn.parentElement;
+      const open = qa.classList.contains('open');
+      list.querySelectorAll('.qa').forEach((x) => x.classList.remove('open'));
+      if (!open) qa.classList.add('open');
+    });
+  })();
+
+</script>

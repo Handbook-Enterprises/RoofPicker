@@ -1,0 +1,53 @@
+---
+// Variants: primary (light), launch (dark), ghost (text). Opens the floating widget.
+// `payload` is unused until RoofKit ships a programmatic prefill API.
+interface Props {
+  payload?: Record<string, unknown>;
+  label: string;
+  variant?: 'primary' | 'launch' | 'ghost';
+  ariaLabel?: string;
+}
+const { label, variant = 'primary', ariaLabel } = Astro.props;
+const klass = variant === 'ghost' ? 'btn-ghost'
+            : variant === 'launch' ? 'btn-launch'
+            : 'btn-primary';
+---
+<button
+  type="button"
+  class={klass}
+  data-roofkit-open
+  aria-label={ariaLabel || label}
+>
+  <span>{label}</span>
+  {variant !== 'ghost' && <span class="arrow" aria-hidden="true">→</span>}
+</button>
+
+<style>
+  .btn-launch {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--clay);
+    color: var(--paper);
+    padding: 14px 22px;
+    border-radius: var(--r-pill);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 500;
+    transition: background var(--t-fast) var(--ease),
+                 transform var(--t-fast) var(--ease);
+    align-self: flex-start;
+  }
+  .btn-launch:hover {
+    background: var(--clay-deep);
+    transform: translateY(-1px);
+  }
+  .btn-launch .arrow {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1;
+    transition: transform var(--t-fast) var(--ease);
+  }
+  .btn-launch:hover .arrow { transform: translateX(3px); }
+</style>

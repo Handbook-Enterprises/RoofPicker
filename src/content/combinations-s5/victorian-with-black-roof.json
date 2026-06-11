@@ -1,0 +1,558 @@
+{
+  "slug": "victorian-with-black-roof",
+  "url_path": "/victorian-with-black-roof/",
+  "h1": "Victorian Homes With a Black Roof: 21 Rendered Examples 2026",
+  "meta_title": "Victorian Homes With Black Roof: 21 Renders + Recommended Shingles (2026)",
+  "meta_description": "Victorian-style homes with a black roof: 21 AI-rendered examples across 4 shingle brands, style background, recommended cross-brand SKUs with specs and Florida pricing, design considerations, FAQ, and a free visualizer.",
+  "strategy": 5,
+  "home_style_slug": "victorian",
+  "home_style_display": "Victorian",
+  "roof_color_slug": "black",
+  "roof_color_display": "Black",
+  "style_hex": "#84566F",
+  "roof_color_hex": "#1E2128",
+  "combo_hero": {
+    "kicker": "Home style × Roof color · Victorian",
+    "h1_html": "<em>Victorian</em> Homes With a <em>Black Roof</em>: <span class='count'>21</span> Rendered Examples <span class='year'>2026</span>",
+    "h1_text": "Victorian Homes With a Black Roof: 21 Rendered Examples 2026",
+    "intro_paragraphs": [
+      "Victorian architecture thrives on detail, and a black roof sets the stage without crowding it. Turrets, gingerbread trim, and decorative gable shingles all read more crisply against a dark, unified field - the roof becomes the backdrop that lets ornament do its work.",
+      "The asymmetric Victorian facade already carries enough visual complexity. Black overhead resolves that complexity into a composition rather than leaving it as accumulated decoration."
+    ],
+    "meta_dots": [
+      {
+        "label": "Victorian style",
+        "dot_color_hex": "#84566F",
+        "type": "style"
+      },
+      {
+        "label": "Black roof",
+        "dot_color_hex": "#1E2128",
+        "type": "roof"
+      },
+      {
+        "label": "4 brands · 21 renders · 3 angle variants per SKU",
+        "type": "meta"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Home Styles",
+        "url": "/home-styles/"
+      },
+      {
+        "label": "Victorian Homes",
+        "url": "/victorian-homes/"
+      },
+      {
+        "label": "Victorian With Black Roof",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+        "alt": "Victorian home with Black roof -- CertainTeed Landmark Charcoal Black (front)",
+        "tag": "CertainTeed · Charcoal Black",
+        "sku_url": "/shingles/certainteed/landmark/charcoal-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-cambridge-dual-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-cambridge-dual-black-front.jpg",
+        "alt": "Victorian home with Black roof -- IKO Cambridge Dual Black (front)",
+        "tag": "IKO · Dual Black",
+        "sku_url": "/shingles/iko/cambridge/dual-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\owens-corning-duration-onyx-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
+        "alt": "Victorian home with Black roof -- Owens Corning Duration Onyx Black (front)",
+        "tag": "Owens Corning · Onyx Black",
+        "sku_url": "/shingles/owens-corning/duration/onyx-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\tamko-heritage-rustic-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/tamko-heritage-rustic-black-front.jpg",
+        "alt": "Victorian home with Black roof -- TAMKO Heritage Rustic Black (front)",
+        "tag": "TAMKO · Rustic Black",
+        "sku_url": "/shingles/tamko/heritage/rustic-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-pro-cinder-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
+        "alt": "Victorian home with Black roof -- CertainTeed Landmark Pro Cinder Black (front)",
+        "tag": "CertainTeed · Cinder Black",
+        "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-dynasty-granite-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-dynasty-granite-black-front.jpg",
+        "alt": "Victorian home with Black roof -- IKO Dynasty Granite Black (front)",
+        "tag": "IKO · Granite Black",
+        "sku_url": "/shingles/iko/dynasty/granite-black/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-royal-estate-shadow-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
+        "alt": "Victorian home with Black roof -- IKO Royal Estate Shadow Slate (front)",
+        "tag": "IKO · Shadow Slate",
+        "sku_url": "/shingles/iko/royal-estate/shadow-slate/",
+        "angle_slug": "front"
+      }
+    ]
+  },
+  "style_background": {
+    "kicker": "Style background · the architecture",
+    "title_html": "What makes a home <em>Victorian</em>.",
+    "short_descriptor": "Late-19th-century ornamental style, originally British, broadly American 1860-1900.",
+    "background_prose": "Victorian architecture covers a family of late-19th-century styles named for Queen Victoria's reign (1837-1901). In American residential terms, 'Victorian' usually means Queen Anne Revival (1880-1910) or Stick Style: ornate decorative trim, asymmetric facades with bay windows or corner turrets, decorative scallop and fishscale shingles in the gable ends, wraparound porches with turned spindles, and multi-color 'Painted Lady' palettes. The Bay Area Painted Ladies of San Francisco are the canonical example.",
+    "facade_features": [
+      "Ornate decorative gingerbread trim",
+      "Asymmetric facade, often with a rounded bay or corner turret",
+      "Decorative scallop and fishscale shingles in gables",
+      "Wraparound porch with turned spindle railings",
+      "Multi-color 'Painted Lady' palette"
+    ],
+    "era": "1860-1900 (peak)",
+    "sources": [
+      {
+        "label": "Wikipedia: Victorian",
+        "url": "https://en.wikipedia.org/wiki/Victorian_architecture"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "long_gallery": {
+    "title_html": "<em>Victorian</em> homes with <em>Black</em> roofs.",
+    "section_intro": "All renders generated via fal.ai nano-banana-2 image-edit on real install photos. Roof color and design preserved from the source photo; facade restyled to Victorian.",
+    "groups": [
+      {
+        "title_html": "Front-on views.",
+        "title_text": "Front-on views",
+        "subtitle": "Seven renders shot directly head-on for the cleanest read of the facade.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "alt": "Victorian home with Black roof -- CertainTeed Landmark Charcoal Black (front)",
+            "tag": "Landmark · Charcoal Black",
+            "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-cambridge-dual-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-cambridge-dual-black-front.jpg",
+            "alt": "Victorian home with Black roof -- IKO Cambridge Dual Black (front)",
+            "tag": "Cambridge · Dual Black",
+            "sku_url": "/shingles/iko/cambridge/dual-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\owens-corning-duration-onyx-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
+            "alt": "Victorian home with Black roof -- Owens Corning Duration Onyx Black (front)",
+            "tag": "Duration · Onyx Black",
+            "sku_url": "/shingles/owens-corning/duration/onyx-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\tamko-heritage-rustic-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/tamko-heritage-rustic-black-front.jpg",
+            "alt": "Victorian home with Black roof -- TAMKO Heritage Rustic Black (front)",
+            "tag": "Heritage · Rustic Black",
+            "sku_url": "/shingles/tamko/heritage/rustic-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-pro-cinder-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
+            "alt": "Victorian home with Black roof -- CertainTeed Landmark Pro Cinder Black (front)",
+            "tag": "Landmark Pro · Cinder Black",
+            "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-dynasty-granite-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-dynasty-granite-black-front.jpg",
+            "alt": "Victorian home with Black roof -- IKO Dynasty Granite Black (front)",
+            "tag": "Dynasty · Granite Black",
+            "sku_url": "/shingles/iko/dynasty/granite-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-royal-estate-shadow-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
+            "alt": "Victorian home with Black roof -- IKO Royal Estate Shadow Slate (front)",
+            "tag": "Royal Estate · Shadow Slate",
+            "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>right</em>.",
+        "title_text": "Three-quarter right",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and right elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-charcoal-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-charcoal-black-right-34.jpg",
+            "alt": "Victorian home with Black roof -- CertainTeed Landmark Charcoal Black (right-34)",
+            "tag": "Landmark · Charcoal Black",
+            "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-cambridge-dual-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-cambridge-dual-black-right-34.jpg",
+            "alt": "Victorian home with Black roof -- IKO Cambridge Dual Black (right-34)",
+            "tag": "Cambridge · Dual Black",
+            "sku_url": "/shingles/iko/cambridge/dual-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\owens-corning-duration-onyx-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/owens-corning-duration-onyx-black-right-34.jpg",
+            "alt": "Victorian home with Black roof -- Owens Corning Duration Onyx Black (right-34)",
+            "tag": "Duration · Onyx Black",
+            "sku_url": "/shingles/owens-corning/duration/onyx-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\tamko-heritage-rustic-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/tamko-heritage-rustic-black-right-34.jpg",
+            "alt": "Victorian home with Black roof -- TAMKO Heritage Rustic Black (right-34)",
+            "tag": "Heritage · Rustic Black",
+            "sku_url": "/shingles/tamko/heritage/rustic-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "alt": "Victorian home with Black roof -- CertainTeed Landmark Pro Cinder Black (right-34)",
+            "tag": "Landmark Pro · Cinder Black",
+            "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-dynasty-granite-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-dynasty-granite-black-right-34.jpg",
+            "alt": "Victorian home with Black roof -- IKO Dynasty Granite Black (right-34)",
+            "tag": "Dynasty · Granite Black",
+            "sku_url": "/shingles/iko/dynasty/granite-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-royal-estate-shadow-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-royal-estate-shadow-slate-right-34.jpg",
+            "alt": "Victorian home with Black roof -- IKO Royal Estate Shadow Slate (right-34)",
+            "tag": "Royal Estate · Shadow Slate",
+            "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>left</em>.",
+        "title_text": "Three-quarter left",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and left elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-charcoal-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-charcoal-black-left-34.jpg",
+            "alt": "Victorian home with Black roof -- CertainTeed Landmark Charcoal Black (left-34)",
+            "tag": "Landmark · Charcoal Black",
+            "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-cambridge-dual-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-cambridge-dual-black-left-34.jpg",
+            "alt": "Victorian home with Black roof -- IKO Cambridge Dual Black (left-34)",
+            "tag": "Cambridge · Dual Black",
+            "sku_url": "/shingles/iko/cambridge/dual-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\owens-corning-duration-onyx-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/owens-corning-duration-onyx-black-left-34.jpg",
+            "alt": "Victorian home with Black roof -- Owens Corning Duration Onyx Black (left-34)",
+            "tag": "Duration · Onyx Black",
+            "sku_url": "/shingles/owens-corning/duration/onyx-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\tamko-heritage-rustic-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/tamko-heritage-rustic-black-left-34.jpg",
+            "alt": "Victorian home with Black roof -- TAMKO Heritage Rustic Black (left-34)",
+            "tag": "Heritage · Rustic Black",
+            "sku_url": "/shingles/tamko/heritage/rustic-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-pro-cinder-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-pro-cinder-black-left-34.jpg",
+            "alt": "Victorian home with Black roof -- CertainTeed Landmark Pro Cinder Black (left-34)",
+            "tag": "Landmark Pro · Cinder Black",
+            "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-dynasty-granite-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-dynasty-granite-black-left-34.jpg",
+            "alt": "Victorian home with Black roof -- IKO Dynasty Granite Black (left-34)",
+            "tag": "Dynasty · Granite Black",
+            "sku_url": "/shingles/iko/dynasty/granite-black/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\iko-royal-estate-shadow-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/iko-royal-estate-shadow-slate-left-34.jpg",
+            "alt": "Victorian home with Black roof -- IKO Royal Estate Shadow Slate (left-34)",
+            "tag": "Royal Estate · Shadow Slate",
+            "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 21,
+    "image_attribution": "Renders generated via fal.ai nano-banana-2 image-edit on top of real install photos from each manufacturer. Roof color, texture, and design preserved from the original install photo; the facade is restyled to match the page's home-style specification."
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Try a <em>Victorian</em> + <em>Black</em> roof on your own house.",
+    "body": "Upload a phone photo of your house and pre-load this exact victorian-and-black pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
+    "cta_label": "Open visualizer with this combo",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+    "badge": {
+      "style_display": "Victorian",
+      "roof_color_display": "Black",
+      "style_hex": "#84566F",
+      "roof_color_hex": "#1E2128",
+      "label": "Victorian × Black"
+    },
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "victorian",
+      "roof": "black-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark",
+        "color": "charcoal-black"
+      }
+    }
+  },
+  "recommended": {
+    "title_html": "Shingles that <em>get the Victorian look</em>.",
+    "note": "Cross-brand, real-world picks. Click any swatch to see specs, install photos, and pricing for that SKU.",
+    "items": [
+      {
+        "url": "/shingles/certainteed/landmark/charcoal-black/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark",
+        "color_display": "Charcoal Black",
+        "color_hex": "#393738"
+      },
+      {
+        "url": "/shingles/iko/cambridge/dual-black/",
+        "brand_display": "IKO",
+        "line_display": "Cambridge",
+        "color_display": "Dual Black",
+        "color_hex": "#333937"
+      },
+      {
+        "url": "/shingles/owens-corning/duration/onyx-black/",
+        "brand_display": "Owens Corning",
+        "line_display": "Duration",
+        "color_display": "Onyx Black",
+        "color_hex": "#292d30"
+      },
+      {
+        "url": "/shingles/tamko/heritage/rustic-black/",
+        "brand_display": "TAMKO",
+        "line_display": "Heritage",
+        "color_display": "Rustic Black",
+        "color_hex": "#2e3236"
+      },
+      {
+        "url": "/shingles/certainteed/landmark-pro/cinder-black/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark Pro",
+        "color_display": "Cinder Black",
+        "color_hex": "#26262a"
+      },
+      {
+        "url": "/shingles/iko/dynasty/granite-black/",
+        "brand_display": "IKO",
+        "line_display": "Dynasty",
+        "color_display": "Granite Black",
+        "color_hex": "#2f3334"
+      },
+      {
+        "url": "/shingles/iko/royal-estate/shadow-slate/",
+        "brand_display": "IKO",
+        "line_display": "Royal Estate",
+        "color_display": "Shadow Slate",
+        "color_hex": "#363635"
+      }
+    ]
+  },
+  "consider": {
+    "kicker": "Things to consider · before you commit",
+    "title_html": "Three things <em>most</em> homeowners forget.",
+    "items": [
+      {
+        "number": "01.",
+        "heading": "Victorian rewards specificity.",
+        "body": "Victorian rewards specificity. The decorative gingerbread trim is the diagnostic feature -- without it, the same complex roof line and asymmetric facade reads as cluttered rather than 'Painted Lady.' Specify trim color separately from siding color and budget extra paint complexity. A three- or four-color palette is architecturally correct."
+      },
+      {
+        "number": "02.",
+        "heading": "Black roof + Florida sun = attic temperature delta.",
+        "body": "A black asphalt roof can raise attic temperatures by 5 to 10 degrees Fahrenheit at peak Florida summer compared to a light-gray or weathered-wood roof. Proper soffit-to-ridge attic ventilation and a radiant barrier under the decking close most of the gap and keep monthly cooling-cost impact under 20 dollars in typical Florida homes."
+      },
+      {
+        "number": "03.",
+        "heading": "Install quality matters more than SKU.",
+        "body": "All seven recommended SKUs hit Class A fire and 110-150 mph wind ratings. The bigger variable on a victorian elevation is install quality: ridge-line straightness, valley flashing, starter strip alignment. Insist on a Master Elite or equivalent certified contractor and a written workmanship warranty separate from the manufacturer's material warranty."
+      }
+    ]
+  },
+  "variations": {
+    "kicker": "Variations · sibling combinations",
+    "title_html": "If you love this look, <em>try these</em>.",
+    "items": [
+      {
+        "url": "/victorian-with-charcoal-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Victorian With Charcoal Roof",
+        "style_hex": "#84566F",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "victorian",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/victorian-with-brown-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Victorian With Brown Roof",
+        "style_hex": "#84566F",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "victorian",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/victorian-with-weathered-wood-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Victorian With Weathered Wood Roof",
+        "style_hex": "#84566F",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "victorian",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/craftsman-with-black-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Craftsman With Black Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "craftsman",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/modern-farmhouse-with-black-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Modern Farmhouse With Black Roof",
+        "style_hex": "#F4ECD8",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "modern-farmhouse",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/ranch-with-black-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Ranch With Black Roof",
+        "style_hex": "#A09280",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "ranch",
+        "roof_color_slug": "black"
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Are there many Victorian homes in Florida?",
+      "a": "Some, primarily in historic districts (St. Augustine, Key West Conch houses, parts of Tampa's Ybor City). Florida's earliest building boom (1910s-1920s) hit during the Mediterranean Revival era, so true Victorians are less common than further north."
+    },
+    {
+      "q": "Can a modern build pull off Victorian?",
+      "a": "Difficult. Victorian depends on the decorative-trim and gingerbread layers, which are labor-intensive and not part of standard production builder packages. A new-build 'Victorian-inspired' home usually reads as a generic two-story unless the trim budget is meaningful."
+    },
+    {
+      "q": "Will the black roof fade in Florida sun?",
+      "a": "Modern asphalt shingles use ceramic-coated granules engineered to hold color for 25 plus years. Expect a subtle shift toward a slightly warmer dark gray over the first 5 years, then stability. Premium SKUs carry 25 to 50-year fade warranties. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "Does black roof affect home insurance in Florida?",
+      "a": "Not because of color. Insurance underwriting cares about wind rating, hail rating, and the roof's age. All recommended SKUs on this page are 130 mph wind and Class A fire. Some Florida insurers offer a small discount for impact-rated (Class 3 or 4) variants."
+    },
+    {
+      "q": "How do these renders compare to a real victorian home with that roof?",
+      "a": "All renders on this page were generated by fal.ai's nano-banana-2 image-edit model on top of REAL install photos from each manufacturer. The roof color, granule texture, and shingle pattern come directly from the source photo and are preserved during the edit. The facade is restyled to Victorian. The result is photorealistic but not identical to any specific real home -- use it for visual comparison, then open the free visualizer to see the same SKU on a photo of your own house."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>Victorian × Black</em> on your house.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "victorian",
+      "roof": "black-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark",
+        "color": "charcoal-black"
+      }
+    }
+  },
+  "data_sources": [
+    {
+      "label": "Wikipedia: Victorian",
+      "url": "https://en.wikipedia.org/wiki/Victorian_architecture"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "NRCA Florida wind/hail guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:48+00:00",
+  "prose_method": "style-keyed-with-archetype-overlay",
+  "prose_style": "victorian",
+  "prose_archetype": "black"
+}

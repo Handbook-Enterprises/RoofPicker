@@ -1,0 +1,203 @@
+{
+  "slug": "certainteed-grand-manor-vs-iko-royal-estate",
+  "url_path": "/compare/certainteed-grand-manor-vs-iko-royal-estate/",
+  "h1": "CertainTeed Grand Manor vs IKO Royal Estate: Luxury Designer Shingle Comparison (2026)",
+  "target_keyword": "certainteed grand manor vs iko royal estate",
+  "volume_per_month": 90,
+  "kd": 4,
+  "subject_a_id": "certainteed-grand-manor",
+  "subject_b_id": "iko-royal-estate",
+  "subject_a_display": "CertainTeed Grand Manor",
+  "subject_b_display": "IKO Royal Estate",
+  "lead_summary": "Two designer-tier asphalt shingles built to mimic the look of natural cedar shake or slate at a fraction of the cost. CertainTeed Grand Manor is a triple-layer laminate with Class 4 impact rating as standard and one of the heaviest constructions in the asphalt category. IKO Royal Estate is a two-piece designer laminate, lighter overall, with a distinct shadow line designed to read like slate from the curb. Both carry Limited Lifetime transferable warranties. The choice usually comes down to weight tolerance on the roof structure and aesthetic preference (shake-look vs slate-look).",
+  "quick_stats": [
+    {
+      "value": "470 lbs",
+      "label": "Grand Manor per square"
+    },
+    {
+      "value": "Class 4",
+      "label": "Impact (Grand Manor standard)"
+    },
+    {
+      "value": "30-yr",
+      "label": "Algae warranty (Grand Manor)"
+    }
+  ],
+  "choose_a": [
+    "Your roof structure can carry 470 lbs per square and your contractor confirms framing capacity.",
+    "Class 4 hail rating as standard is required for your insurance class or you want the impact discount automatically.",
+    "You want the deepest, most-shake-like dimensional profile available in the asphalt category.",
+    "Color choice is locked on Black Pearl, Brownstone, Colonial Slate, or one of the other 18 Grand Manor blends.",
+    "Your contractor is a CertainTeed SELECT ShingleMaster for the extended workmanship coverage."
+  ],
+  "choose_b": [
+    "Your roof framing is standard-spec and you want a designer aesthetic without the weight penalty.",
+    "You prefer the slate-look (sharper shadow line, thinner exposed butt) over the shake-look.",
+    "Your contractor stocks IKO and the lead time on Grand Manor is too long for your project window.",
+    "The 130 mph wind warranty upgrade is the strongest wind protection IKO offers and that meets your spec.",
+    "You like that IKO Royal Estate uses Polymer-Modified Asphalt for cold-climate flexibility."
+  ],
+  "comparison_table": [
+    {
+      "category": "Material cost / square",
+      "a_value": "$315-360",
+      "a_ctx": "Distributor pricing for triple-layer luxury",
+      "b_value": "$230-265",
+      "b_ctx": "Distributor pricing for designer two-piece",
+      "winner_note": "IKO ~$85-95 cheaper per square"
+    },
+    {
+      "category": "Weight per square",
+      "a_value": "470 lbs",
+      "a_ctx": "Triple-layer laminate; among the heaviest in the asphalt category",
+      "b_value": "270 lbs",
+      "b_ctx": "Two-piece designer laminate, more conventional weight",
+      "winner_note": "Grand Manor 200 lbs/sq heavier"
+    },
+    {
+      "category": "Wind rating",
+      "a_value": "110 / 130 upgrade",
+      "a_ctx": "130 mph with SureStart Protection",
+      "b_value": "110 / 130 upgrade",
+      "b_ctx": "130 mph with high-wind nailing pattern",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Hail / impact",
+      "a_value": "Class 4",
+      "a_ctx": "UL 2218 — standard on every Grand Manor",
+      "b_value": "Class 3",
+      "b_ctx": "UL 2218",
+      "winner_note": "Grand Manor wins on impact rating"
+    },
+    {
+      "category": "Fire rating",
+      "a_value": "Class A",
+      "a_ctx": "ASTM E108",
+      "b_value": "Class A",
+      "b_ctx": "ASTM E108",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Material warranty",
+      "a_value": "Lifetime ltd",
+      "a_ctx": "Transferable; SureStart 10-year non-prorated coverage",
+      "b_value": "Lifetime ltd",
+      "b_ctx": "Transferable; ShieldPro Plus extends installer workmanship",
+      "winner_note": "Tie on length; CertainTeed has stronger SureStart period"
+    },
+    {
+      "category": "Algae warranty",
+      "a_value": "30 years",
+      "a_ctx": "StreakFighter granules",
+      "b_value": "10 years",
+      "b_ctx": "Blue-green algae standard",
+      "winner_note": "Grand Manor 20 years longer"
+    },
+    {
+      "category": "Color count",
+      "a_value": "18",
+      "a_ctx": "Curated designer palette",
+      "b_value": "15",
+      "b_ctx": "Designer two-piece palette",
+      "winner_note": "Both deliberately narrow"
+    }
+  ],
+  "color_overlap": [
+    {
+      "color_family": "Black / Pearl",
+      "a_color": "Black Pearl",
+      "a_hex": "#1F1F23",
+      "b_color": "Harvest Slate",
+      "b_hex": "#3D3A33"
+    },
+    {
+      "color_family": "Slate",
+      "a_color": "Colonial Slate",
+      "a_hex": "#4D5158",
+      "b_color": "Royal Granite",
+      "b_hex": "#5A5C60"
+    },
+    {
+      "color_family": "Stonegate",
+      "a_color": "Stonegate Gray",
+      "a_hex": "#6E6E6E",
+      "b_color": "Royal Cedar",
+      "b_hex": "#7A6957"
+    },
+    {
+      "color_family": "Brownstone",
+      "a_color": "Brownstone",
+      "a_hex": "#5C4128",
+      "b_color": "Royal Brown",
+      "b_hex": "#65462C"
+    }
+  ],
+  "cost_delta": {
+    "per_square_material_difference_usd": 90,
+    "per_square_material_difference_pct": 35,
+    "typical_30_square_project_material_difference_usd": 2700,
+    "installed_30_square_low_a_usd": 28000,
+    "installed_30_square_high_a_usd": 42000,
+    "installed_30_square_low_b_usd": 21000,
+    "installed_30_square_high_b_usd": 31000,
+    "notes": "Grand Manor is the more expensive product by a meaningful margin — about $90 per square at material level. On a 30-square home that is ~$2,700 in materials and the installed gap widens to $7,000+ because the heavier triple-layer laminate adds install time and may require a structural review. Worth the premium only if you specifically need Class 4 impact, want the deepest shake profile, or qualify for a 30-percent insurance discount on Class 4 roofs.",
+    "sources": [
+      "https://www.certainteed.com/products/residential-roofing-products/grand-manor",
+      "https://www.iko.com/na/product/royal-estate/"
+    ]
+  },
+  "reddit_quotes_note": "Pull r/Roofing designer-shingle threads. Grand Manor discussion centers on weight (framing inspection often required) and the Class 4 impact insurance discount; Royal Estate threads focus on the slate aesthetic at one-third the price of real slate.",
+  "youtube_search_query": "certainteed grand manor vs iko royal estate luxury shingles",
+  "youtube_video_url": "https://www.youtube.com/watch?v=BwIGJx78yh4",
+  "youtube_video_note": "CertainTeed official Grand Manor Class 4 impact test against baseballs. No head-to-head Grand Manor vs Royal Estate video exists; this anchors the Grand Manor side. IKO Royal Estate Designer overview included as alternate.",
+  "faq_items": [
+    {
+      "q": "Which lasts longer, CertainTeed Grand Manor or IKO Royal Estate?",
+      "a": "Both routinely last 35 to 50 years when installed correctly. Grand Manor's heavier triple-layer laminate and Class 4 impact rating give it an edge in hail-prone areas. Royal Estate's lighter weight reduces stress on the roof framing over decades."
+    },
+    {
+      "q": "Do I need a structural review for Grand Manor?",
+      "a": "Often yes, on older homes. At 470 lbs per square, Grand Manor weighs roughly twice what a standard architectural shingle weighs. Code in some Florida counties requires a framing inspection or engineered tie-downs before installing a triple-layer designer product. Confirm with your contractor."
+    },
+    {
+      "q": "Is the Class 4 rating worth the premium?",
+      "a": "If your insurer offers an impact discount (typical 10-30 percent off the roof portion of your premium in Florida), the Class 4 standard on Grand Manor can offset $50 to $200 per year. Over a 30-year roof life that is $1,500 to $6,000 — a meaningful chunk of the price premium."
+    },
+    {
+      "q": "Will either look like real slate?",
+      "a": "Royal Estate is engineered to read like slate from the curb — sharper shadow line, thinner exposed butt. Grand Manor reads more like premium hand-split cedar shake. Both are convincing at 30 feet; neither passes for the real material up close."
+    },
+    {
+      "q": "Are the warranties transferable?",
+      "a": "Yes, both are transferable once during the warranty period. Grand Manor includes a 10-year non-prorated SureStart period during which the warranty pays 100 percent of replacement cost. Royal Estate's base warranty is similar in structure."
+    },
+    {
+      "q": "What about color fade in Florida sun?",
+      "a": "Both products use ceramic-coated granules engineered to hold color for 25 plus years. Grand Manor's 30-year algae warranty is the longer protection of the two — useful in humid Florida where algae streaking is the more visible aging issue."
+    }
+  ],
+  "data_sources": [
+    "https://www.certainteed.com/products/residential-roofing-products/grand-manor",
+    "https://www.iko.com/na/product/royal-estate/",
+    "https://www.nrca.net",
+    "https://www.iibec.org"
+  ],
+  "scraped_at": "2026-05-22",
+  "youtube_video_id": "BwIGJx78yh4",
+  "youtube_video_title": "Grand Manor® Impact Testing - Shingles vs. Baseballs | CertainTeed",
+  "youtube_video_channel": "CertainTeed",
+  "youtube_video_confidence": "high",
+  "youtube_video_publish_year": 2022,
+  "youtube_video_alternates": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=5UA8YT_Xka8",
+      "video_id": "5UA8YT_Xka8",
+      "title": "IKO Roof Shingle Colors – Shadow Slate | Designer | Royal Estate",
+      "channel": "IKO North America",
+      "rank": 2
+    }
+  ],
+  "youtube_video_updated_at": "2026-05-22"
+}

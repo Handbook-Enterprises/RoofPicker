@@ -1,0 +1,486 @@
+{
+  "slug": "victorian-with-weathered-wood-roof",
+  "url_path": "/victorian-with-weathered-wood-roof/",
+  "h1": "Victorian Homes With a Weathered Wood Roof: 15 Rendered Examples 2026",
+  "meta_title": "Victorian Homes With Weathered Wood Roof: 15 Renders + Recommended Shingles (2026)",
+  "meta_description": "Victorian-style homes with a weathered wood roof: 15 AI-rendered examples across 4 shingle brands, style background, recommended cross-brand SKUs with specs and Florida pricing, design considerations, FAQ, and a free visualizer.",
+  "strategy": 5,
+  "home_style_slug": "victorian",
+  "home_style_display": "Victorian",
+  "roof_color_slug": "weathered-wood",
+  "roof_color_display": "Weathered Wood",
+  "style_hex": "#84566F",
+  "roof_color_hex": "#8A7960",
+  "combo_hero": {
+    "kicker": "Home style × Roof color · Victorian",
+    "h1_html": "<em>Victorian</em> Homes With a <em>Weathered Wood Roof</em>: <span class='count'>15</span> Rendered Examples <span class='year'>2026</span>",
+    "h1_text": "Victorian Homes With a Weathered Wood Roof: 15 Rendered Examples 2026",
+    "intro_paragraphs": [
+      "Weathered-wood shingles are a natural fit for Victorian architecture - the multi-tone granule blend mimics the cedar shake roofs that originally covered these homes, and the texture reinforces rather than simplifies the style layered visual character.",
+      "Against gingerbread trim and decorative gable shingles, a weathered-wood roof adds depth without adding another competing element. The asymmetric Victorian facade reads as a unified composition of warm materials rather than ornament applied to a surface."
+    ],
+    "meta_dots": [
+      {
+        "label": "Victorian style",
+        "dot_color_hex": "#84566F",
+        "type": "style"
+      },
+      {
+        "label": "Weathered Wood roof",
+        "dot_color_hex": "#8A7960",
+        "type": "roof"
+      },
+      {
+        "label": "4 brands · 15 renders · 3 angle variants per SKU",
+        "type": "meta"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Home Styles",
+        "url": "/home-styles/"
+      },
+      {
+        "label": "Victorian Homes",
+        "url": "/victorian-homes/"
+      },
+      {
+        "label": "Victorian With Weathered Wood Roof",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "alt": "Victorian home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+        "tag": "CertainTeed · Max Def Driftwood",
+        "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+        "alt": "Victorian home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+        "tag": "IKO · Driftshake",
+        "sku_url": "/shingles/iko/dynasty/driftshake/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+        "alt": "Victorian home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+        "tag": "Malarkey · Natural Wood",
+        "sku_url": "/shingles/malarkey/legacy/natural-wood/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+        "alt": "Victorian home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
+        "tag": "Owens Corning · Driftwood",
+        "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+        "alt": "Victorian home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
+        "tag": "Malarkey · Weathered Wood",
+        "sku_url": "/shingles/malarkey/vista/weathered-wood/",
+        "angle_slug": "front"
+      }
+    ]
+  },
+  "style_background": {
+    "kicker": "Style background · the architecture",
+    "title_html": "What makes a home <em>Victorian</em>.",
+    "short_descriptor": "Late-19th-century ornamental style, originally British, broadly American 1860-1900.",
+    "background_prose": "Victorian architecture covers a family of late-19th-century styles named for Queen Victoria's reign (1837-1901). In American residential terms, 'Victorian' usually means Queen Anne Revival (1880-1910) or Stick Style: ornate decorative trim, asymmetric facades with bay windows or corner turrets, decorative scallop and fishscale shingles in the gable ends, wraparound porches with turned spindles, and multi-color 'Painted Lady' palettes. The Bay Area Painted Ladies of San Francisco are the canonical example.",
+    "facade_features": [
+      "Ornate decorative gingerbread trim",
+      "Asymmetric facade, often with a rounded bay or corner turret",
+      "Decorative scallop and fishscale shingles in gables",
+      "Wraparound porch with turned spindle railings",
+      "Multi-color 'Painted Lady' palette"
+    ],
+    "era": "1860-1900 (peak)",
+    "sources": [
+      {
+        "label": "Wikipedia: Victorian",
+        "url": "https://en.wikipedia.org/wiki/Victorian_architecture"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "long_gallery": {
+    "title_html": "<em>Victorian</em> homes with <em>Weathered Wood</em> roofs.",
+    "section_intro": "All renders generated via fal.ai nano-banana-2 image-edit on real install photos. Roof color and design preserved from the source photo; facade restyled to Victorian.",
+    "groups": [
+      {
+        "title_html": "Front-on views.",
+        "title_text": "Front-on views",
+        "subtitle": "Seven renders shot directly head-on for the cleanest read of the facade.",
+        "count": 5,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
+            "tag": "Landmark Pro · Max Def Driftwood",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
+            "tag": "Dynasty · Driftshake",
+            "sku_url": "/shingles/iko/dynasty/driftshake/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
+            "tag": "Legacy · Natural Wood",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
+            "tag": "Oakridge · Driftwood",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
+            "tag": "Vista · Weathered Wood",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>right</em>.",
+        "title_text": "Three-quarter right",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and right elevation.",
+        "count": 5,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (right-34)",
+            "tag": "Landmark Pro · Max Def Driftwood",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- IKO Dynasty Driftshake (right-34)",
+            "tag": "Dynasty · Driftshake",
+            "sku_url": "/shingles/iko/dynasty/driftshake/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-legacy-natural-wood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-legacy-natural-wood-right-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Malarkey Legacy Natural Wood (right-34)",
+            "tag": "Legacy · Natural Wood",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/owens-corning-oakridge-driftwood-right-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (right-34)",
+            "tag": "Oakridge · Driftwood",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-vista-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-vista-weathered-wood-right-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Malarkey Vista Weathered Wood (right-34)",
+            "tag": "Vista · Weathered Wood",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>left</em>.",
+        "title_text": "Three-quarter left",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and left elevation.",
+        "count": 5,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (left-34)",
+            "tag": "Landmark Pro · Max Def Driftwood",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\iko-dynasty-driftshake-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/iko-dynasty-driftshake-left-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- IKO Dynasty Driftshake (left-34)",
+            "tag": "Dynasty · Driftshake",
+            "sku_url": "/shingles/iko/dynasty/driftshake/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Malarkey Legacy Natural Wood (left-34)",
+            "tag": "Legacy · Natural Wood",
+            "sku_url": "/shingles/malarkey/legacy/natural-wood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/owens-corning-oakridge-driftwood-left-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (left-34)",
+            "tag": "Oakridge · Driftwood",
+            "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-vista-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-vista-weathered-wood-left-34.jpg",
+            "alt": "Victorian home with Weathered Wood roof -- Malarkey Vista Weathered Wood (left-34)",
+            "tag": "Vista · Weathered Wood",
+            "sku_url": "/shingles/malarkey/vista/weathered-wood/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 15,
+    "image_attribution": "Renders generated via fal.ai nano-banana-2 image-edit on top of real install photos from each manufacturer. Roof color, texture, and design preserved from the original install photo; the facade is restyled to match the page's home-style specification."
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Try a <em>Victorian</em> + <em>Weathered Wood</em> roof on your own house.",
+    "body": "Upload a phone photo of your house and pre-load this exact victorian-and-weathered wood pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
+    "cta_label": "Open visualizer with this combo",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+    "badge": {
+      "style_display": "Victorian",
+      "roof_color_display": "Weathered Wood",
+      "style_hex": "#84566F",
+      "roof_color_hex": "#8A7960",
+      "label": "Victorian × Weathered Wood"
+    },
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "victorian",
+      "roof": "weathered-wood-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark-pro",
+        "color": "max-def-driftwood"
+      }
+    }
+  },
+  "recommended": {
+    "title_html": "Shingles that <em>get the Victorian look</em>.",
+    "note": "Cross-brand, real-world picks. Click any swatch to see specs, install photos, and pricing for that SKU.",
+    "items": [
+      {
+        "url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark Pro",
+        "color_display": "Max Def Driftwood",
+        "color_hex": "#5b554d"
+      },
+      {
+        "url": "/shingles/iko/dynasty/driftshake/",
+        "brand_display": "IKO",
+        "line_display": "Dynasty",
+        "color_display": "Driftshake",
+        "color_hex": "#625950"
+      },
+      {
+        "url": "/shingles/malarkey/legacy/natural-wood/",
+        "brand_display": "Malarkey",
+        "line_display": "Legacy",
+        "color_display": "Natural Wood",
+        "color_hex": "#6c6764"
+      },
+      {
+        "url": "/shingles/owens-corning/oakridge/driftwood/",
+        "brand_display": "Owens Corning",
+        "line_display": "Oakridge",
+        "color_display": "Driftwood",
+        "color_hex": "#5f564c"
+      },
+      {
+        "url": "/shingles/malarkey/vista/weathered-wood/",
+        "brand_display": "Malarkey",
+        "line_display": "Vista",
+        "color_display": "Weathered Wood",
+        "color_hex": "#6d6b6a"
+      }
+    ]
+  },
+  "consider": {
+    "kicker": "Things to consider · before you commit",
+    "title_html": "Three things <em>most</em> homeowners forget.",
+    "items": [
+      {
+        "number": "01.",
+        "heading": "Victorian rewards specificity.",
+        "body": "Victorian rewards specificity. The decorative gingerbread trim is the diagnostic feature -- without it, the same complex roof line and asymmetric facade reads as cluttered rather than 'Painted Lady.' Specify trim color separately from siding color and budget extra paint complexity. A three- or four-color palette is architecturally correct."
+      },
+      {
+        "number": "02.",
+        "heading": "Multi-tone roofs fade more gracefully than single-color.",
+        "body": "Because the granule blend already contains several shades, slight UV-driven shifts in one shade are invisible to the eye. Weathered-wood SKUs photograph almost identical at year 1 and year 15 -- which is why historic-district homeowners and design-review boards default to them."
+      },
+      {
+        "number": "03.",
+        "heading": "Install quality matters more than SKU.",
+        "body": "All seven recommended SKUs hit Class A fire and 110-150 mph wind ratings. The bigger variable on a victorian elevation is install quality: ridge-line straightness, valley flashing, starter strip alignment. Insist on a Master Elite or equivalent certified contractor and a written workmanship warranty separate from the manufacturer's material warranty."
+      }
+    ]
+  },
+  "variations": {
+    "kicker": "Variations · sibling combinations",
+    "title_html": "If you love this look, <em>try these</em>.",
+    "items": [
+      {
+        "url": "/victorian-with-black-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Victorian With Black Roof",
+        "style_hex": "#84566F",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "victorian",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/victorian-with-charcoal-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Victorian With Charcoal Roof",
+        "style_hex": "#84566F",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "victorian",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/victorian-with-brown-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Victorian With Brown Roof",
+        "style_hex": "#84566F",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "victorian",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/craftsman-with-weathered-wood-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Craftsman With Weathered Wood Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "craftsman",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/modern-farmhouse-with-weathered-wood-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Modern Farmhouse With Weathered Wood Roof",
+        "style_hex": "#F4ECD8",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "modern-farmhouse",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/ranch-with-weathered-wood-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Ranch With Weathered Wood Roof",
+        "style_hex": "#A09280",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "ranch",
+        "roof_color_slug": "weathered-wood"
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Are there many Victorian homes in Florida?",
+      "a": "Some, primarily in historic districts (St. Augustine, Key West Conch houses, parts of Tampa's Ybor City). Florida's earliest building boom (1910s-1920s) hit during the Mediterranean Revival era, so true Victorians are less common than further north."
+    },
+    {
+      "q": "Can a modern build pull off Victorian?",
+      "a": "Difficult. Victorian depends on the decorative-trim and gingerbread layers, which are labor-intensive and not part of standard production builder packages. A new-build 'Victorian-inspired' home usually reads as a generic two-story unless the trim budget is meaningful."
+    },
+    {
+      "q": "Does weathered-wood actually look like real cedar shake on victorian?",
+      "a": "From street distance, yes. Up close the difference is obvious -- asphalt is flat, cedar is dimensional. But at curb distance most observers cannot tell the two apart, and asphalt costs roughly one-fifth as much installed and carries a 30 to 50 year warranty versus 20 to 30 for cedar."
+    },
+    {
+      "q": "Will weathered-wood show algae streaks in Florida humidity?",
+      "a": "Less visibly than gray or charcoal. The multi-tone blend hides the dark vertical streaks that Gloeocapsa magma algae causes on solid-gray shingles. All recommended SKUs include copper- or zinc-infused granules that inhibit algae growth in the first place."
+    },
+    {
+      "q": "How do these renders compare to a real victorian home with that roof?",
+      "a": "All renders on this page were generated by fal.ai's nano-banana-2 image-edit model on top of REAL install photos from each manufacturer. The roof color, granule texture, and shingle pattern come directly from the source photo and are preserved during the edit. The facade is restyled to Victorian. The result is photorealistic but not identical to any specific real home -- use it for visual comparison, then open the free visualizer to see the same SKU on a photo of your own house."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>Victorian × Weathered Wood</em> on your house.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "victorian",
+      "roof": "weathered-wood-roof",
+      "preload_sku": {
+        "brand": "certainteed",
+        "line": "landmark-pro",
+        "color": "max-def-driftwood"
+      }
+    }
+  },
+  "data_sources": [
+    {
+      "label": "Wikipedia: Victorian",
+      "url": "https://en.wikipedia.org/wiki/Victorian_architecture"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "NRCA Florida wind/hail guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:49+00:00",
+  "prose_method": "style-keyed-with-archetype-overlay",
+  "prose_style": "victorian",
+  "prose_archetype": "weathered-wood"
+}

@@ -1,0 +1,185 @@
+---
+import { imageSrc } from '@lib/cdn';
+
+interface Props {
+  data: {
+    kicker: string;
+    title_html: string;
+    prose_paragraphs: string[];
+    swatch_meta: { hex: string; family: string; undertone: string; best_in: string };
+    hex_blend: string[];
+    swatch_image: { image_local_path: string; image_cdn_url: string | null; image_filename: string } | null;
+    sources: Array<{ label: string; url: string }>;
+  };
+}
+const { data } = Astro.props;
+const swatchUrl = data.swatch_image ? imageSrc(data.swatch_image) : null;
+const hex = data.swatch_meta.hex;
+---
+<section class="color-desc" style={`--sku-color:${hex}; --sku-color-light:${hex}; --sku-color-deep:${hex}`}>
+  <div class="wrap">
+    <div class="color-desc-head">
+      <span class="kicker">{data.kicker}</span>
+      <div class="title" set:html={data.title_html}></div>
+    </div>
+
+    <div class="color-desc-grid">
+      <div class="color-desc-prose">
+        {data.prose_paragraphs.map((p, i) => (
+          <p>
+            {i === 0 ? (
+              <>
+                <span class="dropcap">{p.charAt(0)}</span>{p.slice(1)}
+              </>
+            ) : p}
+          </p>
+        ))}
+      </div>
+
+      <aside class="color-spec" aria-label="Color specification">
+        {swatchUrl ? (
+          <img class="big-swatch" src={swatchUrl} alt={`${data.swatch_meta.family} swatch`} loading="lazy" style="background: var(--sku-color);" />
+        ) : (
+          <div class="big-swatch" aria-label={`${data.swatch_meta.family} swatch`}></div>
+        )}
+        <dl>
+          <div>
+            <dt>Hex</dt>
+            <dd><span class="mono">{hex.toUpperCase()}</span></dd>
+          </div>
+          <div>
+            <dt>Family</dt>
+            <dd>{data.swatch_meta.family}</dd>
+          </div>
+          <div>
+            <dt>Undertone</dt>
+            <dd>{data.swatch_meta.undertone}</dd>
+          </div>
+          <div>
+            <dt>Best in</dt>
+            <dd>{data.swatch_meta.best_in}</dd>
+          </div>
+        </dl>
+        <div class="blend" aria-label="Granule blend">
+          {data.hex_blend.map((h) => (
+            <div class="blend-chip" style={`background:${h}`} title={h}></div>
+          ))}
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<style>
+  .color-desc {
+    padding: 100px 0 80px;
+    border-top: 1px solid var(--rule);
+  }
+  @media (max-width: 720px) { .color-desc { padding: 60px 0 40px; } }
+
+  .color-desc-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) {
+    .color-desc-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; }
+  }
+  .color-desc-head .title {
+    font-family: var(--font-serif);
+    font-size: clamp(36px, 5.2vw, 76px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .color-desc-head .title :global(em) { font-style: italic; color: var(--clay); }
+
+  .color-desc-grid {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 60px;
+    align-items: start;
+  }
+  @media (max-width: 880px) {
+    .color-desc-grid { grid-template-columns: 1fr; gap: 36px; }
+  }
+
+  .color-desc-prose p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    margin: 0 0 22px;
+    max-width: 62ch;
+  }
+  .color-desc-prose p:last-child { margin-bottom: 0; }
+  .color-desc-prose .dropcap {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 64px;
+    line-height: 0.85;
+    color: var(--clay);
+    float: left;
+    margin: 6px 12px 0 0;
+  }
+
+  .color-spec {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 28px 28px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .color-spec .big-swatch {
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    background: var(--sku-color);
+    position: relative;
+    overflow: hidden;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.15);
+    object-fit: cover;
+    width: 100%;
+    display: block;
+  }
+  .color-spec dl {
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px 24px;
+  }
+  .color-spec dt {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 4px;
+  }
+  .color-spec dd {
+    margin: 0;
+    font-family: var(--font-serif);
+    font-size: 22px;
+    line-height: 1.1;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+  }
+  .color-spec dd .mono {
+    font-family: var(--font-mono);
+    font-size: 15px;
+    letter-spacing: 0.02em;
+  }
+  .color-spec .blend {
+    display: flex;
+    gap: 6px;
+    padding-top: 12px;
+    border-top: 1px solid var(--rule);
+  }
+  .color-spec .blend-chip {
+    flex: 1;
+    aspect-ratio: 3 / 1;
+    border-radius: 4px;
+  }
+</style>

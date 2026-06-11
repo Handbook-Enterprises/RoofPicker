@@ -1,0 +1,558 @@
+{
+  "slug": "cape-cod-with-brown-roof",
+  "url_path": "/cape-cod-with-brown-roof/",
+  "h1": "Cape Cod Homes With a Brown Roof: 21 Rendered Examples 2026",
+  "meta_title": "Cape Cod Homes With Brown Roof: 21 Renders + Recommended Shingles (2026)",
+  "meta_description": "Cape Cod-style homes with a brown roof: 21 AI-rendered examples across 5 shingle brands, style background, recommended cross-brand SKUs with specs and Florida pricing, design considerations, FAQ, and a free visualizer.",
+  "strategy": 5,
+  "home_style_slug": "cape-cod",
+  "home_style_display": "Cape Cod",
+  "roof_color_slug": "brown",
+  "roof_color_display": "Brown",
+  "style_hex": "#E8E2D4",
+  "roof_color_hex": "#5C4128",
+  "combo_hero": {
+    "kicker": "Home style × Roof color · Cape Cod",
+    "h1_html": "<em>Cape Cod</em> Homes With a <em>Brown Roof</em>: <span class='count'>21</span> Rendered Examples <span class='year'>2026</span>",
+    "h1_text": "Cape Cod Homes With a Brown Roof: 21 Rendered Examples 2026",
+    "intro_paragraphs": [
+      "A warm brown roof softens the Cape Cod's famously steep pitch without sacrificing its presence from the street. The amber and tobacco tones in modern brown asphalt harmonize naturally with cedar shingle siding, painted clapboard, and the classic stone foundation accents this particular style consistently favors.",
+      "That earthy warmth draws the eye toward the front-facing dormers and paired shutters rather than competing with them - grounding the entire elevation in organic color rather than stark graphic contrast at the roofline."
+    ],
+    "meta_dots": [
+      {
+        "label": "Cape Cod style",
+        "dot_color_hex": "#E8E2D4",
+        "type": "style"
+      },
+      {
+        "label": "Brown roof",
+        "dot_color_hex": "#5C4128",
+        "type": "roof"
+      },
+      {
+        "label": "5 brands · 21 renders · 3 angle variants per SKU",
+        "type": "meta"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Home Styles",
+        "url": "/home-styles/"
+      },
+      {
+        "label": "Cape Cod Homes",
+        "url": "/cape-cod-homes/"
+      },
+      {
+        "label": "Cape Cod With Brown Roof",
+        "url": null
+      }
+    ],
+    "hero_mosaic": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+        "alt": "Cape Cod home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (front)",
+        "tag": "Atlas · WEATHERED SHADOW",
+        "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-grand-manor-chestnut-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-grand-manor-chestnut-front.jpg",
+        "alt": "Cape Cod home with Brown roof -- CertainTeed Grand Manor Chestnut (front)",
+        "tag": "CertainTeed · Chestnut",
+        "sku_url": "/shingles/certainteed/grand-manor/chestnut/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\iko-dynasty-shadow-brown-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
+        "alt": "Cape Cod home with Brown roof -- IKO Dynasty Shadow Brown (front)",
+        "tag": "IKO · Shadow Brown",
+        "sku_url": "/shingles/iko/dynasty/shadow-brown/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\malarkey-vista-antique-brown-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/malarkey-vista-antique-brown-front.jpg",
+        "alt": "Cape Cod home with Brown roof -- Malarkey Vista Antique Brown (front)",
+        "tag": "Malarkey · Antique Brown",
+        "sku_url": "/shingles/malarkey/vista/antique-brown/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\owens-corning-duration-sand-castle-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
+        "alt": "Cape Cod home with Brown roof -- Owens Corning Duration Sand Castle (front)",
+        "tag": "Owens Corning · Sand Castle",
+        "sku_url": "/shingles/owens-corning/duration/sand-castle/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+        "alt": "Cape Cod home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (front)",
+        "tag": "CertainTeed · Max Def Black Walnut",
+        "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/",
+        "angle_slug": "front"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-presidential-shake-aged-bark-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
+        "alt": "Cape Cod home with Brown roof -- CertainTeed Presidential Shake Aged Bark (front)",
+        "tag": "CertainTeed · Aged Bark",
+        "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/",
+        "angle_slug": "front"
+      }
+    ]
+  },
+  "style_background": {
+    "kicker": "Style background · the architecture",
+    "title_html": "What makes a home <em>Cape Cod</em>.",
+    "short_descriptor": "17th-century New England origin, 1930s-1950s American revival.",
+    "background_prose": "Cape Cod architecture originated in 17th-century New England, where settlers built compact 1.5-story homes with steep roofs to shed snow and central chimneys for heat. The Cape Cod Revival of the 1930s through the 1950s, especially through the work of Royal Barry Wills, brought the style to suburban America. Key features include the 1.5-story height, a steep gabled roof, central chimney, two front-facing dormer windows, weathered cedar-shingle siding, and a compact symmetric front. Florida's coastal-cottage builds borrow the style heavily.",
+    "facade_features": [
+      "1.5-story symmetric home",
+      "Steep gabled roof",
+      "Centered front door with simple trim",
+      "Two prominent front-facing dormer windows",
+      "Weathered cedar-shingle or clapboard siding"
+    ],
+    "era": "1690-present (original), 1930-1955 (Revival)",
+    "sources": [
+      {
+        "label": "Wikipedia: Cape Cod",
+        "url": "https://en.wikipedia.org/wiki/Cape_Cod_(house)"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "long_gallery": {
+    "title_html": "<em>Cape Cod</em> homes with <em>Brown</em> roofs.",
+    "section_intro": "All renders generated via fal.ai nano-banana-2 image-edit on real install photos. Roof color and design preserved from the source photo; facade restyled to Cape Cod.",
+    "groups": [
+      {
+        "title_html": "Front-on views.",
+        "title_text": "Front-on views",
+        "subtitle": "Seven renders shot directly head-on for the cleanest read of the facade.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+            "alt": "Cape Cod home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (front)",
+            "tag": "Pinnacle Pristine · WEATHERED SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-grand-manor-chestnut-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-grand-manor-chestnut-front.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Grand Manor Chestnut (front)",
+            "tag": "Grand Manor · Chestnut",
+            "sku_url": "/shingles/certainteed/grand-manor/chestnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\iko-dynasty-shadow-brown-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
+            "alt": "Cape Cod home with Brown roof -- IKO Dynasty Shadow Brown (front)",
+            "tag": "Dynasty · Shadow Brown",
+            "sku_url": "/shingles/iko/dynasty/shadow-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\malarkey-vista-antique-brown-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/malarkey-vista-antique-brown-front.jpg",
+            "alt": "Cape Cod home with Brown roof -- Malarkey Vista Antique Brown (front)",
+            "tag": "Vista · Antique Brown",
+            "sku_url": "/shingles/malarkey/vista/antique-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\owens-corning-duration-sand-castle-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
+            "alt": "Cape Cod home with Brown roof -- Owens Corning Duration Sand Castle (front)",
+            "tag": "Duration · Sand Castle",
+            "sku_url": "/shingles/owens-corning/duration/sand-castle/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-front.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (front)",
+            "tag": "Landmark Pro · Max Def Black Walnut",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-presidential-shake-aged-bark-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Presidential Shake Aged Bark (front)",
+            "tag": "Presidential Shake · Aged Bark",
+            "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>right</em>.",
+        "title_text": "Three-quarter right",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and right elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-right-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (right-34)",
+            "tag": "Pinnacle Pristine · WEATHERED SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-grand-manor-chestnut-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-grand-manor-chestnut-right-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Grand Manor Chestnut (right-34)",
+            "tag": "Grand Manor · Chestnut",
+            "sku_url": "/shingles/certainteed/grand-manor/chestnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\iko-dynasty-shadow-brown-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/iko-dynasty-shadow-brown-right-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- IKO Dynasty Shadow Brown (right-34)",
+            "tag": "Dynasty · Shadow Brown",
+            "sku_url": "/shingles/iko/dynasty/shadow-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\malarkey-vista-antique-brown-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/malarkey-vista-antique-brown-right-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- Malarkey Vista Antique Brown (right-34)",
+            "tag": "Vista · Antique Brown",
+            "sku_url": "/shingles/malarkey/vista/antique-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\owens-corning-duration-sand-castle-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/owens-corning-duration-sand-castle-right-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- Owens Corning Duration Sand Castle (right-34)",
+            "tag": "Duration · Sand Castle",
+            "sku_url": "/shingles/owens-corning/duration/sand-castle/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-right-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (right-34)",
+            "tag": "Landmark Pro · Max Def Black Walnut",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-presidential-shake-aged-bark-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-presidential-shake-aged-bark-right-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Presidential Shake Aged Bark (right-34)",
+            "tag": "Presidential Shake · Aged Bark",
+            "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
+          }
+        ]
+      },
+      {
+        "title_html": "Three-quarter <em>left</em>.",
+        "title_text": "Three-quarter left",
+        "subtitle": "Renders from a slightly elevated three-quarter angle showing the front and left elevation.",
+        "count": 7,
+        "tiles": [
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-left-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- Atlas Pinnacle Pristine WEATHERED SHADOW (left-34)",
+            "tag": "Pinnacle Pristine · WEATHERED SHADOW",
+            "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-grand-manor-chestnut-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-grand-manor-chestnut-left-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Grand Manor Chestnut (left-34)",
+            "tag": "Grand Manor · Chestnut",
+            "sku_url": "/shingles/certainteed/grand-manor/chestnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\iko-dynasty-shadow-brown-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/iko-dynasty-shadow-brown-left-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- IKO Dynasty Shadow Brown (left-34)",
+            "tag": "Dynasty · Shadow Brown",
+            "sku_url": "/shingles/iko/dynasty/shadow-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\malarkey-vista-antique-brown-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/malarkey-vista-antique-brown-left-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- Malarkey Vista Antique Brown (left-34)",
+            "tag": "Vista · Antique Brown",
+            "sku_url": "/shingles/malarkey/vista/antique-brown/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\owens-corning-duration-sand-castle-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/owens-corning-duration-sand-castle-left-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- Owens Corning Duration Sand Castle (left-34)",
+            "tag": "Duration · Sand Castle",
+            "sku_url": "/shingles/owens-corning/duration/sand-castle/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Landmark Pro Max Def Black Walnut (left-34)",
+            "tag": "Landmark Pro · Max Def Black Walnut",
+            "sku_url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/"
+          },
+          {
+            "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-presidential-shake-aged-bark-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-presidential-shake-aged-bark-left-34.jpg",
+            "alt": "Cape Cod home with Brown roof -- CertainTeed Presidential Shake Aged Bark (left-34)",
+            "tag": "Presidential Shake · Aged Bark",
+            "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
+          }
+        ]
+      }
+    ],
+    "total_tiles": 21,
+    "image_attribution": "Renders generated via fal.ai nano-banana-2 image-edit on top of real install photos from each manufacturer. Roof color, texture, and design preserved from the original install photo; the facade is restyled to match the page's home-style specification."
+  },
+  "visualizer_cta": {
+    "kicker": "See it on your house · free",
+    "title_html": "Try a <em>Cape Cod</em> + <em>Brown</em> roof on your own house.",
+    "body": "Upload a phone photo of your house and pre-load this exact cape cod-and-brown pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
+    "cta_label": "Open visualizer with this combo",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+    "badge": {
+      "style_display": "Cape Cod",
+      "roof_color_display": "Brown",
+      "style_hex": "#E8E2D4",
+      "roof_color_hex": "#5C4128",
+      "label": "Cape Cod × Brown"
+    },
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "cape-cod",
+      "roof": "brown-roof",
+      "preload_sku": {
+        "brand": "atlas",
+        "line": "pinnacle-pristine",
+        "color": "weathered-shadow"
+      }
+    }
+  },
+  "recommended": {
+    "title_html": "Shingles that <em>get the Cape Cod look</em>.",
+    "note": "Cross-brand, real-world picks. Click any swatch to see specs, install photos, and pricing for that SKU.",
+    "items": [
+      {
+        "url": "/shingles/atlas/pinnacle-pristine/weathered-shadow/",
+        "brand_display": "Atlas",
+        "line_display": "Pinnacle Pristine",
+        "color_display": "WEATHERED SHADOW",
+        "color_hex": "#756758"
+      },
+      {
+        "url": "/shingles/certainteed/grand-manor/chestnut/",
+        "brand_display": "CertainTeed",
+        "line_display": "Grand Manor",
+        "color_display": "Chestnut",
+        "color_hex": "#654f43"
+      },
+      {
+        "url": "/shingles/iko/dynasty/shadow-brown/",
+        "brand_display": "IKO",
+        "line_display": "Dynasty",
+        "color_display": "Shadow Brown",
+        "color_hex": "#6e5d4c"
+      },
+      {
+        "url": "/shingles/malarkey/vista/antique-brown/",
+        "brand_display": "Malarkey",
+        "line_display": "Vista",
+        "color_display": "Antique Brown",
+        "color_hex": "#735743"
+      },
+      {
+        "url": "/shingles/owens-corning/duration/sand-castle/",
+        "brand_display": "Owens Corning",
+        "line_display": "Duration",
+        "color_display": "Sand Castle",
+        "color_hex": "#8f7d64"
+      },
+      {
+        "url": "/shingles/certainteed/landmark-pro/max-def-black-walnut/",
+        "brand_display": "CertainTeed",
+        "line_display": "Landmark Pro",
+        "color_display": "Max Def Black Walnut",
+        "color_hex": "#3e2f25"
+      },
+      {
+        "url": "/shingles/certainteed/presidential-shake/aged-bark/",
+        "brand_display": "CertainTeed",
+        "line_display": "Presidential Shake",
+        "color_display": "Aged Bark",
+        "color_hex": "#7d4d34"
+      }
+    ]
+  },
+  "consider": {
+    "kicker": "Things to consider · before you commit",
+    "title_html": "Three things <em>most</em> homeowners forget.",
+    "items": [
+      {
+        "number": "01.",
+        "heading": "Cape Cod calls for a steep roof pitch (10:12 minimum) and visible front dormers.",
+        "body": "Cape Cod calls for a steep roof pitch (10:12 minimum) and visible front dormers. Florida coastal Capes often substitute a hipped or shallow-gabled roof for hurricane-resistance reasons; the substitution converts the look toward 'coastal cottage' rather than true Cape Cod. Decide which lineage you want before specifying roof design."
+      },
+      {
+        "number": "02.",
+        "heading": "Brown reads as architecturally correct on warm-tone elevations.",
+        "body": "Brown asphalt sits naturally with red brick, cream stucco, natural stone, and bronze hardware -- the warm-tone material families that traditional and revival styles depend on. On stark cool palettes (white-and-black, white-and-charcoal modern farmhouse) brown can read as dated; on warm palettes it reads as deliberate."
+      },
+      {
+        "number": "03.",
+        "heading": "Install quality matters more than SKU.",
+        "body": "All seven recommended SKUs hit Class A fire and 110-150 mph wind ratings. The bigger variable on a cape cod elevation is install quality: ridge-line straightness, valley flashing, starter strip alignment. Insist on a Master Elite or equivalent certified contractor and a written workmanship warranty separate from the manufacturer's material warranty."
+      }
+    ]
+  },
+  "variations": {
+    "kicker": "Variations · sibling combinations",
+    "title_html": "If you love this look, <em>try these</em>.",
+    "items": [
+      {
+        "url": "/cape-cod-with-black-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Cape Cod With Black Roof",
+        "style_hex": "#E8E2D4",
+        "roof_color_hex": "#1E2128",
+        "style_slug": "cape-cod",
+        "roof_color_slug": "black"
+      },
+      {
+        "url": "/cape-cod-with-charcoal-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Cape Cod With Charcoal Roof",
+        "style_hex": "#E8E2D4",
+        "roof_color_hex": "#3F434B",
+        "style_slug": "cape-cod",
+        "roof_color_slug": "charcoal"
+      },
+      {
+        "url": "/cape-cod-with-weathered-wood-roof/",
+        "label_row": "Same style, different roof",
+        "var_title": "Cape Cod With Weathered Wood Roof",
+        "style_hex": "#E8E2D4",
+        "roof_color_hex": "#8A7960",
+        "style_slug": "cape-cod",
+        "roof_color_slug": "weathered-wood"
+      },
+      {
+        "url": "/craftsman-with-brown-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Craftsman With Brown Roof",
+        "style_hex": "#7E6B4E",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "craftsman",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/modern-farmhouse-with-brown-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Modern Farmhouse With Brown Roof",
+        "style_hex": "#F4ECD8",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "modern-farmhouse",
+        "roof_color_slug": "brown"
+      },
+      {
+        "url": "/ranch-with-brown-roof/",
+        "label_row": "Same roof, different style",
+        "var_title": "Ranch With Brown Roof",
+        "style_hex": "#A09280",
+        "roof_color_hex": "#5C4128",
+        "style_slug": "ranch",
+        "roof_color_slug": "brown"
+      }
+    ]
+  },
+  "faq_items": [
+    {
+      "q": "Are Cape Cod homes common in Florida?",
+      "a": "Less common than in New England but well-represented in older Florida coastal communities (St. Augustine Beach, parts of Cocoa Beach, Sandestin). New coastal builds often borrow Cape Cod features (steep roof, dormers, cedar shingles) without committing to the full style."
+    },
+    {
+      "q": "Why are dormer windows non-negotiable for Cape Cod?",
+      "a": "Cape Cod's defining geometry is a 1.5-story home with usable second-floor space lit by front dormers. Without dormers, the second-floor windows would face only the sides of the house and the front facade reads as a single-story bungalow rather than a Cape."
+    },
+    {
+      "q": "Does brown work for cape cod?",
+      "a": "On cape cod specifically, yes -- the warm tonal family of the roof reinforces the style's traditional palette. Brown asphalt is one of the most architecturally honest choices for revival-era styles in Florida."
+    },
+    {
+      "q": "Will brown shingles fade more than gray?",
+      "a": "Slightly less visibly. Brown drifts slightly warmer and slightly desaturated over 10 to 15 years of Florida UV. The shift is uniform, so the roof never develops the patchy look that aged gray shingles sometimes show. Source: NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How do these renders compare to a real cape cod home with that roof?",
+      "a": "All renders on this page were generated by fal.ai's nano-banana-2 image-edit model on top of REAL install photos from each manufacturer. The roof color, granule texture, and shingle pattern come directly from the source photo and are preserved during the edit. The facade is restyled to Cape Cod. The result is photorealistic but not identical to any specific real home -- use it for visual comparison, then open the free visualizer to see the same SKU on a photo of your own house."
+    }
+  ],
+  "closing": {
+    "kicker": "Free · No signup · See it in seconds",
+    "h2_html": "See <em>Cape Cod × Brown</em> on your house.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "context": "style-combination",
+      "style": "cape-cod",
+      "roof": "brown-roof",
+      "preload_sku": {
+        "brand": "atlas",
+        "line": "pinnacle-pristine",
+        "color": "weathered-shadow"
+      }
+    }
+  },
+  "data_sources": [
+    {
+      "label": "Wikipedia: Cape Cod",
+      "url": "https://en.wikipedia.org/wiki/Cape_Cod_(house)"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "Wikipedia: Color theory",
+      "url": "https://en.wikipedia.org/wiki/Color_theory"
+    },
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "NRCA Florida wind/hail guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "ASTM E108 / UL 790 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "fal.ai nano-banana-2 image-edit model",
+      "url": "https://fal.ai/models/fal-ai/nano-banana-2/edit"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:43:49+00:00",
+  "prose_method": "style-keyed-with-archetype-overlay",
+  "prose_style": "cape-cod",
+  "prose_archetype": "brown"
+}

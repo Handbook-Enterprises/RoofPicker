@@ -1,0 +1,528 @@
+{
+  "slug": "owens-corning-oakridge-onyx-black",
+  "url_path": "/shingles/owens-corning/oakridge/onyx-black/",
+  "h1": "Owens Corning Oakridge Onyx Black Shingles",
+  "meta_title": "Owens Corning Oakridge Onyx Black Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Owens Corning Oakridge in Onyx Black: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "black",
+  "roof_archetype": "black",
+  "best_for_styles": [
+    "modern-farmhouse",
+    "contemporary",
+    "ranch",
+    "modern",
+    "traditional"
+  ],
+  "hail_rating_class": null,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural",
+    "brand_display": "Owens Corning",
+    "brand_slug": "owens-corning",
+    "brand_url": "/shingles/owens-corning/",
+    "line_display": "Oakridge",
+    "line_slug": "owens-corning-oakridge",
+    "line_url": "/shingles/owens-corning/oakridge/",
+    "color_display": "Onyx Black",
+    "color_slug": "onyx-black",
+    "h1_html": "Owens Corning Oakridge <em>Onyx Black</em> Shingles",
+    "tagline": "The blackest shingle in the catalog. Reads as one solid plane in any light.",
+    "hex": "#292d30",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
+    "hero_image_alt": "Home with Owens Corning Oakridge Onyx Black roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$113"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Owens Corning",
+        "url": "/shingles/owens-corning/"
+      },
+      {
+        "label": "Oakridge",
+        "url": "/shingles/owens-corning/oakridge/"
+      },
+      {
+        "label": "Onyx Black",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "onyx-black"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Pure depth, no equivocation. Onyx Black is the color you choose when you want the roof to define the silhouette of the house rather than blend into it. On a Florida elevation it absorbs heat aggressively, so attic ventilation matters more than with lighter shingles.",
+      "Owens Corning mixes a small percentage of charcoal-toned granules into the blend to give the surface visual texture without lifting the perceived color. In overcast Florida humidity, that texture is what separates a $4,000 asphalt roof from a $40,000 metal one in photos.",
+      "Cools the rest of the elevation visually and makes warm wood and stone accents look richer. The one place it disagrees: yellow-toned bricks or very saturated terracotta walls, where the contrast can read harsh."
+    ],
+    "swatch_meta": {
+      "hex": "#292d30",
+      "family": "True black",
+      "undertone": "Cool",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#292d30",
+      "#2f3336",
+      "#393d40"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-swatch.jpg",
+      "image_filename": "owens-corning-oakridge-onyx-black-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "O_OnyxBlack_RGB_swatch_lg.jpg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM E108 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "ENERGY STAR cool-roof reference",
+        "url": "https://www.energystar.gov/products/building_products/roof_products"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "Upgradable to 130 mph with full Preferred Protection System. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Not rated",
+        "ctx": "UL 2218 impact rating not claimed on the manufacturer warranty card."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "230 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "StreakGuard",
+        "ctx": "10-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Owens Corning",
+        "ctx": "Toledo, OH · made in the USA"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8\"",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Oakridge Onyx Black. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-1.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-2.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-2.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-3.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-3.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-4.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-4.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-5.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-5.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-6.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-6.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-7.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-7.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-8.jpg",
+        "image_filename": "owens-corning-oakridge-onyx-black-8.jpg",
+        "alt": "Florida home with Oakridge Onyx Black roof",
+        "tag": "Contractor install",
+        "source": "third_party_install_gallery"
+      }
+    ],
+    "tiles_total": 8,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/owens-corning-oakridge-onyx-black/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Onyx Black <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-black-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-black-roof/"
+      },
+      {
+        "color_name": "Hale Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-black-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-black-roof/"
+      },
+      {
+        "color_name": "Brick Red",
+        "color_hex": "#A24A36",
+        "kicker": "Warm contrast",
+        "house_color_slug": "brick-red",
+        "url": "/brick-red-house-with-black-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>true black</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline As Ii",
+        "line_slug": "gaf-timberline-as-ii",
+        "color_display": "Timberline As Ii Charcoal",
+        "color_hex": "#2a2e32",
+        "redmean_distance": 4.2,
+        "url": "/shingles/gaf/timberline-as-ii/timberline-as-ii-charcoal/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Camelot Ii",
+        "line_slug": "gaf-camelot-ii",
+        "color_display": "Camelot Ii Charcoal",
+        "color_hex": "#29292b",
+        "redmean_distance": 11.6,
+        "url": "/shingles/gaf/camelot-ii/camelot-ii-charcoal/"
+      },
+      {
+        "brand_display": "IKO",
+        "brand_slug": "iko",
+        "line_display": "Dynasty",
+        "line_slug": "iko-dynasty",
+        "color_display": "Blackstone",
+        "color_hex": "#30312f",
+        "redmean_distance": 13.2,
+        "url": "/shingles/iko/dynasty/blackstone/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Grand Sequoia",
+        "line_slug": "gaf-grand-sequoia",
+        "color_display": "Grand Sequoia Charcoal",
+        "color_hex": "#26282b",
+        "redmean_distance": 13.8,
+        "url": "/shingles/gaf/grand-sequoia/grand-sequoia-charcoal/"
+      },
+      {
+        "brand_display": "GAF",
+        "brand_slug": "gaf",
+        "line_display": "Timberline Hdz",
+        "line_slug": "gaf-timberline-hdz",
+        "color_display": "Charcoal",
+        "color_hex": "#26282b",
+        "redmean_distance": 13.8,
+        "url": "/shingles/gaf/timberline-hdz/charcoal/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$113–$130",
+        "low_usd": 113,
+        "high_usd": 130,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$3,390–$3,900",
+        "low_usd": 3390,
+        "high_usd": 3900,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$10k–$17k",
+        "low_usd": 10170,
+        "high_usd": 17160,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "lowes.com",
+        "url": "https://www.lowes.com/pd/Owens-Corning-Oakridge-32-8-Sq-Ft-Onyx-Black-Laminated-Architectural-Roof-Shingles/3005314",
+        "anchor_color": "",
+        "page_title": "Owens Corning Oakridge Onyx Black Algae Resistant Architectural Roof Shingles ( 32.8-sq ft per Bundle ) in the Roof Shingles department at Lowes.com",
+        "price_per_bundle_usd": 41,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 125.01,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-oakridge\\lowes.com__16f88082.html",
+        "scraped_ok": true,
+        "error": null,
+        "zip_used": "33101"
+      },
+      {
+        "retailer": "homedepot.com",
+        "url": "https://www.homedepot.com/p/Owens-Corning-Oakridge-Onyx-Black-Algae-Resistant-Laminate-Architectural-Roofing-Shingles-32-8-sq-ft-per-Bundle-786353/206830645",
+        "anchor_color": "",
+        "page_title": "Owens Corning Oakridge Onyx Black Algae Resistant Laminate Architectural Roofing Shingles (32.8 sq. ft. per Bundle) 786353 - The Home Depot",
+        "price_per_bundle_usd": 38.97,
+        "coverage_sq_ft_per_bundle": 32.8,
+        "bundles_per_square": 3.049,
+        "price_per_square_usd": 118.82,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\owens-corning-oakridge\\homedepot.com__f91c46a2.html",
+        "scraped_ok": true,
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Onyx Black</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Oakridge Onyx Black in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Onyx Black",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
+    "badge_text": "Pre-loaded: Onyx Black",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "onyx-black"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Onyx Black, really?",
+      "a": "A true deep black with no visible blue, brown, or red undertone. In bright Florida sun it stays black; in shade it reads as pure shadow. The granule blend is a tight mix of carbon and charcoal granules that gives the surface dimensional texture without lifting the perceived color."
+    },
+    {
+      "q": "Will Onyx Black make my house run hotter?",
+      "a": "Yes, somewhat. A dark asphalt roof can raise attic temperatures by 5 to 15 degrees Fahrenheit at peak summer compared to a light gray. In Florida that translates to roughly 10 to 20 dollars per month in additional cooling cost on a typical 2,500 sq ft home if attic ventilation is adequate. Proper soffit-to-ridge ventilation and a modern radiant barrier under the deck close most of the gap."
+    },
+    {
+      "q": "Does Onyx Black fade over time?",
+      "a": "Minimally. Owens Corning's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a subtle shift toward a slightly warmer tone over the first 5 years, then visual stability. The full warranty covers premature fading. Source: Owens Corning product warranty document and NRCA field-aging guidance."
+    },
+    {
+      "q": "How does it compare to other black shingles?",
+      "a": "Across Owens Corning, GAF, CertainTeed, IKO, and Owens Corning, the true-black SKUs read nearly identical in daylight from street distance. The granule blend differs slightly (some have a hint of warm undertone, others stay cooler) but unless you place two roofs side by side most homeowners cannot tell them apart."
+    },
+    {
+      "q": "Does Onyx Black work on a Mediterranean or Spanish-style home?",
+      "a": "It can, but it is less traditional than a terracotta tile look. The black asphalt + cream-stucco combination reads as contemporary Mediterranean rather than historical. If you want the historical look, a multi-tone weathered-wood or warm brown reads closer."
+    },
+    {
+      "q": "How will Onyx Black look in 10 years?",
+      "a": "Asphalt shingles in this family typically show their first granule loss (visible as small gritty deposits in gutters) at year 8 to 12. Color stability is excellent over the same window. Most Onyx Black roofs reach year 15 looking visually identical to year 1 unless the house had a serious algae or moss episode."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Onyx Black</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "owens-corning",
+      "line": "oakridge",
+      "color": "onyx-black"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM E108 fire-rating standard",
+      "url": "https://www.astm.org/e0108-20a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "ENERGY STAR cool-roof reference",
+      "url": "https://www.energystar.gov/products/building_products/roof_products"
+    },
+    {
+      "label": "Owens Corning product page",
+      "url": "https://www.owenscorning.com/en-us/roofing/shingles/oakridge?shingle-color=brownwood"
+    },
+    {
+      "label": "Wikipedia: Owens Corning",
+      "url": "https://en.wikipedia.org/wiki/Owens_Corning"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "NRCA technical resources",
+      "url": "https://www.nrca.net/technical"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "black"
+}

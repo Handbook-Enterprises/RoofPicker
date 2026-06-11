@@ -1,0 +1,39 @@
+---
+import { fixBreadcrumb, type Crumb as CrumbItem } from '@lib/breadcrumb';
+interface Props { items: CrumbItem[] }
+// Rewrite hrefs that would 404 to the nearest existing parent (see lib/breadcrumb.ts).
+const items = fixBreadcrumb(Astro.props.items);
+---
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  {items.map((item, i) => {
+    const isLast = i === items.length - 1;
+    return (
+      <>
+        {item.url && !isLast ? (
+          <a href={item.url}>{item.label}</a>
+        ) : (
+          <span class={isLast ? 'current' : ''} aria-current={isLast ? 'page' : undefined}>{item.label}</span>
+        )}
+        {!isLast && <span class="sep" aria-hidden="true">/</span>}
+      </>
+    );
+  })}
+</nav>
+
+<style>
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+  }
+  .breadcrumb a:hover { color: var(--clay); }
+  .breadcrumb .sep { color: var(--rule); }
+  .breadcrumb .current { color: var(--ink); }
+</style>

@@ -1,0 +1,104 @@
+---
+interface Props {
+  data: {
+    kicker: string;
+    title_html: string;
+    cards: Array<{ label: string; range_display: string; note: string }>;
+    method_note?: string;
+  };
+}
+const { data } = Astro.props;
+---
+<section class="pricing">
+  <div class="wrap">
+    <div class="pricing-head">
+      <span class="kicker">{data.kicker}</span>
+      <div class="title" set:html={data.title_html}></div>
+    </div>
+
+    <div class="pricing-grid">
+      {data.cards.map((c) => (
+        <div class="price-card">
+          <div class="label">{c.label}</div>
+          <div class="range" set:html={c.range_display.replace(/–|-/g, '<em>$&</em>')}></div>
+          <div class="note">{c.note}</div>
+        </div>
+      ))}
+    </div>
+
+    {data.method_note && <p class="method-note">{data.method_note}</p>}
+  </div>
+</section>
+
+<style>
+  .pricing {
+    padding: 100px 0 90px;
+  }
+  @media (max-width: 720px) { .pricing { padding: 60px 0 40px; } }
+
+  .pricing-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) {
+    .pricing-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; }
+  }
+  .pricing-head .title {
+    font-family: var(--font-serif);
+    font-size: clamp(34px, 4.6vw, 60px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .pricing-head .title :global(em) { font-style: italic; color: var(--clay); }
+
+  .pricing-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+  }
+  @media (max-width: 760px) { .pricing-grid { grid-template-columns: 1fr; } }
+
+  .price-card {
+    background: var(--shell);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 28px 28px 32px;
+  }
+  .price-card .label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 14px;
+  }
+  .price-card .range {
+    font-family: var(--font-serif);
+    font-size: 44px;
+    line-height: 1;
+    color: var(--ink);
+    letter-spacing: -0.015em;
+    margin-bottom: 12px;
+  }
+  .price-card .range :global(em) {
+    font-style: italic;
+    color: var(--clay);
+    font-size: 0.7em;
+  }
+  .price-card .note {
+    font-size: 14px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+  .method-note {
+    margin-top: 18px;
+    color: var(--ink-soft);
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+</style>

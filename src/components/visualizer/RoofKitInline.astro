@@ -1,0 +1,52 @@
+---
+// Inline iframe embed mounted by /scripts/roofkit-inline.js.
+// Use material/shape/color props to deep-link prefill from a SKU.
+interface Props {
+  material?: string;
+  shape?: string;
+  color?: string;
+  /** iframe height in px (default 760). */
+  height?: number;
+}
+const { material, shape, color, height = 760 } = Astro.props;
+
+// Swap landing-slug to point at a different RoofKit dashboard template.
+const rooferId    = import.meta.env.PUBLIC_ROOFKIT_ROOFER_ID;
+const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'roofpicker';
+const embedBase   = import.meta.env.PUBLIC_ROOFKIT_EMBED_BASE ||
+  (rooferId ? `https://roofkit.ai/embed/v/${rooferId}/l/${landingSlug}` : '');
+
+const qs = new URLSearchParams();
+if (material) qs.set('material', material);
+if (shape)    qs.set('shape', shape);
+if (color)    qs.set('color', color);
+const srcWithParams = embedBase && qs.toString() ? `${embedBase}?${qs}` : embedBase;
+---
+{rooferId && embedBase && (
+  <>
+    <div
+      data-roofkit-inline-embed
+      data-roofer-id={rooferId}
+      data-roofkit-inline-src={srcWithParams}
+      data-height={String(height)}
+    ></div>
+    <script
+      is:inline
+      defer
+      src="/scripts/roofkit-inline.js"
+      data-roofkit-inline-script
+      data-roofer-id={rooferId}
+      data-roofkit-inline-src={srcWithParams}
+    ></script>
+    <noscript>
+      <iframe
+        src={srcWithParams}
+        width="100%"
+        height={height}
+        title="Roof visualization"
+        loading="lazy"
+        style="border:0;display:block;max-width:100%;"
+      ></iframe>
+    </noscript>
+  </>
+)}

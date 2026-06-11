@@ -1,0 +1,57 @@
+---
+const year = new Date().getFullYear();
+---
+<footer class="site">
+  <div class="wrap foot-inner">
+    <a href="/" class="wordmark" aria-label="GetRoofReport home">
+      <img src="/img/getroofreport-horizontal.png" alt="GetRoofReport" width="160" height="32" />
+    </a>
+    <nav class="foot-nav" aria-label="Footer">
+      <a href="/">Visualizer</a>
+      <a href="/shingles/">Brands</a>
+      <a href="/compare/">Compare</a>
+      <a href="/combinations/">Combos</a>
+      <a href="/home-styles/">Styles</a>
+      <a href="/roof-colors/">Gallery</a>
+    </nav>
+    <div class="foot-copy">&copy; {year} GetRoofReport · Made in Florida</div>
+  </div>
+</footer>
+
+<style>
+  footer.site {
+    border-top: 1px solid var(--rule);
+    padding: 36px 0 28px;
+    background: var(--paper);
+  }
+  .foot-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .wordmark { display: inline-flex; align-items: center; }
+  .wordmark img { height: 32px; width: auto; display: block; }
+  .foot-nav {
+    display: flex;
+    gap: 26px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    flex-wrap: wrap;
+  }
+  .foot-nav a:hover { color: var(--clay); }
+  .foot-copy {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    color: var(--ink-soft);
+    text-transform: uppercase;
+  }
+  @media (max-width: 760px) {
+    .foot-inner { justify-content: center; text-align: center; }
+  }
+</style>

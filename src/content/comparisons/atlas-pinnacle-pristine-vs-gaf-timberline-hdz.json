@@ -1,0 +1,203 @@
+{
+  "slug": "atlas-pinnacle-pristine-vs-gaf-timberline-hdz",
+  "url_path": "/compare/atlas-pinnacle-pristine-vs-gaf-timberline-hdz/",
+  "h1": "Atlas Pinnacle Pristine vs GAF Timberline HDZ: Side-by-Side Comparison (2026)",
+  "target_keyword": "atlas pinnacle vs gaf timberline hdz",
+  "volume_per_month": 210,
+  "kd": 2,
+  "subject_a_id": "atlas-pinnacle-pristine",
+  "subject_b_id": "gaf-timberline-hdz",
+  "subject_a_display": "Atlas Pinnacle Pristine",
+  "subject_b_display": "GAF Timberline HDZ",
+  "lead_summary": "Two mid-tier architectural shingles within a few dollars of each other at retail. Atlas Pinnacle Pristine ships in the larger HP42 format with 3M Scotchgard streak-fighter granules baked in at the factory. GAF Timberline HDZ ships standard size with LayerLock and the StrikeZone nailing area that lets roofers hit the nailing target 99% of the time. Both carry a Limited Lifetime warranty and a Class 3 impact rating. The decision is usually contractor preference and color availability, not spec performance.",
+  "quick_stats": [
+    {
+      "value": "130 mph",
+      "label": "Wind rating (both)"
+    },
+    {
+      "value": "Class 3",
+      "label": "Hail rating (both)"
+    },
+    {
+      "value": "32 vs 23",
+      "label": "Color count (Atlas vs GAF)"
+    }
+  ],
+  "choose_a": [
+    "Your contractor stocks Atlas and the lead time on GAF is longer than you want to wait.",
+    "You want 3M Scotchgard streak protection baked in across every Pinnacle Pristine color, not just selected SKUs.",
+    "The HP42 larger shingle format is attractive because it can shave a half-day off install on a typical 30-square roof.",
+    "Color choice is the deciding factor and Atlas has the specific shade you want (32 colors vs 23).",
+    "You like Atlas's algae performance track record in Florida's humidity and want the granule-warranty depth."
+  ],
+  "choose_b": [
+    "Your contractor is GAF Master Elite or Certified and you want the full enhanced warranty stack.",
+    "You want StrikeZone's near-foolproof nailing area for fewer install errors on a complex roofline.",
+    "WindProven Limited Wind Warranty (no maximum wind speed when installed with the full GAF system) is a meaningful upgrade in a hurricane zone.",
+    "GAF's Home Depot distribution is closer or cheaper than your nearest Atlas supplier.",
+    "You want the High Definition or Bold Definition color collections specifically for the dimensional shadow line."
+  ],
+  "comparison_table": [
+    {
+      "category": "Material cost / square",
+      "a_value": "$130-140",
+      "a_ctx": "Distributor / lumberyard retail",
+      "b_value": "$132-140",
+      "b_ctx": "Home Depot retail",
+      "winner_note": "Within $2-4 per square at retail"
+    },
+    {
+      "category": "Weight per square",
+      "a_value": "~225 lbs",
+      "a_ctx": "HP42 larger format, lighter overall",
+      "b_value": "~240 lbs",
+      "b_ctx": "Heaviest in the architectural class",
+      "winner_note": "GAF heavier by ~15 lbs/sq"
+    },
+    {
+      "category": "Wind rating",
+      "a_value": "130 mph",
+      "a_ctx": "Standard nailing, 6 nails per shingle",
+      "b_value": "130 mph",
+      "b_ctx": "WindProven Limited Warranty has no maximum wind speed with full GAF system",
+      "winner_note": "GAF's WindProven is the stronger warranty term"
+    },
+    {
+      "category": "Hail / impact",
+      "a_value": "Class 3",
+      "a_ctx": "UL 2218",
+      "b_value": "Class 3",
+      "b_ctx": "UL 2218; Class 4 only on UHDZ tier",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Fire rating",
+      "a_value": "Class A",
+      "a_ctx": "ASTM E108",
+      "b_value": "Class A",
+      "b_ctx": "ASTM E108",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Material warranty",
+      "a_value": "Lifetime ltd",
+      "a_ctx": "Transferable once within first 10 years",
+      "b_value": "Lifetime ltd",
+      "b_ctx": "Transferable once within first 10 years",
+      "winner_note": "Tie"
+    },
+    {
+      "category": "Algae warranty",
+      "a_value": "Lifetime",
+      "a_ctx": "3M Scotchgard Protector across all Pinnacle Pristine colors",
+      "b_value": "25 years",
+      "b_ctx": "StainGuard Plus algae protection",
+      "winner_note": "Atlas wins on length and coverage"
+    },
+    {
+      "category": "Color count",
+      "a_value": "32",
+      "a_ctx": "Wide Florida-region availability",
+      "b_value": "23",
+      "b_ctx": "High Definition + Bold Definition collections",
+      "winner_note": "Atlas wins on raw count"
+    }
+  ],
+  "color_overlap": [
+    {
+      "color_family": "Black / Onyx",
+      "a_color": "Black Shadow",
+      "a_hex": "#2C2E31",
+      "b_color": "Charcoal",
+      "b_hex": "#34373F"
+    },
+    {
+      "color_family": "Weathered Wood",
+      "a_color": "Weathered Shadow",
+      "a_hex": "#7E6B57",
+      "b_color": "Weathered Wood",
+      "b_hex": "#86714F"
+    },
+    {
+      "color_family": "Pewter / Gray",
+      "a_color": "Pewter",
+      "a_hex": "#7E8086",
+      "b_color": "Pewter Gray",
+      "b_hex": "#7A7D86"
+    },
+    {
+      "color_family": "Brown",
+      "a_color": "Tan Mist",
+      "a_hex": "#A18968",
+      "b_color": "Mission Brown",
+      "b_hex": "#7A5638"
+    }
+  ],
+  "cost_delta": {
+    "per_square_material_difference_usd": 2,
+    "per_square_material_difference_pct": 1.5,
+    "typical_30_square_project_material_difference_usd": 60,
+    "installed_30_square_low_a_usd": 12500,
+    "installed_30_square_high_a_usd": 20500,
+    "installed_30_square_low_b_usd": 13000,
+    "installed_30_square_high_b_usd": 21000,
+    "notes": "Material cost is essentially flat between these two. The installed delta widens slightly because GAF's heavier weight and the optional WindProven accessory kit add a small line item. On a 30-square home, expect the installed difference to be within $300 to $600.",
+    "sources": [
+      "https://www.atlasroofing.com/products/roof-shingles/pinnacle-pristine-shingles",
+      "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz"
+    ]
+  },
+  "reddit_quotes_note": "Pull r/Roofing discussions of Atlas vs GAF — common themes are Atlas's lighter HP42 format reducing fatigue on long install days, and GAF's broader contractor familiarity in most US markets.",
+  "youtube_search_query": "atlas pinnacle pristine vs gaf timberline hdz",
+  "youtube_video_url": "https://www.youtube.com/watch?v=LQVxIp_5qSU",
+  "youtube_video_note": "Roofing Insights 2026 deep-dive review on Atlas Pinnacle Pristine (rated 9.2). Closest verified flagship review for the Atlas side of the matchup.",
+  "faq_items": [
+    {
+      "q": "Which lasts longer, Atlas Pinnacle Pristine or GAF Timberline HDZ?",
+      "a": "Both routinely last 25 to 35 years when installed correctly with proper attic ventilation. Both carry Lifetime Limited material warranties. Atlas has the slight edge on algae warranty length (Lifetime vs GAF's 25 years), which matters more in humid Florida than dry climates."
+    },
+    {
+      "q": "Is Atlas better than GAF in Florida hurricane zones?",
+      "a": "Both are 130 mph rated. GAF's WindProven Limited Wind Warranty (no maximum wind speed when installed with four qualifying GAF accessories) is the strongest wind warranty in the asphalt category. Most Florida hurricane-zone installers slightly prefer GAF HDZ for that reason."
+    },
+    {
+      "q": "Are they the same price?",
+      "a": "Within about $2 to $4 per square at retail. On a typical 30-square home that is roughly $60 to $120 difference in materials. Local availability and your contractor's distributor relationship matter more than the brand-level spread."
+    },
+    {
+      "q": "Which has more color options?",
+      "a": "Atlas Pinnacle Pristine has 32 colors. GAF Timberline HDZ has 23 colors across the High Definition and Bold Definition collections. If color choice matters most, Atlas wins on raw count."
+    },
+    {
+      "q": "What is HP42 and does it matter?",
+      "a": "HP42 is Atlas's larger shingle dimension — 13.25 by 42 inches versus the standard 13.25 by 36 inches. Each shingle covers more area, so a typical install takes fewer total pieces and a touch less time on a complex roof. The finished aesthetic is essentially identical."
+    },
+    {
+      "q": "Does my insurance care which I pick?",
+      "a": "Most Florida insurers look at wind rating and hail rating, not the brand. Both are Class 3 hail and 130 mph wind, so insurance pricing should be similar. Class 4 impact upgrades exist for both brands at additional cost."
+    }
+  ],
+  "data_sources": [
+    "https://www.atlasroofing.com/products/roof-shingles/pinnacle-pristine-shingles",
+    "https://www.gaf.com/en-us/roofing-materials/residential-roofing-materials/shingles/timberline-hdz",
+    "https://www.iibec.org",
+    "https://www.nrca.net"
+  ],
+  "scraped_at": "2026-05-22",
+  "youtube_video_id": "LQVxIp_5qSU",
+  "youtube_video_title": "Atlas Pinnacle Pristine Review 2026: Still One of the Best Roofing Shingles? (9.2 Rating)",
+  "youtube_video_channel": "Roofing Insights",
+  "youtube_video_confidence": "high",
+  "youtube_video_publish_year": 2026,
+  "youtube_video_alternates": [
+    {
+      "video_url": "https://www.youtube.com/watch?v=MJxJPFTI7aI",
+      "video_id": "MJxJPFTI7aI",
+      "title": "Atlas Shingle | Review and Installation",
+      "channel": "Digital Roofing Innovations",
+      "rank": 2
+    }
+  ],
+  "youtube_video_updated_at": "2026-05-22"
+}

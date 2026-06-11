@@ -1,0 +1,554 @@
+{
+  "slug": "malarkey-legacy-weathered-wood",
+  "url_path": "/shingles/malarkey/legacy/weathered-wood/",
+  "h1": "Malarkey Legacy Scotchgard Weathered Wood Shingles",
+  "meta_title": "Malarkey Legacy Scotchgard Weathered Wood Shingles · Color, Specs, Price (2026)",
+  "meta_description": "Malarkey Legacy Scotchgard in Weathered Wood: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "weathered-wood",
+  "best_for_styles": [
+    "modern-farmhouse"
+  ],
+  "hail_rating_class": 4,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Architectural (SBS Polymer Modified)",
+    "brand_display": "Malarkey",
+    "brand_slug": "malarkey",
+    "brand_url": "/shingles/malarkey/",
+    "line_display": "Legacy Scotchgard",
+    "line_slug": "malarkey-legacy",
+    "line_url": "/shingles/malarkey/legacy/",
+    "color_display": "Weathered Wood",
+    "color_slug": "weathered-wood",
+    "h1_html": "Malarkey Legacy Scotchgard <em>Weathered Wood</em> Shingles",
+    "tagline": "The workhorse mid-tone that flatters almost any house color underneath it.",
+    "hex": "#6d6b6a",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-1.jpg",
+    "hero_image_alt": "Home with Malarkey Legacy Scotchgard Weathered Wood roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "110"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$137"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "Malarkey",
+        "url": "/shingles/malarkey/"
+      },
+      {
+        "label": "Legacy Scotchgard",
+        "url": "/shingles/malarkey/legacy/"
+      },
+      {
+        "label": "Weathered Wood",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "malarkey",
+      "line": "legacy",
+      "color": "weathered-wood"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "Weathered Wood sits in the heart of the gray spectrum for Legacy Scotchgard. It reads as a clean charcoal in direct sun and softens to a near-black on cloudy or shaded elevations. That tonal range is the reason it dominates the dimensional asphalt category nationally.",
+      "Malarkey uses a tight blend of dark gray and faint blue-gray granules to keep the surface visually alive. The result is a roof that reads as a clean architectural line from the street and a textured surface up close.",
+      "Difficult to pair badly. The one place it disagrees: bright primary-yellow houses, where the cool undertone fights the warm siding."
+    ],
+    "swatch_meta": {
+      "hex": "#6d6b6a",
+      "family": "Gray",
+      "undertone": "Cool blue",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#6d6b6a",
+      "#767473",
+      "#83807e"
+    ],
+    "swatch_image": {
+      "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-swatch.jpg",
+      "image_filename": "malarkey-legacy-weathered-wood-swatch.jpg",
+      "source": "manufacturer_swatch",
+      "origin_filename": "architectural-weathered-wood-OR-malarkey-swatch.jpg"
+    },
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Architectural (SBS Polymer Modified)",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "110 mph",
+        "ctx": "Upgradable to 130 mph with full Malarkey system. ASTM D7158 Class H."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Class 4",
+        "ctx": "UL 2218 Impact-Resistance Test rating. Class 4 is the highest grade; some Florida insurers offer a small discount on hail-rated roofs."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "240 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "Scotchgard Protector by 3M",
+        "ctx": "Lifetime-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "Malarkey",
+        "ctx": "Portland, OR · made in the USA"
+      }
+    ],
+    "docs": [],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Legacy Scotchgard Weathered Wood. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-1.jpg",
+        "image_filename": "malarkey-legacy-weathered-wood-1.jpg",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-2.jpg",
+        "image_filename": "malarkey-legacy-weathered-wood-2.jpg",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-3.jpg",
+        "image_filename": "malarkey-legacy-weathered-wood-3.jpg",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-4.jpg",
+        "image_filename": "malarkey-legacy-weathered-wood-4.jpg",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-5.jpg",
+        "image_filename": "malarkey-legacy-weathered-wood-5.jpg",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-6.jpg",
+        "image_filename": "malarkey-legacy-weathered-wood-6.jpg",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-7.jpg",
+        "image_filename": "malarkey-legacy-weathered-wood-7.jpg",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-10.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-10.png",
+        "image_filename": "malarkey-legacy-weathered-wood-10.png",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-weathered-wood-roof, left-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-weathered-wood-roof",
+        "angle": "left-34",
+        "origin_filename": "legacy-weathered-wood-left-34.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-8.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-8.png",
+        "image_filename": "malarkey-legacy-weathered-wood-8.png",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-weathered-wood-roof, front)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-weathered-wood-roof",
+        "angle": "front",
+        "origin_filename": "legacy-weathered-wood-front.jpg"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-9.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-9.png",
+        "image_filename": "malarkey-legacy-weathered-wood-9.png",
+        "alt": "Florida home with Legacy Scotchgard Weathered Wood roof",
+        "tag": "AI-rendered example (modern-farmhouse-with-weathered-wood-roof, right-34)",
+        "source": "ai_rendered_s5_restyle",
+        "source_page": "modern-farmhouse-with-weathered-wood-roof",
+        "angle": "right-34",
+        "origin_filename": "legacy-weathered-wood-right-34.jpg"
+      }
+    ],
+    "tiles_total": 10,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/malarkey-legacy-weathered-wood/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Weathered Wood <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-weathered-wood-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-weathered-wood-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "TAMKO",
+        "brand_slug": "tamko",
+        "line_display": "Heritage",
+        "line_slug": "tamko-heritage",
+        "color_display": "Oxford Grey",
+        "color_hex": "#6a6c6c",
+        "redmean_distance": 6,
+        "url": "/shingles/tamko/heritage/oxford-grey/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "COASTAL GRANITE",
+        "color_hex": "#6a6e6b",
+        "redmean_distance": 7.8,
+        "url": "/shingles/atlas/pinnacle-pristine/coastal-granite/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Pewter",
+        "color_hex": "#6a6967",
+        "redmean_distance": 7.8,
+        "url": "/shingles/certainteed/landmark/pewter/"
+      },
+      {
+        "brand_display": "Atlas",
+        "brand_slug": "atlas",
+        "line_display": "Pinnacle Pristine",
+        "line_slug": "atlas-pinnacle-pristine",
+        "color_display": "PEWTER",
+        "color_hex": "#6a6c6f",
+        "redmean_distance": 9.5,
+        "url": "/shingles/atlas/pinnacle-pristine/pewter/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Georgetown Gray",
+        "color_hex": "#6d6a64",
+        "redmean_distance": 9.8,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-georgetown-gray/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$137–$157",
+        "low_usd": 137,
+        "high_usd": 157,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$4,110–$4,710",
+        "low_usd": 4110,
+        "high_usd": 4710,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$12k–$20k",
+        "low_usd": 12330,
+        "high_usd": 20724,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "qxo.com",
+        "url": "https://www.qxo.com/product/Malarkey-Legacy-Shingles-with-Scotchgard-Protector/C-448348/473816",
+        "anchor_color": "",
+        "page_title": "Malarkey 13.25 in x 40 in Legacy® Shingles with Scotchgard™ Protector Midnight Black",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\malarkey-legacy\\qxo.com__0a987de1.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "dealerschoicedistribution.com",
+        "url": "https://www.dealerschoicedistribution.com/product/Malarkey-Legacy-Shingles-with-Scotchgard-Protector/C-448348/451102",
+        "anchor_color": "Weathered Wood",
+        "page_title": "Malarkey 13.25 in x 40 in Legacy® Shingles with Scotchgard™ Protector Weathered Wood",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\malarkey-legacy\\dealerschoicedistribution.com__c2f224b4.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "RoofCalc.org / Beacon (BECN) / Cameron Ashley",
+        "url": "https://www.roofcalc.org/legacy-shingles/",
+        "anchor_color": "",
+        "page_title": "",
+        "source_type": "industry_average",
+        "low_per_bundle_usd": 43,
+        "high_per_bundle_usd": 55,
+        "low_per_square_usd": 129.13,
+        "high_per_square_usd": 165.17,
+        "price_per_bundle_usd": 49,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 147.15,
+        "html_path": "",
+        "scraped_ok": true,
+        "note": "Premium SBS-modified Scotchgard; $1.30-$1.50/sq ft material; contractor channel only (Beacon, ABC Supply, Cameron Ashley).",
+        "error": null
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Weathered Wood</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Malarkey Legacy Scotchgard Weathered Wood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Weathered Wood",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-legacy-weathered-wood\\malarkey-legacy-weathered-wood-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-legacy-weathered-wood/malarkey-legacy-weathered-wood-1.jpg",
+    "badge_text": "Pre-loaded: Weathered Wood",
+    "visualizer_payload": {
+      "brand": "malarkey",
+      "line": "legacy",
+      "color": "weathered-wood"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Weathered Wood, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Weathered Wood fade over time?",
+      "a": "Minimally. Malarkey's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: Malarkey product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Weathered Wood look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Weathered Wood make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across Malarkey, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. Malarkey's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Weathered Wood</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "malarkey",
+      "line": "legacy",
+      "color": "weathered-wood"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "Malarkey product page",
+      "url": "https://www.malarkeyroofing.com/products/shingles-overview/legacy-scotchgard-shingles/"
+    },
+    {
+      "label": "Wikipedia: Malarkey",
+      "url": "https://en.wikipedia.org/wiki/Malarkey_Roofing_Products"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:25+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

@@ -1,0 +1,510 @@
+{
+  "slug": "iko-royal-estate-mountain-slate",
+  "url_path": "/shingles/iko/royal-estate/mountain-slate/",
+  "h1": "IKO Royal Estate Mountain Slate Shingles",
+  "meta_title": "IKO Royal Estate Mountain Slate Shingles · Color, Specs, Price (2026)",
+  "meta_description": "IKO Royal Estate in Mountain Slate: color description, granule blend, warranty, wind rating, Florida install cost, and side-by-side comparison against similar shingles from other brands. Free visualizer.",
+  "strategy": 3,
+  "color_family": "gray",
+  "roof_archetype": "charcoal",
+  "best_for_styles": [
+    "craftsman",
+    "colonial",
+    "traditional",
+    "modern-farmhouse",
+    "cape-cod"
+  ],
+  "hail_rating_class": null,
+  "sku_hero": {
+    "kicker": "Shingle · Asphalt · Luxury Laminated",
+    "brand_display": "IKO",
+    "brand_slug": "iko",
+    "brand_url": "/shingles/iko/",
+    "line_display": "Royal Estate",
+    "line_slug": "iko-royal-estate",
+    "line_url": "/shingles/iko/royal-estate/",
+    "color_display": "Mountain Slate",
+    "color_slug": "mountain-slate",
+    "h1_html": "IKO Royal Estate <em>Mountain Slate</em> Shingles",
+    "tagline": "A bold dimensional gray with enough depth to anchor a contemporary build.",
+    "hex": "#5d6058",
+    "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-mountain-slate\\iko-royal-estate-mountain-slate-1.webp",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-mountain-slate/iko-royal-estate-mountain-slate-1.webp",
+    "hero_image_alt": "Home with IKO Royal Estate Mountain Slate roof",
+    "quick_facts": [
+      {
+        "label": "Wind",
+        "val": "130"
+      },
+      {
+        "label": "Warranty",
+        "val": "Lifetime"
+      },
+      {
+        "label": "Per square",
+        "val": "$1687"
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shingles",
+        "url": "/shingles/"
+      },
+      {
+        "label": "IKO",
+        "url": "/shingles/iko/"
+      },
+      {
+        "label": "Royal Estate",
+        "url": "/shingles/iko/royal-estate/"
+      },
+      {
+        "label": "Mountain Slate",
+        "url": null
+      }
+    ],
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "royal-estate",
+      "color": "mountain-slate"
+    }
+  },
+  "color_desc": {
+    "kicker": "The color · in plain words",
+    "title_html": "What you're <em>looking</em> at.",
+    "prose_paragraphs": [
+      "The most common asphalt-shingle install nationally is a gray in this exact tonal zone. Mountain Slate sits right inside that fairway: dark enough to feel anchored, light enough to keep the elevation breathing. The granule blend is engineered to read as a single quiet plane from the street.",
+      "IKO uses a tight blend of dark gray and faint blue-gray granules to keep the surface visually alive. The result is a roof that reads as a clean architectural line from the street and a textured surface up close.",
+      "Pairs cleanly with white, cream, navy, sage, and warm terra-cotta sidings. Almost any house color works underneath it."
+    ],
+    "swatch_meta": {
+      "hex": "#5d6058",
+      "family": "Gray",
+      "undertone": "Cool blue",
+      "best_in": "Daylight"
+    },
+    "hex_blend": [
+      "#5d6058",
+      "#6b6e66",
+      "#494c44"
+    ],
+    "swatch_image": null,
+    "sources": [
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      },
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "Wikipedia: Asphalt shingle",
+        "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+      },
+      {
+        "label": "NRCA Algae Discoloration field guidance",
+        "url": "https://www.nrca.net/technical"
+      }
+    ]
+  },
+  "specs": {
+    "kicker": "Specs · what's on the warranty card",
+    "title_html": "The <em>numbers</em>, plainly.",
+    "rows": [
+      {
+        "cat": "Type",
+        "val": "Asphalt",
+        "ctx": "Fiberglass-mat, granule-coated, dimensional architectural shingle"
+      },
+      {
+        "cat": "Grade",
+        "val": "Luxury Laminated",
+        "ctx": "Laminated profile with dimensional shadow line"
+      },
+      {
+        "cat": "Warranty",
+        "val": "Lifetime",
+        "ctx": "Manufacturer limited; transferable terms vary"
+      },
+      {
+        "cat": "Wind rating",
+        "val": "130 mph",
+        "ctx": "ArmourZone reinforced nailing strip. ASTM D3161 Class F."
+      },
+      {
+        "cat": "Hail / impact",
+        "val": "Not rated",
+        "ctx": "UL 2218 impact rating not claimed on the manufacturer warranty card."
+      },
+      {
+        "cat": "Fire rating",
+        "val": "Class A",
+        "ctx": "ASTM E108 / UL 790"
+      },
+      {
+        "cat": "Weight per square",
+        "val": "300 lbs",
+        "ctx": "Standard architectural asphalt"
+      },
+      {
+        "cat": "Algae resistance",
+        "val": "AR (Algae Resistant)",
+        "ctx": "15-year algae warranty"
+      },
+      {
+        "cat": "Manufacturer",
+        "val": "IKO",
+        "ctx": "Brampton, Ontario · made in the Canada"
+      },
+      {
+        "cat": "Exposure",
+        "val": "5 5/8 inches (143 mm)",
+        "ctx": "Manufacturer-specified shingle exposure per course"
+      }
+    ],
+    "docs": [
+      {
+        "label": "IKO ROYL ESTA SHGL SELLS CONTR US EN",
+        "url": "https://mediaresourcecenter.iko.com/m/2493125e6c7812b0/original/IKO_ROYL_ESTA_SHGL_SELLS_CONTR_US_EN.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO ROYL ESTA SHGL SELLS CONTR CA EN",
+        "url": "https://mediaresourcecenter.iko.com/m/c359b9f04a7cb9a8/original/IKO_ROYL_ESTA_SHGL_SELLS_CONTR_CA_EN.pdf",
+        "type": "doc"
+      },
+      {
+        "label": "IKO ROYL ESTA SHGL BROC HMWR CA EN",
+        "url": "https://mediaresourcecenter.iko.com/m/9fd38e557d586264/original/IKO_ROYL_ESTA_SHGL_BROC_HMWR_CA_EN.pdf",
+        "type": "doc"
+      }
+    ],
+    "sources": [
+      {
+        "label": "ASTM D7158 wind-rating standard",
+        "url": "https://www.astm.org/d7158_d7158m-19a.html"
+      },
+      {
+        "label": "ASTM E108 / UL 790 fire-rating standard",
+        "url": "https://www.astm.org/e0108-20a.html"
+      },
+      {
+        "label": "NRCA Asphalt Shingle Manual",
+        "url": "https://www.nrca.net/store"
+      }
+    ]
+  },
+  "gallery": {
+    "title_html": "Real <em>installs</em>, real homes.",
+    "meta": "Photos from manufacturers and Florida roofers who installed Royal Estate Mountain Slate. No staging, no flattering filters.",
+    "tiles": [
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-mountain-slate\\iko-royal-estate-mountain-slate-1.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-mountain-slate/iko-royal-estate-mountain-slate-1.webp",
+        "image_filename": "iko-royal-estate-mountain-slate-1.webp",
+        "alt": "Florida home with Royal Estate Mountain Slate roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-mountain-slate\\iko-royal-estate-mountain-slate-2.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-mountain-slate/iko-royal-estate-mountain-slate-2.webp",
+        "image_filename": "iko-royal-estate-mountain-slate-2.webp",
+        "alt": "Florida home with Royal Estate Mountain Slate roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-mountain-slate\\iko-royal-estate-mountain-slate-3.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-mountain-slate/iko-royal-estate-mountain-slate-3.webp",
+        "image_filename": "iko-royal-estate-mountain-slate-3.webp",
+        "alt": "Florida home with Royal Estate Mountain Slate roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      },
+      {
+        "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-mountain-slate\\iko-royal-estate-mountain-slate-4.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-mountain-slate/iko-royal-estate-mountain-slate-4.webp",
+        "image_filename": "iko-royal-estate-mountain-slate-4.webp",
+        "alt": "Florida home with Royal Estate Mountain Slate roof",
+        "tag": "Manufacturer install",
+        "source": "manufacturer_install_gallery"
+      }
+    ],
+    "tiles_total": 4,
+    "display_limit_default": 12,
+    "image_library_path": "output/images/skus/iko-royal-estate-mountain-slate/"
+  },
+  "pairs": {
+    "kicker": "House colors that work",
+    "title_html": "Mountain Slate <em>pairs</em> well with.",
+    "items": [
+      {
+        "color_name": "Antique White",
+        "color_hex": "#F2EBDA",
+        "kicker": "Crisp neutral",
+        "house_color_slug": "white",
+        "url": "/white-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Soft Cream",
+        "color_hex": "#E8DCC4",
+        "kicker": "Warm neutral",
+        "house_color_slug": "cream",
+        "url": "/cream-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Sage Green",
+        "color_hex": "#A4B197",
+        "kicker": "Earthy modern",
+        "house_color_slug": "sage-green",
+        "url": "/sage-green-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Deep Navy",
+        "color_hex": "#2A3B52",
+        "kicker": "Bold tonal",
+        "house_color_slug": "navy",
+        "url": "/navy-house-with-charcoal-roof/"
+      },
+      {
+        "color_name": "Terra Cotta",
+        "color_hex": "#C97A5A",
+        "kicker": "Warm contrast",
+        "house_color_slug": "terracotta",
+        "url": "/terracotta-house-with-charcoal-roof/"
+      }
+    ],
+    "note": "Click a swatch to see this exact pairing rendered on a real Florida home."
+  },
+  "similar": {
+    "kicker": "Compare across brands",
+    "title_html": "Other <em>gray</em> shingles, side by side.",
+    "items": [
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Presidential Shake",
+        "line_slug": "certainteed-presidential-shake",
+        "color_display": "Country Gray",
+        "color_hex": "#605d59",
+        "redmean_distance": 7.7,
+        "url": "/shingles/certainteed/presidential-shake/country-gray/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Thunderstorm Gray",
+        "color_hex": "#5e5d5b",
+        "redmean_distance": 7.9,
+        "url": "/shingles/certainteed/landmark/thunderstorm-gray/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark",
+        "line_slug": "certainteed-landmark",
+        "color_display": "Georgetown Gray",
+        "color_hex": "#5d5c57",
+        "redmean_distance": 8.2,
+        "url": "/shingles/certainteed/landmark/georgetown-gray/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Landmark Pro",
+        "line_slug": "certainteed-landmark-pro",
+        "color_display": "Max Def Granite Gray",
+        "color_hex": "#5e5d5c",
+        "redmean_distance": 9,
+        "url": "/shingles/certainteed/landmark-pro/max-def-granite-gray/"
+      },
+      {
+        "brand_display": "CertainTeed",
+        "brand_slug": "certainteed",
+        "line_display": "Northgate Climateflex",
+        "line_slug": "certainteed-northgate-climateflex",
+        "color_display": "Max Def Granite Gray",
+        "color_hex": "#5e5d5c",
+        "redmean_distance": 9,
+        "url": "/shingles/certainteed/northgate-climateflex/max-def-granite-gray/"
+      }
+    ],
+    "method_note": "Cross-brand similarity computed by redmean RGB distance. Lower distance equals closer perceived match.",
+    "sources": [
+      {
+        "label": "Wikipedia: Color difference (redmean)",
+        "url": "https://en.wikipedia.org/wiki/Color_difference#sRGB"
+      }
+    ]
+  },
+  "pricing": {
+    "kicker": "Pricing context · 2026 retail",
+    "title_html": "What it <em>actually</em> costs.",
+    "cards": [
+      {
+        "label": "Per square (materials)",
+        "range_display": "$1687–$1940",
+        "low_usd": 1687,
+        "high_usd": 1940,
+        "note": "Home Depot / Lowe's retail snapshot, three bundles per square."
+      },
+      {
+        "label": "Typical 30-square home",
+        "range_display": "$50,610–$58,200",
+        "low_usd": 50610,
+        "high_usd": 58200,
+        "note": "Materials only. Underlayment, starter strip, and ridge cap not included."
+      },
+      {
+        "label": "Installed in Florida",
+        "range_display": "$151k–$256k",
+        "low_usd": 151830,
+        "high_usd": 256080,
+        "note": "Full re-roof including tear-off, decking inspection, install, and disposal. Range varies by pitch, square count, and accessibility."
+      }
+    ],
+    "method_note": "Materials-per-square pulled from retailer scrape (Lowe's/Home Depot Florida zips).",
+    "retailer_sources": [
+      {
+        "retailer": "superarbor.io",
+        "url": "https://superarbor.io/products/iko-royal-estate-premium-designer-shingles-shadow-slate-40-x-13-1-4-exposure-5-5-8",
+        "anchor_color": "",
+        "page_title": "IKO Royal Estate Premium Designer Shingles - Shadow Slate, 40 in x 13- – Super Arbor",
+        "price_per_bundle_usd": 603.9,
+        "coverage_sq_ft_per_bundle": 33.3,
+        "bundles_per_square": 3.003,
+        "price_per_square_usd": 1813.51,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\iko-royal-estate\\superarbor.io__64c92be2.html",
+        "scraped_ok": true,
+        "error": null
+      },
+      {
+        "retailer": "biiibo.com",
+        "url": "https://www.biiibo.com/speciality/iko/shingles1/iko-royal-estate-3bd-harvest-slate-shingles-nhl3h",
+        "anchor_color": "",
+        "page_title": "IKO Royal Estate (3bd) Harvest Slate Shingles | Biiibo | Biiibo",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\iko-royal-estate\\biiibo.com__fdb48fc4.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      },
+      {
+        "retailer": "qxo-canada.com",
+        "url": "https://www.qxo-canada.com/product/IKO-Royal-Estate-Premium-Designer-Shingles/C-456061/456063",
+        "anchor_color": "",
+        "page_title": "IKO 13.25 in x 40 in Royal Estate Premium Designer Shingles Shadow Slate",
+        "price_per_bundle_usd": null,
+        "coverage_sq_ft_per_bundle": null,
+        "bundles_per_square": null,
+        "price_per_square_usd": null,
+        "html_path": "C:\\Users\\jose\\Downloads\\Compressed\\SeleniumScraper-main\\SeleniumScraper-main\\data\\retailer-pricing\\iko-royal-estate\\qxo-canada.com__1edc1de2.html",
+        "scraped_ok": true,
+        "error": "price not found in page"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Lowe's product pricing (Florida zip 33101)",
+        "url": "https://www.lowes.com"
+      },
+      {
+        "label": "Home Depot product pricing (Florida zip 33101)",
+        "url": "https://www.homedepot.com"
+      },
+      {
+        "label": "RoofingCalc installed-cost ranges (Florida)",
+        "url": "https://www.roofingcalc.com"
+      }
+    ]
+  },
+  "try_it": {
+    "kicker": "Visualize · free · no signup",
+    "title_html": "Stop guessing. See <em>Mountain Slate</em> on your roof.",
+    "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Royal Estate Mountain Slate in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
+    "cta_label": "Open visualizer with Mountain Slate",
+    "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-mountain-slate\\iko-royal-estate-mountain-slate-1.webp",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-mountain-slate/iko-royal-estate-mountain-slate-1.webp",
+    "badge_text": "Pre-loaded: Mountain Slate",
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "royal-estate",
+      "color": "mountain-slate"
+    }
+  },
+  "faq_items": [
+    {
+      "q": "What color is Mountain Slate, really?",
+      "a": "A confident, slightly cool dark gray. It reads close to black in shade and as a clean slate in direct sunlight. The granule blend has a faint cool undertone that keeps it from looking flat. On a Florida elevation with strong overhead light, expect the surface to brighten visibly compared to a cloudy day."
+    },
+    {
+      "q": "Does Mountain Slate fade over time?",
+      "a": "Minimally. IKO's ceramic granule coating is engineered to hold color for 25 plus years in Florida UV. Expect a barely-visible shift toward a slightly warmer tone over the first 5 years, then stability. The full warranty covers premature fading. Source: IKO product warranty card and NRCA Asphalt Shingle Manual."
+    },
+    {
+      "q": "How does Mountain Slate look in Florida sun versus on a cloudy day?",
+      "a": "In direct overhead sun it brightens to a clear charcoal with visible dimensional shadow lines. On cloudy days it reads almost black and recedes visually, which flatters most siding colors underneath. At sunset the granule blend shows its warmth."
+    },
+    {
+      "q": "Will Mountain Slate make my house run hotter?",
+      "a": "Slightly, compared to a white or light-gray roof. In Florida, a mid-dark roof adds approximately 5 to 10 degrees Fahrenheit to attic temperatures during peak summer. Proper attic ventilation and a modern radiant barrier reduce the actual cooling-load impact to less than 20 dollars per month in most homes."
+    },
+    {
+      "q": "How does it compare to similar shingles from other brands?",
+      "a": "Very similar in daylight. The gray-family SKUs across IKO, GAF, CertainTeed, IKO, and Owens Corning sit within a small tonal window. Subtle differences in granule blend (some lean cool blue, others lean warm slate) become visible only side by side. Use the Compare tab to see direct hex deltas."
+    },
+    {
+      "q": "Is the algae warranty enough for Florida humidity?",
+      "a": "Generally yes. IKO's algae-resistance package uses copper- or zinc-infused granules that inhibit the most common Florida algae strain (Gloeocapsa magma). Expect clean performance for the warranty window with normal cleaning; in heavy-shade or low-airflow installations occasional soft-wash maintenance helps. Source: NRCA Algae Discoloration field guidance."
+    }
+  ],
+  "closing": {
+    "kicker": "It's free. No signup.",
+    "h2_html": "See <em>Mountain Slate</em> on your house before you commit to it.",
+    "cta_label": "Open the visualizer",
+    "visualizer_payload": {
+      "brand": "iko",
+      "line": "royal-estate",
+      "color": "mountain-slate"
+    }
+  },
+  "data_sources": [
+    {
+      "label": "NRCA Asphalt Shingle Manual",
+      "url": "https://www.nrca.net/store"
+    },
+    {
+      "label": "ASTM D7158 wind-rating standard",
+      "url": "https://www.astm.org/d7158_d7158m-19a.html"
+    },
+    {
+      "label": "Wikipedia: Asphalt shingle",
+      "url": "https://en.wikipedia.org/wiki/Asphalt_shingle"
+    },
+    {
+      "label": "NRCA Algae Discoloration field guidance",
+      "url": "https://www.nrca.net/technical"
+    },
+    {
+      "label": "IKO product page",
+      "url": "https://www.iko.com/na/product/royal-estate/"
+    },
+    {
+      "label": "Wikipedia: IKO",
+      "url": "https://en.wikipedia.org/wiki/IKO_Industries"
+    }
+  ],
+  "scraped_at": "2026-05-22T00:37:24+00:00",
+  "prose_method": "family-templated-with-substitution",
+  "prose_family_used": "gray"
+}

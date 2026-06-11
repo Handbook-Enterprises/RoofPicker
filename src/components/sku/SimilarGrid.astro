@@ -1,0 +1,135 @@
+---
+interface Props {
+  data: {
+    kicker: string;
+    title_html: string;
+    items: Array<{
+      brand_display: string;
+      line_display: string;
+      color_display: string;
+      color_hex: string | null;
+      url: string | null;
+      redmean_distance?: number | null;
+    }>;
+    method_note?: string;
+  };
+}
+const { data } = Astro.props;
+---
+<section class="similar">
+  <div class="wrap">
+    <div class="similar-head">
+      <span class="kicker">{data.kicker}</span>
+      <div class="title" set:html={data.title_html}></div>
+    </div>
+
+    <div class="similar-grid">
+      {data.items.map((s) => {
+        const styleVar = `--similar-color:${s.color_hex || '#444851'}`;
+        const inner = (
+          <>
+            <div class="swatch"></div>
+            <div class="meta">
+              <div class="brand-line">{s.brand_display} · {s.line_display}</div>
+              <div class="color-name">{s.color_display}</div>
+            </div>
+          </>
+        );
+        return s.url
+          ? <a href={s.url} class="similar-card" style={styleVar}>{inner}</a>
+          : <div class="similar-card" style={styleVar}>{inner}</div>;
+      })}
+    </div>
+    {data.method_note && <p class="method-note">{data.method_note}</p>}
+  </div>
+</section>
+
+<style>
+  .similar {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 100px 0;
+  }
+  @media (max-width: 720px) { .similar { padding: 60px 0; } }
+  .similar-head {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    margin-bottom: 48px;
+    align-items: baseline;
+  }
+  @media (max-width: 760px) {
+    .similar-head { grid-template-columns: 1fr; gap: 16px; margin-bottom: 28px; }
+  }
+  .similar-head .kicker { color: rgba(242, 236, 222, 0.55); }
+  .similar-head .title {
+    font-family: var(--font-serif);
+    font-size: clamp(34px, 4.6vw, 60px);
+    line-height: 0.96;
+    letter-spacing: -0.02em;
+    color: var(--paper);
+  }
+  .similar-head .title :global(em) { font-style: italic; color: var(--clay); }
+
+  .similar-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+  }
+  @media (max-width: 880px) { .similar-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 520px) { .similar-grid { grid-template-columns: 1fr 1fr; gap: 12px; } }
+
+  .similar-card {
+    background: rgba(242, 236, 222, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(242, 236, 222, 0.18);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: background var(--t-fast) var(--ease),
+                 border-color var(--t-fast) var(--ease),
+                 transform var(--t-fast) var(--ease);
+    display: block;
+  }
+  .similar-card:hover {
+    background: rgba(242, 236, 222, 0.10);
+    border-color: rgba(242, 236, 222, 0.32);
+    transform: translateY(-3px);
+  }
+  .similar-card .swatch {
+    aspect-ratio: 4 / 3;
+    background: var(--similar-color);
+    position: relative;
+    overflow: hidden;
+  }
+  .similar-card .swatch::after {
+    content: "";
+    position: absolute; inset: 0;
+    background-image: repeating-linear-gradient(180deg,
+      rgba(0,0,0,0.1) 0 1px, transparent 1px 6px);
+    mix-blend-mode: multiply;
+    opacity: 0.6;
+  }
+  .similar-card .meta { padding: 16px 18px 20px; }
+  .brand-line {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(242, 236, 222, 0.55);
+    margin-bottom: 6px;
+  }
+  .color-name {
+    font-family: var(--font-serif);
+    font-size: 22px;
+    line-height: 1.1;
+    color: var(--paper);
+    letter-spacing: -0.005em;
+  }
+  .method-note {
+    margin-top: 24px;
+    color: rgba(242, 236, 222, 0.55);
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+</style>
