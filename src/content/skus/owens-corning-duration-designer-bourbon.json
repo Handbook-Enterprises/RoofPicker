@@ -28,7 +28,7 @@
     "tagline": "Warm, architecturally bold roof color that flatters Mediterranean and Spanish builds.",
     "hex": "#6a3e36",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-designer-bourbon\\owens-corning-duration-designer-bourbon-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-1.jpg",
     "hero_image_alt": "Home with Owens Corning Duration Designer Bourbon roof",
     "quick_facts": [
       {
@@ -93,7 +93,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-designer-bourbon\\owens-corning-duration-designer-bourbon-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-swatch.jpg",
       "image_filename": "owens-corning-duration-designer-bourbon-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "DSDP_Bourbon_RGB_swatch_lg_07-2022.jpg"
@@ -194,7 +194,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-designer-bourbon\\owens-corning-duration-designer-bourbon-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-1.jpg",
         "image_filename": "owens-corning-duration-designer-bourbon-1.jpg",
         "alt": "Florida home with Duration Designer Bourbon roof",
         "tag": "Manufacturer install",
@@ -202,7 +202,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-designer-bourbon\\owens-corning-duration-designer-bourbon-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-2.jpg",
         "image_filename": "owens-corning-duration-designer-bourbon-2.jpg",
         "alt": "Florida home with Duration Designer Bourbon roof",
         "tag": "AI-rendered example (aerial view)",
@@ -211,7 +211,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-designer-bourbon\\owens-corning-duration-designer-bourbon-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-3.jpg",
         "image_filename": "owens-corning-duration-designer-bourbon-3.jpg",
         "alt": "Florida home with Duration Designer Bourbon roof",
         "tag": "AI-rendered example (street view)",
@@ -220,7 +220,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-designer-bourbon\\owens-corning-duration-designer-bourbon-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-4.jpg",
         "image_filename": "owens-corning-duration-designer-bourbon-4.jpg",
         "alt": "Florida home with Duration Designer Bourbon roof",
         "tag": "AI-rendered example (dusk view)",
@@ -401,7 +401,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Designer Bourbon in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Bourbon",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-designer-bourbon\\owens-corning-duration-designer-bourbon-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-designer-bourbon/owens-corning-duration-designer-bourbon-1.jpg",
     "badge_text": "Pre-loaded: Bourbon",
     "visualizer_payload": {
       "brand": "owens-corning",

@@ -59,49 +59,49 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
         "alt": "Cream house with Weathered Wood roof using Pinnacle Pristine WEATHERED WOOD",
         "tag": "Atlas",
         "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\certainteed-landmark-resawn-shake.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-landmark-resawn-shake.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-landmark-resawn-shake.jpg",
         "alt": "Cream house with Weathered Wood roof using Landmark Resawn Shake",
         "tag": "CertainTeed",
         "sku_url": "/shingles/certainteed/landmark/resawn-shake/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\iko-cambridge-driftwood.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/iko-cambridge-driftwood.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/iko-cambridge-driftwood.jpg",
         "alt": "Cream house with Weathered Wood roof using Cambridge Driftwood",
         "tag": "IKO",
         "sku_url": "/shingles/iko/cambridge/driftwood/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\malarkey-vista-weathered-wood.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/malarkey-vista-weathered-wood.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/malarkey-vista-weathered-wood.jpg",
         "alt": "Cream house with Weathered Wood roof using Vista Weathered Wood",
         "tag": "Malarkey",
         "sku_url": "/shingles/malarkey/vista/weathered-wood/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\owens-corning-duration-driftwood.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
         "alt": "Cream house with Weathered Wood roof using Duration Driftwood",
         "tag": "Owens Corning",
         "sku_url": "/shingles/owens-corning/duration/driftwood/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\certainteed-northgate-climateflex-max-def-weathered-wood.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-weathered-wood.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-weathered-wood.jpg",
         "alt": "Cream house with Weathered Wood roof using Northgate Climateflex Max Def Weathered Wood",
         "tag": "CertainTeed",
         "sku_url": "/shingles/certainteed/northgate-climateflex/max-def-weathered-wood/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\owens-corning-oakridge-driftwood.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-oakridge-driftwood.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-oakridge-driftwood.jpg",
         "alt": "Cream house with Weathered Wood roof using Oakridge Driftwood",
         "tag": "Owens Corning",
         "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
@@ -120,14 +120,14 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\certainteed-landmark-resawn-shake.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-landmark-resawn-shake.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-landmark-resawn-shake.jpg",
             "alt": "Cream house with Weathered Wood roof -- CertainTeed Landmark Resawn Shake",
             "tag": "Landmark · Resawn Shake",
             "sku_url": "/shingles/certainteed/landmark/resawn-shake/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\certainteed-northgate-climateflex-max-def-weathered-wood.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-weathered-wood.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/certainteed-northgate-climateflex-max-def-weathered-wood.jpg",
             "alt": "Cream house with Weathered Wood roof -- CertainTeed Northgate Climateflex Max Def Weathered Wood",
             "tag": "Northgate Climateflex · Max Def Weathered Wood",
             "sku_url": "/shingles/certainteed/northgate-climateflex/max-def-weathered-wood/"
@@ -142,14 +142,14 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\owens-corning-duration-driftwood.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
             "alt": "Cream house with Weathered Wood roof -- Owens Corning Duration Driftwood",
             "tag": "Duration · Driftwood",
             "sku_url": "/shingles/owens-corning/duration/driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\owens-corning-oakridge-driftwood.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-oakridge-driftwood.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/owens-corning-oakridge-driftwood.jpg",
             "alt": "Cream house with Weathered Wood roof -- Owens Corning Oakridge Driftwood",
             "tag": "Oakridge · Driftwood",
             "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
@@ -164,21 +164,21 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
             "alt": "Cream house with Weathered Wood roof -- Atlas Pinnacle Pristine WEATHERED WOOD",
             "tag": "Pinnacle Pristine · WEATHERED WOOD",
             "sku_url": "/shingles/atlas/pinnacle-pristine/weathered-wood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\iko-cambridge-driftwood.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/iko-cambridge-driftwood.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/iko-cambridge-driftwood.jpg",
             "alt": "Cream house with Weathered Wood roof -- IKO Cambridge Driftwood",
             "tag": "Cambridge · Driftwood",
             "sku_url": "/shingles/iko/cambridge/driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\malarkey-vista-weathered-wood.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/malarkey-vista-weathered-wood.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/malarkey-vista-weathered-wood.jpg",
             "alt": "Cream house with Weathered Wood roof -- Malarkey Vista Weathered Wood",
             "tag": "Vista · Weathered Wood",
             "sku_url": "/shingles/malarkey/vista/weathered-wood/"
@@ -194,7 +194,7 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
             "alt": "Cape Cod home with weathered wood roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -203,7 +203,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
             "alt": "Colonial home with weathered wood roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -212,7 +212,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake-front.jpg",
             "alt": "Craftsman home with weathered wood roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -221,7 +221,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood-front.jpg",
             "alt": "Modern Farmhouse home with weathered wood roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -230,7 +230,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-shenandoah-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-shenandoah-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-shenandoah-front.jpg",
             "alt": "Ranch home with weathered wood roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -239,7 +239,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
             "alt": "Victorian home with weathered wood roof",
             "tag": "Victorian",
             "sku_url": null,
@@ -248,7 +248,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
             "alt": "Cape Cod home with weathered wood roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -257,7 +257,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
             "alt": "Colonial home with weathered wood roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -266,7 +266,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\certainteed-landmark-driftwood-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-driftwood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-driftwood-right-34.jpg",
             "alt": "Craftsman home with weathered wood roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -275,7 +275,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-resawn-shake-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-pro-max-def-resawn-shake-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-pro-max-def-resawn-shake-right-34.jpg",
             "alt": "Modern Farmhouse home with weathered wood roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -284,7 +284,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-weathered-wood-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-pro-max-def-weathered-wood-right-34.jpg",
             "alt": "Ranch home with weathered wood roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -293,7 +293,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
             "alt": "Victorian home with weathered wood roof",
             "tag": "Victorian",
             "sku_url": null,
@@ -302,7 +302,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
             "alt": "Cape Cod home with weathered wood roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -311,7 +311,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
             "alt": "Colonial home with weathered wood roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -320,7 +320,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
             "alt": "Craftsman home with weathered wood roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -329,7 +329,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-weathered-wood-roof\\certainteed-landmark-resawn-shake-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-resawn-shake-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-weathered-wood-roof/certainteed-landmark-resawn-shake-left-34.jpg",
             "alt": "Modern Farmhouse home with weathered wood roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -338,7 +338,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-weathered-wood-roof\\certainteed-landmark-weathered-wood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-weathered-wood-roof/certainteed-landmark-weathered-wood-left-34.jpg",
             "alt": "Ranch home with weathered wood roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -347,7 +347,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
             "alt": "Victorian home with weathered wood roof",
             "tag": "Victorian",
             "sku_url": null,
@@ -366,7 +366,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact cream-and-weathered-wood pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\cream-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-weathered-wood.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/cream-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/cream-house-with-weathered-wood-roof/atlas-pinnacle-pristine-weathered-wood.jpg",
     "badge": {
       "house_color_display": "Cream",
       "roof_color_display": "Weathered Wood",

@@ -29,7 +29,7 @@
     "tagline": "Earth-tone shingle that anchors traditional and craftsman elevations.",
     "hex": "#61432f",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-timber\\owens-corning-woodcrest-timber-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-1.jpg",
     "hero_image_alt": "Home with Owens Corning Woodcrest Timber roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-woodcrest-timber\\owens-corning-woodcrest-timber-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-swatch.jpg",
       "image_filename": "owens-corning-woodcrest-timber-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "WW_Timber_RGB_swatch_lg.jpg"
@@ -195,7 +195,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-timber\\owens-corning-woodcrest-timber-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-1.jpg",
         "image_filename": "owens-corning-woodcrest-timber-1.jpg",
         "alt": "Florida home with Woodcrest Timber roof",
         "tag": "Manufacturer install",
@@ -203,7 +203,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-timber\\owens-corning-woodcrest-timber-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-2.jpg",
         "image_filename": "owens-corning-woodcrest-timber-2.jpg",
         "alt": "Florida home with Woodcrest Timber roof",
         "tag": "AI-rendered example (front view)",
@@ -212,7 +212,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-timber\\owens-corning-woodcrest-timber-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-3.jpg",
         "image_filename": "owens-corning-woodcrest-timber-3.jpg",
         "alt": "Florida home with Woodcrest Timber roof",
         "tag": "AI-rendered example (right-34 view)",
@@ -221,7 +221,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-timber\\owens-corning-woodcrest-timber-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-4.jpg",
         "image_filename": "owens-corning-woodcrest-timber-4.jpg",
         "alt": "Florida home with Woodcrest Timber roof",
         "tag": "AI-rendered example (left-34 view)",
@@ -433,7 +433,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Woodcrest Timber in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Timber",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-timber\\owens-corning-woodcrest-timber-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-timber/owens-corning-woodcrest-timber-1.jpg",
     "badge_text": "Pre-loaded: Timber",
     "visualizer_payload": {
       "brand": "owens-corning",

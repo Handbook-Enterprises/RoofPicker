@@ -25,7 +25,7 @@
     "tagline": "The workhorse mid-tone that flatters almost any house color underneath it.",
     "hex": "#6a6c6c",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-charcoal-roof\\tamko-heritage-oxford-grey.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-charcoal-roof/tamko-heritage-oxford-grey.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-charcoal-roof/tamko-heritage-oxford-grey.jpg",
     "hero_image_alt": "Home with TAMKO Heritage Oxford Grey roof",
     "quick_facts": [
       {
@@ -90,7 +90,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\tamko-heritage-oxford-grey\\tamko-heritage-oxford-grey-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-swatch.jpg",
       "image_filename": "tamko-heritage-oxford-grey-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "heritage-series-oxford-grey-joplin-color-swatch.jpg"
@@ -186,7 +186,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-oxford-grey\\tamko-heritage-oxford-grey-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-1.jpg",
         "image_filename": "tamko-heritage-oxford-grey-1.jpg",
         "alt": "Florida home with Heritage Oxford Grey roof",
         "tag": "Manufacturer install",
@@ -194,7 +194,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-oxford-grey\\tamko-heritage-oxford-grey-2.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-2.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-2.png",
         "image_filename": "tamko-heritage-oxford-grey-2.png",
         "alt": "Florida home with Heritage Oxford Grey roof",
         "tag": "AI-rendered example (craftsman-with-charcoal-roof, front)",
@@ -205,7 +205,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-oxford-grey\\tamko-heritage-oxford-grey-3.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-3.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-3.png",
         "image_filename": "tamko-heritage-oxford-grey-3.png",
         "alt": "Florida home with Heritage Oxford Grey roof",
         "tag": "AI-rendered example (craftsman-with-charcoal-roof, right-34)",
@@ -216,7 +216,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-oxford-grey\\tamko-heritage-oxford-grey-4.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-oxford-grey/tamko-heritage-oxford-grey-4.png",
         "image_filename": "tamko-heritage-oxford-grey-4.png",
         "alt": "Florida home with Heritage Oxford Grey roof",
         "tag": "AI-rendered example (craftsman-with-charcoal-roof, left-34)",
@@ -412,7 +412,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for TAMKO Heritage Oxford Grey in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Oxford Grey",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-charcoal-roof\\tamko-heritage-oxford-grey.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-charcoal-roof/tamko-heritage-oxford-grey.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-charcoal-roof/tamko-heritage-oxford-grey.jpg",
     "badge_text": "Pre-loaded: Oxford Grey",
     "visualizer_payload": {
       "brand": "tamko",

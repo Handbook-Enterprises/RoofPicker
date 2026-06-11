@@ -56,7 +56,7 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\atlas-pinnacle-pristine-coastal-granite-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-front.jpg",
         "alt": "Modern Farmhouse home with Charcoal roof -- Atlas Pinnacle Pristine COASTAL GRANITE (front)",
         "tag": "Atlas · COASTAL GRANITE",
         "sku_url": "/shingles/atlas/pinnacle-pristine/coastal-granite/",
@@ -64,7 +64,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-belmont-colonial-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
         "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Belmont Colonial Slate (front)",
         "tag": "CertainTeed · Colonial Slate",
         "sku_url": "/shingles/certainteed/belmont/colonial-slate/",
@@ -72,7 +72,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\iko-cambridge-harvard-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-front.jpg",
         "alt": "Modern Farmhouse home with Charcoal roof -- IKO Cambridge Harvard Slate (front)",
         "tag": "IKO · Harvard Slate",
         "sku_url": "/shingles/iko/cambridge/harvard-slate/",
@@ -80,7 +80,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\malarkey-legacy-midnight-black-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-front.jpg",
         "alt": "Modern Farmhouse home with Charcoal roof -- Malarkey Legacy Midnight Black (front)",
         "tag": "Malarkey · Midnight Black",
         "sku_url": "/shingles/malarkey/legacy/midnight-black/",
@@ -88,7 +88,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\owens-corning-duration-estate-gray-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-front.jpg",
         "alt": "Modern Farmhouse home with Charcoal roof -- Owens Corning Duration Estate Gray (front)",
         "tag": "Owens Corning · Estate Gray",
         "sku_url": "/shingles/owens-corning/duration/estate-gray/",
@@ -96,7 +96,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\tamko-heritage-shadow-grey-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-front.jpg",
         "alt": "Modern Farmhouse home with Charcoal roof -- TAMKO Heritage Shadow Grey (front)",
         "tag": "TAMKO · Shadow Grey",
         "sku_url": "/shingles/tamko/heritage/shadow-grey/",
@@ -104,7 +104,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-grand-manor-colonial-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-front.jpg",
         "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Grand Manor Colonial Slate (front)",
         "tag": "CertainTeed · Colonial Slate",
         "sku_url": "/shingles/certainteed/grand-manor/colonial-slate/",
@@ -148,49 +148,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\atlas-pinnacle-pristine-coastal-granite-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-front.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Atlas Pinnacle Pristine COASTAL GRANITE (front)",
             "tag": "Pinnacle Pristine · COASTAL GRANITE",
             "sku_url": "/shingles/atlas/pinnacle-pristine/coastal-granite/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-belmont-colonial-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Belmont Colonial Slate (front)",
             "tag": "Belmont · Colonial Slate",
             "sku_url": "/shingles/certainteed/belmont/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\iko-cambridge-harvard-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-front.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- IKO Cambridge Harvard Slate (front)",
             "tag": "Cambridge · Harvard Slate",
             "sku_url": "/shingles/iko/cambridge/harvard-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\malarkey-legacy-midnight-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-front.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Malarkey Legacy Midnight Black (front)",
             "tag": "Legacy · Midnight Black",
             "sku_url": "/shingles/malarkey/legacy/midnight-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\owens-corning-duration-estate-gray-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-front.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Owens Corning Duration Estate Gray (front)",
             "tag": "Duration · Estate Gray",
             "sku_url": "/shingles/owens-corning/duration/estate-gray/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\tamko-heritage-shadow-grey-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-front.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- TAMKO Heritage Shadow Grey (front)",
             "tag": "Heritage · Shadow Grey",
             "sku_url": "/shingles/tamko/heritage/shadow-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-grand-manor-colonial-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-front.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Grand Manor Colonial Slate (front)",
             "tag": "Grand Manor · Colonial Slate",
             "sku_url": "/shingles/certainteed/grand-manor/colonial-slate/"
@@ -205,49 +205,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\atlas-pinnacle-pristine-coastal-granite-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-right-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Atlas Pinnacle Pristine COASTAL GRANITE (right-34)",
             "tag": "Pinnacle Pristine · COASTAL GRANITE",
             "sku_url": "/shingles/atlas/pinnacle-pristine/coastal-granite/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-belmont-colonial-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-right-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Belmont Colonial Slate (right-34)",
             "tag": "Belmont · Colonial Slate",
             "sku_url": "/shingles/certainteed/belmont/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\iko-cambridge-harvard-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-right-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- IKO Cambridge Harvard Slate (right-34)",
             "tag": "Cambridge · Harvard Slate",
             "sku_url": "/shingles/iko/cambridge/harvard-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\malarkey-legacy-midnight-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-right-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Malarkey Legacy Midnight Black (right-34)",
             "tag": "Legacy · Midnight Black",
             "sku_url": "/shingles/malarkey/legacy/midnight-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\owens-corning-duration-estate-gray-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-right-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Owens Corning Duration Estate Gray (right-34)",
             "tag": "Duration · Estate Gray",
             "sku_url": "/shingles/owens-corning/duration/estate-gray/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\tamko-heritage-shadow-grey-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-right-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- TAMKO Heritage Shadow Grey (right-34)",
             "tag": "Heritage · Shadow Grey",
             "sku_url": "/shingles/tamko/heritage/shadow-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-grand-manor-colonial-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-right-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Grand Manor Colonial Slate (right-34)",
             "tag": "Grand Manor · Colonial Slate",
             "sku_url": "/shingles/certainteed/grand-manor/colonial-slate/"
@@ -262,49 +262,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\atlas-pinnacle-pristine-coastal-granite-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-left-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Atlas Pinnacle Pristine COASTAL GRANITE (left-34)",
             "tag": "Pinnacle Pristine · COASTAL GRANITE",
             "sku_url": "/shingles/atlas/pinnacle-pristine/coastal-granite/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-belmont-colonial-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-belmont-colonial-slate-left-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Belmont Colonial Slate (left-34)",
             "tag": "Belmont · Colonial Slate",
             "sku_url": "/shingles/certainteed/belmont/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\iko-cambridge-harvard-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/iko-cambridge-harvard-slate-left-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- IKO Cambridge Harvard Slate (left-34)",
             "tag": "Cambridge · Harvard Slate",
             "sku_url": "/shingles/iko/cambridge/harvard-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\malarkey-legacy-midnight-black-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/malarkey-legacy-midnight-black-left-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Malarkey Legacy Midnight Black (left-34)",
             "tag": "Legacy · Midnight Black",
             "sku_url": "/shingles/malarkey/legacy/midnight-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\owens-corning-duration-estate-gray-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/owens-corning-duration-estate-gray-left-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- Owens Corning Duration Estate Gray (left-34)",
             "tag": "Duration · Estate Gray",
             "sku_url": "/shingles/owens-corning/duration/estate-gray/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\tamko-heritage-shadow-grey-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/tamko-heritage-shadow-grey-left-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- TAMKO Heritage Shadow Grey (left-34)",
             "tag": "Heritage · Shadow Grey",
             "sku_url": "/shingles/tamko/heritage/shadow-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\certainteed-grand-manor-colonial-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/certainteed-grand-manor-colonial-slate-left-34.jpg",
             "alt": "Modern Farmhouse home with Charcoal roof -- CertainTeed Grand Manor Colonial Slate (left-34)",
             "tag": "Grand Manor · Colonial Slate",
             "sku_url": "/shingles/certainteed/grand-manor/colonial-slate/"
@@ -321,7 +321,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact modern farmhouse-and-charcoal pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-charcoal-roof\\atlas-pinnacle-pristine-coastal-granite-front.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-charcoal-roof/atlas-pinnacle-pristine-coastal-granite-front.jpg",
     "badge": {
       "style_display": "Modern Farmhouse",
       "roof_color_display": "Charcoal",

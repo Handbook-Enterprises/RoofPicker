@@ -56,7 +56,7 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\atlas-pinnacle-pristine-hearthstone-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-front.jpg",
         "alt": "Ranch home with Charcoal roof -- Atlas Pinnacle Pristine HEARTHSTONE (front)",
         "tag": "Atlas · HEARTHSTONE",
         "sku_url": "/shingles/atlas/pinnacle-pristine/hearthstone/",
@@ -64,7 +64,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-belmont-stonegate-gray-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-front.jpg",
         "alt": "Ranch home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (front)",
         "tag": "CertainTeed · Stonegate Gray",
         "sku_url": "/shingles/certainteed/belmont/stonegate-gray/",
@@ -72,7 +72,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
         "alt": "Ranch home with Charcoal roof -- IKO Dynasty Cornerstone WWD (front)",
         "tag": "IKO · Cornerstone WWD",
         "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/",
@@ -80,7 +80,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\malarkey-legacy-storm-grey-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
         "alt": "Ranch home with Charcoal roof -- Malarkey Legacy Storm Grey (front)",
         "tag": "Malarkey · Storm Grey",
         "sku_url": "/shingles/malarkey/legacy/storm-grey/",
@@ -88,7 +88,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\owens-corning-duration-midnight-plum-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
         "alt": "Ranch home with Charcoal roof -- Owens Corning Duration Midnight Plum (front)",
         "tag": "Owens Corning · Midnight Plum",
         "sku_url": "/shingles/owens-corning/duration/midnight-plum/",
@@ -96,7 +96,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\tamko-heritage-virginia-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-front.jpg",
         "alt": "Ranch home with Charcoal roof -- TAMKO Heritage Virginia Slate (front)",
         "tag": "TAMKO · Virginia Slate",
         "sku_url": "/shingles/tamko/heritage/virginia-slate/",
@@ -104,7 +104,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-grand-manor-gatehouse-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-front.jpg",
         "alt": "Ranch home with Charcoal roof -- CertainTeed Grand Manor Gatehouse Slate (front)",
         "tag": "CertainTeed · Gatehouse Slate",
         "sku_url": "/shingles/certainteed/grand-manor/gatehouse-slate/",
@@ -148,49 +148,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\atlas-pinnacle-pristine-hearthstone-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-front.jpg",
             "alt": "Ranch home with Charcoal roof -- Atlas Pinnacle Pristine HEARTHSTONE (front)",
             "tag": "Pinnacle Pristine · HEARTHSTONE",
             "sku_url": "/shingles/atlas/pinnacle-pristine/hearthstone/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-belmont-stonegate-gray-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-front.jpg",
             "alt": "Ranch home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (front)",
             "tag": "Belmont · Stonegate Gray",
             "sku_url": "/shingles/certainteed/belmont/stonegate-gray/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
             "alt": "Ranch home with Charcoal roof -- IKO Dynasty Cornerstone WWD (front)",
             "tag": "Dynasty · Cornerstone WWD",
             "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\malarkey-legacy-storm-grey-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
             "alt": "Ranch home with Charcoal roof -- Malarkey Legacy Storm Grey (front)",
             "tag": "Legacy · Storm Grey",
             "sku_url": "/shingles/malarkey/legacy/storm-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\owens-corning-duration-midnight-plum-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
             "alt": "Ranch home with Charcoal roof -- Owens Corning Duration Midnight Plum (front)",
             "tag": "Duration · Midnight Plum",
             "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\tamko-heritage-virginia-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-front.jpg",
             "alt": "Ranch home with Charcoal roof -- TAMKO Heritage Virginia Slate (front)",
             "tag": "Heritage · Virginia Slate",
             "sku_url": "/shingles/tamko/heritage/virginia-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-grand-manor-gatehouse-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-front.jpg",
             "alt": "Ranch home with Charcoal roof -- CertainTeed Grand Manor Gatehouse Slate (front)",
             "tag": "Grand Manor · Gatehouse Slate",
             "sku_url": "/shingles/certainteed/grand-manor/gatehouse-slate/"
@@ -205,49 +205,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\atlas-pinnacle-pristine-hearthstone-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-right-34.jpg",
             "alt": "Ranch home with Charcoal roof -- Atlas Pinnacle Pristine HEARTHSTONE (right-34)",
             "tag": "Pinnacle Pristine · HEARTHSTONE",
             "sku_url": "/shingles/atlas/pinnacle-pristine/hearthstone/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-belmont-stonegate-gray-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-right-34.jpg",
             "alt": "Ranch home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (right-34)",
             "tag": "Belmont · Stonegate Gray",
             "sku_url": "/shingles/certainteed/belmont/stonegate-gray/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-right-34.jpg",
             "alt": "Ranch home with Charcoal roof -- IKO Dynasty Cornerstone WWD (right-34)",
             "tag": "Dynasty · Cornerstone WWD",
             "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\malarkey-legacy-storm-grey-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-right-34.jpg",
             "alt": "Ranch home with Charcoal roof -- Malarkey Legacy Storm Grey (right-34)",
             "tag": "Legacy · Storm Grey",
             "sku_url": "/shingles/malarkey/legacy/storm-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\owens-corning-duration-midnight-plum-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-right-34.jpg",
             "alt": "Ranch home with Charcoal roof -- Owens Corning Duration Midnight Plum (right-34)",
             "tag": "Duration · Midnight Plum",
             "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\tamko-heritage-virginia-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-right-34.jpg",
             "alt": "Ranch home with Charcoal roof -- TAMKO Heritage Virginia Slate (right-34)",
             "tag": "Heritage · Virginia Slate",
             "sku_url": "/shingles/tamko/heritage/virginia-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-grand-manor-gatehouse-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-right-34.jpg",
             "alt": "Ranch home with Charcoal roof -- CertainTeed Grand Manor Gatehouse Slate (right-34)",
             "tag": "Grand Manor · Gatehouse Slate",
             "sku_url": "/shingles/certainteed/grand-manor/gatehouse-slate/"
@@ -262,49 +262,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\atlas-pinnacle-pristine-hearthstone-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-left-34.jpg",
             "alt": "Ranch home with Charcoal roof -- Atlas Pinnacle Pristine HEARTHSTONE (left-34)",
             "tag": "Pinnacle Pristine · HEARTHSTONE",
             "sku_url": "/shingles/atlas/pinnacle-pristine/hearthstone/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-belmont-stonegate-gray-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-belmont-stonegate-gray-left-34.jpg",
             "alt": "Ranch home with Charcoal roof -- CertainTeed Belmont Stonegate Gray (left-34)",
             "tag": "Belmont · Stonegate Gray",
             "sku_url": "/shingles/certainteed/belmont/stonegate-gray/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/iko-dynasty-cornerstone-wwd-left-34.jpg",
             "alt": "Ranch home with Charcoal roof -- IKO Dynasty Cornerstone WWD (left-34)",
             "tag": "Dynasty · Cornerstone WWD",
             "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\malarkey-legacy-storm-grey-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/malarkey-legacy-storm-grey-left-34.jpg",
             "alt": "Ranch home with Charcoal roof -- Malarkey Legacy Storm Grey (left-34)",
             "tag": "Legacy · Storm Grey",
             "sku_url": "/shingles/malarkey/legacy/storm-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\owens-corning-duration-midnight-plum-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/owens-corning-duration-midnight-plum-left-34.jpg",
             "alt": "Ranch home with Charcoal roof -- Owens Corning Duration Midnight Plum (left-34)",
             "tag": "Duration · Midnight Plum",
             "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\tamko-heritage-virginia-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/tamko-heritage-virginia-slate-left-34.jpg",
             "alt": "Ranch home with Charcoal roof -- TAMKO Heritage Virginia Slate (left-34)",
             "tag": "Heritage · Virginia Slate",
             "sku_url": "/shingles/tamko/heritage/virginia-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\certainteed-grand-manor-gatehouse-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/certainteed-grand-manor-gatehouse-slate-left-34.jpg",
             "alt": "Ranch home with Charcoal roof -- CertainTeed Grand Manor Gatehouse Slate (left-34)",
             "tag": "Grand Manor · Gatehouse Slate",
             "sku_url": "/shingles/certainteed/grand-manor/gatehouse-slate/"
@@ -321,7 +321,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact ranch-and-charcoal pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-charcoal-roof\\atlas-pinnacle-pristine-hearthstone-front.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-charcoal-roof/atlas-pinnacle-pristine-hearthstone-front.jpg",
     "badge": {
       "style_display": "Ranch",
       "roof_color_display": "Charcoal",

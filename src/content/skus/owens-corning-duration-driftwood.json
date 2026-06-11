@@ -25,7 +25,7 @@
     "tagline": "The workhorse mid-tone that flatters almost any house color underneath it.",
     "hex": "#605852",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-weathered-wood-roof\\owens-corning-duration-driftwood.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
     "hero_image_alt": "Home with Owens Corning Duration Driftwood roof",
     "quick_facts": [
       {
@@ -90,7 +90,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-duration-driftwood/owens-corning-duration-driftwood-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-driftwood/owens-corning-duration-driftwood-swatch.jpg",
       "image_filename": "owens-corning-duration-driftwood-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "TDD_Driftwood_RGB_swatch_lg_06-2022.jpg"
@@ -191,7 +191,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-1.jpg",
         "image_filename": "owens-corning-duration-driftwood-1.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Manufacturer install",
@@ -199,7 +199,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-2.jpg",
         "image_filename": "owens-corning-duration-driftwood-2.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -207,7 +207,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-3.jpg",
         "image_filename": "owens-corning-duration-driftwood-3.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -215,7 +215,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-4.jpg",
         "image_filename": "owens-corning-duration-driftwood-4.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -223,7 +223,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-5.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-5.jpg",
         "image_filename": "owens-corning-duration-driftwood-5.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -231,7 +231,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-6.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-6.jpg",
         "image_filename": "owens-corning-duration-driftwood-6.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -239,7 +239,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-7.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-7.jpg",
         "image_filename": "owens-corning-duration-driftwood-7.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -247,7 +247,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-8.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-8.jpg",
         "image_filename": "owens-corning-duration-driftwood-8.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -255,7 +255,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-9.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-9.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-9.jpg",
         "image_filename": "owens-corning-duration-driftwood-9.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -263,7 +263,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-10.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-10.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-10.jpg",
         "image_filename": "owens-corning-duration-driftwood-10.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -271,7 +271,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-11.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-11.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-11.jpg",
         "image_filename": "owens-corning-duration-driftwood-11.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -279,7 +279,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-12.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-12.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-12.jpg",
         "image_filename": "owens-corning-duration-driftwood-12.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -287,7 +287,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-13.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-13.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-13.jpg",
         "image_filename": "owens-corning-duration-driftwood-13.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -295,7 +295,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-14.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-14.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-14.jpg",
         "image_filename": "owens-corning-duration-driftwood-14.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -303,7 +303,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-15.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-15.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-15.jpg",
         "image_filename": "owens-corning-duration-driftwood-15.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -311,7 +311,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-16.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-16.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-16.jpg",
         "image_filename": "owens-corning-duration-driftwood-16.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -319,7 +319,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-17.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-17.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-17.jpg",
         "image_filename": "owens-corning-duration-driftwood-17.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -327,7 +327,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-18.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-18.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-18.jpg",
         "image_filename": "owens-corning-duration-driftwood-18.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -335,7 +335,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-19.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-19.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-19.jpg",
         "image_filename": "owens-corning-duration-driftwood-19.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -343,7 +343,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-20.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-20.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-20.jpg",
         "image_filename": "owens-corning-duration-driftwood-20.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -351,7 +351,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-21.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-21.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-21.jpg",
         "image_filename": "owens-corning-duration-driftwood-21.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -359,7 +359,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-22.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-22.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-22.jpg",
         "image_filename": "owens-corning-duration-driftwood-22.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -367,7 +367,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-23.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-23.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-23.jpg",
         "image_filename": "owens-corning-duration-driftwood-23.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -375,7 +375,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-24.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-24.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-24.jpg",
         "image_filename": "owens-corning-duration-driftwood-24.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -383,7 +383,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-25.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-25.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-25.jpg",
         "image_filename": "owens-corning-duration-driftwood-25.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -391,7 +391,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-26.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-26.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-26.jpg",
         "image_filename": "owens-corning-duration-driftwood-26.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -399,7 +399,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-27.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-27.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-27.jpg",
         "image_filename": "owens-corning-duration-driftwood-27.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -407,7 +407,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-driftwood\\owens-corning-duration-driftwood-28.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-28.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-driftwood/owens-corning-duration-driftwood-28.jpg",
         "image_filename": "owens-corning-duration-driftwood-28.jpg",
         "alt": "Florida home with Duration Driftwood roof",
         "tag": "Contractor install",
@@ -600,7 +600,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Driftwood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Driftwood",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-weathered-wood-roof\\owens-corning-duration-driftwood.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-weathered-wood-roof/owens-corning-duration-driftwood.jpg",
     "badge_text": "Pre-loaded: Driftwood",
     "visualizer_payload": {
       "brand": "owens-corning",

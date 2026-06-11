@@ -28,7 +28,7 @@
     "tagline": "Warm sienna roof color that nods to Mediterranean tile in shingle form.",
     "hex": "#7d4f37",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-northgate-climateflex-max-def-burnt-sienna\\certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
     "hero_image_alt": "Home with CertainTeed Northgate Climateflex Max Def Burnt Sienna roof",
     "quick_facts": [
       {
@@ -93,7 +93,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-northgate-climateflex-max-def-burnt-sienna\\certainteed-northgate-climateflex-max-def-burnt-sienna-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-swatch.jpg",
       "image_filename": "certainteed-northgate-climateflex-max-def-burnt-sienna-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "northgate-cf-mdbusi-swatch.jpeg"
@@ -220,7 +220,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-northgate-climateflex-max-def-burnt-sienna\\certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
         "image_filename": "certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
         "alt": "Florida home with Northgate Climateflex Max Def Burnt Sienna roof",
         "tag": "Verified contractor install",
@@ -230,7 +230,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-northgate-climateflex-max-def-burnt-sienna\\certainteed-northgate-climateflex-max-def-burnt-sienna-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-2.jpg",
         "image_filename": "certainteed-northgate-climateflex-max-def-burnt-sienna-2.jpg",
         "alt": "Florida home with Northgate Climateflex Max Def Burnt Sienna roof",
         "tag": "AI-rendered example (aerial view)",
@@ -239,7 +239,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-northgate-climateflex-max-def-burnt-sienna\\certainteed-northgate-climateflex-max-def-burnt-sienna-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-3.jpg",
         "image_filename": "certainteed-northgate-climateflex-max-def-burnt-sienna-3.jpg",
         "alt": "Florida home with Northgate Climateflex Max Def Burnt Sienna roof",
         "tag": "AI-rendered example (street view)",
@@ -248,7 +248,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-northgate-climateflex-max-def-burnt-sienna\\certainteed-northgate-climateflex-max-def-burnt-sienna-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-4.jpg",
         "image_filename": "certainteed-northgate-climateflex-max-def-burnt-sienna-4.jpg",
         "alt": "Florida home with Northgate Climateflex Max Def Burnt Sienna roof",
         "tag": "AI-rendered example (dusk view)",
@@ -447,7 +447,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Northgate Climateflex Max Def Burnt Sienna in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Max Def Burnt Sienna",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-northgate-climateflex-max-def-burnt-sienna\\certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-northgate-climateflex-max-def-burnt-sienna/certainteed-northgate-climateflex-max-def-burnt-sienna-1.jpg",
     "badge_text": "Pre-loaded: Max Def Burnt Sienna",
     "visualizer_payload": {
       "brand": "certainteed",

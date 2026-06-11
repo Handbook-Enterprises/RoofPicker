@@ -29,7 +29,7 @@
     "tagline": "A confident, anchored gray that reads black in shade and slate in sun.",
     "hex": "#383839",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-night-sky\\owens-corning-woodcrest-night-sky-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-1.jpg",
     "hero_image_alt": "Home with Owens Corning Woodcrest Night Sky roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-woodcrest-night-sky\\owens-corning-woodcrest-night-sky-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-swatch.jpg",
       "image_filename": "owens-corning-woodcrest-night-sky-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "WW-night-sky-swatch-l-a.jpg"
@@ -195,7 +195,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-night-sky\\owens-corning-woodcrest-night-sky-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-1.jpg",
         "image_filename": "owens-corning-woodcrest-night-sky-1.jpg",
         "alt": "Florida home with Woodcrest Night Sky roof",
         "tag": "Manufacturer install",
@@ -203,7 +203,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-night-sky\\owens-corning-woodcrest-night-sky-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-2.jpg",
         "image_filename": "owens-corning-woodcrest-night-sky-2.jpg",
         "alt": "Florida home with Woodcrest Night Sky roof",
         "tag": "AI-rendered example (right-34 view)",
@@ -212,7 +212,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-night-sky\\owens-corning-woodcrest-night-sky-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-3.jpg",
         "image_filename": "owens-corning-woodcrest-night-sky-3.jpg",
         "alt": "Florida home with Woodcrest Night Sky roof",
         "tag": "AI-rendered example (left-34 view)",
@@ -221,7 +221,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-night-sky\\owens-corning-woodcrest-night-sky-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-4.jpg",
         "image_filename": "owens-corning-woodcrest-night-sky-4.jpg",
         "alt": "Florida home with Woodcrest Night Sky roof",
         "tag": "AI-rendered example (aerial view)",
@@ -433,7 +433,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Woodcrest Night Sky in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Night Sky",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-night-sky\\owens-corning-woodcrest-night-sky-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-night-sky/owens-corning-woodcrest-night-sky-1.jpg",
     "badge_text": "Pre-loaded: Night Sky",
     "visualizer_payload": {
       "brand": "owens-corning",

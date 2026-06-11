@@ -28,7 +28,7 @@
     "tagline": "A confident reddish-brown that nods to traditional tile without the cost.",
     "hex": "#774c40",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-sunset-brick\\gaf-timberline-hdz-sunset-brick-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-1.jpg",
     "hero_image_alt": "Home with GAF Timberline HDZ Sunset Brick roof",
     "quick_facts": [
       {
@@ -224,7 +224,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-sunset-brick\\gaf-timberline-hdz-sunset-brick-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-1.jpg",
         "image_filename": "gaf-timberline-hdz-sunset-brick-1.jpg",
         "alt": "Florida home with Timberline HDZ Sunset Brick roof",
         "tag": "Manufacturer install",
@@ -232,7 +232,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-sunset-brick\\gaf-timberline-hdz-sunset-brick-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-2.jpg",
         "image_filename": "gaf-timberline-hdz-sunset-brick-2.jpg",
         "alt": "Florida home with Timberline HDZ Sunset Brick roof",
         "tag": "AI-rendered example (morning view)",
@@ -241,7 +241,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-sunset-brick\\gaf-timberline-hdz-sunset-brick-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-3.jpg",
         "image_filename": "gaf-timberline-hdz-sunset-brick-3.jpg",
         "alt": "Florida home with Timberline HDZ Sunset Brick roof",
         "tag": "AI-rendered example (front view)",
@@ -250,7 +250,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-sunset-brick\\gaf-timberline-hdz-sunset-brick-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-4.jpg",
         "image_filename": "gaf-timberline-hdz-sunset-brick-4.jpg",
         "alt": "Florida home with Timberline HDZ Sunset Brick roof",
         "tag": "AI-rendered example (right-34 view)",
@@ -444,7 +444,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Timberline HDZ Sunset Brick in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Sunset Brick",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-sunset-brick\\gaf-timberline-hdz-sunset-brick-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-sunset-brick/gaf-timberline-hdz-sunset-brick-1.jpg",
     "badge_text": "Pre-loaded: Sunset Brick",
     "visualizer_payload": {
       "brand": "gaf",

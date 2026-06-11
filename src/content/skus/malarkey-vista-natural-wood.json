@@ -25,7 +25,7 @@
     "tagline": "A bold dimensional gray with enough depth to anchor a contemporary build.",
     "hex": "#6c6764",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
     "hero_image_alt": "Home with Malarkey Vista AR Natural Wood roof",
     "quick_facts": [
       {
@@ -90,7 +90,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/malarkey-vista-natural-wood/malarkey-vista-natural-wood-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/malarkey-vista-natural-wood/malarkey-vista-natural-wood-swatch.jpg",
       "image_filename": "malarkey-vista-natural-wood-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "architectural-natural-wood-OR-malarkey-swatch.jpg"
@@ -186,7 +186,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
         "image_filename": "malarkey-vista-natural-wood-1.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -194,7 +194,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-2.jpg",
         "image_filename": "malarkey-vista-natural-wood-2.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -202,7 +202,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-3.jpg",
         "image_filename": "malarkey-vista-natural-wood-3.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -210,7 +210,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-4.jpg",
         "image_filename": "malarkey-vista-natural-wood-4.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -218,7 +218,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-5.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-5.jpg",
         "image_filename": "malarkey-vista-natural-wood-5.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -226,7 +226,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-6.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-6.jpg",
         "image_filename": "malarkey-vista-natural-wood-6.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -234,7 +234,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-7.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-7.jpg",
         "image_filename": "malarkey-vista-natural-wood-7.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -242,7 +242,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-8.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-8.jpg",
         "image_filename": "malarkey-vista-natural-wood-8.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -250,7 +250,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-9.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-9.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-9.jpg",
         "image_filename": "malarkey-vista-natural-wood-9.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -258,7 +258,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-10.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-10.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-10.jpg",
         "image_filename": "malarkey-vista-natural-wood-10.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Manufacturer install",
@@ -266,7 +266,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-11.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-11.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-11.jpg",
         "image_filename": "malarkey-vista-natural-wood-11.jpg",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "Contractor install",
@@ -274,7 +274,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-12.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-12.png",
         "image_filename": "malarkey-vista-natural-wood-12.png",
         "alt": "Florida home with Vista AR Natural Wood roof",
         "tag": "AI-rendered example (ranch-with-weathered-wood-roof, front)",
@@ -501,7 +501,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Malarkey Vista AR Natural Wood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Natural Wood",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\malarkey-vista-natural-wood\\malarkey-vista-natural-wood-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/malarkey-vista-natural-wood/malarkey-vista-natural-wood-1.jpg",
     "badge_text": "Pre-loaded: Natural Wood",
     "visualizer_payload": {
       "brand": "malarkey",

@@ -29,7 +29,7 @@
     "tagline": "A bold dimensional gray with enough depth to anchor a contemporary build.",
     "hex": "#6a6967",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pewter\\certainteed-landmark-pewter-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-1.jpg",
     "hero_image_alt": "Home with CertainTeed Landmark Pewter roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-landmark-pewter\\certainteed-landmark-pewter-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-landmark-pewter/certainteed-landmark-pewter-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/certainteed-landmark-pewter/certainteed-landmark-pewter-swatch.jpg",
       "image_filename": "certainteed-landmark-pewter-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "landmark-pewt-swatch.jpeg"
@@ -221,7 +221,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pewter\\certainteed-landmark-pewter-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-1.jpg",
         "image_filename": "certainteed-landmark-pewter-1.jpg",
         "alt": "Florida home with Landmark Pewter roof",
         "tag": "Verified contractor install",
@@ -231,7 +231,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pewter\\certainteed-landmark-pewter-2.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-2.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-2.webp",
         "image_filename": "certainteed-landmark-pewter-2.webp",
         "alt": "Florida home with Landmark Pewter roof",
         "tag": "Verified contractor install",
@@ -241,7 +241,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pewter\\certainteed-landmark-pewter-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-3.jpg",
         "image_filename": "certainteed-landmark-pewter-3.jpg",
         "alt": "Florida home with Landmark Pewter roof",
         "tag": "AI-rendered example (street view)",
@@ -250,7 +250,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pewter\\certainteed-landmark-pewter-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-4.jpg",
         "image_filename": "certainteed-landmark-pewter-4.jpg",
         "alt": "Florida home with Landmark Pewter roof",
         "tag": "AI-rendered example (dusk view)",
@@ -431,7 +431,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Landmark Pewter in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Pewter",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pewter\\certainteed-landmark-pewter-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pewter/certainteed-landmark-pewter-1.jpg",
     "badge_text": "Pre-loaded: Pewter",
     "visualizer_payload": {
       "brand": "certainteed",

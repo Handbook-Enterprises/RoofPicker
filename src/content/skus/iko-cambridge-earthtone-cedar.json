@@ -29,7 +29,7 @@
     "tagline": "A warm, earthy roof that grounds the house against landscape.",
     "hex": "#8a755a",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-earthtone-cedar\\iko-cambridge-earthtone-cedar-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-1.jpg",
     "hero_image_alt": "Home with IKO Cambridge Earthtone Cedar roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\iko-cambridge-earthtone-cedar\\iko-cambridge-earthtone-cedar-swatch.webp",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-swatch.webp",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-swatch.webp",
       "image_filename": "iko-cambridge-earthtone-cedar-swatch.webp",
       "source": "manufacturer_swatch",
       "origin_filename": "RGB-ETC_IKO_CRC_CAMB_SWCH-upd-min.webp"
@@ -226,7 +226,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-earthtone-cedar\\iko-cambridge-earthtone-cedar-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-1.jpg",
         "image_filename": "iko-cambridge-earthtone-cedar-1.jpg",
         "alt": "Florida home with Cambridge Earthtone Cedar roof",
         "tag": "Verified contractor install",
@@ -236,7 +236,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-earthtone-cedar\\iko-cambridge-earthtone-cedar-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-2.jpg",
         "image_filename": "iko-cambridge-earthtone-cedar-2.jpg",
         "alt": "Florida home with Cambridge Earthtone Cedar roof",
         "tag": "Verified contractor install",
@@ -246,7 +246,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-earthtone-cedar\\iko-cambridge-earthtone-cedar-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-3.jpg",
         "image_filename": "iko-cambridge-earthtone-cedar-3.jpg",
         "alt": "Florida home with Cambridge Earthtone Cedar roof",
         "tag": "AI-rendered example (street view)",
@@ -255,7 +255,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-earthtone-cedar\\iko-cambridge-earthtone-cedar-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-4.jpg",
         "image_filename": "iko-cambridge-earthtone-cedar-4.jpg",
         "alt": "Florida home with Cambridge Earthtone Cedar roof",
         "tag": "AI-rendered example (dusk view)",
@@ -487,7 +487,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Cambridge Earthtone Cedar in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Earthtone Cedar",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-earthtone-cedar\\iko-cambridge-earthtone-cedar-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-earthtone-cedar/iko-cambridge-earthtone-cedar-1.jpg",
     "badge_text": "Pre-loaded: Earthtone Cedar",
     "visualizer_payload": {
       "brand": "iko",

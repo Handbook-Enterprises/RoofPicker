@@ -56,7 +56,7 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
         "alt": "Craftsman home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (front)",
         "tag": "Atlas · BLACK SHADOW",
         "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/",
@@ -64,7 +64,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-belmont-black-granite-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-front.jpg",
         "alt": "Craftsman home with Charcoal roof -- CertainTeed Belmont Black Granite (front)",
         "tag": "CertainTeed · Black Granite",
         "sku_url": "/shingles/certainteed/belmont/black-granite/",
@@ -72,7 +72,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\iko-cambridge-charcoal-grey-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-front.jpg",
         "alt": "Craftsman home with Charcoal roof -- IKO Cambridge Charcoal Grey (front)",
         "tag": "IKO · Charcoal Grey",
         "sku_url": "/shingles/iko/cambridge/charcoal-grey/",
@@ -80,7 +80,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\malarkey-legacy-black-oak-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-front.jpg",
         "alt": "Craftsman home with Charcoal roof -- Malarkey Legacy Black Oak (front)",
         "tag": "Malarkey · Black Oak",
         "sku_url": "/shingles/malarkey/legacy/black-oak/",
@@ -88,7 +88,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\owens-corning-duration-colonial-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-front.jpg",
         "alt": "Craftsman home with Charcoal roof -- Owens Corning Duration Colonial Slate (front)",
         "tag": "Owens Corning · Colonial Slate",
         "sku_url": "/shingles/owens-corning/duration/colonial-slate/",
@@ -96,7 +96,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\tamko-heritage-oxford-grey-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-front.jpg",
         "alt": "Craftsman home with Charcoal roof -- TAMKO Heritage Oxford Grey (front)",
         "tag": "TAMKO · Oxford Grey",
         "sku_url": "/shingles/tamko/heritage/oxford-grey/",
@@ -104,7 +104,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-grand-manor-black-pearl-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-front.jpg",
         "alt": "Craftsman home with Charcoal roof -- CertainTeed Grand Manor Black Pearl (front)",
         "tag": "CertainTeed · Black Pearl",
         "sku_url": "/shingles/certainteed/grand-manor/black-pearl/",
@@ -148,49 +148,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
             "alt": "Craftsman home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (front)",
             "tag": "Pinnacle Pristine · BLACK SHADOW",
             "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-belmont-black-granite-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-front.jpg",
             "alt": "Craftsman home with Charcoal roof -- CertainTeed Belmont Black Granite (front)",
             "tag": "Belmont · Black Granite",
             "sku_url": "/shingles/certainteed/belmont/black-granite/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\iko-cambridge-charcoal-grey-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-front.jpg",
             "alt": "Craftsman home with Charcoal roof -- IKO Cambridge Charcoal Grey (front)",
             "tag": "Cambridge · Charcoal Grey",
             "sku_url": "/shingles/iko/cambridge/charcoal-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\malarkey-legacy-black-oak-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-front.jpg",
             "alt": "Craftsman home with Charcoal roof -- Malarkey Legacy Black Oak (front)",
             "tag": "Legacy · Black Oak",
             "sku_url": "/shingles/malarkey/legacy/black-oak/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\owens-corning-duration-colonial-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-front.jpg",
             "alt": "Craftsman home with Charcoal roof -- Owens Corning Duration Colonial Slate (front)",
             "tag": "Duration · Colonial Slate",
             "sku_url": "/shingles/owens-corning/duration/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\tamko-heritage-oxford-grey-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-front.jpg",
             "alt": "Craftsman home with Charcoal roof -- TAMKO Heritage Oxford Grey (front)",
             "tag": "Heritage · Oxford Grey",
             "sku_url": "/shingles/tamko/heritage/oxford-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-grand-manor-black-pearl-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-front.jpg",
             "alt": "Craftsman home with Charcoal roof -- CertainTeed Grand Manor Black Pearl (front)",
             "tag": "Grand Manor · Black Pearl",
             "sku_url": "/shingles/certainteed/grand-manor/black-pearl/"
@@ -205,49 +205,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-right-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (right-34)",
             "tag": "Pinnacle Pristine · BLACK SHADOW",
             "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-belmont-black-granite-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-right-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- CertainTeed Belmont Black Granite (right-34)",
             "tag": "Belmont · Black Granite",
             "sku_url": "/shingles/certainteed/belmont/black-granite/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\iko-cambridge-charcoal-grey-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-right-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- IKO Cambridge Charcoal Grey (right-34)",
             "tag": "Cambridge · Charcoal Grey",
             "sku_url": "/shingles/iko/cambridge/charcoal-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\malarkey-legacy-black-oak-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-right-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- Malarkey Legacy Black Oak (right-34)",
             "tag": "Legacy · Black Oak",
             "sku_url": "/shingles/malarkey/legacy/black-oak/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\owens-corning-duration-colonial-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-right-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- Owens Corning Duration Colonial Slate (right-34)",
             "tag": "Duration · Colonial Slate",
             "sku_url": "/shingles/owens-corning/duration/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\tamko-heritage-oxford-grey-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-right-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- TAMKO Heritage Oxford Grey (right-34)",
             "tag": "Heritage · Oxford Grey",
             "sku_url": "/shingles/tamko/heritage/oxford-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-grand-manor-black-pearl-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-right-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- CertainTeed Grand Manor Black Pearl (right-34)",
             "tag": "Grand Manor · Black Pearl",
             "sku_url": "/shingles/certainteed/grand-manor/black-pearl/"
@@ -262,49 +262,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-left-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (left-34)",
             "tag": "Pinnacle Pristine · BLACK SHADOW",
             "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-belmont-black-granite-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-belmont-black-granite-left-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- CertainTeed Belmont Black Granite (left-34)",
             "tag": "Belmont · Black Granite",
             "sku_url": "/shingles/certainteed/belmont/black-granite/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\iko-cambridge-charcoal-grey-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/iko-cambridge-charcoal-grey-left-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- IKO Cambridge Charcoal Grey (left-34)",
             "tag": "Cambridge · Charcoal Grey",
             "sku_url": "/shingles/iko/cambridge/charcoal-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\malarkey-legacy-black-oak-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/malarkey-legacy-black-oak-left-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- Malarkey Legacy Black Oak (left-34)",
             "tag": "Legacy · Black Oak",
             "sku_url": "/shingles/malarkey/legacy/black-oak/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\owens-corning-duration-colonial-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/owens-corning-duration-colonial-slate-left-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- Owens Corning Duration Colonial Slate (left-34)",
             "tag": "Duration · Colonial Slate",
             "sku_url": "/shingles/owens-corning/duration/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\tamko-heritage-oxford-grey-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/tamko-heritage-oxford-grey-left-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- TAMKO Heritage Oxford Grey (left-34)",
             "tag": "Heritage · Oxford Grey",
             "sku_url": "/shingles/tamko/heritage/oxford-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\certainteed-grand-manor-black-pearl-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/certainteed-grand-manor-black-pearl-left-34.jpg",
             "alt": "Craftsman home with Charcoal roof -- CertainTeed Grand Manor Black Pearl (left-34)",
             "tag": "Grand Manor · Black Pearl",
             "sku_url": "/shingles/certainteed/grand-manor/black-pearl/"
@@ -321,7 +321,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact craftsman-and-charcoal pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
     "badge": {
       "style_display": "Craftsman",
       "roof_color_display": "Charcoal",

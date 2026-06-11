@@ -34,7 +34,7 @@
     "tagline": "The blackest shingle in the catalog. Reads as one solid plane in any light.",
     "hex": "#26262a",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-black-roof\\certainteed-landmark-pro-cinder-black.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
     "hero_image_alt": "Home with CertainTeed Landmark Pro Cinder Black roof",
     "quick_facts": [
       {
@@ -99,7 +99,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-swatch.jpg",
       "image_filename": "certainteed-landmark-pro-cinder-black-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "landmarkpro-cibl-swatch.jpeg"
@@ -226,7 +226,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-1.jpg",
         "image_filename": "certainteed-landmark-pro-cinder-black-1.jpg",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "Manufacturer install",
@@ -234,7 +234,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-10.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-10.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-10.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-10.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (tudor-with-black-roof, front)",
@@ -245,7 +245,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-11.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-11.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-11.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (victorian-with-black-roof, front)",
@@ -256,7 +256,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-12.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-12.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-12.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (cape-cod-with-black-roof, right-34)",
@@ -267,7 +267,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-2.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-2.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-2.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-2.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (cape-cod-with-black-roof, front)",
@@ -278,7 +278,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-3.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-3.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-3.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-3.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (colonial-with-black-roof, front)",
@@ -289,7 +289,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-4.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-4.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-4.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (contemporary-with-black-roof, front)",
@@ -300,7 +300,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-5.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-5.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-5.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-5.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (craftsman-with-black-roof, front)",
@@ -311,7 +311,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-6.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-6.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-6.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-6.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (mediterranean-with-black-roof, front)",
@@ -322,7 +322,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-7.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-7.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-7.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-7.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (modern-farmhouse-with-black-roof, front)",
@@ -333,7 +333,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-8.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-8.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-8.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-8.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (ranch-with-black-roof, front)",
@@ -344,7 +344,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-cinder-black\\certainteed-landmark-pro-cinder-black-9.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-9.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-cinder-black/certainteed-landmark-pro-cinder-black-9.png",
         "image_filename": "certainteed-landmark-pro-cinder-black-9.png",
         "alt": "Florida home with Landmark Pro Cinder Black roof",
         "tag": "AI-rendered example (traditional-with-black-roof, front)",
@@ -566,7 +566,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Landmark Pro Cinder Black in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Cinder Black",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-black-roof\\certainteed-landmark-pro-cinder-black.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
     "badge_text": "Pre-loaded: Cinder Black",
     "visualizer_payload": {
       "brand": "certainteed",

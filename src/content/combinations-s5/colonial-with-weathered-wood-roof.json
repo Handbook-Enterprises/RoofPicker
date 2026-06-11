@@ -56,7 +56,7 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
         "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
         "tag": "CertainTeed · Max Def Driftwood",
         "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/",
@@ -64,7 +64,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
         "alt": "Colonial home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
         "tag": "IKO · Driftshake",
         "sku_url": "/shingles/iko/dynasty/driftshake/",
@@ -72,7 +72,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
         "alt": "Colonial home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
         "tag": "Malarkey · Natural Wood",
         "sku_url": "/shingles/malarkey/legacy/natural-wood/",
@@ -80,7 +80,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
         "alt": "Colonial home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
         "tag": "Owens Corning · Driftwood",
         "sku_url": "/shingles/owens-corning/oakridge/driftwood/",
@@ -88,7 +88,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
         "alt": "Colonial home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
         "tag": "Malarkey · Weathered Wood",
         "sku_url": "/shingles/malarkey/vista/weathered-wood/",
@@ -132,35 +132,35 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
             "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (front)",
             "tag": "Landmark Pro · Max Def Driftwood",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-front.jpg",
             "alt": "Colonial home with Weathered Wood roof -- IKO Dynasty Driftshake (front)",
             "tag": "Dynasty · Driftshake",
             "sku_url": "/shingles/iko/dynasty/driftshake/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-front.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Malarkey Legacy Natural Wood (front)",
             "tag": "Legacy · Natural Wood",
             "sku_url": "/shingles/malarkey/legacy/natural-wood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-front.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (front)",
             "tag": "Oakridge · Driftwood",
             "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-vista-weathered-wood-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-front.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Malarkey Vista Weathered Wood (front)",
             "tag": "Vista · Weathered Wood",
             "sku_url": "/shingles/malarkey/vista/weathered-wood/"
@@ -175,35 +175,35 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-right-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (right-34)",
             "tag": "Landmark Pro · Max Def Driftwood",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-right-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- IKO Dynasty Driftshake (right-34)",
             "tag": "Dynasty · Driftshake",
             "sku_url": "/shingles/iko/dynasty/driftshake/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-right-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Malarkey Legacy Natural Wood (right-34)",
             "tag": "Legacy · Natural Wood",
             "sku_url": "/shingles/malarkey/legacy/natural-wood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-right-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (right-34)",
             "tag": "Oakridge · Driftwood",
             "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-vista-weathered-wood-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-right-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Malarkey Vista Weathered Wood (right-34)",
             "tag": "Vista · Weathered Wood",
             "sku_url": "/shingles/malarkey/vista/weathered-wood/"
@@ -218,35 +218,35 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-left-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- CertainTeed Landmark Pro Max Def Driftwood (left-34)",
             "tag": "Landmark Pro · Max Def Driftwood",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\iko-dynasty-driftshake-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/iko-dynasty-driftshake-left-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- IKO Dynasty Driftshake (left-34)",
             "tag": "Dynasty · Driftshake",
             "sku_url": "/shingles/iko/dynasty/driftshake/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-legacy-natural-wood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-legacy-natural-wood-left-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Malarkey Legacy Natural Wood (left-34)",
             "tag": "Legacy · Natural Wood",
             "sku_url": "/shingles/malarkey/legacy/natural-wood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\owens-corning-oakridge-driftwood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/owens-corning-oakridge-driftwood-left-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Owens Corning Oakridge Driftwood (left-34)",
             "tag": "Oakridge · Driftwood",
             "sku_url": "/shingles/owens-corning/oakridge/driftwood/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\malarkey-vista-weathered-wood-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/malarkey-vista-weathered-wood-left-34.jpg",
             "alt": "Colonial home with Weathered Wood roof -- Malarkey Vista Weathered Wood (left-34)",
             "tag": "Vista · Weathered Wood",
             "sku_url": "/shingles/malarkey/vista/weathered-wood/"
@@ -263,7 +263,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact colonial-and-weathered wood pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-weathered-wood-roof\\certainteed-landmark-pro-max-def-driftwood-front.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-weathered-wood-roof/certainteed-landmark-pro-max-def-driftwood-front.jpg",
     "badge": {
       "style_display": "Colonial",
       "roof_color_display": "Weathered Wood",

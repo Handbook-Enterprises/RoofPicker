@@ -29,7 +29,7 @@
     "tagline": "Earth-tone shingle that anchors traditional and craftsman elevations.",
     "hex": "#75594a",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-1.webp",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
     "hero_image_alt": "Home with CertainTeed Landmark Pro Max Def Prairie Wood roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-swatch.jpg",
       "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "landmarkpro-mdprwo-swatch.jpeg"
@@ -221,7 +221,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-1.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
         "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-1.webp",
         "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
         "tag": "Verified contractor install",
@@ -231,7 +231,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-2.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-2.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-2.webp",
         "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-2.webp",
         "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
         "tag": "Verified contractor install",
@@ -241,7 +241,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-3.jpg",
         "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-3.jpg",
         "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
         "tag": "AI-rendered example (right-34 view)",
@@ -250,7 +250,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-4.jpg",
         "image_filename": "certainteed-landmark-pro-max-def-prairie-wood-4.jpg",
         "alt": "Florida home with Landmark Pro Max Def Prairie Wood roof",
         "tag": "AI-rendered example (left-34 view)",
@@ -470,7 +470,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Landmark Pro Max Def Prairie Wood in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Max Def Prairie Wood",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-pro-max-def-prairie-wood\\certainteed-landmark-pro-max-def-prairie-wood-1.webp",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-pro-max-def-prairie-wood/certainteed-landmark-pro-max-def-prairie-wood-1.webp",
     "badge_text": "Pre-loaded: Max Def Prairie Wood",
     "visualizer_payload": {
       "brand": "certainteed",

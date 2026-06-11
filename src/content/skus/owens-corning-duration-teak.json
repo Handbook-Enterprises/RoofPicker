@@ -29,7 +29,7 @@
     "tagline": "Traditional brown that flatters brick, stone, and warm-wood elevations.",
     "hex": "#6b4f3f",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-teak\\owens-corning-duration-teak-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-teak/owens-corning-duration-teak-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-teak/owens-corning-duration-teak-1.jpg",
     "hero_image_alt": "Home with Owens Corning Duration Teak roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-teak\\owens-corning-duration-teak-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-duration-teak/owens-corning-duration-teak-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-teak/owens-corning-duration-teak-swatch.jpg",
       "image_filename": "owens-corning-duration-teak-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "TDD_Teak_RGB_swatch_lg.jpg"
@@ -195,7 +195,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-teak\\owens-corning-duration-teak-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-teak/owens-corning-duration-teak-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-teak/owens-corning-duration-teak-1.jpg",
         "image_filename": "owens-corning-duration-teak-1.jpg",
         "alt": "Florida home with Duration Teak roof",
         "tag": "Manufacturer install",
@@ -203,7 +203,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-teak\\owens-corning-duration-teak-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-teak/owens-corning-duration-teak-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-teak/owens-corning-duration-teak-2.jpg",
         "image_filename": "owens-corning-duration-teak-2.jpg",
         "alt": "Florida home with Duration Teak roof",
         "tag": "Contractor install",
@@ -211,7 +211,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-teak\\owens-corning-duration-teak-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-teak/owens-corning-duration-teak-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-teak/owens-corning-duration-teak-3.jpg",
         "image_filename": "owens-corning-duration-teak-3.jpg",
         "alt": "Florida home with Duration Teak roof",
         "tag": "AI-rendered example (street view)",
@@ -220,7 +220,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-teak\\owens-corning-duration-teak-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-teak/owens-corning-duration-teak-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-teak/owens-corning-duration-teak-4.jpg",
         "image_filename": "owens-corning-duration-teak-4.jpg",
         "alt": "Florida home with Duration Teak roof",
         "tag": "AI-rendered example (dusk view)",
@@ -414,7 +414,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Teak in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Teak",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-teak\\owens-corning-duration-teak-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-teak/owens-corning-duration-teak-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-teak/owens-corning-duration-teak-1.jpg",
     "badge_text": "Pre-loaded: Teak",
     "visualizer_payload": {
       "brand": "owens-corning",

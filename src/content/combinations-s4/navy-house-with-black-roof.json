@@ -59,49 +59,49 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\certainteed-landmark-charcoal-black.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/certainteed-landmark-charcoal-black.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/certainteed-landmark-charcoal-black.jpg",
         "alt": "Navy house with Black roof using Landmark Charcoal Black",
         "tag": "CertainTeed",
         "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\iko-cambridge-dual-black.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/iko-cambridge-dual-black.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/iko-cambridge-dual-black.jpg",
         "alt": "Navy house with Black roof using Cambridge Dual Black",
         "tag": "IKO",
         "sku_url": "/shingles/iko/cambridge/dual-black/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\owens-corning-duration-onyx-black.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/owens-corning-duration-onyx-black.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/owens-corning-duration-onyx-black.jpg",
         "alt": "Navy house with Black roof using Duration Onyx Black",
         "tag": "Owens Corning",
         "sku_url": "/shingles/owens-corning/duration/onyx-black/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\tamko-heritage-rustic-black.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/tamko-heritage-rustic-black.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/tamko-heritage-rustic-black.jpg",
         "alt": "Navy house with Black roof using Heritage Rustic Black",
         "tag": "TAMKO",
         "sku_url": "/shingles/tamko/heritage/rustic-black/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\certainteed-landmark-pro-cinder-black.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
         "alt": "Navy house with Black roof using Landmark Pro Cinder Black",
         "tag": "CertainTeed",
         "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\iko-dynasty-granite-black.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/iko-dynasty-granite-black.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/iko-dynasty-granite-black.jpg",
         "alt": "Navy house with Black roof using Dynasty Granite Black",
         "tag": "IKO",
         "sku_url": "/shingles/iko/dynasty/granite-black/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\iko-royal-estate-shadow-slate.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/iko-royal-estate-shadow-slate.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/iko-royal-estate-shadow-slate.jpg",
         "alt": "Navy house with Black roof using Royal Estate Shadow Slate",
         "tag": "IKO",
         "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
@@ -120,21 +120,21 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\iko-cambridge-dual-black.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/iko-cambridge-dual-black.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/iko-cambridge-dual-black.jpg",
             "alt": "Navy house with Black roof -- IKO Cambridge Dual Black",
             "tag": "Cambridge · Dual Black",
             "sku_url": "/shingles/iko/cambridge/dual-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\iko-dynasty-granite-black.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/iko-dynasty-granite-black.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/iko-dynasty-granite-black.jpg",
             "alt": "Navy house with Black roof -- IKO Dynasty Granite Black",
             "tag": "Dynasty · Granite Black",
             "sku_url": "/shingles/iko/dynasty/granite-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\iko-royal-estate-shadow-slate.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/iko-royal-estate-shadow-slate.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/iko-royal-estate-shadow-slate.jpg",
             "alt": "Navy house with Black roof -- IKO Royal Estate Shadow Slate",
             "tag": "Royal Estate · Shadow Slate",
             "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
@@ -149,14 +149,14 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\certainteed-landmark-charcoal-black.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/certainteed-landmark-charcoal-black.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/certainteed-landmark-charcoal-black.jpg",
             "alt": "Navy house with Black roof -- CertainTeed Landmark Charcoal Black",
             "tag": "Landmark · Charcoal Black",
             "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\certainteed-landmark-pro-cinder-black.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/certainteed-landmark-pro-cinder-black.jpg",
             "alt": "Navy house with Black roof -- CertainTeed Landmark Pro Cinder Black",
             "tag": "Landmark Pro · Cinder Black",
             "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
@@ -171,14 +171,14 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\owens-corning-duration-onyx-black.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/owens-corning-duration-onyx-black.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/owens-corning-duration-onyx-black.jpg",
             "alt": "Navy house with Black roof -- Owens Corning Duration Onyx Black",
             "tag": "Duration · Onyx Black",
             "sku_url": "/shingles/owens-corning/duration/onyx-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\tamko-heritage-rustic-black.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/tamko-heritage-rustic-black.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/tamko-heritage-rustic-black.jpg",
             "alt": "Navy house with Black roof -- TAMKO Heritage Rustic Black",
             "tag": "Heritage · Rustic Black",
             "sku_url": "/shingles/tamko/heritage/rustic-black/"
@@ -194,7 +194,7 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Cape Cod home with black roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -203,7 +203,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Colonial home with black roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -212,7 +212,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\contemporary-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/contemporary-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/contemporary-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Contemporary home with black roof",
             "tag": "Contemporary",
             "sku_url": null,
@@ -221,7 +221,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Craftsman home with black roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -230,7 +230,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\mediterranean-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/mediterranean-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/mediterranean-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Mediterranean home with black roof",
             "tag": "Mediterranean",
             "sku_url": null,
@@ -239,7 +239,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Modern Farmhouse home with black roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -248,7 +248,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Ranch home with black roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -257,7 +257,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\traditional-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/traditional-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/traditional-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Traditional home with black roof",
             "tag": "Traditional",
             "sku_url": null,
@@ -266,7 +266,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\tudor-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/tudor-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/tudor-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Tudor home with black roof",
             "tag": "Tudor",
             "sku_url": null,
@@ -275,7 +275,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Victorian home with black roof",
             "tag": "Victorian",
             "sku_url": null,
@@ -284,7 +284,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Cape Cod home with black roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -293,7 +293,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Colonial home with black roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -302,7 +302,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\contemporary-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/contemporary-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/contemporary-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Contemporary home with black roof",
             "tag": "Contemporary",
             "sku_url": null,
@@ -311,7 +311,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Craftsman home with black roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -320,7 +320,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\mediterranean-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/mediterranean-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/mediterranean-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Mediterranean home with black roof",
             "tag": "Mediterranean",
             "sku_url": null,
@@ -329,7 +329,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Modern Farmhouse home with black roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -338,7 +338,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Ranch home with black roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -347,7 +347,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\traditional-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/traditional-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/traditional-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Traditional home with black roof",
             "tag": "Traditional",
             "sku_url": null,
@@ -366,7 +366,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact navy-and-black pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\navy-house-with-black-roof\\certainteed-landmark-charcoal-black.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/navy-house-with-black-roof/certainteed-landmark-charcoal-black.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/navy-house-with-black-roof/certainteed-landmark-charcoal-black.jpg",
     "badge": {
       "house_color_display": "Navy",
       "roof_color_display": "Black",

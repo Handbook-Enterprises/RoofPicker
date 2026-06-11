@@ -29,7 +29,7 @@
     "tagline": "A timeless asphalt color that recedes visually and lets the siding lead.",
     "hex": "#6b665e",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-peppercorn\\owens-corning-duration-peppercorn-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-1.jpg",
     "hero_image_alt": "Home with Owens Corning Duration Peppercorn roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-peppercorn\\owens-corning-duration-peppercorn-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-swatch.jpg",
       "image_filename": "owens-corning-duration-peppercorn-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "TDD_Peppercorn_RGB_swatch_lg.jpg"
@@ -195,7 +195,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-peppercorn\\owens-corning-duration-peppercorn-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-1.jpg",
         "image_filename": "owens-corning-duration-peppercorn-1.jpg",
         "alt": "Florida home with Duration Peppercorn roof",
         "tag": "Manufacturer install",
@@ -203,7 +203,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-peppercorn\\owens-corning-duration-peppercorn-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-2.jpg",
         "image_filename": "owens-corning-duration-peppercorn-2.jpg",
         "alt": "Florida home with Duration Peppercorn roof",
         "tag": "AI-rendered example (street view)",
@@ -212,7 +212,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-peppercorn\\owens-corning-duration-peppercorn-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-3.jpg",
         "image_filename": "owens-corning-duration-peppercorn-3.jpg",
         "alt": "Florida home with Duration Peppercorn roof",
         "tag": "AI-rendered example (dusk view)",
@@ -221,7 +221,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-peppercorn\\owens-corning-duration-peppercorn-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-4.jpg",
         "image_filename": "owens-corning-duration-peppercorn-4.jpg",
         "alt": "Florida home with Duration Peppercorn roof",
         "tag": "AI-rendered example (morning view)",
@@ -415,7 +415,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Peppercorn in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Peppercorn",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-peppercorn\\owens-corning-duration-peppercorn-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-peppercorn/owens-corning-duration-peppercorn-1.jpg",
     "badge_text": "Pre-loaded: Peppercorn",
     "visualizer_payload": {
       "brand": "owens-corning",

@@ -25,7 +25,7 @@
     "tagline": "A warm, earthy roof that grounds the house against landscape.",
     "hex": "#7d6753",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake.jpg",
     "hero_image_alt": "Home with Atlas Pinnacle Pristine MAJESTIC SHAKE roof",
     "quick_facts": [
       {
@@ -180,7 +180,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-majestic-shake\\atlas-pinnacle-pristine-majestic-shake-1.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-1.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-1.png",
         "image_filename": "atlas-pinnacle-pristine-majestic-shake-1.png",
         "alt": "Florida home with Pinnacle Pristine MAJESTIC SHAKE roof",
         "tag": "Manufacturer install",
@@ -188,7 +188,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-majestic-shake\\atlas-pinnacle-pristine-majestic-shake-2.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-2.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-2.png",
         "image_filename": "atlas-pinnacle-pristine-majestic-shake-2.png",
         "alt": "Florida home with Pinnacle Pristine MAJESTIC SHAKE roof",
         "tag": "AI-rendered example (craftsman-with-weathered-wood-roof, front)",
@@ -199,7 +199,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-majestic-shake\\atlas-pinnacle-pristine-majestic-shake-3.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-3.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-3.png",
         "image_filename": "atlas-pinnacle-pristine-majestic-shake-3.png",
         "alt": "Florida home with Pinnacle Pristine MAJESTIC SHAKE roof",
         "tag": "AI-rendered example (craftsman-with-weathered-wood-roof, right-34)",
@@ -210,7 +210,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-majestic-shake\\atlas-pinnacle-pristine-majestic-shake-4.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-majestic-shake/atlas-pinnacle-pristine-majestic-shake-4.png",
         "image_filename": "atlas-pinnacle-pristine-majestic-shake-4.png",
         "alt": "Florida home with Pinnacle Pristine MAJESTIC SHAKE roof",
         "tag": "AI-rendered example (craftsman-with-weathered-wood-roof, left-34)",
@@ -424,7 +424,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Atlas Pinnacle Pristine MAJESTIC SHAKE in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with MAJESTIC SHAKE",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-weathered-wood-roof\\atlas-pinnacle-pristine-majestic-shake.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-weathered-wood-roof/atlas-pinnacle-pristine-majestic-shake.jpg",
     "badge_text": "Pre-loaded: MAJESTIC SHAKE",
     "visualizer_payload": {
       "brand": "atlas",

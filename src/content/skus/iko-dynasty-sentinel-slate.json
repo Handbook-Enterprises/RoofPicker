@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\iko-dynasty-sentinel-slate\\iko-dynasty-sentinel-slate-swatch.webp",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/iko-dynasty-sentinel-slate/iko-dynasty-sentinel-slate-swatch.webp",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/iko-dynasty-sentinel-slate/iko-dynasty-sentinel-slate-swatch.webp",
       "image_filename": "iko-dynasty-sentinel-slate-swatch.webp",
       "source": "manufacturer_swatch",
       "origin_filename": "RGB-SENT_SLTE_IKO_CRC_DYST_SWCH-upd-min.webp"

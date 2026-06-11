@@ -29,7 +29,7 @@
     "tagline": "A rich asphalt color that reads as one continuous plane in any light.",
     "hex": "#7a6f5c",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-taupe-slate\\iko-royal-estate-taupe-slate-1.webp",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-1.webp",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-1.webp",
     "hero_image_alt": "Home with IKO Royal Estate Taupe Slate roof",
     "quick_facts": [
       {
@@ -205,7 +205,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-taupe-slate\\iko-royal-estate-taupe-slate-1.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-1.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-1.webp",
         "image_filename": "iko-royal-estate-taupe-slate-1.webp",
         "alt": "Florida home with Royal Estate Taupe Slate roof",
         "tag": "Manufacturer install",
@@ -213,7 +213,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-taupe-slate\\iko-royal-estate-taupe-slate-2.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-2.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-2.webp",
         "image_filename": "iko-royal-estate-taupe-slate-2.webp",
         "alt": "Florida home with Royal Estate Taupe Slate roof",
         "tag": "Manufacturer install",
@@ -221,7 +221,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-taupe-slate\\iko-royal-estate-taupe-slate-3.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-3.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-3.webp",
         "image_filename": "iko-royal-estate-taupe-slate-3.webp",
         "alt": "Florida home with Royal Estate Taupe Slate roof",
         "tag": "Manufacturer install",
@@ -229,7 +229,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-taupe-slate\\iko-royal-estate-taupe-slate-4.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-4.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-4.webp",
         "image_filename": "iko-royal-estate-taupe-slate-4.webp",
         "alt": "Florida home with Royal Estate Taupe Slate roof",
         "tag": "Manufacturer install",
@@ -434,7 +434,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Royal Estate Taupe Slate in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Taupe Slate",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-royal-estate-taupe-slate\\iko-royal-estate-taupe-slate-1.webp",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-1.webp",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-royal-estate-taupe-slate/iko-royal-estate-taupe-slate-1.webp",
     "badge_text": "Pre-loaded: Taupe Slate",
     "visualizer_payload": {
       "brand": "iko",

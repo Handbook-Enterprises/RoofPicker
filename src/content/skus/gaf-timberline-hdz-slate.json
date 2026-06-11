@@ -29,7 +29,7 @@
     "tagline": "A confident, anchored gray that reads black in shade and slate in sun.",
     "hex": "#5c635c",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-slate\\gaf-timberline-hdz-slate-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-1.jpg",
     "hero_image_alt": "Home with GAF Timberline HDZ Slate roof",
     "quick_facts": [
       {
@@ -225,7 +225,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-slate\\gaf-timberline-hdz-slate-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-1.jpg",
         "image_filename": "gaf-timberline-hdz-slate-1.jpg",
         "alt": "Florida home with Timberline HDZ Slate roof",
         "tag": "Manufacturer install",
@@ -233,7 +233,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-slate\\gaf-timberline-hdz-slate-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-2.jpg",
         "image_filename": "gaf-timberline-hdz-slate-2.jpg",
         "alt": "Florida home with Timberline HDZ Slate roof",
         "tag": "Contractor install",
@@ -241,7 +241,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-slate\\gaf-timberline-hdz-slate-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-3.jpg",
         "image_filename": "gaf-timberline-hdz-slate-3.jpg",
         "alt": "Florida home with Timberline HDZ Slate roof",
         "tag": "Contractor install",
@@ -249,7 +249,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-slate\\gaf-timberline-hdz-slate-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-4.jpg",
         "image_filename": "gaf-timberline-hdz-slate-4.jpg",
         "alt": "Florida home with Timberline HDZ Slate roof",
         "tag": "AI-rendered example (dusk view)",
@@ -443,7 +443,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for GAF Timberline HDZ Slate in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Slate",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\gaf-timberline-hdz-slate\\gaf-timberline-hdz-slate-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/gaf-timberline-hdz-slate/gaf-timberline-hdz-slate-1.jpg",
     "badge_text": "Pre-loaded: Slate",
     "visualizer_payload": {
       "brand": "gaf",

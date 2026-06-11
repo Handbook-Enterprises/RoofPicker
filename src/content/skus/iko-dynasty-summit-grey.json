@@ -29,7 +29,7 @@
     "tagline": "A timeless asphalt color that recedes visually and lets the siding lead.",
     "hex": "#616362",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-summit-grey\\iko-dynasty-summit-grey-1.webp",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-1.webp",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-1.webp",
     "hero_image_alt": "Home with IKO Dynasty Summit Grey roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\iko-dynasty-summit-grey\\iko-dynasty-summit-grey-swatch.webp",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/iko-dynasty-summit-grey/iko-dynasty-summit-grey-swatch.webp",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/iko-dynasty-summit-grey/iko-dynasty-summit-grey-swatch.webp",
       "image_filename": "iko-dynasty-summit-grey-swatch.webp",
       "source": "manufacturer_swatch",
       "origin_filename": "RGB-SUMT_GREY_IKO_CRC_DYST_SWCH.webp"
@@ -226,7 +226,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-summit-grey\\iko-dynasty-summit-grey-1.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-1.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-1.webp",
         "image_filename": "iko-dynasty-summit-grey-1.webp",
         "alt": "Florida home with Dynasty Summit Grey roof",
         "tag": "Manufacturer install",
@@ -234,7 +234,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-summit-grey\\iko-dynasty-summit-grey-2.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-2.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-2.webp",
         "image_filename": "iko-dynasty-summit-grey-2.webp",
         "alt": "Florida home with Dynasty Summit Grey roof",
         "tag": "Manufacturer install",
@@ -242,7 +242,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-summit-grey\\iko-dynasty-summit-grey-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-3.jpg",
         "image_filename": "iko-dynasty-summit-grey-3.jpg",
         "alt": "Florida home with Dynasty Summit Grey roof",
         "tag": "AI-rendered example (right-34 view)",
@@ -251,7 +251,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-summit-grey\\iko-dynasty-summit-grey-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-4.jpg",
         "image_filename": "iko-dynasty-summit-grey-4.jpg",
         "alt": "Florida home with Dynasty Summit Grey roof",
         "tag": "AI-rendered example (left-34 view)",
@@ -450,7 +450,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Dynasty Summit Grey in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Summit Grey",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-summit-grey\\iko-dynasty-summit-grey-1.webp",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-1.webp",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-summit-grey/iko-dynasty-summit-grey-1.webp",
     "badge_text": "Pre-loaded: Summit Grey",
     "visualizer_payload": {
       "brand": "iko",

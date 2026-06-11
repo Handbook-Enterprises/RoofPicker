@@ -56,7 +56,7 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
         "alt": "Victorian home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (front)",
         "tag": "Atlas · BLACK SHADOW",
         "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/",
@@ -64,7 +64,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-belmont-colonial-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
         "alt": "Victorian home with Charcoal roof -- CertainTeed Belmont Colonial Slate (front)",
         "tag": "CertainTeed · Colonial Slate",
         "sku_url": "/shingles/certainteed/belmont/colonial-slate/",
@@ -72,7 +72,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
         "alt": "Victorian home with Charcoal roof -- IKO Dynasty Cornerstone WWD (front)",
         "tag": "IKO · Cornerstone WWD",
         "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/",
@@ -80,7 +80,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\malarkey-legacy-storm-grey-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
         "alt": "Victorian home with Charcoal roof -- Malarkey Legacy Storm Grey (front)",
         "tag": "Malarkey · Storm Grey",
         "sku_url": "/shingles/malarkey/legacy/storm-grey/",
@@ -88,7 +88,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\owens-corning-duration-midnight-plum-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
         "alt": "Victorian home with Charcoal roof -- Owens Corning Duration Midnight Plum (front)",
         "tag": "Owens Corning · Midnight Plum",
         "sku_url": "/shingles/owens-corning/duration/midnight-plum/",
@@ -96,7 +96,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-colonial-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-front.jpg",
         "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Colonial Slate (front)",
         "tag": "CertainTeed · Colonial Slate",
         "sku_url": "/shingles/certainteed/landmark/colonial-slate/",
@@ -104,7 +104,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-pro-max-def-colonial-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-front.jpg",
         "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Pro Max Def Colonial Slate (front)",
         "tag": "CertainTeed · Max Def Colonial Slate",
         "sku_url": "/shingles/certainteed/landmark-pro/max-def-colonial-slate/",
@@ -148,49 +148,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
             "alt": "Victorian home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (front)",
             "tag": "Pinnacle Pristine · BLACK SHADOW",
             "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-belmont-colonial-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-front.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Belmont Colonial Slate (front)",
             "tag": "Belmont · Colonial Slate",
             "sku_url": "/shingles/certainteed/belmont/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-front.jpg",
             "alt": "Victorian home with Charcoal roof -- IKO Dynasty Cornerstone WWD (front)",
             "tag": "Dynasty · Cornerstone WWD",
             "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\malarkey-legacy-storm-grey-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-front.jpg",
             "alt": "Victorian home with Charcoal roof -- Malarkey Legacy Storm Grey (front)",
             "tag": "Legacy · Storm Grey",
             "sku_url": "/shingles/malarkey/legacy/storm-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\owens-corning-duration-midnight-plum-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-front.jpg",
             "alt": "Victorian home with Charcoal roof -- Owens Corning Duration Midnight Plum (front)",
             "tag": "Duration · Midnight Plum",
             "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-colonial-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-front.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Colonial Slate (front)",
             "tag": "Landmark · Colonial Slate",
             "sku_url": "/shingles/certainteed/landmark/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-pro-max-def-colonial-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-front.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Pro Max Def Colonial Slate (front)",
             "tag": "Landmark Pro · Max Def Colonial Slate",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-colonial-slate/"
@@ -205,49 +205,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-right-34.jpg",
             "alt": "Victorian home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (right-34)",
             "tag": "Pinnacle Pristine · BLACK SHADOW",
             "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-belmont-colonial-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-right-34.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Belmont Colonial Slate (right-34)",
             "tag": "Belmont · Colonial Slate",
             "sku_url": "/shingles/certainteed/belmont/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-right-34.jpg",
             "alt": "Victorian home with Charcoal roof -- IKO Dynasty Cornerstone WWD (right-34)",
             "tag": "Dynasty · Cornerstone WWD",
             "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\malarkey-legacy-storm-grey-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-right-34.jpg",
             "alt": "Victorian home with Charcoal roof -- Malarkey Legacy Storm Grey (right-34)",
             "tag": "Legacy · Storm Grey",
             "sku_url": "/shingles/malarkey/legacy/storm-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\owens-corning-duration-midnight-plum-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-right-34.jpg",
             "alt": "Victorian home with Charcoal roof -- Owens Corning Duration Midnight Plum (right-34)",
             "tag": "Duration · Midnight Plum",
             "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-colonial-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-right-34.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Colonial Slate (right-34)",
             "tag": "Landmark · Colonial Slate",
             "sku_url": "/shingles/certainteed/landmark/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-pro-max-def-colonial-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-right-34.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Pro Max Def Colonial Slate (right-34)",
             "tag": "Landmark Pro · Max Def Colonial Slate",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-colonial-slate/"
@@ -262,49 +262,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-left-34.jpg",
             "alt": "Victorian home with Charcoal roof -- Atlas Pinnacle Pristine BLACK SHADOW (left-34)",
             "tag": "Pinnacle Pristine · BLACK SHADOW",
             "sku_url": "/shingles/atlas/pinnacle-pristine/black-shadow/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-belmont-colonial-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-belmont-colonial-slate-left-34.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Belmont Colonial Slate (left-34)",
             "tag": "Belmont · Colonial Slate",
             "sku_url": "/shingles/certainteed/belmont/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\iko-dynasty-cornerstone-wwd-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/iko-dynasty-cornerstone-wwd-left-34.jpg",
             "alt": "Victorian home with Charcoal roof -- IKO Dynasty Cornerstone WWD (left-34)",
             "tag": "Dynasty · Cornerstone WWD",
             "sku_url": "/shingles/iko/dynasty/cornerstone-wwd/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\malarkey-legacy-storm-grey-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/malarkey-legacy-storm-grey-left-34.jpg",
             "alt": "Victorian home with Charcoal roof -- Malarkey Legacy Storm Grey (left-34)",
             "tag": "Legacy · Storm Grey",
             "sku_url": "/shingles/malarkey/legacy/storm-grey/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\owens-corning-duration-midnight-plum-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/owens-corning-duration-midnight-plum-left-34.jpg",
             "alt": "Victorian home with Charcoal roof -- Owens Corning Duration Midnight Plum (left-34)",
             "tag": "Duration · Midnight Plum",
             "sku_url": "/shingles/owens-corning/duration/midnight-plum/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-colonial-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-colonial-slate-left-34.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Colonial Slate (left-34)",
             "tag": "Landmark · Colonial Slate",
             "sku_url": "/shingles/certainteed/landmark/colonial-slate/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\certainteed-landmark-pro-max-def-colonial-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/certainteed-landmark-pro-max-def-colonial-slate-left-34.jpg",
             "alt": "Victorian home with Charcoal roof -- CertainTeed Landmark Pro Max Def Colonial Slate (left-34)",
             "tag": "Landmark Pro · Max Def Colonial Slate",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-colonial-slate/"
@@ -321,7 +321,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact victorian-and-charcoal pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow-front.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow-front.jpg",
     "badge": {
       "style_display": "Victorian",
       "roof_color_display": "Charcoal",

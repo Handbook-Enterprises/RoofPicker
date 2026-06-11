@@ -56,7 +56,7 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
         "alt": "Ranch home with Brown roof -- Atlas Pinnacle Pristine BURNT HICKORY (front)",
         "tag": "Atlas · BURNT HICKORY",
         "sku_url": "/shingles/atlas/pinnacle-pristine/burnt-hickory/",
@@ -64,7 +64,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-painted-desert-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-front.jpg",
         "alt": "Ranch home with Brown roof -- CertainTeed Landmark Painted Desert (front)",
         "tag": "CertainTeed · Painted Desert",
         "sku_url": "/shingles/certainteed/landmark/painted-desert/",
@@ -72,7 +72,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-cambridge-dual-brown-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-front.jpg",
         "alt": "Ranch home with Brown roof -- IKO Cambridge Dual Brown (front)",
         "tag": "IKO · Dual Brown",
         "sku_url": "/shingles/iko/cambridge/dual-brown/",
@@ -80,7 +80,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\owens-corning-duration-sand-castle-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
         "alt": "Ranch home with Brown roof -- Owens Corning Duration Sand Castle (front)",
         "tag": "Owens Corning · Sand Castle",
         "sku_url": "/shingles/owens-corning/duration/sand-castle/",
@@ -88,7 +88,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-pro-max-def-heather-blend-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-front.jpg",
         "alt": "Ranch home with Brown roof -- CertainTeed Landmark Pro Max Def Heather Blend (front)",
         "tag": "CertainTeed · Max Def Heather Blend",
         "sku_url": "/shingles/certainteed/landmark-pro/max-def-heather-blend/",
@@ -96,7 +96,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-presidential-shake-aged-bark-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
         "alt": "Ranch home with Brown roof -- CertainTeed Presidential Shake Aged Bark (front)",
         "tag": "CertainTeed · Aged Bark",
         "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/",
@@ -104,7 +104,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-dynasty-shadow-brown-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
         "alt": "Ranch home with Brown roof -- IKO Dynasty Shadow Brown (front)",
         "tag": "IKO · Shadow Brown",
         "sku_url": "/shingles/iko/dynasty/shadow-brown/",
@@ -148,49 +148,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
             "alt": "Ranch home with Brown roof -- Atlas Pinnacle Pristine BURNT HICKORY (front)",
             "tag": "Pinnacle Pristine · BURNT HICKORY",
             "sku_url": "/shingles/atlas/pinnacle-pristine/burnt-hickory/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-painted-desert-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-front.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Landmark Painted Desert (front)",
             "tag": "Landmark · Painted Desert",
             "sku_url": "/shingles/certainteed/landmark/painted-desert/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-cambridge-dual-brown-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-front.jpg",
             "alt": "Ranch home with Brown roof -- IKO Cambridge Dual Brown (front)",
             "tag": "Cambridge · Dual Brown",
             "sku_url": "/shingles/iko/cambridge/dual-brown/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\owens-corning-duration-sand-castle-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-front.jpg",
             "alt": "Ranch home with Brown roof -- Owens Corning Duration Sand Castle (front)",
             "tag": "Duration · Sand Castle",
             "sku_url": "/shingles/owens-corning/duration/sand-castle/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-pro-max-def-heather-blend-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-front.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Landmark Pro Max Def Heather Blend (front)",
             "tag": "Landmark Pro · Max Def Heather Blend",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-heather-blend/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-presidential-shake-aged-bark-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-front.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Presidential Shake Aged Bark (front)",
             "tag": "Presidential Shake · Aged Bark",
             "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-dynasty-shadow-brown-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-front.jpg",
             "alt": "Ranch home with Brown roof -- IKO Dynasty Shadow Brown (front)",
             "tag": "Dynasty · Shadow Brown",
             "sku_url": "/shingles/iko/dynasty/shadow-brown/"
@@ -205,49 +205,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-right-34.jpg",
             "alt": "Ranch home with Brown roof -- Atlas Pinnacle Pristine BURNT HICKORY (right-34)",
             "tag": "Pinnacle Pristine · BURNT HICKORY",
             "sku_url": "/shingles/atlas/pinnacle-pristine/burnt-hickory/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-painted-desert-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-right-34.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Landmark Painted Desert (right-34)",
             "tag": "Landmark · Painted Desert",
             "sku_url": "/shingles/certainteed/landmark/painted-desert/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-cambridge-dual-brown-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-right-34.jpg",
             "alt": "Ranch home with Brown roof -- IKO Cambridge Dual Brown (right-34)",
             "tag": "Cambridge · Dual Brown",
             "sku_url": "/shingles/iko/cambridge/dual-brown/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\owens-corning-duration-sand-castle-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-right-34.jpg",
             "alt": "Ranch home with Brown roof -- Owens Corning Duration Sand Castle (right-34)",
             "tag": "Duration · Sand Castle",
             "sku_url": "/shingles/owens-corning/duration/sand-castle/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-pro-max-def-heather-blend-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-right-34.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Landmark Pro Max Def Heather Blend (right-34)",
             "tag": "Landmark Pro · Max Def Heather Blend",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-heather-blend/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-presidential-shake-aged-bark-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-right-34.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Presidential Shake Aged Bark (right-34)",
             "tag": "Presidential Shake · Aged Bark",
             "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-dynasty-shadow-brown-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-right-34.jpg",
             "alt": "Ranch home with Brown roof -- IKO Dynasty Shadow Brown (right-34)",
             "tag": "Dynasty · Shadow Brown",
             "sku_url": "/shingles/iko/dynasty/shadow-brown/"
@@ -262,49 +262,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-left-34.jpg",
             "alt": "Ranch home with Brown roof -- Atlas Pinnacle Pristine BURNT HICKORY (left-34)",
             "tag": "Pinnacle Pristine · BURNT HICKORY",
             "sku_url": "/shingles/atlas/pinnacle-pristine/burnt-hickory/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-painted-desert-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-left-34.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Landmark Painted Desert (left-34)",
             "tag": "Landmark · Painted Desert",
             "sku_url": "/shingles/certainteed/landmark/painted-desert/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-cambridge-dual-brown-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-cambridge-dual-brown-left-34.jpg",
             "alt": "Ranch home with Brown roof -- IKO Cambridge Dual Brown (left-34)",
             "tag": "Cambridge · Dual Brown",
             "sku_url": "/shingles/iko/cambridge/dual-brown/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\owens-corning-duration-sand-castle-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/owens-corning-duration-sand-castle-left-34.jpg",
             "alt": "Ranch home with Brown roof -- Owens Corning Duration Sand Castle (left-34)",
             "tag": "Duration · Sand Castle",
             "sku_url": "/shingles/owens-corning/duration/sand-castle/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-pro-max-def-heather-blend-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-left-34.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Landmark Pro Max Def Heather Blend (left-34)",
             "tag": "Landmark Pro · Max Def Heather Blend",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-heather-blend/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-presidential-shake-aged-bark-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-presidential-shake-aged-bark-left-34.jpg",
             "alt": "Ranch home with Brown roof -- CertainTeed Presidential Shake Aged Bark (left-34)",
             "tag": "Presidential Shake · Aged Bark",
             "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\iko-dynasty-shadow-brown-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/iko-dynasty-shadow-brown-left-34.jpg",
             "alt": "Ranch home with Brown roof -- IKO Dynasty Shadow Brown (left-34)",
             "tag": "Dynasty · Shadow Brown",
             "sku_url": "/shingles/iko/dynasty/shadow-brown/"
@@ -321,7 +321,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact ranch-and-brown pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory-front.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
     "badge": {
       "style_display": "Ranch",
       "roof_color_display": "Brown",

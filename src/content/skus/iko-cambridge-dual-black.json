@@ -34,7 +34,7 @@
     "tagline": "A bold dimensional gray with enough depth to anchor a contemporary build.",
     "hex": "#333937",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-black-roof\\iko-cambridge-dual-black.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-black-roof/iko-cambridge-dual-black.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-black-roof/iko-cambridge-dual-black.jpg",
     "hero_image_alt": "Home with IKO Cambridge Dual Black roof",
     "quick_facts": [
       {
@@ -99,7 +99,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\iko-cambridge-dual-black\\iko-cambridge-dual-black-swatch.webp",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/iko-cambridge-dual-black/iko-cambridge-dual-black-swatch.webp",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/iko-cambridge-dual-black/iko-cambridge-dual-black-swatch.webp",
       "image_filename": "iko-cambridge-dual-black-swatch.webp",
       "source": "manufacturer_swatch",
       "origin_filename": "2048_IKO_CRC_CAMB_SWCH_DBLK.webp"
@@ -231,7 +231,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-1.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-1.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-1.webp",
         "image_filename": "iko-cambridge-dual-black-1.webp",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "Manufacturer install",
@@ -239,7 +239,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-10.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-10.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-10.png",
         "image_filename": "iko-cambridge-dual-black-10.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (tudor-with-black-roof, front)",
@@ -250,7 +250,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-11.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-11.png",
         "image_filename": "iko-cambridge-dual-black-11.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (victorian-with-black-roof, front)",
@@ -261,7 +261,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-12.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-12.png",
         "image_filename": "iko-cambridge-dual-black-12.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (cape-cod-with-black-roof, right-34)",
@@ -272,7 +272,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-2.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-2.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-2.png",
         "image_filename": "iko-cambridge-dual-black-2.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (cape-cod-with-black-roof, front)",
@@ -283,7 +283,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-3.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-3.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-3.png",
         "image_filename": "iko-cambridge-dual-black-3.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (colonial-with-black-roof, front)",
@@ -294,7 +294,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-4.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-4.png",
         "image_filename": "iko-cambridge-dual-black-4.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (contemporary-with-black-roof, front)",
@@ -305,7 +305,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-5.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-5.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-5.png",
         "image_filename": "iko-cambridge-dual-black-5.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (craftsman-with-black-roof, front)",
@@ -316,7 +316,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-6.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-6.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-6.png",
         "image_filename": "iko-cambridge-dual-black-6.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (mediterranean-with-black-roof, front)",
@@ -327,7 +327,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-7.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-7.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-7.png",
         "image_filename": "iko-cambridge-dual-black-7.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (modern-farmhouse-with-black-roof, front)",
@@ -338,7 +338,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-8.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-8.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-8.png",
         "image_filename": "iko-cambridge-dual-black-8.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (ranch-with-black-roof, front)",
@@ -349,7 +349,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-cambridge-dual-black\\iko-cambridge-dual-black-9.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-9.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-cambridge-dual-black/iko-cambridge-dual-black-9.png",
         "image_filename": "iko-cambridge-dual-black-9.png",
         "alt": "Florida home with Cambridge Dual Black roof",
         "tag": "AI-rendered example (traditional-with-black-roof, front)",
@@ -583,7 +583,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Cambridge Dual Black in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Dual Black",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-black-roof\\iko-cambridge-dual-black.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-black-roof/iko-cambridge-dual-black.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-black-roof/iko-cambridge-dual-black.jpg",
     "badge_text": "Pre-loaded: Dual Black",
     "visualizer_payload": {
       "brand": "iko",

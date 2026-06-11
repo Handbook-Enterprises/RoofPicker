@@ -29,7 +29,7 @@
     "tagline": "The workhorse mid-tone that flatters almost any house color underneath it.",
     "hex": "#7a7670",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-biscayne\\iko-dynasty-biscayne-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-1.jpg",
     "hero_image_alt": "Home with IKO Dynasty Biscayne roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\iko-dynasty-biscayne\\iko-dynasty-biscayne-swatch.webp",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/iko-dynasty-biscayne/iko-dynasty-biscayne-swatch.webp",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/iko-dynasty-biscayne/iko-dynasty-biscayne-swatch.webp",
       "image_filename": "iko-dynasty-biscayne-swatch.webp",
       "source": "manufacturer_swatch",
       "origin_filename": "RGB-BCYN_IKO_CRC_DYST_SWCH-upd-min.webp"
@@ -226,7 +226,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-biscayne\\iko-dynasty-biscayne-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-1.jpg",
         "image_filename": "iko-dynasty-biscayne-1.jpg",
         "alt": "Florida home with Dynasty Biscayne roof",
         "tag": "Verified contractor install",
@@ -236,7 +236,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-biscayne\\iko-dynasty-biscayne-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-2.jpg",
         "image_filename": "iko-dynasty-biscayne-2.jpg",
         "alt": "Florida home with Dynasty Biscayne roof",
         "tag": "Verified contractor install",
@@ -246,7 +246,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-biscayne\\iko-dynasty-biscayne-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-3.jpg",
         "image_filename": "iko-dynasty-biscayne-3.jpg",
         "alt": "Florida home with Dynasty Biscayne roof",
         "tag": "AI-rendered example (left-34 view)",
@@ -255,7 +255,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-biscayne\\iko-dynasty-biscayne-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-4.jpg",
         "image_filename": "iko-dynasty-biscayne-4.jpg",
         "alt": "Florida home with Dynasty Biscayne roof",
         "tag": "AI-rendered example (aerial view)",
@@ -454,7 +454,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for IKO Dynasty Biscayne in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Biscayne",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\iko-dynasty-biscayne\\iko-dynasty-biscayne-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/iko-dynasty-biscayne/iko-dynasty-biscayne-1.jpg",
     "badge_text": "Pre-loaded: Biscayne",
     "visualizer_payload": {
       "brand": "iko",

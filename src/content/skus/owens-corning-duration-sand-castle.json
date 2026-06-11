@@ -28,7 +28,7 @@
     "tagline": "Earth-tone shingle that anchors traditional and craftsman elevations.",
     "hex": "#8f7d64",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-1.jpg",
     "hero_image_alt": "Home with Owens Corning Duration Sand Castle roof",
     "quick_facts": [
       {
@@ -93,7 +93,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-swatch.jpg",
       "image_filename": "owens-corning-duration-sand-castle-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "TDD_SandCastle_RGB_swatch_lg.jpg"
@@ -194,7 +194,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-1.jpg",
         "image_filename": "owens-corning-duration-sand-castle-1.jpg",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "Manufacturer install",
@@ -202,7 +202,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-10.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-10.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-10.png",
         "image_filename": "owens-corning-duration-sand-castle-10.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (cape-cod-with-brown-roof, left-34)",
@@ -213,7 +213,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-11.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-11.png",
         "image_filename": "owens-corning-duration-sand-castle-11.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (colonial-with-brown-roof, left-34)",
@@ -224,7 +224,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-12.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-12.png",
         "image_filename": "owens-corning-duration-sand-castle-12.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (ranch-with-brown-roof, left-34)",
@@ -235,7 +235,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-2.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-2.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-2.png",
         "image_filename": "owens-corning-duration-sand-castle-2.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (cape-cod-with-brown-roof, front)",
@@ -246,7 +246,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-3.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-3.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-3.png",
         "image_filename": "owens-corning-duration-sand-castle-3.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (colonial-with-brown-roof, front)",
@@ -257,7 +257,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-4.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-4.png",
         "image_filename": "owens-corning-duration-sand-castle-4.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (ranch-with-brown-roof, front)",
@@ -268,7 +268,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-5.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-5.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-5.png",
         "image_filename": "owens-corning-duration-sand-castle-5.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (victorian-with-brown-roof, front)",
@@ -279,7 +279,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-6.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-6.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-6.png",
         "image_filename": "owens-corning-duration-sand-castle-6.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (cape-cod-with-brown-roof, right-34)",
@@ -290,7 +290,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-7.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-7.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-7.png",
         "image_filename": "owens-corning-duration-sand-castle-7.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (colonial-with-brown-roof, right-34)",
@@ -301,7 +301,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-8.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-8.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-8.png",
         "image_filename": "owens-corning-duration-sand-castle-8.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (ranch-with-brown-roof, right-34)",
@@ -312,7 +312,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-9.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-9.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-9.png",
         "image_filename": "owens-corning-duration-sand-castle-9.png",
         "alt": "Florida home with Duration Sand Castle roof",
         "tag": "AI-rendered example (victorian-with-brown-roof, right-34)",
@@ -508,7 +508,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Sand Castle in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Sand Castle",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-sand-castle\\owens-corning-duration-sand-castle-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-sand-castle/owens-corning-duration-sand-castle-1.jpg",
     "badge_text": "Pre-loaded: Sand Castle",
     "visualizer_payload": {
       "brand": "owens-corning",

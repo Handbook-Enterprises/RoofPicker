@@ -34,7 +34,7 @@
     "tagline": "The workhorse mid-tone that flatters almost any house color underneath it.",
     "hex": "#2e3236",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-black-roof\\tamko-heritage-rustic-black.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-black-roof/tamko-heritage-rustic-black.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-black-roof/tamko-heritage-rustic-black.jpg",
     "hero_image_alt": "Home with TAMKO Heritage Rustic Black roof",
     "quick_facts": [
       {
@@ -99,7 +99,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/tamko-heritage-rustic-black/tamko-heritage-rustic-black-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/tamko-heritage-rustic-black/tamko-heritage-rustic-black-swatch.jpg",
       "image_filename": "tamko-heritage-rustic-black-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "heritage-series-rustic-black-phillipsburg-color-swatch.jpg"
@@ -195,7 +195,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-1.jpg",
         "image_filename": "tamko-heritage-rustic-black-1.jpg",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "Manufacturer install",
@@ -203,7 +203,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-10.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-10.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-10.png",
         "image_filename": "tamko-heritage-rustic-black-10.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (tudor-with-black-roof, front)",
@@ -214,7 +214,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-11.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-11.png",
         "image_filename": "tamko-heritage-rustic-black-11.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (victorian-with-black-roof, front)",
@@ -225,7 +225,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-12.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-12.png",
         "image_filename": "tamko-heritage-rustic-black-12.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (cape-cod-with-black-roof, right-34)",
@@ -236,7 +236,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-2.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-2.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-2.png",
         "image_filename": "tamko-heritage-rustic-black-2.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (cape-cod-with-black-roof, front)",
@@ -247,7 +247,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-3.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-3.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-3.png",
         "image_filename": "tamko-heritage-rustic-black-3.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (colonial-with-black-roof, front)",
@@ -258,7 +258,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-4.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-4.png",
         "image_filename": "tamko-heritage-rustic-black-4.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (contemporary-with-black-roof, front)",
@@ -269,7 +269,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-5.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-5.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-5.png",
         "image_filename": "tamko-heritage-rustic-black-5.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (craftsman-with-black-roof, front)",
@@ -280,7 +280,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-6.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-6.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-6.png",
         "image_filename": "tamko-heritage-rustic-black-6.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (mediterranean-with-black-roof, front)",
@@ -291,7 +291,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-7.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-7.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-7.png",
         "image_filename": "tamko-heritage-rustic-black-7.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (modern-farmhouse-with-black-roof, front)",
@@ -302,7 +302,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-8.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-8.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-8.png",
         "image_filename": "tamko-heritage-rustic-black-8.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (ranch-with-black-roof, front)",
@@ -313,7 +313,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\tamko-heritage-rustic-black\\tamko-heritage-rustic-black-9.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-9.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/tamko-heritage-rustic-black/tamko-heritage-rustic-black-9.png",
         "image_filename": "tamko-heritage-rustic-black-9.png",
         "alt": "Florida home with Heritage Rustic Black roof",
         "tag": "AI-rendered example (traditional-with-black-roof, front)",
@@ -509,7 +509,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for TAMKO Heritage Rustic Black in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Rustic Black",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-black-roof\\tamko-heritage-rustic-black.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-black-roof/tamko-heritage-rustic-black.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-black-roof/tamko-heritage-rustic-black.jpg",
     "badge_text": "Pre-loaded: Rustic Black",
     "visualizer_payload": {
       "brand": "tamko",

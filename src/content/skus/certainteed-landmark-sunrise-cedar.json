@@ -29,7 +29,7 @@
     "tagline": "Earth-tone shingle that anchors traditional and craftsman elevations.",
     "hex": "#988774",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-sunrise-cedar\\certainteed-landmark-sunrise-cedar-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-1.jpg",
     "hero_image_alt": "Home with CertainTeed Landmark Sunrise Cedar roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\certainteed-landmark-sunrise-cedar\\certainteed-landmark-sunrise-cedar-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-swatch.jpg",
       "image_filename": "certainteed-landmark-sunrise-cedar-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "landmark-suce-swatch.jpeg"
@@ -221,7 +221,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-sunrise-cedar\\certainteed-landmark-sunrise-cedar-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-1.jpg",
         "image_filename": "certainteed-landmark-sunrise-cedar-1.jpg",
         "alt": "Florida home with Landmark Sunrise Cedar roof",
         "tag": "Manufacturer install",
@@ -229,7 +229,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-sunrise-cedar\\certainteed-landmark-sunrise-cedar-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-2.jpg",
         "image_filename": "certainteed-landmark-sunrise-cedar-2.jpg",
         "alt": "Florida home with Landmark Sunrise Cedar roof",
         "tag": "Manufacturer install",
@@ -237,7 +237,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-sunrise-cedar\\certainteed-landmark-sunrise-cedar-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-3.jpg",
         "image_filename": "certainteed-landmark-sunrise-cedar-3.jpg",
         "alt": "Florida home with Landmark Sunrise Cedar roof",
         "tag": "AI-rendered example (aerial view)",
@@ -246,7 +246,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-sunrise-cedar\\certainteed-landmark-sunrise-cedar-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-4.jpg",
         "image_filename": "certainteed-landmark-sunrise-cedar-4.jpg",
         "alt": "Florida home with Landmark Sunrise Cedar roof",
         "tag": "AI-rendered example (street view)",
@@ -427,7 +427,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for CertainTeed Landmark Sunrise Cedar in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Sunrise Cedar",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\certainteed-landmark-sunrise-cedar\\certainteed-landmark-sunrise-cedar-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/certainteed-landmark-sunrise-cedar/certainteed-landmark-sunrise-cedar-1.jpg",
     "badge_text": "Pre-loaded: Sunrise Cedar",
     "visualizer_payload": {
       "brand": "certainteed",

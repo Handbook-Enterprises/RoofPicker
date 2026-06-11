@@ -59,49 +59,49 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory.jpg",
         "alt": "Light Gray house with Brown roof using Pinnacle Pristine BURNT HICKORY",
         "tag": "Atlas",
         "sku_url": "/shingles/atlas/pinnacle-pristine/burnt-hickory/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\certainteed-landmark-painted-desert.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-painted-desert.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-painted-desert.jpg",
         "alt": "Light Gray house with Brown roof using Landmark Painted Desert",
         "tag": "CertainTeed",
         "sku_url": "/shingles/certainteed/landmark/painted-desert/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\iko-cambridge-dual-brown.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/iko-cambridge-dual-brown.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/iko-cambridge-dual-brown.jpg",
         "alt": "Light Gray house with Brown roof using Cambridge Dual Brown",
         "tag": "IKO",
         "sku_url": "/shingles/iko/cambridge/dual-brown/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\owens-corning-duration-sand-castle.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/owens-corning-duration-sand-castle.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/owens-corning-duration-sand-castle.jpg",
         "alt": "Light Gray house with Brown roof using Duration Sand Castle",
         "tag": "Owens Corning",
         "sku_url": "/shingles/owens-corning/duration/sand-castle/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\certainteed-landmark-pro-max-def-heather-blend.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend.jpg",
         "alt": "Light Gray house with Brown roof using Landmark Pro Max Def Heather Blend",
         "tag": "CertainTeed",
         "sku_url": "/shingles/certainteed/landmark-pro/max-def-heather-blend/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\certainteed-presidential-shake-aged-bark.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/certainteed-presidential-shake-aged-bark.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/certainteed-presidential-shake-aged-bark.jpg",
         "alt": "Light Gray house with Brown roof using Presidential Shake Aged Bark",
         "tag": "CertainTeed",
         "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\iko-dynasty-shadow-brown.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/iko-dynasty-shadow-brown.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/iko-dynasty-shadow-brown.jpg",
         "alt": "Light Gray house with Brown roof using Dynasty Shadow Brown",
         "tag": "IKO",
         "sku_url": "/shingles/iko/dynasty/shadow-brown/"
@@ -120,21 +120,21 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\certainteed-landmark-painted-desert.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-painted-desert.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-painted-desert.jpg",
             "alt": "Light Gray house with Brown roof -- CertainTeed Landmark Painted Desert",
             "tag": "Landmark · Painted Desert",
             "sku_url": "/shingles/certainteed/landmark/painted-desert/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\certainteed-landmark-pro-max-def-heather-blend.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend.jpg",
             "alt": "Light Gray house with Brown roof -- CertainTeed Landmark Pro Max Def Heather Blend",
             "tag": "Landmark Pro · Max Def Heather Blend",
             "sku_url": "/shingles/certainteed/landmark-pro/max-def-heather-blend/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\certainteed-presidential-shake-aged-bark.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/certainteed-presidential-shake-aged-bark.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/certainteed-presidential-shake-aged-bark.jpg",
             "alt": "Light Gray house with Brown roof -- CertainTeed Presidential Shake Aged Bark",
             "tag": "Presidential Shake · Aged Bark",
             "sku_url": "/shingles/certainteed/presidential-shake/aged-bark/"
@@ -149,14 +149,14 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\iko-cambridge-dual-brown.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/iko-cambridge-dual-brown.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/iko-cambridge-dual-brown.jpg",
             "alt": "Light Gray house with Brown roof -- IKO Cambridge Dual Brown",
             "tag": "Cambridge · Dual Brown",
             "sku_url": "/shingles/iko/cambridge/dual-brown/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\iko-dynasty-shadow-brown.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/iko-dynasty-shadow-brown.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/iko-dynasty-shadow-brown.jpg",
             "alt": "Light Gray house with Brown roof -- IKO Dynasty Shadow Brown",
             "tag": "Dynasty · Shadow Brown",
             "sku_url": "/shingles/iko/dynasty/shadow-brown/"
@@ -171,14 +171,14 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory.jpg",
             "alt": "Light Gray house with Brown roof -- Atlas Pinnacle Pristine BURNT HICKORY",
             "tag": "Pinnacle Pristine · BURNT HICKORY",
             "sku_url": "/shingles/atlas/pinnacle-pristine/burnt-hickory/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\owens-corning-duration-sand-castle.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/owens-corning-duration-sand-castle.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/owens-corning-duration-sand-castle.jpg",
             "alt": "Light Gray house with Brown roof -- Owens Corning Duration Sand Castle",
             "tag": "Duration · Sand Castle",
             "sku_url": "/shingles/owens-corning/duration/sand-castle/"
@@ -194,7 +194,7 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
             "alt": "Cape Cod home with brown roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -203,7 +203,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
             "alt": "Colonial home with brown roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -212,7 +212,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-brown-roof\\atlas-pinnacle-pristine-copper-canyon-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-brown-roof/atlas-pinnacle-pristine-copper-canyon-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-brown-roof/atlas-pinnacle-pristine-copper-canyon-front.jpg",
             "alt": "Craftsman home with brown roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -221,7 +221,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-brown-roof\\atlas-pinnacle-pristine-heatherblend-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-brown-roof/atlas-pinnacle-pristine-heatherblend-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-brown-roof/atlas-pinnacle-pristine-heatherblend-front.jpg",
             "alt": "Modern Farmhouse home with brown roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -230,7 +230,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory-front.jpg",
             "alt": "Ranch home with brown roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -239,7 +239,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-brown-roof\\atlas-pinnacle-pristine-weathered-shadow-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-brown-roof/atlas-pinnacle-pristine-weathered-shadow-front.jpg",
             "alt": "Victorian home with brown roof",
             "tag": "Victorian",
             "sku_url": null,
@@ -248,7 +248,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-grand-manor-chestnut-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-brown-roof/certainteed-grand-manor-chestnut-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-grand-manor-chestnut-right-34.jpg",
             "alt": "Cape Cod home with brown roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -257,7 +257,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-right-34.jpg",
             "alt": "Colonial home with brown roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -266,7 +266,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-brown-roof\\certainteed-grand-manor-brownstone-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-brown-roof/certainteed-grand-manor-brownstone-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-brown-roof/certainteed-grand-manor-brownstone-right-34.jpg",
             "alt": "Craftsman home with brown roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -275,7 +275,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-brown-roof\\certainteed-grand-manor-chestnut-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-brown-roof/certainteed-grand-manor-chestnut-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-brown-roof/certainteed-grand-manor-chestnut-right-34.jpg",
             "alt": "Modern Farmhouse home with brown roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -284,7 +284,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-painted-desert-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-painted-desert-right-34.jpg",
             "alt": "Ranch home with brown roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -293,7 +293,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-brown-roof\\certainteed-grand-manor-chestnut-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-brown-roof/certainteed-grand-manor-chestnut-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-brown-roof/certainteed-grand-manor-chestnut-right-34.jpg",
             "alt": "Victorian home with brown roof",
             "tag": "Victorian",
             "sku_url": null,
@@ -302,7 +302,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
             "alt": "Cape Cod home with brown roof",
             "tag": "Cape Cod",
             "sku_url": null,
@@ -311,7 +311,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\colonial-with-brown-roof\\certainteed-presidential-shake-aged-bark-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/colonial-with-brown-roof/certainteed-presidential-shake-aged-bark-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/colonial-with-brown-roof/certainteed-presidential-shake-aged-bark-left-34.jpg",
             "alt": "Colonial home with brown roof",
             "tag": "Colonial",
             "sku_url": null,
@@ -320,7 +320,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\craftsman-with-brown-roof\\certainteed-landmark-black-walnut-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/craftsman-with-brown-roof/certainteed-landmark-black-walnut-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/craftsman-with-brown-roof/certainteed-landmark-black-walnut-left-34.jpg",
             "alt": "Craftsman home with brown roof",
             "tag": "Craftsman",
             "sku_url": null,
@@ -329,7 +329,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\modern-farmhouse-with-brown-roof\\certainteed-landmark-heather-blend-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/modern-farmhouse-with-brown-roof/certainteed-landmark-heather-blend-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/modern-farmhouse-with-brown-roof/certainteed-landmark-heather-blend-left-34.jpg",
             "alt": "Modern Farmhouse home with brown roof",
             "tag": "Modern Farmhouse",
             "sku_url": null,
@@ -338,7 +338,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\ranch-with-brown-roof\\certainteed-landmark-pro-max-def-heather-blend-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/ranch-with-brown-roof/certainteed-landmark-pro-max-def-heather-blend-left-34.jpg",
             "alt": "Ranch home with brown roof",
             "tag": "Ranch",
             "sku_url": null,
@@ -347,7 +347,7 @@
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\victorian-with-brown-roof\\certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/victorian-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/victorian-with-brown-roof/certainteed-landmark-pro-max-def-black-walnut-left-34.jpg",
             "alt": "Victorian home with brown roof",
             "tag": "Victorian",
             "sku_url": null,
@@ -366,7 +366,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact light gray-and-brown pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\light-gray-house-with-brown-roof\\atlas-pinnacle-pristine-burnt-hickory.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/light-gray-house-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/light-gray-house-with-brown-roof/atlas-pinnacle-pristine-burnt-hickory.jpg",
     "badge": {
       "house_color_display": "Light Gray",
       "roof_color_display": "Brown",

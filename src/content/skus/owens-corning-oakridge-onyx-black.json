@@ -29,7 +29,7 @@
     "tagline": "The blackest shingle in the catalog. Reads as one solid plane in any light.",
     "hex": "#292d30",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
     "hero_image_alt": "Home with Owens Corning Oakridge Onyx Black roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-swatch.jpg",
       "image_filename": "owens-corning-oakridge-onyx-black-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "O_OnyxBlack_RGB_swatch_lg.jpg"
@@ -195,7 +195,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-1.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Manufacturer install",
@@ -203,7 +203,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-2.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-2.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Contractor install",
@@ -211,7 +211,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-3.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-3.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Contractor install",
@@ -219,7 +219,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-4.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-4.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Contractor install",
@@ -227,7 +227,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-5.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-5.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-5.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Contractor install",
@@ -235,7 +235,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-6.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-6.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-6.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Contractor install",
@@ -243,7 +243,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-7.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-7.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-7.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Contractor install",
@@ -251,7 +251,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-8.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-8.jpg",
         "image_filename": "owens-corning-oakridge-onyx-black-8.jpg",
         "alt": "Florida home with Oakridge Onyx Black roof",
         "tag": "Contractor install",
@@ -444,7 +444,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Oakridge Onyx Black in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Onyx Black",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-oakridge-onyx-black\\owens-corning-oakridge-onyx-black-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-oakridge-onyx-black/owens-corning-oakridge-onyx-black-1.jpg",
     "badge_text": "Pre-loaded: Onyx Black",
     "visualizer_payload": {
       "brand": "owens-corning",

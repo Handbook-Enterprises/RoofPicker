@@ -25,7 +25,7 @@
     "tagline": "A confident, anchored gray that reads black in shade and slate in sun.",
     "hex": "#53585c",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
     "hero_image_alt": "Home with Owens Corning Duration Estate Gray roof",
     "quick_facts": [
       {
@@ -90,7 +90,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-swatch.jpg",
       "image_filename": "owens-corning-duration-estate-gray-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "TDD_EstateGray_RGB_swatch_lg.jpg"
@@ -191,7 +191,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
         "image_filename": "owens-corning-duration-estate-gray-1.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Manufacturer install",
@@ -199,7 +199,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-2.jpg",
         "image_filename": "owens-corning-duration-estate-gray-2.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -207,7 +207,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-3.jpg",
         "image_filename": "owens-corning-duration-estate-gray-3.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -215,7 +215,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-4.jpg",
         "image_filename": "owens-corning-duration-estate-gray-4.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -223,7 +223,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-5.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-5.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-5.jpg",
         "image_filename": "owens-corning-duration-estate-gray-5.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -231,7 +231,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-6.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-6.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-6.jpg",
         "image_filename": "owens-corning-duration-estate-gray-6.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -239,7 +239,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-7.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-7.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-7.jpg",
         "image_filename": "owens-corning-duration-estate-gray-7.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -247,7 +247,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-8.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-8.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-8.jpg",
         "image_filename": "owens-corning-duration-estate-gray-8.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -255,7 +255,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-9.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-9.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-9.jpg",
         "image_filename": "owens-corning-duration-estate-gray-9.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -263,7 +263,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-10.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-10.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-10.jpg",
         "image_filename": "owens-corning-duration-estate-gray-10.jpg",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "Contractor install",
@@ -271,7 +271,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-11.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-11.png",
         "image_filename": "owens-corning-duration-estate-gray-11.png",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "AI-rendered example (modern-farmhouse-with-charcoal-roof, front)",
@@ -282,7 +282,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-12.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-12.png",
         "image_filename": "owens-corning-duration-estate-gray-12.png",
         "alt": "Florida home with Duration Estate Gray roof",
         "tag": "AI-rendered example (modern-farmhouse-with-charcoal-roof, right-34)",
@@ -478,7 +478,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Duration Estate Gray in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Estate Gray",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-duration-estate-gray\\owens-corning-duration-estate-gray-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-duration-estate-gray/owens-corning-duration-estate-gray-1.jpg",
     "badge_text": "Pre-loaded: Estate Gray",
     "visualizer_payload": {
       "brand": "owens-corning",

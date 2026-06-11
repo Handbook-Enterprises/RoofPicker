@@ -29,7 +29,7 @@
     "tagline": "A bold dimensional gray with enough depth to anchor a contemporary build.",
     "hex": "#53534f",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-granite\\owens-corning-woodcrest-granite-1.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-1.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-1.jpg",
     "hero_image_alt": "Home with Owens Corning Woodcrest Granite roof",
     "quick_facts": [
       {
@@ -94,7 +94,7 @@
     ],
     "swatch_image": {
       "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\swatches\\owens-corning-woodcrest-granite\\owens-corning-woodcrest-granite-swatch.jpg",
-      "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/swatches/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-swatch.jpg",
+      "image_cdn_url": "https://cdn.getroofreport.com/swatches/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-swatch.jpg",
       "image_filename": "owens-corning-woodcrest-granite-swatch.jpg",
       "source": "manufacturer_swatch",
       "origin_filename": "WW_Granite_RGB_swatch_lg.jpg"
@@ -195,7 +195,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-granite\\owens-corning-woodcrest-granite-1.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-1.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-1.jpg",
         "image_filename": "owens-corning-woodcrest-granite-1.jpg",
         "alt": "Florida home with Woodcrest Granite roof",
         "tag": "Manufacturer install",
@@ -203,7 +203,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-granite\\owens-corning-woodcrest-granite-2.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-2.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-2.jpg",
         "image_filename": "owens-corning-woodcrest-granite-2.jpg",
         "alt": "Florida home with Woodcrest Granite roof",
         "tag": "AI-rendered example (aerial view)",
@@ -212,7 +212,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-granite\\owens-corning-woodcrest-granite-3.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-3.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-3.jpg",
         "image_filename": "owens-corning-woodcrest-granite-3.jpg",
         "alt": "Florida home with Woodcrest Granite roof",
         "tag": "AI-rendered example (street view)",
@@ -221,7 +221,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-granite\\owens-corning-woodcrest-granite-4.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-4.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-4.jpg",
         "image_filename": "owens-corning-woodcrest-granite-4.jpg",
         "alt": "Florida home with Woodcrest Granite roof",
         "tag": "AI-rendered example (dusk view)",
@@ -433,7 +433,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Owens Corning Woodcrest Granite in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with Granite",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\owens-corning-woodcrest-granite\\owens-corning-woodcrest-granite-1.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-1.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/skus/owens-corning-woodcrest-granite/owens-corning-woodcrest-granite-1.jpg",
     "badge_text": "Pre-loaded: Granite",
     "visualizer_payload": {
       "brand": "owens-corning",

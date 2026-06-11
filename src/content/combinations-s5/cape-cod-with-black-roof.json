@@ -55,7 +55,7 @@
     "hero_mosaic": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
         "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Charcoal Black (front)",
         "tag": "CertainTeed · Charcoal Black",
         "sku_url": "/shingles/certainteed/landmark/charcoal-black/",
@@ -63,7 +63,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-cambridge-dual-black-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-front.jpg",
         "alt": "Cape Cod home with Black roof -- IKO Cambridge Dual Black (front)",
         "tag": "IKO · Dual Black",
         "sku_url": "/shingles/iko/cambridge/dual-black/",
@@ -71,7 +71,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\owens-corning-duration-onyx-black-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
         "alt": "Cape Cod home with Black roof -- Owens Corning Duration Onyx Black (front)",
         "tag": "Owens Corning · Onyx Black",
         "sku_url": "/shingles/owens-corning/duration/onyx-black/",
@@ -79,7 +79,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\tamko-heritage-rustic-black-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-front.jpg",
         "alt": "Cape Cod home with Black roof -- TAMKO Heritage Rustic Black (front)",
         "tag": "TAMKO · Rustic Black",
         "sku_url": "/shingles/tamko/heritage/rustic-black/",
@@ -87,7 +87,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-pro-cinder-black-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
         "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Pro Cinder Black (front)",
         "tag": "CertainTeed · Cinder Black",
         "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/",
@@ -95,7 +95,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-dynasty-granite-black-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-front.jpg",
         "alt": "Cape Cod home with Black roof -- IKO Dynasty Granite Black (front)",
         "tag": "IKO · Granite Black",
         "sku_url": "/shingles/iko/dynasty/granite-black/",
@@ -103,7 +103,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-royal-estate-shadow-slate-front.jpg",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
+        "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
         "alt": "Cape Cod home with Black roof -- IKO Royal Estate Shadow Slate (front)",
         "tag": "IKO · Shadow Slate",
         "sku_url": "/shingles/iko/royal-estate/shadow-slate/",
@@ -147,49 +147,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
             "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Charcoal Black (front)",
             "tag": "Landmark · Charcoal Black",
             "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-cambridge-dual-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-front.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Cambridge Dual Black (front)",
             "tag": "Cambridge · Dual Black",
             "sku_url": "/shingles/iko/cambridge/dual-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\owens-corning-duration-onyx-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-front.jpg",
             "alt": "Cape Cod home with Black roof -- Owens Corning Duration Onyx Black (front)",
             "tag": "Duration · Onyx Black",
             "sku_url": "/shingles/owens-corning/duration/onyx-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\tamko-heritage-rustic-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-front.jpg",
             "alt": "Cape Cod home with Black roof -- TAMKO Heritage Rustic Black (front)",
             "tag": "Heritage · Rustic Black",
             "sku_url": "/shingles/tamko/heritage/rustic-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-pro-cinder-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-front.jpg",
             "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Pro Cinder Black (front)",
             "tag": "Landmark Pro · Cinder Black",
             "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-dynasty-granite-black-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-front.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Dynasty Granite Black (front)",
             "tag": "Dynasty · Granite Black",
             "sku_url": "/shingles/iko/dynasty/granite-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-royal-estate-shadow-slate-front.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-front.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Royal Estate Shadow Slate (front)",
             "tag": "Royal Estate · Shadow Slate",
             "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
@@ -204,49 +204,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-charcoal-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-right-34.jpg",
             "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Charcoal Black (right-34)",
             "tag": "Landmark · Charcoal Black",
             "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-cambridge-dual-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-right-34.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Cambridge Dual Black (right-34)",
             "tag": "Cambridge · Dual Black",
             "sku_url": "/shingles/iko/cambridge/dual-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\owens-corning-duration-onyx-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-right-34.jpg",
             "alt": "Cape Cod home with Black roof -- Owens Corning Duration Onyx Black (right-34)",
             "tag": "Duration · Onyx Black",
             "sku_url": "/shingles/owens-corning/duration/onyx-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\tamko-heritage-rustic-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-right-34.jpg",
             "alt": "Cape Cod home with Black roof -- TAMKO Heritage Rustic Black (right-34)",
             "tag": "Heritage · Rustic Black",
             "sku_url": "/shingles/tamko/heritage/rustic-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-pro-cinder-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-right-34.jpg",
             "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Pro Cinder Black (right-34)",
             "tag": "Landmark Pro · Cinder Black",
             "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-dynasty-granite-black-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-right-34.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Dynasty Granite Black (right-34)",
             "tag": "Dynasty · Granite Black",
             "sku_url": "/shingles/iko/dynasty/granite-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-royal-estate-shadow-slate-right-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-right-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-right-34.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Royal Estate Shadow Slate (right-34)",
             "tag": "Royal Estate · Shadow Slate",
             "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
@@ -261,49 +261,49 @@
         "tiles": [
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-charcoal-black-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-left-34.jpg",
             "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Charcoal Black (left-34)",
             "tag": "Landmark · Charcoal Black",
             "sku_url": "/shingles/certainteed/landmark/charcoal-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-cambridge-dual-black-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-cambridge-dual-black-left-34.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Cambridge Dual Black (left-34)",
             "tag": "Cambridge · Dual Black",
             "sku_url": "/shingles/iko/cambridge/dual-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\owens-corning-duration-onyx-black-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/owens-corning-duration-onyx-black-left-34.jpg",
             "alt": "Cape Cod home with Black roof -- Owens Corning Duration Onyx Black (left-34)",
             "tag": "Duration · Onyx Black",
             "sku_url": "/shingles/owens-corning/duration/onyx-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\tamko-heritage-rustic-black-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/tamko-heritage-rustic-black-left-34.jpg",
             "alt": "Cape Cod home with Black roof -- TAMKO Heritage Rustic Black (left-34)",
             "tag": "Heritage · Rustic Black",
             "sku_url": "/shingles/tamko/heritage/rustic-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-pro-cinder-black-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-pro-cinder-black-left-34.jpg",
             "alt": "Cape Cod home with Black roof -- CertainTeed Landmark Pro Cinder Black (left-34)",
             "tag": "Landmark Pro · Cinder Black",
             "sku_url": "/shingles/certainteed/landmark-pro/cinder-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-dynasty-granite-black-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-dynasty-granite-black-left-34.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Dynasty Granite Black (left-34)",
             "tag": "Dynasty · Granite Black",
             "sku_url": "/shingles/iko/dynasty/granite-black/"
           },
           {
             "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\iko-royal-estate-shadow-slate-left-34.jpg",
-            "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-left-34.jpg",
+            "image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/iko-royal-estate-shadow-slate-left-34.jpg",
             "alt": "Cape Cod home with Black roof -- IKO Royal Estate Shadow Slate (left-34)",
             "tag": "Royal Estate · Shadow Slate",
             "sku_url": "/shingles/iko/royal-estate/shadow-slate/"
@@ -320,7 +320,7 @@
     "body": "Upload a phone photo of your house and pre-load this exact cape cod-and-black pairing in the visualizer. Swap to any of the recommended shingles below in one tap. No signup, no email.",
     "cta_label": "Open visualizer with this combo",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S5\\cape-cod-with-black-roof\\certainteed-landmark-charcoal-black-front.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S5/cape-cod-with-black-roof/certainteed-landmark-charcoal-black-front.jpg",
     "badge": {
       "style_display": "Cape Cod",
       "roof_color_display": "Black",

@@ -30,7 +30,7 @@
     "tagline": "A timeless asphalt color that recedes visually and lets the siding lead.",
     "hex": "#3f4543",
     "hero_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow.jpg",
-    "hero_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow.jpg",
+    "hero_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow.jpg",
     "hero_image_alt": "Home with Atlas Pinnacle Pristine BLACK SHADOW roof",
     "quick_facts": [
       {
@@ -185,7 +185,7 @@
     "tiles": [
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-1.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-1.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-1.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-1.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "Manufacturer install",
@@ -193,7 +193,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-2.webp",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-2.webp",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-2.webp",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-2.webp",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "Contractor install",
@@ -201,7 +201,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-10.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-10.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-10.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-10.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (colonial-with-charcoal-roof, right-34)",
@@ -212,7 +212,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-11.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-11.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-11.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-11.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (craftsman-with-charcoal-roof, right-34)",
@@ -223,7 +223,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-12.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-12.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-12.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-12.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (mediterranean-with-charcoal-roof, right-34)",
@@ -234,7 +234,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-3.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-3.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-3.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-3.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (cape-cod-with-charcoal-roof, front)",
@@ -245,7 +245,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-4.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-4.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-4.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-4.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (colonial-with-charcoal-roof, front)",
@@ -256,7 +256,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-5.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-5.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-5.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-5.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (craftsman-with-charcoal-roof, front)",
@@ -267,7 +267,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-6.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-6.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-6.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-6.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (mediterranean-with-charcoal-roof, front)",
@@ -278,7 +278,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-7.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-7.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-7.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-7.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (tudor-with-charcoal-roof, front)",
@@ -289,7 +289,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-8.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-8.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-8.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-8.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (victorian-with-charcoal-roof, front)",
@@ -300,7 +300,7 @@
       },
       {
         "image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\skus\\atlas-pinnacle-pristine-black-shadow\\atlas-pinnacle-pristine-black-shadow-9.png",
-        "image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-9.png",
+        "image_cdn_url": "https://cdn.getroofreport.com/skus/atlas-pinnacle-pristine-black-shadow/atlas-pinnacle-pristine-black-shadow-9.png",
         "image_filename": "atlas-pinnacle-pristine-black-shadow-9.png",
         "alt": "Florida home with Pinnacle Pristine BLACK SHADOW roof",
         "tag": "AI-rendered example (cape-cod-with-charcoal-roof, right-34)",
@@ -514,7 +514,7 @@
     "body": "Upload a phone photo of your house and watch our AI swap your existing roof for Atlas Pinnacle Pristine BLACK SHADOW in about four seconds. Save the render, share with your contractor, change your mind ten times. Free.",
     "cta_label": "Open visualizer with BLACK SHADOW",
     "preview_image_local_path": "C:\\Users\\jose\\Desktop\\RoofPicker\\data-scraping-script\\output\\images\\Combination-S4\\white-house-with-charcoal-roof\\atlas-pinnacle-pristine-black-shadow.jpg",
-    "preview_image_cdn_url": "https://pub-32ce97b6b19e4081b9a5d08d71504343.r2.dev/Combination-S4/white-house-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow.jpg",
+    "preview_image_cdn_url": "https://cdn.getroofreport.com/Combination-S4/white-house-with-charcoal-roof/atlas-pinnacle-pristine-black-shadow.jpg",
     "badge_text": "Pre-loaded: BLACK SHADOW",
     "visualizer_payload": {
       "brand": "atlas",
