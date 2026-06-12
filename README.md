@@ -117,20 +117,20 @@ RoofPicker/
 - **Strategy 4 (House color × roof color)**: shared `S4Page.astro` component + the `/combinations/` hub index.
 - **Strategy 5 (Home style × roof color)**: shared `S5Page.astro` component + the `/home-styles/` hub index.
 - **Strategy 6 (Color-gallery hubs)**: `S6Page.astro` component + the `/roof-colors/` hub index.
-- **Homepage**, **404**, **`/shingles/` brand index**, and the auto-generated `/reference/*` template pages.
+- **Homepage**, **404**, and the **`/shingles/` brand index**.
 - **FAQ accordion**: SSR-only Astro component. No client JS, no hydration flicker.
-- **Visualizer**: every button on the site that carries `data-visualizer={JSON}` is wired to a global click handler. Placeholder shows the payload; replace with Lucas's `RoofKit.open()` when his script lands by setting `PUBLIC_ROOFKIT_EMBED_SRC` in `.env`.
+- **Visualizer**: every button carrying `data-visualizer={JSON}` is wired to a global click handler that opens the RoofKit embed.
+- **RoofKit embed**: live. The inline embed and floating launcher build from `PUBLIC_ROOFKIT_ROOFER_ID` and `PUBLIC_ROOFKIT_LANDING_SLUG`; the floating widget loads from `PUBLIC_ROOFKIT_WIDGET_SRC`. Launcher buttons pass the right payload shape.
 
 ## What is next
 
 - **Backfill missing swatch images**: a handful of SKUs are missing color-swatch photos and need a targeted re-scrape upstream in `data-scraping-script/`.
-- **RoofKit embed**: drop the actual snippet URL into `PUBLIC_ROOFKIT_EMBED_SRC` once Lucas provides it; the launcher buttons already pass the right payload shape.
 
 ---
 
 ## Security notes
 
-- `public/_headers` ships a CSP that whitelists self + R2 + RoofKit + YouTube. `.env.example` is empty by design. Fill in `PUBLIC_CDN_URL` (R2 public bucket), `PUBLIC_SITE_URL`, and `PUBLIC_ROOFKIT_EMBED_SRC` for your environment.
+- `public/_headers` ships a CSP that whitelists self + R2 + RoofKit + YouTube. `.env.example` is empty by design. Fill in `PUBLIC_CDN_URL` (R2 public bucket), `PUBLIC_SITE_URL`, and the `PUBLIC_ROOFKIT_*` vars for your environment.
 - We use `set:html` ONLY on internal `title_html`, `h1_html`, `h2_html` strings authored in the enricher (they contain `<em>` markup only). No user input flows through `set:html`.
 - All external links in component data carry `rel="noopener noreferrer"` and `target="_blank"`.
 - R2 credentials never reach the client bundle. Only env vars prefixed `PUBLIC_` are exposed by Astro.

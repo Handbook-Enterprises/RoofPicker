@@ -84,7 +84,7 @@ export function softwareApplication() {
   return {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
-    name: 'RoofPicker Visualizer',
+    name: 'GetRoofReport Visualizer',
     applicationCategory: 'DesignApplication',
     operatingSystem: 'Web',
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },

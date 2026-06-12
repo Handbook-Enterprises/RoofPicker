@@ -7,7 +7,7 @@ const cdnBase = (import.meta.env.PUBLIC_CDN_URL || '').replace(/\/+$/, '');
 
 // Inline-embed config. Swap landing-slug to point at a different dashboard template.
 const rooferId    = import.meta.env.PUBLIC_ROOFKIT_ROOFER_ID || '';
-const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'roofpicker';
+const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'primary';
 const embedBase   = import.meta.env.PUBLIC_ROOFKIT_EMBED_BASE ||
   (rooferId ? `https://roofkit.ai/embed/v/${rooferId}/l/${landingSlug}` : '');
 const roofkitInlineMarkup = rooferId && embedBase ? `
@@ -28,7 +28,7 @@ const roofkitInlineMarkup = rooferId && embedBase ? `
 
 const css = `
   /* -----------------------------------------------------------
-     RoofPicker — Warm Florida modern
+     GetRoofReport: Warm Florida modern
      Palette
        --paper      #F2ECDE  warm sand cream (body bg)
        --shell      #FAF6EC  lighter sand for cards/raised
@@ -2182,7 +2182,7 @@ const homepageFaqs = [
 ];
 ---
 <BaseLayout
-  title="RoofPicker — See your roof. Before you buy it."
+  title="GetRoofReport: See your roof. Before you buy it."
   description="Free roof color visualizer. Upload a photo, swap through real shingle SKUs in 4 seconds. No signup."
   canonical="/"
   jsonLd={[softwareApplication(), faqPage(homepageFaqs)]}

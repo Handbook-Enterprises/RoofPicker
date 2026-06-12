@@ -12,7 +12,7 @@ const { material, shape, color, height = 760 } = Astro.props;
 
 // Swap landing-slug to point at a different RoofKit dashboard template.
 const rooferId    = import.meta.env.PUBLIC_ROOFKIT_ROOFER_ID;
-const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'roofpicker';
+const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'primary';
 const embedBase   = import.meta.env.PUBLIC_ROOFKIT_EMBED_BASE ||
   (rooferId ? `https://roofkit.ai/embed/v/${rooferId}/l/${landingSlug}` : '');
 
