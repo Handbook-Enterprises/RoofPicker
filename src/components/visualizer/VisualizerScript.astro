@@ -2,7 +2,7 @@
 // Loads the floating RoofKit widget and routes [data-roofkit-open] clicks to it.
 // Widget launcher id pattern: `roofkit-embed-<safeRooferId>-launcher`.
 const rooferId    = import.meta.env.PUBLIC_ROOFKIT_ROOFER_ID;
-const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'roofpicker';
+const landingSlug = import.meta.env.PUBLIC_ROOFKIT_LANDING_SLUG || 'primary';
 const widgetSrc   = import.meta.env.PUBLIC_ROOFKIT_WIDGET_SRC || 'https://roofkit.ai/roofkit-embed.js';
 const safeRooferId = (rooferId || '').replace(/[^a-zA-Z0-9_-]/g, '-').toLowerCase();
 const launcherId   = safeRooferId ? `roofkit-embed-${safeRooferId}-launcher` : '';
